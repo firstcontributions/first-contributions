@@ -48,11 +48,22 @@ HINTS = [
      "(보통 1~2 영업일)."),
     (r"로그인|인증|apikey|api_key|token|unauthor",
      "**인증 실패.** AIHUB_APIKEY 를 확인한다. 키는 절대 커밋하지 않는다."),
+    # 이 문구는 filekey 만료가 아니라 **URL 경로가 틀린 것**이다. 실측으로 확인:
+    #   /down/0.6/622.do?fileSn=533708  → 502 "인증실패, 권한이 거부되었습니다"
+    #   /down/622.do?fileSn=533708      → 404 "페이지가 존재하지 않습니다." (39바이트)
+    # 즉 버전 세그먼트 /0.6/ 이 빠지면 이 응답이 온다. filekey 는 멀쩡한데
+    # "키가 만료됐나" 하고 엉뚱한 데를 뒤지게 되므로 정확히 짚는다.
     (r"페이지가 존재하지|존재하지 않|not found|404",
-     "**주소가 틀렸다(filekey 만료·오타).** AI Hub 는 데이터셋이 갱신되면 filekey 가\n"
-     "     바뀐다. 받기 전에 최신값부터 조회할 것:\n"
-     "       python competition/src/aihub.py tree <datasetkey>\n"
-     "     브라우저에서 받는 중이라면 다운로드 링크가 만료된 것이므로 목록에서 다시 연다."),
+     "**다운로드 URL 경로가 틀렸다** — filekey 문제가 아니다.\n"
+     "     AI Hub 다운로드 주소는 버전 세그먼트를 포함한다:\n"
+     "       https://api.aihub.or.kr/down/0.6/<datasetkey>.do?fileSn=<filekey>\n"
+     "     `/0.6/` 이 빠지면 404 로 이 39바이트 문구가 내려온다(구버전 aihubshell\n"
+     "     이거나 URL 을 직접 만든 경우). 저장소의 tools/aihubshell(v0.6)을 쓸 것:\n"
+     "       AIHUB_APIKEY=... python competition/src/aihub.py download <ds> <filekeys>\n"
+     "     filekey 가 정말 바뀌었는지는 따로 확인: aihub.py tree <datasetkey>"),
+    (r"인증실패|권한이 거부",
+     "**URL 은 맞고 키·권한이 문제다.** AIHUB_APIKEY 를 확인하고, 해당 데이터셋의\n"
+     "     '활용신청'이 승인됐는지 본다(승인 전에는 키가 유효해도 거부된다)."),
 ]
 TAR_BLOCK = 512
 

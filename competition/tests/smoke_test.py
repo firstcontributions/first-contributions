@@ -1721,11 +1721,20 @@ def test_check_download() -> None:
         assert rc == 1 and "분할 조각 12개" in out, out
         assert "ls -v" in out, "10조각 초과인데 정렬 함정을 경고하지 않는다"
 
-        # 실제로 받은 39바이트 tl.tar/vl.tar — filekey 만료
+        # 실제로 받은 39바이트 tl.tar/vl.tar. 실측으로 원인을 특정했다:
+        #   /down/0.6/622.do?fileSn=533708 → 502 인증실패  (경로 정상)
+        #   /down/622.do?fileSn=533708     → 404 이 문구    (버전 세그먼트 누락)
+        # filekey 만료라고 말하면 엉뚱한 데를 뒤지게 된다.
         nf = os.path.join(d, "nf.tar")
         open(nf, "w", encoding="utf-8").write("페이지가 존재하지 않습니다.")
         rc, out = run(nf)
-        assert rc == 1 and "filekey" in out and "tree" in out, out
+        assert rc == 1 and "URL 경로가 틀렸다" in out and "/down/0.6/" in out, out
+        assert "filekey 문제가 아니다" in out, out
+
+        auth = os.path.join(d, "auth.tar")
+        open(auth, "w", encoding="utf-8").write("인증실패, 권한이 거부되었습니다")
+        rc, out = run(auth)
+        assert rc == 1 and "활용신청" in out, out
 
         rc, out = run(os.path.join(d, "없는파일.tar"))
         assert rc == 1

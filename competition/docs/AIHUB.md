@@ -186,8 +186,50 @@ python competition/tools/check_download.py <파일 또는 디렉터리>
 | 82바이트 `.tar` | 내용이 `AI 허브는 해외에서의 데이터 다운로드를 제한하고 있습니다.` — **에러 문구가 tar 이름으로 내려옴** | §7 국내망 절차 |
 | `.tar` 인데 `.irx122` 등 낯선 확장자가 붙음 | 보안·반출통제 솔루션이 확장자만 바꾼 것. **내용은 평범한 tar** | `tar -xf 파일.tar.irx122` 로 그냥 열린다 |
 | 헤더는 맞는데 중간에 끊김 | 전송 잘림. tar 는 앞부분만 온전해도 그만큼 풀어 주므로 **성공한 것처럼 보인다** | 원본 크기와 대조 후 재다운로드. 급하면 `tar -xf 파일 --ignore-zeros` |
-| 39바이트 `.tar` | 내용이 `페이지가 존재하지 않습니다.` — **filekey 만료·오타** | `aihub.py tree <datasetkey>` 로 최신 filekey 재조회 |
+| 39바이트 `.tar` | 내용이 `페이지가 존재하지 않습니다.` — **URL 에서 `/0.6/` 누락**(filekey 문제 아님) | v0.6 `tools/aihubshell` 사용 (아래 6-2) |
+| 46바이트 `.tar` | 내용이 `인증실패, 권한이 거부되었습니다` | 키 확인 + **활용신청 승인** 여부 확인 |
 | 조각 10개 초과 | `cat *.part*` 가 part10 을 part2 앞에 놓아 순서가 섞인다 | `ls -v *.part* \| xargs cat > merged.tar` |
+
+### 6-2. 다운로드 URL — `/0.6/` 을 빼면 404
+
+실측(2026-08, dummy 키로 응답만 확인):
+
+| 요청 | HTTP | 본문 |
+|---|---|---|
+| `/down/0.6/622.do?fileSn=533708` | 502 | `인증실패, 권한이 거부되었습니다` ← **경로 정상** |
+| `/down/622.do?fileSn=533708` | **404** | `페이지가 존재하지 않습니다.` (39바이트) |
+
+즉 이 문구가 나오면 filekey 를 의심할 게 아니라 **주소를 본다**. 정상 형식:
+
+```
+https://api.aihub.or.kr/down/0.6/<datasetkey>.do?fileSn=<filekey>
+```
+
+저장소의 `tools/aihubshell`(v0.6)이 이 형식을 쓰므로 그걸 경유하면 된다:
+
+```bash
+export AIHUB_APIKEY="..."       # 절대 커밋하지 않는다
+python competition/src/aihub.py download 622 533708,533718
+```
+
+### 6-3. 622 폴리곤 — 라벨만 받는 경로 (85MB)
+
+`tree 622` 실측 결과(2026-08 기준). **원천데이터는 총 2TB 를 넘지만 라벨은 85MB 다.**
+폴리곤 학습에 필요한 것은 라벨(CVAT XML)이므로 아래 둘만 받으면 된다:
+
+| 구분 | 경로 | 파일 | 크기 | filekey |
+|---|---|---|---|---|
+| Training 라벨 | `1.Training/2.라벨링데이터_240426_add/02.폴리곤` | `TL01.zip` | **77 MB** | `533708` |
+| Validation 라벨 | `2.Validation/2.라벨링데이터_240426_add/02.폴리곤` | `VL01.zip` | **8 MB** | `533718` |
+
+```bash
+python competition/src/aihub.py download 622 533708,533718
+```
+
+참고 — 같은 데이터셋의 다른 라벨(필요하면):
+바운딩박스 TL `533707`(148MB) · VL `533717`(19MB) ·
+키포인트 TL `533709`(13MB) · VL `533719`(2MB).
+원천데이터(TS/VS)는 zip 하나가 80~92GB 라 받지 않는다.
 
 > **주의: `Pig_Polygon.tar` / `pig_bbox.tar` 는 데이터가 아니라 도커 이미지다.**
 > `docker save` 산출물(`<sha256>/json` · `layer.tar` · `VERSION` 구조)이며
