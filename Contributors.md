@@ -10,6 +10,7 @@
 - [Aryan_Malik_BT2024006](https://github.com/AryanOg0209)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
+- Pranav Goyal BT2024086
 - Karan Mansuria BT2024104 
 - Parth Sutaria BT20240:wq28
 - [Arjun](https://github.com/arjunsai-dev)
