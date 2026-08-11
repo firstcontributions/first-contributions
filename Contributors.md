@@ -21,6 +21,7 @@
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
+- Gagan
 - Rohit Negi
 - [soupnaie-mnm]
 - [Diogo Higa]
