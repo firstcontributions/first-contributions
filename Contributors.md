@@ -121,7 +121,6 @@
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
 - [Paul]
-- [Harsh_Kumar_BT2024008](https://github.com/harsh-kumar-005)
 - [Thejitha Minindu](https://github.com/thejitha-minindu)
 - [Aditya Aradhya](https://github.com/geeked-aadi)
 - [core-linkr](https://github.com/core-linkr)
@@ -4077,3 +4076,4 @@ abhinav abhinav
 - [buiducnhat](https://github.com/buiducnhat)
 - [kritika](https://github.com/Kxor8)
 - [Yashkumar](https://github.com/yash110905)
+- [Harsh_Kumar_BT2024008](https://github.com/harsh-kumar-005)
