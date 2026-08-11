@@ -3382,7 +3382,7 @@ Amna Naeem
 - [Claude](https://github.com/srn-93)
 - [Rushikesh kolla](https://github.com/RUSHI-KOLLA)
 - [Konchigeri Akash](https://github.com/Konchigeriakash)
-
+- [Darell](https://github.com/macwandarell)
 - [Hemanth Kumar](https://github.com/hemanth-2-0-0-5)
 - [buildbyabhi](https://github.com/buildbyabhi)
 - [Mehedi Hasan] (https://github.com/mehedi-05)
