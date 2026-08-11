@@ -1066,6 +1066,7 @@ niceshowmini
 - [somi seol](https://github.com/somiseol)
 - [Kabir Ahmed](https://github.com/GrowAsguard) main
 - [bgyoo970](https://github.com/bgyoo970)
+- [qrxf](https://github.com/qrxf)
 - [Sam George]
 - [Rohitneverest]
 - [Sudhar]
