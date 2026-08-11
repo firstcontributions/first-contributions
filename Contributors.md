@@ -62,7 +62,7 @@ Varshith IMT2024044
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
-
+- [Divyanshu_Ghosh_IMT2024068](https://github.com/77-Div-77)
 - Joseph Francis
 - Ankita Gupta
 - HelaElbez
