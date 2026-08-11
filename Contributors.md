@@ -118,7 +118,8 @@ Varshith IMT2024044
 - [Ayush]
 - [Kasyap](https://github.com/Codmox)
 - [ParaMatrix-404]
-- [SathvikaGangalam](https://github.com/gsathvika28) 
+- [SathvikaGangalam](https://github.com/gsathvika28)
+- [Anish Nagubandi](https://github.com/anishnagubandi) 
 - [Sushant Prabhu Sawkar](https://github.com/susfungit)
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
 - [AlexMnrs](https://github.com/AlexMnrs)
