@@ -171,7 +171,7 @@ Varshith IMT2024044
 - [saiyarram]
 -Rohit Antony
 - [BrindaP]
-- [Nico]
+Ridwan Umar- [Nico]
 -[Tom Stanly]
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
