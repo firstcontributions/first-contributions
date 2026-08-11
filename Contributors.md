@@ -47,6 +47,7 @@ Varshith IMT2024044
 - [Addoroar](https://github.com/Addoroar)
 - [Bharath Vikas Tadepalli] - BT2024073
 [Siddharth S IMT2024017](https://github.com/Siddhpro)
+- [Srijan Gupta BT2024098](https://github.com/SrijanG07)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
 - [Sushmit-Biswas-BT2024038](https://github.com/Sushmit-Biswas)
@@ -70,6 +71,7 @@ Varshith IMT2024044
 - [Mohammed Farhan](https://github.com/farhan4599)
 - [Pavithra S](https://github.com/Pavi1205)
 - [betterkite502](https://github.com/betterkite)
+- [Umesh-Dulara ](https://github.com/Umesh-Dulara)
 - First contribution
 - Second Contribution
 - [Divyanshu_Ghosh_IMT2024068](https://github.com/77-Div-77)
@@ -78,6 +80,7 @@ Varshith IMT2024044
 - HelaElbez
 - first contribution
 - Kartik
+- Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
 - Aditya Bhat BT2024035
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
@@ -103,6 +106,7 @@ Varshith IMT2024044
 - MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Saketh Kumar Reddy Chagari BT2024183
+- [Harshavardhan Reddy_BT2024064](https://github.com/HarshaVPolar)
 - Pennam Nikhil
 - Sai sathvik K
 - IMT2024065
@@ -168,7 +172,7 @@ Varshith IMT2024044
 - [saiyarram]
 -Rohit Antony
 - [BrindaP]
-- [Nico]
+Ridwan Umar- [Nico]
 -[Tom Stanly]
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
@@ -494,6 +498,7 @@ nathan practice here
 - [Yoh Brain](https://github.com/Yoh-Brain)
 //Mohamed//
 - [Deepak J Mathew](https://github.com/DeepakJ-777)
+- [Samyuktha Mandali](https://github.com/samyuktha935)
 [Alonzo Church](https://github.com/AlonzoChurch)
 - [Shringar Sharan](https://github.com/shringarsharan)
 - [Mohamed Ahmed Abdelrazik](https://github.com/mohamed5446)
@@ -4274,7 +4279,7 @@ Megan Das
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
 - [Jaideep krishna A](https://github.com/jaideepkrishna2008-ui)
-1
+- [Areefa Samar](https://github.com/areefasamar)
 - [Vansh Desai](https://github.com/vansh-desai-23)
 - [Rupavatia Ansh Rasiklal](https://github.com/AnshRupavatia) 
 - [Akshaya Akula BT2024215](https://github.com/Akula-Akshaya)
@@ -4286,3 +4291,4 @@ jadav-sai-rugvedh_IMT2024051
 - [Tanuj Shah IMT2024018](https://github.com/Tanujshah18)
 - [Atharva Jakhi IMT2024059](https://github.com/athjagit)
 - [Marko Mitrovic](https://github.com/marko-mitrovic-dev)
+- 
