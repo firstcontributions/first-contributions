@@ -1849,6 +1849,7 @@ Amna Naeem
 - [Abdullah Arshad](https://github.com/Abdul00YO)
 - [Janvi Prajapati](https://github.com/JanviPrajapati0210)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
+- Romir Gupta
 - [Jayant Kumar](https://github.com/cnxstine)
 - [Jecin Elizabeth Rajesh](https://github.com/JecinElizabeth)
 - [Jednorbie Jarin](https://github.com/jednorbie1993)
