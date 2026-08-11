@@ -36,6 +36,7 @@
 - [Paul T Mathew BT2024135](https://github.com/poughkeepsie7)
 - Amith
 - [krishna](https://github.com/PVK3126)
+- [Amballa Pardhiv BT2024071](https://github.com/PardhivAmballa)
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
 - [bearbau](https://github.com/bearbau)
 - [Avadh Savaliya](https://github.com/avadh-7)
