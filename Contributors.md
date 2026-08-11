@@ -15,6 +15,7 @@
 - [Dayal Gupta](https://github.com/DayalGupta03)
 - [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [Soham Banerjee](https://github.com/oki-dokii)
+- [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
 - Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
 - Amith
