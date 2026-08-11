@@ -68,6 +68,7 @@
 - [lukedryan] (https://github.com/lukedryan)
 - [Aditya Vatsa] (https://github.com/VatsAditya48) 
 - [saiyarram]
+-Rohit Antony
 - [Nico]
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
