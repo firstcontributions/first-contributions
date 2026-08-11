@@ -3,6 +3,7 @@
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - BT2024088
+- [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
