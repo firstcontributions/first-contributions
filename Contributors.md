@@ -6,6 +6,7 @@
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
+- Pradyumna BT2024157
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
 - [Punith M Reddy](https://github.com/punith1206)
