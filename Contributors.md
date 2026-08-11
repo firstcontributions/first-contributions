@@ -83,6 +83,7 @@ Varshith IMT2024044
 - Ankita Gupta
 - HelaElbez
 - first contribution
+- Sherwin Mazarello
 - Kartik
 - Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
