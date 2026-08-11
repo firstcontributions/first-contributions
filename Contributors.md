@@ -19,6 +19,7 @@
 - HelaElbez
 - first contribution
 - Kartik
+- [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - Aryan Sharma BT2024212
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
