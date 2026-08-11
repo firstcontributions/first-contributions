@@ -4159,6 +4159,8 @@ Megan Das
 - [Atheros](https://github.com/chishkin-afk)
 - [Aashutosh K.C.](https://github.com/Aashutosh-kc)
 - [Ayfa Mehrin P](https://github.com/ayfamehrinpalapatta1234)
+
+- [Jashandeep Singh Bedi- IMT2024022](https://github.com/Jdsb06)
 - [Mitansh Shringi](https://github.com/Mitansh1309)
 - Deepika - https://github.com/deepika072
 -[Swaraj P.](https://github.com/swarajpatil10)
@@ -4185,4 +4187,5 @@ Megan Das
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
 - [Jaideep krishna A](https://github.com/jaideepkrishna2008-ui)
+1
 - [Vansh Desai](https://github.com/vansh-desai-23)
