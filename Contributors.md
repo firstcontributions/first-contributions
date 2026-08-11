@@ -155,7 +155,8 @@
 - [Adhiraj Sengar](https://github.com/Adhiraj2601)
 - [Erikito Consultancy](https://github.com/erikvanappeldoorn)
 -[sanchit] 
-- [Bilaal Bakare](https://github.com/BilaalBakare) 
+- [Bilaal Bakare](https://github.com/BilaalBakare)
+[Raj Gandhi](https://github.com/rajg2906) 
 - [Thuta](https://github.com/thuta-dev)
 - [Lalitha Sri](https://github.com/LalithaSriSanthapur)
 - [Omerat]
