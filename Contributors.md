@@ -3,6 +3,7 @@
 - [Raha](https://github.com/raha-ak)
 - Krititka
 - MZS
+- [Addoroar](https://github.com/Addoroar)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [kiron](https://github.com/KironLimbu)
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
