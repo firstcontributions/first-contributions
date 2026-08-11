@@ -1,5 +1,6 @@
 # Contributors
 - k2p2
+- AyushPatel - BT2024171 (https://github.com/Ayush1patel)
 - Hardh S Kava
 - Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
