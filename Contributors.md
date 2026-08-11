@@ -18,6 +18,7 @@
 Varshith IMT2024044
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
+- Shive S Bhat BT2024067
 - Yashaswini
 - Krititka
 - mohammedfarhanBT2024140
