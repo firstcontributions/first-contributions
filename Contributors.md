@@ -4,6 +4,7 @@
 - [Raha](https://github.com/raha-ak)
 - BT2024088
 - Krititka
+- [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - MZS
 - IMT2024041 Punith
 - [Addoroar](https://github.com/Addoroar)
