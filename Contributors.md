@@ -65,6 +65,7 @@ Varshith IMT2024044
 - Aryan Sharma BT2024212
 - Shashank Peddi BT2024210
 - Penumarti Hanish BT2024190
+- Kulkarni Keyur BT2024025
 - Vedansh Patel BT2024162
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
