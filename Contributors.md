@@ -5,6 +5,7 @@
 - BT2024088
 - Krititka
 - MZS
+- IMT2024041 Punith
 - [Addoroar](https://github.com/Addoroar)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [kiron](https://github.com/KironLimbu)
@@ -21,6 +22,7 @@
 - first contribution
 - Kartik
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
+- [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 - Aryan Sharma BT2024212
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
@@ -71,6 +73,7 @@
 - [Jay Adesara](https://github.com/JayAdesara-07)
 - [Khuram Shahzad](https://github.com/khuram354)
 - [Yankyai Kanwai]
+- [Pranay] (https://github.com/sanjus091)
 - [Javeria Razzaq](https://github.com/javeria222)
 - [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
@@ -256,7 +259,9 @@ nathan practice here
 - [Vignesh](https://github.com/vigneshsabapathi)
 - [Madhumitha](https://github.com/madhumithakk01)
 - [Tamil Kumaran]
+- [Raj Vardhan Gutha]
 - [APB](https://github.com/amandapbrown)
+- [Raj Vardhan Gutha](IMT2024003)
 - [Prachi](https://github.com/prachu25)
 - [Erika Buckley](https://github.com/Erikabuckley)
 - [Esraa Bakkar](https://github.com/Esraa-Bakkar)
@@ -1878,6 +1883,7 @@ Amna Naeem
 - [Juan Escobar]
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
+- [Moatasem Elbosati] 
 - [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
 - [This is Linson Thomas Verghese and i want to you know the Jesus Christ is great and he loves you]
 - [Johnny Dunal](https://github.com/johnnydunal)
