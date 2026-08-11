@@ -21,6 +21,7 @@
 - Kartik
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - Aryan Sharma BT2024212
+- [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
