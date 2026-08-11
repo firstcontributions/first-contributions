@@ -498,6 +498,7 @@ nathan practice here
 - [Yoh Brain](https://github.com/Yoh-Brain)
 //Mohamed//
 - [Deepak J Mathew](https://github.com/DeepakJ-777)
+- [Samyuktha Mandali](https://github.com/samyuktha935)
 [Alonzo Church](https://github.com/AlonzoChurch)
 - [Shringar Sharan](https://github.com/shringarsharan)
 - [Mohamed Ahmed Abdelrazik](https://github.com/mohamed5446)
