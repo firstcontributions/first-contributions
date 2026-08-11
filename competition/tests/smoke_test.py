@@ -933,6 +933,48 @@ def test_batch_flow() -> None:
 
     assert len(bf.assign(herd.iloc[:0], 21)) == 0
 
+    # --- 분만틀 기준 설계(존 카 모델) — 참고 사례 수치를 그대로 재현하는지 ---
+    q = bf.plan_from_crates(10, 7)
+    assert q["services_per_batch"] == 13, "분만틀 10 → 교배 13두여야 한다"
+    assert q["gilts_per_batch"] == 3
+    assert 245 <= q["herd_size"] <= 250, f"모돈 {q['herd_size']} (약 247 이어야)"
+    assert q["weaned_per_batch"] == 120.0 and q["marketed_per_batch"] == 114.0
+
+    # 배치당 교배는 **평균이 아니라 하위 분위수**로 나눠야 한다.
+    # 평균으로 잡으면 절반의 배치에서 분만틀이 빈다.
+    assert bf.FARROW_RATE_P10 < bf.FARROW_RATE_AVG
+    avg = bf.plan_from_crates(10, 7, farrow_rate=bf.FARROW_RATE_AVG)
+    assert q["services_per_batch"] > avg["services_per_batch"]
+    # 하위 분위수로 잡으면 나쁜 배치에서도 틀이 채워진다
+    assert q["services_per_batch"] * bf.FARROW_RATE_P10 >= 10
+
+    # 방 수: 참고 예시 3건(분만대기 4일·세척 3일)
+    assert bf.rooms_for(28, 7, 4, 3) == 5
+    assert bf.rooms_for(28, 21, 4, 3) == 2
+    assert bf.rooms_for(21, 28, 4, 3) == 1
+    # rooms_for 와 max_lactation 은 서로 역이어야 한다
+    for lac, ivx in ((28, 7), (28, 21), (21, 28), (21, 14)):
+        r = bf.rooms_for(lac, ivx, 4, 3)
+        assert bf.max_lactation(r, ivx, 4, 3) >= lac
+        assert bf.max_lactation(r - 1, ivx, 4, 3) < lac if r > 1 else True
+
+    # 뒷단: 방이 점유를 덮어야 하고 자리 수는 배치 크기 이상
+    ds = bf.downstream(480, 21)
+    assert set(ds["stage"]) == {"자돈사", "육성사", "비육사"}
+    for _i, r in ds.iterrows():
+        assert r["rooms"] * 21 >= r["occupy"]
+        assert r["places_total"] >= 480
+        assert r["slack_days"] >= 0
+    # 사육기간이 길수록 방이 더 필요하다
+    assert (ds.sort_values("days")["rooms"].is_monotonic_increasing)
+
+    # 벤치마크 임계치
+    assert bf.aiao_worth_it(0.15, 0.05)["worth_it"]
+    assert bf.aiao_worth_it(0.05, 0.10)["worth_it"]
+    assert bf.aiao_worth_it(0.08, 0.04, 200)["worth_it"]
+    assert not bf.aiao_worth_it(0.08, 0.04, 170)["worth_it"]
+    assert len(bf.aiao_worth_it(0.15, 0.10)["reasons"]) == 2
+
 
 def test_work_log() -> None:
     """작업 로그: 추가전용·취소 반영·큐 정정·적기 준수."""
