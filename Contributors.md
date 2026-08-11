@@ -1,19 +1,25 @@
 # Contributors
+- Hardh S Kava
+- Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
+- Parth Sutaria BT2024028
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
+- Pradyumna BT2024157
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - [H Sanjay BT2024192](https://github.com/H-Sanjay18)
+- [Sumanth Y M BT2024072](https://github.com/Sumanth-YM)
 - MZS
 - [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
 [Siddharth S IMT2024017](https://github.com/Siddhpro)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
+- [Soham Banerjee](https://github.com/oki-dokii)
 - [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [Soham Banerjee](https://github.com/oki-dokii)
 - [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
@@ -27,6 +33,7 @@
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
+
 - Joseph Francis
 - Ankita Gupta
 - HelaElbez
@@ -64,8 +71,10 @@
 - [LizC AU](https://github.com/lizc-au)
 - [Markus Pröhl](https://github.com/proehl-R1)
 - [Yush] (https://github.com/yushtr)
+- [Jithamanyu_BT2024069]
 - [Ranzeus](https://github.com/Ranzeus)
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
+- [Suhasini]
 - [Alwil17](https://github.com/alwil17)
 - [Jaydyn Davis](https://github.com/jaydaVis04)
 - [Jayaditya Sahu](My second push)
@@ -4189,6 +4198,9 @@ Megan Das
 - [vishyatchennai2026](https://github.com/vishyatchennai2026)
 - [markchang](https://github.com/13603601431mayc-cell)
 - [buiducnhat](https://github.com/buiducnhat)
+ Santosh_BT2024012
+- [Santosh Reddy - BT2024012](https://github.com/SantoshReddy0603)
+
 - [Rudra Hardik Shroff](https://github.com/rudra-shroff06)
 - [kritika](https://github.com/Kxor8)
 - [Yashkumar](https://github.com/yash110905)
@@ -4197,3 +4209,4 @@ Megan Das
 1
 - [Vansh Desai](https://github.com/vansh-desai-23)
 - [Arshad Ansari](https://github.com/05unique-dotcom)
+ main
