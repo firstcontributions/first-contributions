@@ -69,6 +69,7 @@
 - [Aditya Vatsa] (https://github.com/VatsAditya48) 
 - [saiyarram]
 - [Nico]
+-[Tom Stanly]
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
 - [Samuel Gutierrez](https://github.com/SamuelCosmo)
