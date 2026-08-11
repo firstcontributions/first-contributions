@@ -47,7 +47,7 @@
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
-- Dhanush Kommireddy BT2024169
+- Dhanush BT2024169
 - Savani Vedant Vijay BT2024191
 - Gagan
 - Rohit Negi
