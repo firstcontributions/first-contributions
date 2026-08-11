@@ -1,4 +1,5 @@
 # Contributors
+- Aprajita Agarwal BT2024258
 - Jeff Gray
 - [Raha](https://github.com/raha-ak)
 - Krititka
