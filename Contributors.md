@@ -1,6 +1,6 @@
 # Contributors
-
 - [Tanmay Dixit](https://github.com/tdixit547)
+- [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
 - Awwab Ghole BT2024033 (https://github.com/Awwab157)
 - Aprajita Agarwal BT2024258
 - Dinesh BT2024199 (a+b)^3 = a^3 + b^3 + 3ab(a+b)
@@ -30,6 +30,7 @@ Varshith IMT2024044
 - Shive S Bhat BT2024067
 - Yashaswini
 - Krititka
+-Harsha BT2024148
 - mohammedfarhanBT2024140
 - mannerohithsaiBT2024144(https://github.com/Rohithmanne13)
 - [HemanthReddyThummala](https://github.com/HemanthReddyThummala)
@@ -62,6 +63,7 @@ Varshith IMT2024044
 - Amith
 - [krishna](https://github.com/PVK3126)
 - [Amballa Pardhiv BT2024071](https://github.com/PardhivAmballa)
+- [Sai Pramod Penumaka BT2024145](https://github.com/Pramod7583)
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
 - [bearbau](https://github.com/bearbau)
 - [Avadh Savaliya](https://github.com/avadh-7)
@@ -4283,3 +4285,4 @@ jadav-sai-rugvedh_IMT2024051
 - [Jadav Sai Rugvedh](https://github.com/rugvedhjadav)
 - [Tanuj Shah IMT2024018](https://github.com/Tanujshah18)
 - [Atharva Jakhi IMT2024059](https://github.com/athjagit)
+- [Marko Mitrovic](https://github.com/marko-mitrovic-dev)
