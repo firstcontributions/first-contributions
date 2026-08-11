@@ -92,6 +92,7 @@
 - [Bas]
 - [FLX009](https://github.com/FLX009)
 - [amebakkd](https://github.com/amebakkd)
+- [S0ra-ai](https://github.com/S0ra-ai)
 - [Jemelrey Abastillas](https://github.com/Jembilog)
 -[Antrika Kashyap](https://github.com/antrika02)
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
