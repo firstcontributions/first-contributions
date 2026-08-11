@@ -15,6 +15,7 @@
 [Siddharth S IMT2024017](https://github.com/Siddhpro)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
+- [Soham Banerjee](https://github.com/oki-dokii)
 - [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [Soham Banerjee](https://github.com/oki-dokii)
 - [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
