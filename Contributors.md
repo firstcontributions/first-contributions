@@ -12,6 +12,7 @@
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - Krititka
+- [HemanthReddyThummala](https://github.com/HemanthReddyThummala)
 - Pradyumna BT2024157
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - [H Sanjay BT2024192](https://github.com/H-Sanjay18)
