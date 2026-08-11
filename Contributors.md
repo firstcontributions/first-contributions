@@ -64,6 +64,7 @@
 - Dhanush BT2024169
 - Savani Vedant Vijay BT2024191
 - Gagan Syam Reddy BT2024032
+- Sankalp Gadamsetty BT2024182
 - M Sai Ranga Reddy BT2024185
 -  Talluri Kartheek BT2024108 
 - Rohit Negi
