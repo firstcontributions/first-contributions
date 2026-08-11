@@ -855,6 +855,85 @@ def test_barn_queue() -> None:
     assert seen == [b for b in route if b in seen], "동선 순서가 지켜지지 않음"
 
 
+def test_batch_flow() -> None:
+    """돈군흐름(배칭): 배치 수·AIAO 방 수·여유·배치 유지율."""
+    import numpy as np
+    import batch_flow as bf
+    import breeding_ledger as bl
+
+    # 분만사 점유에 **세척 기간이 반드시 포함**돼야 한다. 빼면 방이 모자라
+    # 올인/올아웃이 무너져 배칭의 목적 자체가 사라진다.
+    assert bf.FARROW_OCCUPY == bf.MOVE_IN + bf.LACTATION + bf.WASHDOWN
+    assert bf.WASHDOWN > 0
+
+    p = bf.plan(300, 21)
+    # 배치 수 × 간격 = 번식주기. n_batches 는 소수점 1자리로 반올림돼
+    # 나오므로(7.1) 그 오차(±0.05×간격)를 감안해 본다.
+    assert abs(p["n_batches"] * 21 - bf.CYCLE) < 0.05 * 21 + 1e-6
+    # 두 값 모두 반올림된 값이라 곱이 정확히 300 이 되지는 않는다(298.2)
+    assert abs(p["sows_per_batch"] * p["n_batches"] - 300) < 0.02 * 300
+    # 방 수는 점유기간을 덮어야 한다
+    assert p["farrow_rooms"] * 21 >= bf.FARROW_OCCUPY
+    assert (p["farrow_rooms"] - 1) * 21 < bf.FARROW_OCCUPY, "방이 과다 산정"
+    assert p["slack_days"] == p["farrow_rooms"] * 21 - bf.FARROW_OCCUPY
+    # 권장 방 수는 최소 방 수 이상이고 여유를 확보한다
+    assert p["rooms_recommended"] >= p["farrow_rooms"]
+    assert p["rooms_recommended"] * 21 - bf.FARROW_OCCUPY >= bf.BUFFER
+    # 분만 두수로 방 크기를 잡아야 한다(교배 두수로 잡으면 빈 분만틀이 생긴다)
+    assert p["farrow_per_batch"] < p["sows_per_batch"]
+
+    # 간격이 넓을수록 배치는 커지고 방은 줄고 집중도는 오른다
+    c = bf.compare(300).sort_values("interval")
+    assert c["sows_per_batch"].is_monotonic_increasing
+    assert c["farrow_rooms"].is_monotonic_decreasing
+    assert c["peak_ratio"].is_monotonic_increasing
+    assert len(c) == len(bf.BATCH_INTERVALS)
+
+    # 배치 번호: 같은 간격 안의 이유일은 같은 배치
+    a = "2026-08-03"
+    assert bf.batch_of("2026-08-03", a, 21) == 0
+    assert bf.batch_of("2026-08-23", a, 21) == 0
+    assert bf.batch_of("2026-08-24", a, 21) == 1
+    assert bf.batch_of("2026-07-30", a, 21) == -1
+
+    d = bf.batch_dates(a, 1, 21)
+    assert (d["farrow"] - d["service"]).days == bf.GESTATION
+    assert (d["next_wean"] - d["farrow"]).days == bf.LACTATION
+    assert (d["room_free"] - d["move_in"]).days == bf.FARROW_OCCUPY
+    assert (d["service_to"] - d["service_from"]).days == bf.BATCH_WINDOW
+
+    # AIAO: 최소 방 수로도 겹치면 안 된다(경계에서 정확히 맞물린다)
+    rs = bf.room_schedule(a, 21, n_batches=8)
+    assert not rs["overlap"].any(), "최소 방 수인데 점유가 겹친다"
+    assert len(rs) == 8
+
+    # 배정 + 유지율. herd_board 의 생성기는 이유 이후 **재교배를 만들지 않아**
+    # 유지율을 잴 수 없다(전부 미교배로 잡힌다) — 배칭용 생성기를 쓴다.
+    herd = bf.generate_demo(300, 21, today="2026-08-10", adherence=0.82)
+    asg = bf.assign(herd, 21)
+    assert len(asg) == 300
+    assert {"batch", "in_batch", "wei_actual"} <= set(asg.columns)
+    g = bf.integrity(asg)
+    assert g["n"] > 0, "교배 기록이 하나도 없다 — 유지율을 잴 수 없다"
+    assert 0 <= g["rate"] <= 1 and g["in_batch"] <= g["n"]
+    assert g["n_batches"] >= 2
+    assert 0.7 <= g["rate"] <= 0.95, f"유지율 {g['rate']} — 설정과 동떨어짐"
+    # WEI 는 음수일 수 없다. 직전 주기의 교배를 이번 배치로 세면 -143 이 나온다.
+    served = asg[asg["wei_actual"].notna()]
+    assert (served["wei_actual"] > 0).all(), "이유 이전 교배가 섞였다"
+    for r in served.itertuples(index=False):
+        assert bool(r.in_batch) == (r.wei_actual <= bf.BATCH_WINDOW)
+
+    # 미교배(공태)는 창 안으로 세면 안 된다
+    b2 = bl.build_demo("2026-08-10")[1]
+    a2 = bf.assign(b2, 21)
+    if len(a2):
+        assert not a2["in_batch"].any(), "이유 후 미교배가 유지로 잡힘"
+        assert bf.integrity(a2)["n"] == 0
+
+    assert len(bf.assign(herd.iloc[:0], 21)) == 0
+
+
 def test_work_log() -> None:
     """작업 로그: 추가전용·취소 반영·큐 정정·적기 준수."""
     import tempfile
@@ -1333,7 +1412,7 @@ def main() -> int:
              test_motion_tracker, test_box_merge, test_temporal_features,
              test_breeding_timing, test_stall_estrus, test_feeding_monitor,
              test_repro_calendar, test_pregnancy_check, test_herd_board,
-             test_barn_queue, test_work_log,
+             test_barn_queue, test_batch_flow, test_work_log,
              test_farm_registry, test_breeding_ledger, test_barn_environment,
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders]
