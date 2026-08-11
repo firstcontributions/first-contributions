@@ -23,6 +23,7 @@ Varshith IMT2024044
 - Krititka
 - mohammedfarhanBT2024140
 - [HemanthReddyThummala](https://github.com/HemanthReddyThummala)
+- Harsha BT2024148
 - Pradyumna BT2024157
 - [Akshay K M IMT2024014](https://github.com/Akshay-K-M)
 - [H Sanjay BT2024192](https://github.com/H-Sanjay18)
