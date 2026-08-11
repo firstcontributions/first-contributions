@@ -53,7 +53,8 @@
 - yuvraj
 - Dhanush BT2024169
 - Savani Vedant Vijay BT2024191
-- Gagan
+- Gagan Syam Reddy BT2024032
+- M Sai Ranga Reddy BT2024185
 - Rohit Negi
 - MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
