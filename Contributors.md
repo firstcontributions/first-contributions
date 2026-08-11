@@ -28,6 +28,7 @@
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
 - [bearbau](https://github.com/bearbau)
 - [Avadh Savaliya](https://github.com/avadh-7)
+- [Ch Tharun Sai Pranav](https://github.com/Pranavgit2007)
 - [Pavithra S](https://github.com/Pavi1205)
 - [betterkite502](https://github.com/betterkite)
 - First contribution
