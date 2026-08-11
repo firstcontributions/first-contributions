@@ -1,4 +1,6 @@
 # Contributors
+- [Rishit Raman](https://github.com/ramanrishit448-RR)
+- [Tanmay Dixit](https://github.com/tdixit547)
 - [Tanmay Dixit BT2024016](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
 - Awwab Ghole BT2024033 (https://github.com/Awwab157)
@@ -4296,5 +4298,7 @@ jadav-sai-rugvedh_IMT2024051
 - [Shreya](https://github.com/Shrey049)
 - [Areefa Samar](https://github.com/areefasamar)
 - [Marko Mitrovic](https://github.com/marko-mitrovic-dev)
+- [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tarikur Rahman](https://github.com/tarikurrahman)
 - [Obeida Arafa](https://github.com/o-arafa)
+
