@@ -14,6 +14,7 @@
 - HelaElbez
 - first contribution
 - Daniel Batistella
+- [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
 - Rohit Negi
