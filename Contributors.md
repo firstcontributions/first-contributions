@@ -3140,6 +3140,7 @@ Amna Naeem
 - [zrzisdouyin-hub](https://github.com/zrzisdouyin-hub)
 - [huangjun430-ctrl](https://github.com/huangjun430-ctrl)
 - [Susu Hou]
+- [risa naw](https://github.com/rixarixaaa)
 - [Shriya](https://github.com/Shriyaa25)
 - [Abel P Abraham](https://github.com/abelpabraham)
 - [Spandan Kumkar](https://github.com/Spandan-kumkar)
