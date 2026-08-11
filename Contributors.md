@@ -38,7 +38,7 @@
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
-
+- [shirocode10](https://github.com/giteen-shiro)
 - Joseph Francis
 - Ankita Gupta
 - HelaElbez
