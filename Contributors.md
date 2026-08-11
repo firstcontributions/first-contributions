@@ -26,6 +26,7 @@
 - HelaElbez
 - first contribution
 - Kartik
+- [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 - Aryan Sharma BT2024212
