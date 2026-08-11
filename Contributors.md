@@ -1000,6 +1000,7 @@ niceshowmini
   [Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
+- [Ido Pinto](https://github.com/idopinto)
 - [88yomi](https://github.com/88yomi)
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Yashica-M](https://github.com/Yashica-M)
