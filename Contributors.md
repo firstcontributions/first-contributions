@@ -2,6 +2,7 @@
 - k2p2
 - Hardh S Kava
 - Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
+- [Aryan_Malik_BT2024006](https://github.com/AryanOg0209)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
 - Karan Mansuria BT2024104 
