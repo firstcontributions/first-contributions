@@ -1,4 +1,5 @@
 # Contributors
+- Kabir Ahuja BT2024004
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
 - Awwab Ghole BT2024033 (https://github.com/Awwab157)
 - Aprajita Agarwal BT2024258
