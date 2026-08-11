@@ -32,6 +32,7 @@
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
+- Savani Vedant Vijay BT2024191
 - Gagan
 - Rohit Negi
 - [Boyina Saketh](https://github.com/Alex240424)
