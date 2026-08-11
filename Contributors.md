@@ -1,6 +1,7 @@
 # Contributors
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tanmay Dixit](https://github.com/tdixit547)
+- [Tanmay Dixit BT2024016](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
 - Awwab Ghole BT2024033 (https://github.com/Awwab157)
 - Aprajita Agarwal BT2024258
@@ -29,6 +30,7 @@ Varshith IMT2024044
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - Shive S Bhat BT2024067
+- [Naman_Jindal_BT2024203](https://github.com/LEGEND-Droit-7)
 - Yashaswini
 - Krititka
 -Harsha BT2024148
@@ -1000,6 +1002,7 @@ niceshowmini
   [Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
+- [Ido Pinto](https://github.com/idopinto)
 - [88yomi](https://github.com/88yomi)
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Yashica-M](https://github.com/Yashica-M)
@@ -4177,6 +4180,7 @@ aksha
 abhinav abhinav
 - [Caleb33-del](https://github.com/Caleb33-del)
 - [林清渊](https://github.com/userlinqingyuan)
+- [Satyajit Samanta](https://github.com/Satyajit734)
 - [BujesL](https://github.com/BujesL)
 - [Paul Madut](https://github.com/paul-madut)
 - [Diana Acciarito](https://github.com/Diana-2202)
@@ -4291,5 +4295,10 @@ jadav-sai-rugvedh_IMT2024051
 - [Jadav Sai Rugvedh](https://github.com/rugvedhjadav)
 - [Tanuj Shah IMT2024018](https://github.com/Tanujshah18)
 - [Atharva Jakhi IMT2024059](https://github.com/athjagit)
+- [Shreya](https://github.com/Shrey049)
+- [Areefa Samar](https://github.com/areefasamar)
 - [Marko Mitrovic](https://github.com/marko-mitrovic-dev)
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
+- [Tarikur Rahman](https://github.com/tarikurrahman)
+- [Obeida Arafa](https://github.com/o-arafa)
+
