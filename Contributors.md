@@ -45,6 +45,7 @@
 - [soheetech](https://github.com/soheetech)
 - [Uday](https://github.com/Udayahir25)
 - [levonhard]
+- [Amarantosy](https://github.com/Amarantosy1)
 - [Ayush]
 - [Kasyap](https://github.com/Codmox)
 - [ParaMatrix-404]
