@@ -8,6 +8,7 @@
   5. 모든 기본값은 config 로 분리해 농장별로 덮어쓴다.
 
 사용:
+    cd competition   (또는 PYTHONPATH=competition, 저장소 루트에서 실행할 때)
     python -m pigflow                                    # 기본 설계·시뮬레이션
     python -m pigflow --config pigflow/example_farm.yaml # 농장 설정
     python pigflow/tests/test_pigflow.py                 # 검산 고정 테스트

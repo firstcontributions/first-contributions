@@ -62,7 +62,12 @@ def kpi_report(sim, avg_sows: float | None = None) -> dict:
     cut = sim.start + timedelta(days=sim.warmup_days)
     cohort = [x for x in sim.shipped if x.history and x.history[-1][0] >= cut]
     days = max(1, (sim.day - cut).days)
-    years = days / 365.0
+    # 연환산은 **창 길이가 아니라 배치 수**로 한다. 창은 배치의 정수배가 아니라
+    # 245일에 17.5 배치가 걸치는 식이고, 그러면 시뮬레이션 일수를 400→420 으로
+    # 바꾼 것만으로 PSY 가 25.1→24.5 로 흔들린다(실제로 그랬다). 정상 상태에서
+    # 코호트 n 개가 대표하는 기간은 정확히 n × 배치간격이다.
+    iv_days = cfg.batch_system.interval_days
+    years = (len(cohort) * iv_days / 365.0) if cohort else days / 365.0
     if avg_sows is None:
         avg_sows = calc.sow_inventory(
             cfg.crate_count, cfg.batch_system.interval_weeks, b.sow_turnover,
@@ -96,6 +101,38 @@ def kpi_report(sim, avg_sows: float | None = None) -> dict:
     return k
 
 
+def occupancy_spans(sim, house: str | None = None) -> dict:
+    """방별 점유 구간 — {room_id: [(입식일, 전출일, batch_id, stage_id, 두수)]}.
+
+    이벤트 이력에서 복원한다. 텍스트 간트와 대시보드 SVG 가 같은 값을 쓰도록
+    구조화해서 돌려준다(둘이 따로 계산하면 언젠가 어긋난다).
+    """
+    rooms = [r for r in sim.rooms if house is None or r.house == house]
+    occ = {r.room_id: [] for r in rooms}
+    for b in sim.batches:
+        prev_day = None
+        for (d, fs, _ts, moved, from_room) in b.history:
+            if from_room and from_room in occ:
+                occ[from_room].append((prev_day or b.farrow_date, d,
+                                       b.batch_id, fs.value, moved))
+            prev_day = d
+        # 아직 재실 중인 배치 — 전출일은 시뮬레이션 종료일로 둔다
+        if b.room_id and b.room_id in occ:
+            occ[b.room_id].append((prev_day or b.farrow_date, sim.day,
+                                   b.batch_id, b.stage.value, b.head_count))
+    for v in occ.values():
+        v.sort()
+    return occ
+
+
+def downtime_by_house(cfg) -> dict:
+    """돈사별 공백기 — 한 돈사를 두 스테이지가 쓰면 긴 쪽을 쓴다."""
+    out = {}
+    for s in cfg.flow_stages:
+        out[s.house] = max(out.get(s.house, 0), s.downtime_days)
+    return out
+
+
 def gantt(sim, house: str | None = None, width: int = 72) -> str:
     """돈방 점유 간트(텍스트) — ▓ 재실 · ░ 세척 · · 빈방.
 
@@ -104,28 +141,16 @@ def gantt(sim, house: str | None = None, width: int = 72) -> str:
     """
     cut = sim.start + timedelta(days=sim.warmup_days)
     days = [cut + timedelta(days=i) for i in range(width)]
-    lines = []
     rooms = [r for r in sim.rooms if house is None or r.house == house]
-    # house 별 공백기 — 같은 house 를 쓰는 스테이지 중 가장 긴 값
-    dt_by_house = {}
-    for s in sim.cfg.flow_stages:
-        dt_by_house[s.house] = max(dt_by_house.get(s.house, 0), s.downtime_days)
-    # 이력에서 방별 점유 구간 (start, end) 을 복원한다
-    occ = {r.room_id: [] for r in rooms}
-    for b in sim.batches:
-        prev_day = None
-        for (d, _fs, _ts, _h, from_room) in b.history:
-            if from_room and from_room in occ:
-                occ[from_room].append((prev_day or b.farrow_date, d))
-            prev_day = d
-        if b.room_id and b.room_id in occ:
-            occ[b.room_id].append((prev_day or b.farrow_date, sim.day))
+    dt_by_house = downtime_by_house(sim.cfg)
+    occ = occupancy_spans(sim, house)
+    lines = []
     for r in rooms:
         dt = timedelta(days=dt_by_house.get(r.house, 0))
         row = []
         for d in days:
             ch = "·"
-            for (s, e) in occ.get(r.room_id, []):
+            for (s, e, _bid, _sid, _n) in occ.get(r.room_id, []):
                 if s <= d < e:
                     ch = "▓"
                     break

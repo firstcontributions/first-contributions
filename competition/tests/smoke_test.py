@@ -1613,7 +1613,31 @@ def test_dashboard_builders() -> None:
     for need in ('id="bulk"', 'type="checkbox"', 'data-k=', "keydown"):
         assert need in pc, f"PC 전용 기능 누락: {need}"
 
-    for mod in (bc, bm, bas):
+    # 돈군흐름 관제: 페이지 숫자가 pigflow 계산과 같은 값이어야 한다
+    import build_pigflow_console as bpf
+    from pigflow import calc as pfc, report as pfr
+    from pigflow.config import load_config as pf_load
+    from pigflow.simulator import Simulator as PfSim, build_rooms as pf_rooms
+    assert bpf.main() == 0
+    pf = open(bpf.OUT, encoding="utf-8").read()
+    cfg = pf_load(bpf.YAML).merged()
+    plan = pfc.plan(cfg)
+    sim = PfSim(cfg, bpf.START, rooms=pf_rooms(cfg)).run(bpf.SIM_DAYS)
+    k = pfr.kpi_report(sim)
+    assert f'>{plan["services_per_batch"]}<' in pf, "배치당 교배 두수가 페이지에 없다"
+    assert f'{plan["sow_inventory"]:.0f}' in pf, "모돈 규모가 페이지에 없다"
+    assert f'PSY {k["psy"]}' in pf or f'{k["psy"]}' in pf
+    # 예시 농장은 비육사 1방 부족이 유일한 병목 — 그게 화면에 나와야 한다
+    bn = pfr.bottlenecks(sim)
+    assert {b["stage"] for b in bn} == {"FINISHER"}, bn
+    assert "수용능력 부족" in pf, "병목 메시지가 화면에 없다"
+    # 부족 없이 지었을 때는 경보가 없어야 한다(거짓 경보 방지 회귀)
+    clean = PfSim(cfg, bpf.START, rooms=pf_rooms(cfg, from_config=False)
+                  ).run(bpf.SIM_DAYS)
+    from pigflow import validate as pfv
+    assert pfv.summarize(clean.findings)["n"] == 0
+
+    for mod in (bc, bm, bas, bpf):
         assert mod.main() == 0
         assert os.path.exists(mod.OUT) and os.path.getsize(mod.OUT) > 8000
         page = open(mod.OUT, encoding="utf-8").read()
@@ -1622,6 +1646,16 @@ def test_dashboard_builders() -> None:
         for bad in ("http://", "https://", "<script src", "cdn."):
             assert bad not in page, f"{os.path.basename(mod.OUT)} 에 외부 참조 {bad}"
         assert 'prefers-color-scheme' in page, "다크 모드 대응 없음"
+
+    # 허브가 모든 뷰를 잡고 있는지 — 새 뷰를 만들고 등록을 잊는 일이 잦다
+    import build_dashboard_hub as hub
+    assert hub.main() == 0
+    files = {v[0] for v in hub.VIEWS}
+    for mod in (bc, bm, bas, bap, bpc, bpf):
+        assert os.path.basename(mod.OUT) in files, \
+            f"{os.path.basename(mod.OUT)} 이 허브 VIEWS 에 없다"
+    idx = open(hub.OUT, encoding="utf-8").read()
+    assert "pigflow_console.html" in idx
 
 
 def test_farm_economics() -> None:

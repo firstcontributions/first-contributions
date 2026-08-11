@@ -276,14 +276,20 @@ competition/
   README.md
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
-  docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md
-  src/   (46개) 관찰·판정·진단·예측·대시보드 생성 스크립트
-    iou_tracker.py  model_behavior_appearance.py  aihub_estrus_reference.py
-    repro_cause_attribution.py  estrus_early_warning.py  validate_estrus_reference.py
-    parse_71471_real.py  estrus_calendar.py  estrus_contrast_eval.py
-    build_eval_report.py  build_repro_dashboard.py  build_dashboard_hub.py  ...
-  tests/ smoke_test.py       # 26개 스모크 테스트
-  dashboard/                 # (생성물) 뷰 HTML — 허브 index.html 제외 커밋 안 함
+  docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md · PRESENTATION.md
+  src/   (71개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
+    ── 인식   posture_crossview.py  view_align.py  motion_tracker.py  iou_tracker.py
+    ── 번식   breeding_timing.py  repro_calendar.py  pregnancy_check.py
+              herd_board.py  breeding_ledger.py  work_log.py
+    ── 농장   farm_registry.py  barn_environment.py  batch_flow.py  growth_flow.py
+    ── 손익   farm_economics.py
+    ── 데이터 aihub_bridge.py  parse_pig_polygon.py  parse_71471_real.py
+    ── 뷰     build_pc_console.py  build_pigflow_console.py  build_dashboard_hub.py ...
+  pigflow/                   # 돈군흐름 패키지 (명세 기반)
+    calc.py  config.py  models.py  simulator.py  validate.py  report.py
+    example_farm.yaml  tests/test_pigflow.py
+  tests/ smoke_test.py       # 47개 스모크 테스트(pigflow 30개 포함)
+  dashboard/                 # (생성물) 뷰 19개 — 허브 index.html 제외 커밋 안 함
   data/, outputs/            # (생성물)
 ```
 
@@ -293,12 +299,20 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 26/26 통과 확인
+python competition/tests/smoke_test.py        # 47/47 통과 확인
 
 # 개별 모듈(합성/케글 데이터로 즉시 실행)
 python competition/src/repro_cause_attribution.py   # 번식 진단
 python competition/src/estrus_early_warning.py      # 발정 조기경보
 python competition/src/build_eval_report.py         # 평가 신뢰도 리포트
+python competition/src/farm_economics.py            # 생산비 지렛대 순서
+
+# 돈군흐름 — 분만틀에서 역산한 설계·병목 탐지·배치 시스템 what-if
+#   (패키지가 competition/ 아래 있으므로 저장소 루트에서는 PYTHONPATH 를 준다)
+export PYTHONPATH=competition
+python -m pigflow                                   # 기본값(분만틀 10·주간배치)
+python -m pigflow --config competition/pigflow/example_farm.yaml --gantt finisher
+python competition/pigflow/tests/test_pigflow.py    # 명세 검산값 고정 테스트
 
 # 임의 영상 분석(탐지→추적→활동량 + 촬영조건 진단) — 산출물은 outputs/, 앱과 분리
 python competition/src/analyze_video.py <영상.mp4> [이름]

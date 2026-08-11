@@ -344,6 +344,24 @@ def test_kpi_cohort_consistency() -> None:
     assert k["npd_floor_days"] == c.breeding.wean_to_service_days
 
 
+def test_kpi_stable_across_run_length() -> None:
+    """PSY 는 시뮬레이션 길이에 흔들리면 안 된다.
+
+    창 길이로 연환산하면 창에 배치가 정수 개 안 들어가서 400→420일만 바꿔도
+    25.1→24.5 로 움직였다. 배치 수로 환산해 고정한다. 해석값과도 맞아야 한다.
+    """
+    c = _cfg()
+    ks = [report.kpi_report(Simulator(c, date(2026, 1, 1)).run(d))
+          for d in (300, 420, 600)]
+    assert len({k["psy"] for k in ks}) == 1, [k["psy"] for k in ks]
+    assert len({k["msy"] for k in ks}) == 1, [k["msy"] for k in ks]
+    # 해석값: (배치당 이유 × 연간 배치 수) ÷ 모돈 규모
+    p = calc.plan(c)
+    an = (p["weaned_per_batch"] * 365.0 / c.batch_system.interval_days
+          / p["sow_inventory"])
+    assert abs(ks[0]["psy"] - an) < 0.05, f"{ks[0]['psy']} vs 해석값 {an:.2f}"
+
+
 def test_rooms_table_house_level_shortage() -> None:
     """nursery 는 두 스테이지가 나눠 쓰므로 부족분을 돈사 단위로 봐야 한다."""
     c = _cfg()

@@ -1,5 +1,5 @@
 #!/bin/bash
-# 통합 대시보드 전체 생성 — 6개 뷰 + 리포트 + 허브(index.html).
+# 통합 대시보드 전체 생성 — 19개 뷰 + 허브(index.html).
 # 데이터/영상이 있어야 하는 뷰는 없으면 건너뜀. 마지막에 허브가 링크를 잡는다.
 #
 # 사용: bash competition/build_all.sh
@@ -16,6 +16,7 @@ run $SRC/build_barn_map.py
 run $SRC/build_app_screens.py
 run $SRC/build_app_prototype.py
 run $SRC/build_pc_console.py
+run $SRC/build_pigflow_console.py
 # 분석 리포트
 run $SRC/build_reference_report.py ${AIHUB_71471:-}
 run $SRC/build_analysis_report.py

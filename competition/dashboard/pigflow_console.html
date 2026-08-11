@@ -1,0 +1,219 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>돈군흐름 관제</title><style>
+:root{color-scheme:light;--page:#f9f9f7;--surface:#fcfcfb;--surface2:#eeeeea;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--border:rgba(11,11,11,.12);--accent:#2a78d6}
+@media(prefers-color-scheme:dark){:root:where(:not([data-theme=light])){--page:#0d0d0d;--surface:#1a1a19;--surface2:#2b2b28;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5}}
+:root[data-theme=dark]{--page:#0d0d0d;--surface:#1a1a19;--surface2:#2b2b28;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);--accent:#3987e5}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;background:var(--page);color:var(--ink);line-height:1.5;padding:24px}
+.wrap{max-width:1000px;margin:0 auto}h1{font-size:1.55rem;letter-spacing:-.02em}
+.sub{color:var(--ink2);font-size:.92rem;margin:5px 0 4px}
+h2{font-size:1.02rem;margin:24px 0 4px}.h2d{font-size:.8rem;color:var(--muted);margin-bottom:12px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;margin:16px 0}
+.kpi{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:13px 15px}
+.kpi .v{font-size:1.65rem;font-weight:700;letter-spacing:-.02em}.kpi .l{font-size:.8rem;font-weight:600;margin-top:1px}.kpi .d{font-size:.7rem;color:var(--muted);margin-top:3px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:13px;padding:17px 18px;margin-bottom:14px;overflow-x:auto}
+.warn{border-left:4px solid #d03b3b;background:color-mix(in srgb,#d03b3b 6%,var(--surface))}
+.good{border-left:4px solid #3d9960;background:color-mix(in srgb,#3d9960 6%,var(--surface))}
+.flow{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:.84rem}
+.fx{background:var(--surface2);border-radius:9px;padding:9px 13px;text-align:center;min-width:96px}
+.fx b{display:block;font-size:1.2rem;letter-spacing:-.02em}
+.fx span{font-size:.68rem;color:var(--muted)}
+.fa{color:var(--muted);font-size:.78rem;white-space:nowrap}
+table{width:100%;border-collapse:collapse;font-size:.83rem;margin-top:4px}
+td,th{text-align:left;padding:7px 9px;border-bottom:1px solid var(--surface2);vertical-align:top;white-space:nowrap}
+th{color:var(--muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.03em}
+tr.cur{background:color-mix(in srgb,var(--accent) 9%,transparent)}
+tr.warn-row td{background:color-mix(in srgb,#d03b3b 8%,transparent)}
+.tag{font-size:.65rem;font-weight:700;color:var(--accent);background:color-mix(in srgb,var(--accent) 15%,transparent);padding:1px 6px;border-radius:999px}
+.tag.err{color:#d03b3b;background:color-mix(in srgb,#d03b3b 15%,transparent)}
+.bnrow{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--surface2);font-size:.85rem}
+.bnrow:last-child{border-bottom:0}.cnt{margin-left:auto;color:var(--muted);font-size:.76rem;white-space:nowrap}
+.ok{color:#3d9960;font-weight:600;font-size:.88rem}
+.note{font-size:.73rem;color:var(--muted);margin-top:10px;line-height:1.6}
+.bl{font-size:11.5px;fill:var(--ink2)}.bl.hi{fill:var(--ink);font-weight:700}
+.bv{font-size:11px;font-weight:600;fill:var(--ink)}
+.tk{font-size:10px;font-weight:600;fill:var(--muted)}
+.gb{font-size:9.5px;font-weight:700;fill:#fff;opacity:.9}
+.back{display:inline-block;margin-bottom:14px;font-size:.8rem;color:var(--accent);text-decoration:none}
+</style></head><body><div class="wrap">
+<a class="back" href="index.html">← 통합 대시보드</a>
+<h1>🔄 돈군흐름 관제</h1>
+<div class="sub">번식 관리는 “이 모돈을 언제 교배하나”이고, 돈군흐름은 <b>“그 배치가 나갈 자리가 있나”</b>다.
+둘은 같은 문제의 앞뒤다 — 발정을 놓쳐 배치가 흩어지면 올인올아웃이 깨지고, 비육사가 모자라면 앞 단계가 밀린다.</div>
+<div class="kpis"><div class="kpi"><div class="v">20</div><div class="l">분만틀 (설계 기준)</div><div class="d">배치당 교배 24두 · 후보돈 6두</div></div><div class="kpi"><div class="v">263</div><div class="l">번식돈군 규모(두)</div><div class="d">B2W 2주 간격 · 10개 배치</div></div><div class="kpi"><div class="v">18</div><div class="l">필요 돈방 (보유 18)</div><div class="d"><b style="color:#d03b3b">비육사 1방 부족</b> · 분만사 1방 잉여</div></div><div class="kpi"><div class="v">1</div><div class="l">병목 스테이지</div><div class="d">420일 시뮬레이션 · 오류 90건</div></div></div>
+
+<h2>1. 설계는 분만틀에서 역산한다</h2>
+<div class="h2d">모돈 두수나 PSY 를 설계 기준으로 삼으면 안 된다 — 계절을 탄다.
+<b>분만틀 수만이 고정된 물리량</b>이고 나머지는 거기서 나온다(CEVA / John Carr 모델).</div>
+<div class="card"><div class="flow">
+  <div class="fx"><b>20</b><span>분만틀</span></div>
+  <div class="fa">÷ 분만율 85% →</div>
+  <div class="fx"><b>24</b><span>배치당 교배</span></div>
+  <div class="fa">그중 후보돈 6두 →</div>
+  <div class="fx"><b>263</b><span>번식돈군(두)</span></div>
+  <div class="fa">× 복당 12두 →</div>
+  <div class="fx"><b>240</b><span>배치당 이유</span></div>
+  <div class="fa">× 육성률 95% →</div>
+  <div class="fx"><b>228</b><span>배치당 출하</span></div>
+</div>
+<div class="note"><b>분만율은 평균이 아니라 하위 분위수를 넣는다.</b> 평균으로 잡으면
+절반의 배치에서 분만틀이 빈다. 여기서는 85% 를 썼고,
+이 값이 1%p 떨어질 때마다 배치당 교배가 늘어 모돈 규모가 커진다 —
+<b>발정 탐지가 분만율을 지키는 일</b>인 이유가 여기 있다.<br>
+번식주기 140일(이유~재교배 5 +
+임신 114 + 포유 21) ·
+출하일령 175일.</div></div>
+
+<h2>2. 필요 vs 보유 돈방 — 부족분이 곧 병목</h2>
+<div class="h2d">필요 돈방 = (사육일 + 사전점유일 + <b>공백기</b>) ÷ 배치 간격.
+공백기를 빼고 세면 방이 모자라 올인올아웃이 무너지고, 그러면 배칭을 하는 의미 자체가 사라진다.</div>
+<div class="card warn"><b>총량은 맞는데 배분이 틀렸다.</b>
+필요 18방 · 보유 18방으로 수는 같지만,
+비육사 1방이 모자라고 분만사 1방이 남는다. 돈방은 돈사를 건너뛰어 쓸 수 없으므로
+<b>총 방 수를 세는 것으로는 이 문제가 보이지 않는다</b> — 스테이지별로 갈라야 나온다.
+</div>
+<div class="card"><svg viewBox="0 0 880 255" width="100%" role="img" aria-label="스테이지별 필요 돈방과 보유 돈방 비교"><text x="142" y="23" class="bl hi" text-anchor="end">포유자돈</text><text x="142" y="40" class="tk" text-anchor="end">분만사 · 점유 28일</text><rect x="150" y="8" width="181.2" height="15" rx="3" fill="#d4728a"/><text x="337.2" y="20" class="bv">필요 2</text><rect x="150" y="27" width="271.8" height="15" rx="3" fill="#d4728a" fill-opacity=".32"/><text x="427.8" y="39" class="bv">보유 3</text><text x="142" y="70" class="bl hi" text-anchor="end">이유자돈(전기)</text><text x="142" y="87" class="tk" text-anchor="end">자돈사 · 점유 31일</text><rect x="150" y="55" width="271.8" height="15" rx="3" fill="#6aa9dd"/><text x="427.8" y="67" class="bv">필요 3</text><rect x="150" y="74" width="543.6" height="15" rx="3" fill="#6aa9dd" fill-opacity=".32"/><text x="699.6" y="86" class="bv">보유 6</text><text x="142" y="117" class="bl hi" text-anchor="end">이유자돈(후기)</text><text x="142" y="134" class="tk" text-anchor="end">자돈사 · 점유 32일</text><rect x="150" y="102" width="271.8" height="15" rx="3" fill="#4b86c4"/><text x="427.8" y="114" class="bv">필요 3</text><rect x="150" y="121" width="543.6" height="15" rx="3" fill="#4b86c4" fill-opacity=".32"/><text x="699.6" y="133" class="bv">보유 6</text><text x="142" y="164" class="bl hi" text-anchor="end">육성돈</text><text x="142" y="181" class="tk" text-anchor="end">육성사 · 점유 57일</text><rect x="150" y="149" width="453.0" height="15" rx="3" fill="#5ba36b"/><text x="609.0" y="161" class="bv">필요 5</text><rect x="150" y="168" width="453.0" height="15" rx="3" fill="#5ba36b" fill-opacity=".32"/><text x="609.0" y="180" class="bv">보유 5</text><text x="142" y="211" class="bl hi" text-anchor="end">비육돈</text><text x="142" y="228" class="tk" text-anchor="end">비육사 · 점유 62일</text><rect x="150" y="196" width="453.0" height="15" rx="3" fill="#c79338"/><text x="609.0" y="208" class="bv">필요 5</text><rect x="150" y="215" width="362.4" height="15" rx="3" fill="#c79338" fill-opacity=".32"/><text x="518.4" y="227" class="bv">보유 4<tspan fill="#d03b3b" font-weight="700"> 부족 1</tspan></text><line x1="512.4" y1="222.5" x2="603.0" y2="222.5" stroke="#d03b3b" stroke-width="2" stroke-dasharray="3 3"/></svg></div>
+<div class="card"><table><thead><tr><th>스테이지</th><th>돈사</th><th>사육일</th>
+<th>공백기</th><th>점유일</th><th>필요방</th><th>보유방</th><th>부족</th>
+<th>설계여유</th><th>방당두수</th><th>방면적</th></tr></thead>
+<tbody><tr><td><b>포유자돈</b></td><td>분만사</td><td>21일</td><td>3일</td><td>28일</td><td><b>2</b></td><td>3</td><td>–</td><td>0일</td><td>301두</td><td>0㎡</td></tr><tr><td><b>이유자돈(전기)</b></td><td>자돈사</td><td>24일</td><td>7일</td><td>31일</td><td><b>3</b></td><td>6</td><td>–</td><td>11일</td><td>264두</td><td>66㎡</td></tr><tr><td><b>이유자돈(후기)</b></td><td>자돈사</td><td>25일</td><td>7일</td><td>32일</td><td><b>3</b></td><td>6</td><td>–</td><td>10일</td><td>259두</td><td>91㎡</td></tr><tr><td><b>육성돈</b></td><td>육성사</td><td>50일</td><td>7일</td><td>57일</td><td><b>5</b></td><td>5</td><td>–</td><td>13일</td><td>255두</td><td>115㎡</td></tr><tr class="warn-row"><td><b>비육돈</b></td><td>비육사</td><td>55일</td><td>7일</td><td>62일</td><td><b>5</b></td><td>4</td><td><b>1</b></td><td>8일</td><td>252두</td><td>202㎡</td></tr></tbody></table>
+<div class="note"><b>보유방은 돈사 단위</b>다. 자돈사처럼 두 스테이지가 한 돈사를 나눠 쓰면
+방을 스테이지에 미리 못 박지 않으므로 두 행의 보유·부족이 같게 나온다.<br>
+<b>설계여유</b> = 필요방 × 간격 − 점유일. 0 이면 세척이 정확히 제 날에 끝나야만 성립한다는 뜻이라,
+방 수만 보고 “충분하다”고 읽으면 안 된다.</div></div>
+
+<h2>3. 돈방 점유 간트 — AIAO 가 지켜지는가</h2>
+<div class="h2d">표보다 그림이 빠르다. <b>블록 사이에 빗금(세척)이 반드시 끼어야 한다.</b>
+블록이 맞붙어 있으면 세척 없이 다음 배치가 들어간 것이다. 블록에 마우스를 올리면 배치·두수·기간이 나온다.</div>
+<div class="card"><svg viewBox="0 0 900 428" width="100%" role="img" aria-label="돈방 점유 간트"><defs><pattern id="wash" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="5" height="5" fill="var(--surface2)"/><line x1="0" y1="0" x2="0" y2="5" stroke="var(--muted)" stroke-width="1.4" opacity=".55"/></pattern></defs><line x1="84.0" y1="18" x2="84.0" y2="406" stroke="var(--border)" stroke-width="1"/><text x="87.0" y="14" class="tk">6월</text><line x1="122.5" y1="18" x2="122.5" y2="406" stroke="var(--border)" stroke-width="1"/><text x="125.5" y="14" class="tk">7월</text><line x1="321.3" y1="18" x2="321.3" y2="406" stroke="var(--border)" stroke-width="1"/><text x="324.3" y="14" class="tk">8월</text><line x1="520.1" y1="18" x2="520.1" y2="406" stroke="var(--border)" stroke-width="1"/><text x="523.1" y="14" class="tk">9월</text><line x1="712.4" y1="18" x2="712.4" y2="406" stroke="var(--border)" stroke-width="1"/><text x="715.4" y="14" class="tk">10월</text><text x="77" y="37" class="bl" text-anchor="end">F-1</text><rect x="84" y="24" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="24" width="89.8" height="17" rx="3" fill="#d4728a"><title>B013 · SUCKLING · 240두
+2026-06-18 → 2026-07-09 (21일)</title></rect><text x="88.0" y="36" class="gb">B013</text><rect x="173.8" y="24" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="218.7" y="24" width="134.7" height="17" rx="3" fill="#d4728a"><title>B015 · SUCKLING · 240두
+2026-07-16 → 2026-08-06 (21일)</title></rect><text x="222.7" y="36" class="gb">B015</text><rect x="353.3" y="24" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="398.2" y="24" width="134.7" height="17" rx="3" fill="#d4728a"><title>B017 · SUCKLING · 240두
+2026-08-13 → 2026-09-03 (21일)</title></rect><text x="402.2" y="36" class="gb">B017</text><rect x="532.9" y="24" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="577.8" y="24" width="134.7" height="17" rx="3" fill="#d4728a"><title>B019 · SUCKLING · 240두
+2026-09-10 → 2026-10-01 (21일)</title></rect><text x="581.8" y="36" class="gb">B019</text><rect x="712.4" y="24" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="757.3" y="24" width="134.7" height="17" rx="3" fill="#d4728a"><title>B021 · SUCKLING · 240두
+2026-10-08 → 2026-10-29 (21일)</title></rect><text x="761.3" y="36" class="gb">B021</text><text x="77" y="58" class="bl" text-anchor="end">F-2</text><rect x="84" y="45" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="128.9" y="45" width="134.7" height="17" rx="3" fill="#d4728a"><title>B014 · SUCKLING · 240두
+2026-07-02 → 2026-07-23 (21일)</title></rect><text x="132.9" y="57" class="gb">B014</text><rect x="263.6" y="45" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="308.4" y="45" width="134.7" height="17" rx="3" fill="#d4728a"><title>B016 · SUCKLING · 240두
+2026-07-30 → 2026-08-20 (21일)</title></rect><text x="312.4" y="57" class="gb">B016</text><rect x="443.1" y="45" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="488.0" y="45" width="134.7" height="17" rx="3" fill="#d4728a"><title>B018 · SUCKLING · 240두
+2026-08-27 → 2026-09-17 (21일)</title></rect><text x="492.0" y="57" class="gb">B018</text><rect x="622.7" y="45" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="667.6" y="45" width="134.7" height="17" rx="3" fill="#d4728a"><title>B020 · SUCKLING · 240두
+2026-09-24 → 2026-10-15 (21일)</title></rect><text x="671.6" y="57" class="gb">B020</text><rect x="802.2" y="45" width="19.2" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 3일</title></rect><rect x="847.1" y="45" width="44.9" height="17" rx="3" fill="#d4728a"><title>B022 · SUCKLING · 240두
+2026-10-22 → 2026-11-12 (21일)</title></rect><text x="851.1" y="57" class="gb">B022</text><text x="77" y="79" class="bl" text-anchor="end">F-3</text><rect x="84" y="66" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><text x="77" y="100" class="bl" text-anchor="end">N1-1</text><rect x="84" y="87" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="173.8" y="87" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B013 · NURSERY_1 · 235두
+2026-07-09 → 2026-08-02 (24일)</title></rect><text x="177.8" y="99" class="gb">B013</text><rect x="327.7" y="87" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="443.1" y="87" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B016 · NURSERY_1 · 235두
+2026-08-20 → 2026-09-13 (24일)</title></rect><text x="447.1" y="99" class="gb">B016</text><rect x="597.0" y="87" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="712.4" y="87" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B019 · NURSERY_1 · 235두
+2026-10-01 → 2026-10-25 (24일)</title></rect><text x="716.4" y="99" class="gb">B019</text><rect x="866.3" y="87" width="25.7" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><text x="77" y="121" class="bl" text-anchor="end">N1-2</text><rect x="84" y="108" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="108" width="64.1" height="17" rx="3" fill="#6aa9dd"><title>B011 · NURSERY_1 · 235두
+2026-06-11 → 2026-07-05 (24일)</title></rect><text x="88.0" y="120" class="gb">B011</text><rect x="148.1" y="108" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="263.6" y="108" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B014 · NURSERY_1 · 235두
+2026-07-23 → 2026-08-16 (24일)</title></rect><text x="267.6" y="120" class="gb">B014</text><rect x="417.5" y="108" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="532.9" y="108" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B017 · NURSERY_1 · 235두
+2026-09-03 → 2026-09-27 (24일)</title></rect><text x="536.9" y="120" class="gb">B017</text><rect x="686.8" y="108" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="802.2" y="108" width="89.8" height="17" rx="3" fill="#6aa9dd"><title>B020 · NURSERY_1 · 235두
+2026-10-15 → 2026-11-08 (24일)</title></rect><text x="806.2" y="120" class="gb">B020</text><text x="77" y="142" class="bl" text-anchor="end">N1-3</text><rect x="84" y="129" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="129" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B012 · NURSERY_1 · 235두
+2026-06-25 → 2026-07-19 (24일)</title></rect><text x="88.0" y="141" class="gb">B012</text><rect x="237.9" y="129" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="353.3" y="129" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B015 · NURSERY_1 · 235두
+2026-08-06 → 2026-08-30 (24일)</title></rect><text x="357.3" y="141" class="gb">B015</text><rect x="507.2" y="129" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="622.7" y="129" width="153.9" height="17" rx="3" fill="#6aa9dd"><title>B018 · NURSERY_1 · 235두
+2026-09-17 → 2026-10-11 (24일)</title></rect><text x="626.7" y="141" class="gb">B018</text><rect x="776.6" y="129" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><text x="77" y="163" class="bl" text-anchor="end">N2-1</text><rect x="84" y="150" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="150" width="134.7" height="17" rx="3" fill="#4b86c4"><title>B010 · NURSERY_2 · 231두
+2026-06-21 → 2026-07-16 (25일)</title></rect><text x="88.0" y="162" class="gb">B010</text><rect x="218.7" y="150" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="327.7" y="150" width="160.3" height="17" rx="3" fill="#4b86c4"><title>B013 · NURSERY_2 · 231두
+2026-08-02 → 2026-08-27 (25일)</title></rect><text x="331.7" y="162" class="gb">B013</text><rect x="488.0" y="150" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="597.0" y="150" width="160.3" height="17" rx="3" fill="#4b86c4"><title>B016 · NURSERY_2 · 231두
+2026-09-13 → 2026-10-08 (25일)</title></rect><text x="601.0" y="162" class="gb">B016</text><rect x="757.3" y="150" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="866.3" y="150" width="25.7" height="17" rx="3" fill="#4b86c4"><title>B019 · NURSERY_2 · 231두
+2026-10-25 → 2026-11-19 (25일)</title></rect><text x="77" y="184" class="bl" text-anchor="end">N2-2</text><rect x="84" y="171" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="148.1" y="171" width="160.3" height="17" rx="3" fill="#4b86c4"><title>B011 · NURSERY_2 · 231두
+2026-07-05 → 2026-07-30 (25일)</title></rect><text x="152.1" y="183" class="gb">B011</text><rect x="308.4" y="171" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="417.5" y="171" width="160.3" height="17" rx="3" fill="#4b86c4"><title>B014 · NURSERY_2 · 231두
+2026-08-16 → 2026-09-10 (25일)</title></rect><text x="421.5" y="183" class="gb">B014</text><rect x="577.8" y="171" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="686.8" y="171" width="160.3" height="17" rx="3" fill="#4b86c4"><title>B017 · NURSERY_2 · 231두
+2026-09-27 → 2026-10-22 (25일)</title></rect><text x="690.8" y="183" class="gb">B017</text><rect x="847.1" y="171" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><text x="77" y="205" class="bl" text-anchor="end">N2-3</text><rect x="84" y="192" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="192" width="44.9" height="17" rx="3" fill="#4b86c4"><title>B009 · NURSERY_2 · 231두
+2026-06-07 → 2026-07-02 (25일)</title></rect><text x="88.0" y="204" class="gb">B009</text><rect x="128.9" y="192" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="237.9" y="192" width="160.3" height="17" rx="3" fill="#4b86c4"><title>B012 · NURSERY_2 · 231두
+2026-07-19 → 2026-08-13 (25일)</title></rect><text x="241.9" y="204" class="gb">B012</text><rect x="398.2" y="192" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="507.2" y="192" width="160.3" height="17" rx="3" fill="#4b86c4"><title>B015 · NURSERY_2 · 231두
+2026-08-30 → 2026-09-24 (25일)</title></rect><text x="511.2" y="204" class="gb">B015</text><rect x="667.6" y="192" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="776.6" y="192" width="115.4" height="17" rx="3" fill="#4b86c4"><title>B018 · NURSERY_2 · 231두
+2026-10-11 → 2026-11-05 (25일)</title></rect><text x="780.6" y="204" class="gb">B018</text><text x="77" y="226" class="bl" text-anchor="end">G-1</text><rect x="84" y="213" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="213" width="134.7" height="17" rx="3" fill="#5ba36b"><title>B006 · GROWER · 228두
+2026-05-21 → 2026-07-16 (56일)</title></rect><text x="88.0" y="225" class="gb">B006</text><rect x="218.7" y="213" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="308.4" y="213" width="359.1" height="17" rx="3" fill="#5ba36b"><title>B011 · GROWER · 228두
+2026-07-30 → 2026-09-24 (56일)</title></rect><text x="312.4" y="225" class="gb">B011</text><rect x="667.6" y="213" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="757.3" y="213" width="134.7" height="17" rx="3" fill="#5ba36b"><title>B016 · GROWER · 228두
+2026-10-08 → 2026-12-03 (56일)</title></rect><text x="761.3" y="225" class="gb">B016</text><text x="77" y="247" class="bl" text-anchor="end">G-2</text><rect x="84" y="234" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="234" width="224.4" height="17" rx="3" fill="#5ba36b"><title>B007 · GROWER · 228두
+2026-06-04 → 2026-07-30 (56일)</title></rect><text x="88.0" y="246" class="gb">B007</text><rect x="308.4" y="234" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="398.2" y="234" width="359.1" height="17" rx="3" fill="#5ba36b"><title>B012 · GROWER · 228두
+2026-08-13 → 2026-10-08 (56일)</title></rect><text x="402.2" y="246" class="gb">B012</text><rect x="757.3" y="234" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="847.1" y="234" width="44.9" height="17" rx="3" fill="#5ba36b"><title>B017 · GROWER · 228두
+2026-10-22 → 2026-12-17 (56일)</title></rect><text x="851.1" y="246" class="gb">B017</text><text x="77" y="268" class="bl" text-anchor="end">G-3</text><rect x="84" y="255" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="255" width="314.2" height="17" rx="3" fill="#5ba36b"><title>B008 · GROWER · 228두
+2026-06-18 → 2026-08-13 (56일)</title></rect><text x="88.0" y="267" class="gb">B008</text><rect x="398.2" y="255" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="488.0" y="255" width="359.1" height="17" rx="3" fill="#5ba36b"><title>B013 · GROWER · 228두
+2026-08-27 → 2026-10-22 (56일)</title></rect><text x="492.0" y="267" class="gb">B013</text><rect x="847.1" y="255" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><text x="77" y="289" class="bl" text-anchor="end">G-4</text><rect x="84" y="276" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="128.9" y="276" width="359.1" height="17" rx="3" fill="#5ba36b"><title>B009 · GROWER · 228두
+2026-07-02 → 2026-08-27 (56일)</title></rect><text x="132.9" y="288" class="gb">B009</text><rect x="488.0" y="276" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="577.8" y="276" width="314.2" height="17" rx="3" fill="#5ba36b"><title>B014 · GROWER · 228두
+2026-09-10 → 2026-11-05 (56일)</title></rect><text x="581.8" y="288" class="gb">B014</text><text x="77" y="310" class="bl" text-anchor="end">G-5</text><rect x="84" y="297" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="297" width="44.9" height="17" rx="3" fill="#5ba36b"><title>B005 · GROWER · 228두
+2026-05-07 → 2026-07-02 (56일)</title></rect><text x="88.0" y="309" class="gb">B005</text><rect x="128.9" y="297" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="218.7" y="297" width="359.1" height="17" rx="3" fill="#5ba36b"><title>B010 · GROWER · 228두
+2026-07-16 → 2026-09-10 (56일)</title></rect><text x="222.7" y="309" class="gb">B010</text><rect x="577.8" y="297" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="667.6" y="297" width="224.4" height="17" rx="3" fill="#5ba36b"><title>B015 · GROWER · 228두
+2026-09-24 → 2026-11-19 (56일)</title></rect><text x="671.6" y="309" class="gb">B015</text><text x="77" y="331" class="bl" text-anchor="end">B-1</text><rect x="84" y="318" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="128.9" y="318" width="314.2" height="17" rx="3" fill="#c79338"><title>B005 · FINISHER · 226두
+2026-07-02 → 2026-08-20 (49일)</title></rect><text x="132.9" y="330" class="gb">B005</text><rect x="443.1" y="318" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="488.0" y="318" width="314.2" height="17" rx="3" fill="#c79338"><title>B009 · FINISHER · 226두
+2026-08-27 → 2026-10-15 (49일)</title></rect><text x="492.0" y="330" class="gb">B009</text><rect x="802.2" y="318" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="847.1" y="318" width="44.9" height="17" rx="3" fill="#c79338"><title>B013 · FINISHER · 226두
+2026-10-22 → 2026-12-10 (49일)</title></rect><text x="851.1" y="330" class="gb">B013</text><text x="77" y="352" class="bl" text-anchor="end">B-2</text><rect x="84" y="339" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="339" width="89.8" height="17" rx="3" fill="#c79338"><title>B002 · FINISHER · 226두
+2026-05-15 → 2026-07-09 (55일)</title></rect><text x="88.0" y="351" class="gb">B002</text><rect x="173.8" y="339" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="218.7" y="339" width="314.2" height="17" rx="3" fill="#c79338"><title>B006 · FINISHER · 226두
+2026-07-16 → 2026-09-03 (49일)</title></rect><text x="222.7" y="351" class="gb">B006</text><rect x="532.9" y="339" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="577.8" y="339" width="314.2" height="17" rx="3" fill="#c79338"><title>B010 · FINISHER · 226두
+2026-09-10 → 2026-10-29 (49일)</title></rect><text x="581.8" y="351" class="gb">B010</text><text x="77" y="373" class="bl" text-anchor="end">B-3</text><rect x="84" y="360" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="360" width="179.6" height="17" rx="3" fill="#c79338"><title>B003 · FINISHER · 226두
+2026-05-29 → 2026-07-23 (55일)</title></rect><text x="88.0" y="372" class="gb">B003</text><rect x="263.6" y="360" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="308.4" y="360" width="314.2" height="17" rx="3" fill="#c79338"><title>B007 · FINISHER · 226두
+2026-07-30 → 2026-09-17 (49일)</title></rect><text x="312.4" y="372" class="gb">B007</text><rect x="622.7" y="360" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="667.6" y="360" width="224.4" height="17" rx="3" fill="#c79338"><title>B011 · FINISHER · 226두
+2026-09-24 → 2026-11-12 (49일)</title></rect><text x="671.6" y="372" class="gb">B011</text><text x="77" y="394" class="bl" text-anchor="end">B-4</text><rect x="84" y="381" width="808.0" height="17" rx="3" fill="var(--surface2)" fill-opacity=".5"/><rect x="84.0" y="381" width="269.3" height="17" rx="3" fill="#c79338"><title>B004 · FINISHER · 226두
+2026-06-12 → 2026-08-06 (55일)</title></rect><text x="88.0" y="393" class="gb">B004</text><rect x="353.3" y="381" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="398.2" y="381" width="314.2" height="17" rx="3" fill="#c79338"><title>B008 · FINISHER · 226두
+2026-08-13 → 2026-10-01 (49일)</title></rect><text x="402.2" y="393" class="gb">B008</text><rect x="712.4" y="381" width="44.9" height="17" rx="2" fill="url(#wash)"><title>세척·소독·건조 7일</title></rect><rect x="757.3" y="381" width="134.7" height="17" rx="3" fill="#c79338"><title>B012 · FINISHER · 226두
+2026-10-08 → 2026-11-26 (49일)</title></rect><text x="761.3" y="393" class="gb">B012</text><rect x="84" y="412" width="9" height="9" rx="2" fill="#d4728a"/><text x="97" y="420" class="tk">포유자돈</text><rect x="150" y="412" width="9" height="9" rx="2" fill="#6aa9dd"/><text x="163" y="420" class="tk">이유자돈(전기)</text><rect x="260" y="412" width="9" height="9" rx="2" fill="#4b86c4"/><text x="273" y="420" class="tk">이유자돈(후기)</text><rect x="370" y="412" width="9" height="9" rx="2" fill="#5ba36b"/><text x="383" y="420" class="tk">육성돈</text><rect x="425" y="412" width="9" height="9" rx="2" fill="#c79338"/><text x="438" y="420" class="tk">비육돈</text><rect x="480" y="412" width="9" height="9" rx="2" fill="url(#wash)"/><text x="493" y="420" class="tk">세척(공백기)</text></svg>
+<div class="note">warm-up 175일(파이프라인이 차기 전 구간) 이후 126일.
+정상 상태 가동률 <b>69.4%</b> — 현재 재실 12 ·
+세척 1 · 빈방 5 (총 18방).</div></div>
+
+<h2>4. 시뮬레이션 — 420일을 하루씩</h2>
+<div class="h2d">전이 규칙(일령 도달 AND 빈 돈방 → 배치 통째 이동, 전출 후 세척, 역류 금지)으로 돌린다.
+빈 방이 2일 연속 없으면 병목으로 기록한다.</div>
+<div class="card warn"><div class="bnrow"><span class="tag err">V2</span><span>비육돈 입식 불가 — finisher사(비육돈) 수용능력 부족. 필요 돈방 5, 보유 4</span><span class="cnt">90일</span></div>
+<div class="note">비육사가 한 방 모자라면 앞 단계가 밀린다. 육성돈이 못 나가면 이유자돈이 갈 곳이 없고, 결국 분만사까지 거슬러 올라간다 — 병목은 그 지점 하나의 문제가 아니다.
+같은 설계를 <b>소요량대로 지어</b> 돌리면 경고 <b>0건</b>이다 —
+이 도구가 아무 데서나 경보를 내는 게 아니라는 확인이다.</div></div>
+
+<h2>5. what-if — 같은 분만틀로 무엇이 달라지나</h2>
+<div class="h2d">배치 간격을 바꾸면 필요 돈방과 모돈 규모가 함께 움직인다.
+간격이 길수록 시설은 덜 들지만 <b>한 배치가 어긋났을 때의 손실이 커진다</b>.</div>
+<div class="card"><table><thead><tr><th>시스템</th><th>간격</th><th>배치수</th>
+<th>배치당 교배</th><th>모돈규모</th><th>배치당 이유</th><th>포유자돈</th><th>이유자돈(전기)</th><th>이유자돈(후기)</th><th>육성돈</th><th>비육돈</th>
+<th>총 돈방</th><th>최소여유</th></tr></thead>
+<tbody><tr><td><b>WEEKLY</b></td><td>1주</td><td>20</td><td>24</td><td>485</td><td>240</td><td>4</td><td>5</td><td>5</td><td>9</td><td>9</td><td><b>32</b></td><td>0일</td></tr><tr class="cur"><td><b>B2W</b> <span class="tag">현재</span></td><td>2주</td><td>10</td><td>24</td><td>263</td><td>240</td><td>2</td><td>3</td><td>3</td><td>5</td><td>5</td><td><b>18</b></td><td>0일</td></tr><tr><td><b>B3W</b></td><td>3주</td><td>7</td><td>24</td><td>190</td><td>240</td><td>2</td><td>2</td><td>2</td><td>3</td><td>3</td><td><b>12</b></td><td>1일</td></tr><tr><td><b>B4W</b></td><td>4주</td><td>5</td><td>24</td><td>153</td><td>240</td><td>1</td><td>2</td><td>2</td><td>3</td><td>3</td><td><b>11</b></td><td>0일</td></tr><tr><td><b>B5W</b></td><td>5주</td><td>4</td><td>24</td><td>130</td><td>240</td><td>1</td><td>1</td><td>1</td><td>2</td><td>2</td><td><b>7</b></td><td>3일</td></tr></tbody></table>
+<div class="note">배치당 교배·이유 두수가 어느 시스템에서나 같은 것은 <b>분만틀 수만의 함수</b>이기 때문이다.
+바뀌는 것은 <b>얼마나 자주</b> 그 일이 돌아오는가이고, 그래서 모돈 규모와 돈방 수가 달라진다.<br>
+소규모 농장이 5주 배치를 택하는 이유가 이 표에 있다 — 총 돈방
+7개면 되고 작업이 한 주에 몰린다.
+대신 배치 하나가 깨지면 5주치가 날아간다.</div></div>
+
+<h2>6. KPI — 어디에 대고 재는가</h2>
+<div class="h2d">PSY 만 보면 안 된다. 국내는 이유까지는 준수한데 <b>이유 후에 흘린다</b> —
+PSY 대비 MSY 격차가 그 손실이다.</div>
+<div class="card"><svg viewBox="0 0 880 198" width="100%" role="img" aria-label="PSY MSY 벤치마크 비교"><text x="168" y="24" class="bl hi" text-anchor="end">이 설계 (시뮬레이션)</text><rect x="176" y="8" width="412.1" height="14" rx="3" fill="#2a78d6" fill-opacity="1"/><text x="594.1" y="19" class="bv">PSY 23.8</text><rect x="176" y="26" width="388.0" height="14" rx="3" fill="#e8a33d" fill-opacity="1"/><text x="570.0" y="37" class="bv">MSY 22.4</text><text x="168" y="68" class="bl" text-anchor="end">한돈팜스 전체 평균</text><rect x="176" y="52" width="395.2" height="14" rx="3" fill="#2a78d6" fill-opacity=".6"/><text x="577.2" y="63" class="bv">PSY 22.8</text><rect x="176" y="70" width="319.0" height="14" rx="3" fill="#e8a33d" fill-opacity=".6"/><text x="501.0" y="81" class="bv">MSY 18.4</text><text x="168" y="112" class="bl" text-anchor="end">부경양돈농협 상위</text><rect x="176" y="96" width="473.3" height="14" rx="3" fill="#2a78d6" fill-opacity=".6"/><text x="655.3" y="107" class="bv">PSY 27.3</text><rect x="176" y="114" width="400.4" height="14" rx="3" fill="#e8a33d" fill-opacity=".6"/><text x="582.4" y="125" class="bv">MSY 23.1</text><text x="168" y="156" class="bl" text-anchor="end">덴마크</text><rect x="176" y="140" width="542.6" height="14" rx="3" fill="#2a78d6" fill-opacity=".6"/><text x="724.6" y="151" class="bv">PSY 31.3</text><rect x="176" y="158" width="506.2" height="14" rx="3" fill="#e8a33d" fill-opacity=".6"/><text x="688.2" y="169" class="bv">MSY 29.2</text><text x="176" y="192" class="tk"><tspan fill="#2a78d6">■</tspan> PSY(이유두수/모돈/년) &#160;<tspan fill="#e8a33d">■</tspan> MSY(출하두수/모돈/년)</text></svg>
+<div class="note">이 설계의 PSY 23.77 → MSY 22.38 (이유후 생존
+94.2%, 이유 4,320두 → 출하 4,068두,
+출하 배치 18개 · <b>동일 코호트</b>).<br>
+<b>이 값들은 설계 상한이다.</b> 시뮬레이터는 모든 배치가 분만틀을 채운다고 보므로,
+재발정·유산 손실은 분만율 85% 로만 들어간다.
+이론 회전율 2.61 vs 설정 2.35 의 차이가
+현장에서 실제로 새는 몫이고, 그 대부분이 <b>비생산일수</b>다.</div></div>
+
+<h2>7. 왜 발정 탐지와 한 앱인가</h2>
+<div class="h2d">두 기능을 억지로 붙인 게 아니다. <b>배치는 이유 직후 7일 안에 교배해야 만들어진다</b> —
+그 창을 놓친 모돈은 다음 배치로 밀리고, 배치가 흩어지면 이 페이지의 계산이 전부 무너진다.</div>
+<div class="card"><div class="flow">
+  <div class="fx"><b>이유</b><span>D0</span></div>
+  <div class="fa">→ 3~7일 내 발정</div>
+  <div class="fx"><b>발정 탐지</b><span>CCTV·활동량</span></div>
+  <div class="fa">→ 적기 교배</div>
+  <div class="fx"><b>분만율</b><span>85% 유지</span></div>
+  <div class="fa">→ 분만틀 충진</div>
+  <div class="fx"><b>배치 유지</b><span>AIAO 성립</span></div>
+</div>
+<div class="note">놓친 모돈 1두는 단순히 21일 늦는 게 아니라 <b>배치 크기를 줄인다</b>.
+배치가 분만틀을 못 채우면 그 방은 비고, 뒤 단계 돈방도 덜 차서 가동률이 떨어진다.
+반대로 밀린 모돈이 다음 배치에 얹히면 그 배치가 넘쳐 과밀이 된다.</div></div>
+
+<h2>8. 그래도 번식만 봐서는 안 된다 — 지렛대 순서</h2>
+<div class="h2d">모든 개선을 <b>같은 단위(원/년)</b> 로 환산해 세워야 투자 우선순위를 정할 수 있다.
+모돈 263두 기준.</div>
+<div class="card"><table><thead><tr><th>지렛대</th><th>연간효과</th>
+<th>모돈 두당</th><th>경로</th><th>이 앱</th></tr></thead>
+<tbody><tr><td><b>지육 단가 +100원</b></td><td>47,443,517원</td><td>180,394원</td><td>시세(농장이 못 바꾼다)</td><td>⬜ 통제 불가</td></tr><tr><td><b>FCR -0.1</b></td><td>39,246,754원</td><td>149,227원</td><td>사료 관리·밀도 개선</td><td>✅ 앱이 다룸</td></tr><tr><td><b>PSY +1두</b></td><td>32,886,572원</td><td>125,044원</td><td>발정 탐지·적기 교배 → 수태율·회전율</td><td>✅ 앱이 다룸</td></tr><tr><td><b>이유후 육성률 +2%p</b></td><td>18,355,296원</td><td>69,792원</td><td>배치·AIAO·환경 → 폐사 감소</td><td>✅ 앱이 다룸</td></tr></tbody></table>
+<div class="note">사료가 생산비의 <b>60%</b> 라
+FCR 0.1 개선이 PSY +1두보다 크다. 발정 탐지만 붙들고 있으면 더 큰 것을 놓친다는 뜻이고,
+이 앱이 발정 관리에서 <b>전체 관리</b>로 넘어간 근거가 이 표다.<br>
+손익분기 지육단가 <b>3,996원/kg</b>
+(가정 시세 5,200원) — 시세가 이 아래면 성적이 좋아도 적자다.</div></div>
+
+<div class="note">※ 설정: <code>competition/pigflow/example_farm.yaml</code>
+(분만틀 20 · B2W · 비육사를 <b>일부러 한 방 부족하게</b> 잡아
+병목 탐지를 보인다). 농장 YAML 을 바꾸면 이 페이지 전체가 그 농장 값으로 다시 계산된다.<br>
+※ <b>배치 1개 = 돈방 1개</b>로 모델링한다. 실제로는 한 배치를 여러 펜에 나누는 농장이 많으므로,
+여기서 “돈방”은 물리적 펜이 아니라 <b>한 배치를 통째로 받는 단위 공간</b>으로 읽어야 한다.<br>
+※ 사육일수·폐사율·단가는 국내 관행 초기값이다. 농장 전산기록으로 바꾸지 않으면 그 농장의 계산이 아니다.
+결론으로 삼을 것은 절대 금액이 아니라 <b>지렛대의 순서</b>다.<br>
+※ 재현: <code>python -m pigflow --config competition/pigflow/example_farm.yaml</code> ·
+검산 테스트 <code>python competition/pigflow/tests/test_pigflow.py</code></div>
+</div></body></html>

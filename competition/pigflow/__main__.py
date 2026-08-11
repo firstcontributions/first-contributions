@@ -1,5 +1,6 @@
 """돈군흐름 데모 — 명세 요구사항 4·5.
 
+    cd competition                        # 또는 PYTHONPATH=competition
     python -m pigflow                     # 기본값(분만틀 10, 주간배치)
     python -m pigflow --config farm.yaml  # 농장 설정
     python -m pigflow --gantt farrowing   # 특정 돈사 점유 간트

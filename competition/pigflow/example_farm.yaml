@@ -1,6 +1,6 @@
 # 예시 농장 — 분만틀 20개 · 2주 배치(B2W) · 모돈 약 270두
 #
-#   python -m pigflow --config competition/pigflow/example_farm.yaml
+#   PYTHONPATH=competition python -m pigflow --config competition/pigflow/example_farm.yaml
 #
 # 이 예시는 **일부러 비육사 돈방을 하나 부족하게** 잡았다(필요 5 · 보유 4).
 # 현장에서 가장 흔한 실수가 번식·분만 쪽만 늘리고 비육 수용력을 그대로 두는
