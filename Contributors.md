@@ -1,5 +1,5 @@
 # Contributors
-- rishit the backend enginner
+- rishit backend enginner
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tanmay Dixit](https://github.com/tdixit547)
 - [Tanmay Dixit BT2024016](https://github.com/tdixit547)
