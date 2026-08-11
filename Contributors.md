@@ -4,7 +4,8 @@
 - Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
-- Parth Sutaria BT2024028
+- Karan Mansuria BT2024104 
+- Parth Sutaria BT20240:wq28
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - [Akshay-K-M_IMT2024014] (https://github.com/Akshay-K-M)
