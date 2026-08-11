@@ -169,6 +169,33 @@ python competition/src/aihub.py download 71471 511411,511417,511459,511465
 `src/` 파이프라인의 정형 데이터로 가공해 `data/train.csv` 형태로 만들어
 `eda.py` / `train.py` 에 연결하면 된다.
 
+### 6-1. `tar: This does not look like a tar archive` — 먼저 크기를 본다
+
+이 메시지는 원인이 여러 개인데 문구가 하나라 구분이 안 된다. **파일을 열어 보기
+전에는 알 수 없으므로** 진단 도구를 쓴다:
+
+```bash
+python competition/tools/check_download.py <파일 또는 디렉터리>
+```
+
+실제로 겪은 것들:
+
+| 증상 | 진짜 원인 | 대처 |
+|---|---|---|
+| `.tar` 가 **0바이트** | 다운로드가 시작도 못 함(세션 만료·전송 중단) | 다시 받는다. `ls -la` 로 크기부터 확인 |
+| 82바이트 `.tar` | 내용이 `AI 허브는 해외에서의 데이터 다운로드를 제한하고 있습니다.` — **에러 문구가 tar 이름으로 내려옴** | §7 국내망 절차 |
+| `.tar` 인데 `.irx122` 등 낯선 확장자가 붙음 | 보안·반출통제 솔루션이 확장자만 바꾼 것. **내용은 평범한 tar** | `tar -xf 파일.tar.irx122` 로 그냥 열린다 |
+| 헤더는 맞는데 중간에 끊김 | 전송 잘림. tar 는 앞부분만 온전해도 그만큼 풀어 주므로 **성공한 것처럼 보인다** | 원본 크기와 대조 후 재다운로드. 급하면 `tar -xf 파일 --ignore-zeros` |
+| 39바이트 `.tar` | 내용이 `페이지가 존재하지 않습니다.` — **filekey 만료·오타** | `aihub.py tree <datasetkey>` 로 최신 filekey 재조회 |
+| 조각 10개 초과 | `cat *.part*` 가 part10 을 part2 앞에 놓아 순서가 섞인다 | `ls -v *.part* \| xargs cat > merged.tar` |
+
+> **주의: `Pig_Polygon.tar` / `pig_bbox.tar` 는 데이터가 아니라 도커 이미지다.**
+> `docker save` 산출물(`<sha256>/json` · `layer.tar` · `VERSION` 구조)이며
+> `docker load -i` 로 적재하는 **학습 환경**이다. 보통 수 GB 라 중간에 잘리기 쉽다.
+> 우리가 필요한 것은 `1.rawdata`(이미지 + `annotations.xml`)이고, 변환은
+> `src/parse_pig_polygon.py` 가 이미 처리한다(CVAT XML → COCO/YOLO-seg,
+> **이미지 단위** 분할). CPU 전용 환경에서는 이 도커 이미지를 받아도 실익이 없다.
+
 ## 7. ⚠️ 해외 다운로드 제한(지역 차단)과 해결법
 
 AI Hub는 **데이터 다운로드를 국내 IP에서만** 허용한다. 조회는 되지만 다운로드는 막힌다.

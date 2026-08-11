@@ -1658,6 +1658,86 @@ def test_dashboard_builders() -> None:
     assert "pigflow_console.html" in idx
 
 
+def test_check_download() -> None:
+    """다운로드 진단: 6가지 실패 유형을 각각 맞게 짚는지."""
+    import contextlib
+    import gzip
+    import importlib.util
+    import io
+    import tarfile
+    import tempfile
+
+    path = os.path.join(ROOT, "tools", "check_download.py")
+    spec = importlib.util.spec_from_file_location("_chk", path)
+    cd = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(cd)
+
+    def run(p):
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            rc = cd.check(p)
+        return rc, buf.getvalue()
+
+    with tempfile.TemporaryDirectory() as d:
+        ok = os.path.join(d, "ok.tar")
+        with tarfile.open(ok, "w") as t:
+            f = os.path.join(d, "a.txt")
+            open(f, "w").write("hi")
+            t.add(f, arcname="a.txt")
+        rc, out = run(ok)
+        assert rc == 0 and "정상" in out and "종료 블록" in out, out
+
+        # 잘린 tar — tarfile 은 조용히 통과시키므로 종료 블록을 직접 봐야 한다.
+        # 이 검사가 없을 때 2,000바이트 파일이 '정상'으로 나왔다(회귀 방지).
+        trunc = os.path.join(d, "trunc.tar")
+        open(trunc, "wb").write(open(ok, "rb").read()[:2000])
+        rc, out = run(trunc)
+        assert rc == 1 and "잘렸다" in out, out
+
+        # 에러 문구가 tar 로 위장 — 실제로 이 저장소에서 나왔던 82바이트 파일
+        err = os.path.join(d, "err.tar")
+        open(err, "w", encoding="utf-8").write(
+            "AI 허브는 해외에서의 데이터 다운로드를 제한하고 있습니다.")
+        rc, out = run(err)
+        assert rc == 1 and "해외 IP 차단" in out, out
+
+        htm = os.path.join(d, "h.tar")
+        open(htm, "w", encoding="utf-8").write("<!DOCTYPE html>로그인이 필요합니다")
+        rc, out = run(htm)
+        assert rc == 1 and "HTML" in out and "인증 실패" in out, out
+
+        gz = os.path.join(d, "g.tar")
+        open(gz, "wb").write(gzip.compress(open(ok, "rb").read()))
+        rc, out = run(gz)
+        assert rc == 1 and "gzip" in out, out
+
+        # 분할 조각 12개 — 10을 넘으면 알파벳 정렬이 순서를 뒤섞으므로 ls -v
+        raw = open(ok, "rb").read()
+        step = max(1, len(raw) // 12)
+        for i in range(12):
+            open(os.path.join(d, f"s.tar.part{i:02d}"), "wb").write(
+                raw[i * step:(i + 1) * step])
+        rc, out = run(os.path.join(d, "s.tar.part00"))
+        assert rc == 1 and "분할 조각 12개" in out, out
+        assert "ls -v" in out, "10조각 초과인데 정렬 함정을 경고하지 않는다"
+
+        # 실제로 받은 39바이트 tl.tar/vl.tar — filekey 만료
+        nf = os.path.join(d, "nf.tar")
+        open(nf, "w", encoding="utf-8").write("페이지가 존재하지 않습니다.")
+        rc, out = run(nf)
+        assert rc == 1 and "filekey" in out and "tree" in out, out
+
+        rc, out = run(os.path.join(d, "없는파일.tar"))
+        assert rc == 1
+
+    # 조각 탐색이 .partNN 만 잡고 무관한 파일을 끌어오지 않는지
+    with tempfile.TemporaryDirectory() as d:
+        for n in ("x.tar.part00", "x.tar.part01", "x.tar", "other.zip"):
+            open(os.path.join(d, n), "wb").write(b"\0")
+        assert cd.find_parts(os.path.join(d, "x.tar")) == \
+            ["x.tar.part00", "x.tar.part01"]
+
+
 def test_farm_economics() -> None:
     """생산비 구조: 사료 비중·손익분기·지렛대 순서."""
     import farm_economics as fe
@@ -1761,7 +1841,7 @@ def main() -> int:
              test_farm_registry, test_breeding_ledger, test_barn_environment,
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
-             test_pigflow_package]
+             test_pigflow_package, test_check_download]
     failed = 0
     for t in tests:
         try:
