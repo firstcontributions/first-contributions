@@ -11,6 +11,7 @@
 - [Addoroar](https://github.com/Addoroar)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
+- [Soham Banerjee](https://github.com/oki-dokii)
 - [kiron](https://github.com/KironLimbu)
 - Amith
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
