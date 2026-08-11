@@ -27,6 +27,7 @@
 - Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
 - Amith
+- [krishna](https://github.com/PVK3126)
 - [Uchenna Bethel Orji](https://github.com/ucbethuel)
 - [bearbau](https://github.com/bearbau)
 - [Avadh Savaliya](https://github.com/avadh-7)
