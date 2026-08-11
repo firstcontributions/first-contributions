@@ -103,6 +103,7 @@ Varshith IMT2024044
 - MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Saketh Kumar Reddy Chagari BT2024183
+- [Harshavardhan Reddy_BT2024064](https://github.com/HarshaVPolar)
 - Pennam Nikhil
 - Sai sathvik K
 - IMT2024065
