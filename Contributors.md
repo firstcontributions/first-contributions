@@ -3517,6 +3517,7 @@ aaaa
 - [Dan Dobrin](https://github.com/dandob1)
 - [Mia](https://github.com/miawritten)
 - [Ogatsuki](https://github.com/Ogatsuki)
+- Jos Samuel Biju
 - [ASihweil] (https://github.com/ASihweil)
 - [HarshMehta9000](https://github.com/HarshMehta9000)
 - [Nikhil2005Rai](https://github.com/Nikhil2005Rai)
