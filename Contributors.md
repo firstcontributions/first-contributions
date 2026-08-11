@@ -19,6 +19,7 @@
 - HelaElbez
 - first contribution
 - Kartik
+- Aryan Sharma BT2024212
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
