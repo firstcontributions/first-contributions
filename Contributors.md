@@ -37,6 +37,7 @@
 - Savani Vedant Vijay BT2024191
 - Gagan
 - Rohit Negi
+- MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Pennam Nikhil
 - IMT2024065
