@@ -80,6 +80,7 @@
 - [hui455](https://github.com/hui455)
 -[shuvronil](https://github.com/shuvronilmondal3)
 - [Kaustubh](https://github.com/Kaustubh0404)
+- 
 - [ODbeke](https://github.com/ODbeke)
 - [Haikal Taufiq](https://github.com/haikaltaufiq)
 - [Darshan Bothra](https://github.com/DarshanBothra)
@@ -252,6 +253,7 @@ nathan practice here
 - [Satyajeet sahoo](https://github.com/satyajeet-sahoo)
 - [Harsshitha L](https://github.com/harshulaxman)
 - [mikel-btw](https://github.com/mikel-btw)
+- rishi
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Jaideep](https://github.com/jaysinghrajpurohit913-stack)
 - [Ankita Priyadarshini Pallai](https://github.com/AnkitaPriyadarshini-repos)
