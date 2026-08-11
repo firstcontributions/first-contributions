@@ -253,6 +253,7 @@ nathan practice here
 - [Madhumitha](https://github.com/madhumithakk01)
 - [Tamil Kumaran]
 - [APB](https://github.com/amandapbrown)
+- [Raj Vardhan Gutha](IMT2024003)
 - [Prachi](https://github.com/prachu25)
 - [Erika Buckley](https://github.com/Erikabuckley)
 - [Esraa Bakkar](https://github.com/Esraa-Bakkar)
