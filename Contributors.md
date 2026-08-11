@@ -1,6 +1,7 @@
 # Contributors
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
+- Parth Sutaria BT2024028
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - BT2024088
@@ -26,6 +27,7 @@
 - [betterkite502](https://github.com/betterkite)
 - First contribution
 - Second Contribution
+
 - Joseph Francis
 - Ankita Gupta
 - HelaElbez
