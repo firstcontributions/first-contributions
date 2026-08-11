@@ -2417,6 +2417,7 @@ Amna Naeem
 - [Sanyam Kumari](https://github.com/sanyam0495)
 - [Alex Hanna](https://github.com/AlexHan-prog)
 - [Saptarshi Kuila](https://github.com/sap6011)
+- Jos Samuel Biju BT2024175
 - [Saqib Anjum Masoodi](https://github.com/SaqibMasoodi)
 - [Saqib](https://github.com/saq12)
 - [Sara Bekele](https://github.com/sarabekele30-cyber)
