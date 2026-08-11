@@ -4183,6 +4183,7 @@ Megan Das
 - [vishyatchennai2026](https://github.com/vishyatchennai2026)
 - [markchang](https://github.com/13603601431mayc-cell)
 - [buiducnhat](https://github.com/buiducnhat)
+- [Rudra Hardik Shroff](https://github.com/rudra-shroff06)
 - [kritika](https://github.com/Kxor8)
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
