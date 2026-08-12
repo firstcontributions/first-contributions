@@ -13,6 +13,7 @@ Hiroyuki19830823
 - Dinesh BT2024199 (a+b)^3 = a^3 + b^3 + 3ab(a+b)
 - Abhinav Bhatia BT2024156 (a+b)^2 = a^2 + 2ab + b^2
 - [Pulkit Pandey](https://github.com/COolAlien35)
+- [Vedant Kapil](https://github.com/Vedant021004)
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
