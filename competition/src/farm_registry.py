@@ -246,42 +246,79 @@ class Farm:
 
 # --------------------------------------------------------------------------
 def demo_farm(n_sows: int = 68) -> Farm:
-    """전형적인 일관농장 구조 — 교배사(스톨)·임신사(군사)·분만사·후보사."""
+    """전형적인 일관농장 구조 — 교배사(스톨)·임신사(군사)·분만사·후보사.
+
+    **자리 수를 두수에 맞춰 만든다.** 처음엔 배치가 68두로 고정돼 있어서
+    n_sows 를 300 으로 줘도 68두만 배치되고 나머지는 조용히 사라졌다.
+    실제 농장 도면이 들어오면 이 함수 대신 Farm 을 직접 구성한다.
+
+    구성 비율은 번식주기에서 나온다 — 임신 115일 · 포유 24일 · 이유~교배 7일:
+      교배사(스톨)  이유~임신확인 약 5주      → 약 25%
+      임신사(군사)  임신확인~분만 약 11주     → 약 55%
+      분만사(분만틀) 분만 전후 약 4주         → 약 15%
+      후보사        전입 대기                → 약 5%
+    """
     f = Farm("시연농장")
     (f.add_barn("1동", "교배사", "이유 후 발정 확인 + 교배")
       .add_barn("2동", "임신사", "임신 확인 후 군사 전환")
       .add_barn("3동", "분만사", "분만 7일 전 이동")
       .add_barn("4동", "후보사", "순치 중인 후보돈"))
-    for col in ("A열", "B열"):
-        f.add_pen("1동", col, "stall", 12)
-    for i in (1, 2, 3):
-        f.add_pen("2동", f"{i}방", "group", 10)
-    f.add_pen("3동", "분만실", "crate", 12)
-    f.add_pen("4동", "순치방", "group", 12)
+
+    n = max(1, int(n_sows))
+    n_mate = max(1, round(n * 0.25))
+    n_gest = max(1, round(n * 0.55))
+    n_farrow = max(1, round(n * 0.15))
+    n_gilt = max(1, n - n_mate - n_gest - n_farrow)
+
+    # 교배사: 스톨 열당 12자리
+    STALL_PER_COL = 12
+    cols = [f"{chr(ord('A') + i)}열" for i in
+            range(max(1, -(-n_mate // STALL_PER_COL)))]
+    for c in cols:
+        f.add_pen("1동", c, "stall", STALL_PER_COL)
+    # 임신사: 군사 방당 10두
+    GROUP_SIZE = 10
+    gpens = [f"{i}방" for i in range(1, max(1, -(-n_gest // GROUP_SIZE)) + 1)]
+    for g in gpens:
+        f.add_pen("2동", g, "group", GROUP_SIZE)
+    # 분만사: 분만틀 방당 12틀
+    CRATE_PER_ROOM = 12
+    frooms = [f"분만{i}실" for i in
+              range(1, max(1, -(-n_farrow // CRATE_PER_ROOM)) + 1)]
+    for r in frooms:
+        f.add_pen("3동", r, "crate", CRATE_PER_ROOM)
+    f.add_pen("4동", "순치방", "group", max(1, n_gilt))
 
     idx = 0
-    for col in ("A열", "B열"):
-        for s in range(1, 13):
-            if idx >= n_sows:
-                break
-            f.place(f"{2000 + idx}", "1동", col, s)
-            idx += 1
-    for i in (1, 2, 3):
-        for _ in range(9):
-            if idx >= n_sows:
-                break
-            f.place(f"{2000 + idx}", "2동", f"{i}방")
-            idx += 1
-    for s in range(1, 11):
-        if idx >= n_sows:
-            break
-        f.place(f"{2000 + idx}", "3동", "분만실", s)
-        idx += 1
-    for _ in range(8):
-        if idx >= n_sows:
-            break
-        f.place(f"{2000 + idx}", "4동", "순치방")
-        idx += 1
+
+    def place_slots(barn, pens, per, want):
+        """번호 자리가 있는 돈방(스톨·분만틀)에 채운다."""
+        nonlocal idx
+        done = 0
+        for pen in pens:
+            for s in range(1, per + 1):
+                if done >= want:
+                    return
+                f.place(f"{2000 + idx}", barn, pen, s)
+                idx += 1
+                done += 1
+
+    def place_group(barn, pens, per, want):
+        """자리 번호가 없는 군사방."""
+        nonlocal idx
+        done = 0
+        for pen in pens:
+            for _ in range(per):
+                if done >= want:
+                    return
+                f.place(f"{2000 + idx}", barn, pen)
+                idx += 1
+                done += 1
+
+    place_slots("1동", cols, STALL_PER_COL, n_mate)
+    place_group("2동", gpens, GROUP_SIZE, n_gest)
+    place_slots("3동", frooms, CRATE_PER_ROOM, n_farrow)
+    place_group("4동", ["순치방"], max(1, n_gilt), n_gilt)
     return f
 
 

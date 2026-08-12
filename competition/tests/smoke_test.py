@@ -2200,6 +2200,86 @@ def test_farm_gap() -> None:
     assert fg.robust_z(q["p75"], q) > 0 > fg.robust_z(q["p25"], q)
 
 
+def test_run_farm_end_to_end() -> None:
+    """모돈 두수 하나로 전체가 도는가 — 이게 안 되면 시연을 못 한다."""
+    import contextlib
+    import io
+    import farm_registry as fr
+    import run_farm as rfm
+    from pigflow import calc
+    from pigflow.config import default_config
+
+    # 두수 → 분만틀 역산이 실제로 그 두수를 만드는지
+    cfg = default_config()
+    for n in (150, 300, 600):
+        cr = rfm.crates_for_sows(n, cfg)
+        cfg2 = default_config()
+        cfg2.crate_count = cr
+        got = calc.plan(cfg2)["sow_inventory"]
+        assert abs(got - n) / n < 0.10, f"{n}두 요청 → {got:.0f}두 (분만틀 {cr})"
+        # 단조: 두수가 크면 분만틀도 커야 한다
+        assert cr >= rfm.crates_for_sows(max(50, n // 2), cfg)
+    assert rfm.crates_for_sows(1, cfg) >= 1        # 하한에서 0 이 나오면 안 된다
+
+    # 도면은 두수에 맞춰 자리를 만들어야 한다. 처음엔 68두로 고정돼 있어서
+    # 300 을 줘도 68두만 배치되고 나머지가 조용히 사라졌다.
+    for n in (68, 300, 500):
+        f = fr.demo_farm(n)
+        assert len(f._where) == n, f"{n}두 요청 → {len(f._where)}두 배치"
+        occ = f.occupancy()
+        assert (occ["n"] <= occ["capacity"]).all(), "수용능력 초과"
+        assert set(occ["stage"]) == {"교배사", "임신사", "분만사", "후보사"}
+        # 임신사가 가장 크다(임신 115일이 주기의 대부분)
+        by = occ.groupby("stage")["n"].sum()
+        assert by["임신사"] == by.max(), dict(by)
+
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        r = rfm.run(300, days=250)
+    out = buf.getvalue()
+
+    assert r["n_sows"] == 300 and r["placed"] == 300
+    assert r["findings"]["n"] == 0, "설계대로 지었는데 경고가 난다"
+    assert r["plan"]["services_per_batch"] > 0
+    assert 0 < r["kpi"]["psy"] < 40 and r["kpi"]["msy"] < r["kpi"]["psy"]
+    assert 0 < r["growth"]["survival"] <= 1.0
+    assert r["breakeven"] > 0
+    # 여섯 단계가 다 나와야 한다
+    for tag in ("①", "②", "③", "④", "⑤", "⑥"):
+        assert tag in out, f"{tag} 단계가 없다"
+
+    # **PSY 분모가 둘이다** — 설명 없이 나란히 두면 어느 쪽이 틀린 줄 안다.
+    # pigflow 는 후보돈 자리를 포함하고, 실측 비교는 번식돈 기준이다.
+    assert r["psy_breeding_only"] > r["kpi"]["psy"], \
+        "번식돈 기준 PSY 가 총모돈 기준보다 작다 — 분모 계산이 뒤집혔다"
+    assert "후보돈 자리" in out and "번식돈" in out, "분모 차이 설명이 없다"
+    assert abs(r["psy_breeding_only"] - r["gap"]["psy_median_farm"]) < 1.0, \
+        (r["psy_breeding_only"], r["gap"]["psy_median_farm"])
+
+    # 출처 표시 — 합성을 실측처럼 보이게 두면 안 된다
+    for word in ("실측", "가정", "합성"):
+        assert word in out, f"출처 구분에 '{word}' 가 없다"
+
+    # 성적을 나쁘게 주면 격차가 음수, 회수량이 양수
+    buf2 = io.StringIO()
+    with contextlib.redirect_stdout(buf2):
+        bad = rfm.run(300, days=250,
+                      farm_metrics={"npd": 62.0, "weaned": 10.0})
+    assert bad["gap"]["psy_gap"] < -1.0
+    top = bad["gap"]["rows"][0]
+    assert top["psy_recover"] > 0
+
+    # 필요 자료 목록 — 필수가 정확히 하나여야 혼란이 없다
+    req = [x for x in rfm.REQUIRED if x[1] == "필수"]
+    assert len(req) == 1 and "모돈" in req[0][0], req
+    for name, need, desc, fallback in rfm.REQUIRED:
+        assert desc and fallback, (name, desc, fallback)
+    buf3 = io.StringIO()
+    with contextlib.redirect_stdout(buf3):
+        assert rfm.main(["--data"]) == 0
+    assert "모돈 두수" in buf3.getvalue()
+
+
 def test_docs_consistent() -> None:
     """문서에 박힌 숫자가 실제와 맞는지. 어긋나면 나머지 수치도 못 믿게 된다.
 
@@ -2334,7 +2414,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_gap, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
