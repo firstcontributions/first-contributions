@@ -299,7 +299,7 @@ competition/
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
   docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md · PRESENTATION.md
-  src/   (77개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
+  src/   (78개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
     ── 인식   posture_crossview.py  view_align.py  motion_tracker.py  iou_tracker.py
     ── 번식   breeding_timing.py  repro_calendar.py  pregnancy_check.py
               herd_board.py  breeding_ledger.py  work_log.py
@@ -321,7 +321,7 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 57/57 통과 확인
+python competition/tests/smoke_test.py        # 58/58 통과 확인
 
 # ★ 전체 시뮬레이션 — 모돈 두수 하나로 설계·흐름·성적진단·손익까지
 python competition/src/run_farm.py --sows 300

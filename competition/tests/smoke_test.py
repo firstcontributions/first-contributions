@@ -2308,6 +2308,83 @@ def test_run_farm_end_to_end() -> None:
     assert "모돈 두수" in buf3.getvalue()
 
 
+def test_farm_monthly() -> None:
+    """월별 계절성·임신사고 구성 — 커버리지 함정을 피했는지가 핵심."""
+    import json
+    import numpy as np
+    import pandas as pd
+    import farm_monthly as fm
+
+    j = os.path.join(ROOT, "data", "farm_monthly.json")
+    assert os.path.exists(j), "집계 JSON 이 커밋돼 있어야 한다"
+    r = json.load(open(j, encoding="utf-8"))
+    assert r["n_farms"] >= 100 and r["n_obs"] >= 10_000
+    assert r["years"] and min(r["years"]) >= 2020 and max(r["years"]) <= 2023
+
+    # 분만율은 **분만 시점 기록**이라 교배월로 되돌려야 여름 효과가 보인다.
+    # 되돌리지 않으면 12월이 최저로 나와 계절 원인을 엉뚱하게 짚는다.
+    fr_ = r["farrowing_rate"]
+    assert fr_["basis"] == "교배월"
+    assert fr_["min_month"] in (7, 8), fr_["min_month"]
+    assert fr_["summer_minus_winter"] < 0, fr_
+    # 재귀율은 이유 직후 사건이라 기록월이 곧 발생월
+    assert r["return_7d"]["basis"] == "기록월"
+    assert r["return_7d"]["summer_minus_winter"] < 0
+
+    # 교배월 환산: 분만 12월 → 교배 8월
+    assert fm.service_month(12) == 8 and fm.service_month(1) == 9
+    assert all(1 <= fm.service_month(m) <= 12 for m in range(1, 13))
+    assert len({fm.service_month(m) for m in range(1, 13)}) == 12  # 전단사
+
+    a = r["accidents"]
+    assert 0 < a["return_share"] < 1
+    assert a["return_share"] > 0.5, "재발 계열이 과반이 아니면 논거가 흔들린다"
+    assert abs(sum(a["mix"].values()) - 1.0) < 0.01
+    # **커버리지 함정**: 전체 합으로 계산하면 1위가 바뀐다. 그걸 알고 있는지.
+    assert a["n_complete"] < a["n_all"]
+    assert a["mix_top"][0] != a["naive_mix_top"][0], \
+        "완전보고/전체합 1위가 같다 — 커버리지 보정이 무의미해졌는지 확인할 것"
+
+    # 함수 검증 — 합성 프레임으로. 여름에 분만율이 낮은 신호를 심고 찾는지.
+    rows = []
+    for farm in range(20):
+        for m in range(1, 13):
+            sm = fm.service_month(m)
+            v = 84.0 - (4.0 if sm in fm.SUMMER else 0.0)
+            rows.append({"년도": 2021, "지역": "-", "규모": "A",
+                         "농장": f"F{farm}", "데이터구분": "분만율",
+                         "월": f"{m}월", "v": v, "m": m})
+    d = pd.DataFrame(rows)
+    s1 = fm.seasonality(d, "분만율", shift_to_service=True)
+    assert s1["summer_minus_winter"] < -3.5, s1
+    s0 = fm.seasonality(d, "분만율", shift_to_service=False)
+    # 시프트하지 않으면 여름이 낮게 안 보인다 — 이게 함정의 실체다
+    assert s0["summer_minus_winter"] > s1["summer_minus_winter"], (s0, s1)
+    assert fm.seasonality(d, "없는지표") == {}
+
+    # 임신사고: 한 유형만 많이 보고되면 전체합이 그쪽으로 기운다
+    acc = []
+    for farm in range(60):
+        for m in range(1, 13):
+            acc.append({"년도": 2021, "지역": "-", "규모": "A",
+                        "농장": f"F{farm}", "데이터구분": "임신사고(공태)",
+                        "월": f"{m}월", "v": 3.0, "m": m})
+            if farm < 10:      # 소수 농장만 보고하는 유형
+                acc.append({"년도": 2021, "지역": "-", "규모": "A",
+                            "농장": f"F{farm}", "데이터구분": "임신사고(1차)",
+                            "월": f"{m}월", "v": 9.0, "m": m})
+    am = fm.accident_mix(pd.DataFrame(acc))
+    assert am["coverage"]["임신사고(공태)"] > am["coverage"]["임신사고(1차)"]
+    # 완전 보고분만 보면 1차(9) 가 공태(3) 보다 크다
+    assert am["mix"]["임신사고(1차)"] > am["mix"]["임신사고(공태)"], am["mix"]
+
+    # barn_environment 가 이 실측을 반영하는지
+    import barn_environment as be
+    assert be.SEASONAL_MEASURED["farrowing_rate_summer_gap_pp"] < 0
+    assert abs(be.SEASONAL_MEASURED["farrowing_rate_summer_gap_pp"]
+               - fr_["summer_minus_winter"]) < 0.2
+
+
 def test_docs_consistent() -> None:
     """문서에 박힌 숫자가 실제와 맞는지. 어긋나면 나머지 수치도 못 믿게 된다.
 
@@ -2442,7 +2519,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
