@@ -1,4 +1,5 @@
 # Contributors
+-Rishit Raman
 - rishit backend enginner
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tanmay Dixit](https://github.com/tdixit547)
