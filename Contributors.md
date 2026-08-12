@@ -4348,3 +4348,4 @@ the world is a stand
 - [PrathamSalotra](https://github.com/PrathamSalotra)
 - [Jasiel Rodrigues](https://github.com/jasieldubox-tech)
 - [Nikhil GUpta](https://github.com/nik-G-54)
+- [Arturo](https://github.com/arturojoao)
