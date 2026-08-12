@@ -74,7 +74,7 @@ zamijenite `your-branch-name` imenom grane koju ste ranije kreirali.
 
      <pre>remote: Podrška za autentifikaciju lozinkom je uklonjena 13. avgusta 2021. Molimo koristite personalni pristupni token.
   remote: Više informacija: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
 
   Pogledajte [GitHub vodič](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) o generisanju i podešavanju SSH ključa za vaš nalog.
 

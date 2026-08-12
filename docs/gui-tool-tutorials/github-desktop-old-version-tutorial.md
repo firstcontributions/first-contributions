@@ -98,7 +98,7 @@ Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflo
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
 
 
-### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
+### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools
