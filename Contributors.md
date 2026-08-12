@@ -153,6 +153,7 @@ Varshith IMT2024044
 - [ParaMatrix-404]
 - [SathvikaGangalam](https://github.com/gsathvika28)
 - [Anish Nagubandi](https://github.com/anishnagubandi)
+- [Hardiik12](https://github.com/Hardiik12)
 - [Anish] 
 - [Sushant Prabhu Sawkar](https://github.com/susfungit)
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
