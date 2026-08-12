@@ -98,7 +98,7 @@ Ahora confirma el pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Pronto estaré fusionando todos sus cambios en la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
+Pronto estaré fusionando todos sus cambios en la rama main de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
 ## ¿Cuáles son los siguientes pasos?
 

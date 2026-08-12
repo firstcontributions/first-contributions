@@ -8,7 +8,7 @@ Proyek iki nduweni tujuan kanggo nyederhanakake lan nuntun cara para pamula ngga
 
 _Yen sampeyan ora kepenak karo baris perintah, [iki tutorial nggunakake alat GUI.](#tutorials-using-other-tools)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="garpu repositori iki" />
 
 #### Yen sampeyan ora duwe git ing mesin sampeyan, [instal](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -20,7 +20,7 @@ Iki bakal nggawe salinan repositori iki ing akun sampeyan.
 
 ## Kloning repositori
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="ckloning repositori iki" />
 
 Saiki tiron repositori garpu menyang mesin sampeyan. Pindhah menyang akun GitHub sampeyan, bukak gudang bercabang, klik tombol kode, banjur ing tab SSH banjur klik _copy url to clipboard_ icon.
 
@@ -32,7 +32,7 @@ git clone "url you just copied"
 
 ngendi "url sampeyan mung disalin" (tanpa tandha petik) punika url kanggo gudang iki (garpu proyek iki). Deleng langkah sadurunge kanggo njupuk url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="salin URL menyang clipboard" />
 
 Contone:
 
@@ -60,7 +60,7 @@ Contone:
 git switch -c your-new-branch-name
 ```
 
-<detail>
+<details>
 <summary> <strong>Yen sampeyan nemu kesalahan nggunakake git switch, klik kene:</strong> </summary>
 
 Yen pesen kesalahan "Git: `switch` dudu perintah git. Waca `git –help`" katon, kemungkinan amarga sampeyan nggunakake versi git sing lawas.
@@ -71,13 +71,13 @@ Ing kasus iki, coba gunakake `git checkout` tinimbang:
 git checkout -b jeneng-cabang-anyar sampeyan
 ```
 
-</detail>
+</details>
 
 ## Gawe owah-owahan sing perlu lan tindakake owah-owahan kasebut
 
 Saiki bukak file `Contributors.md` ing editor teks, tambahake jeneng sampeyan. Aja ditambahake ing wiwitan utawa pungkasan file. Sijine ing ngendi wae ing antarane. Saiki, simpen file kasebut.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="status git" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="kahanan git" />
 
 Yen sampeyan pindhah menyang direktori proyek lan nglakokake perintah `git status`, sampeyan bakal weruh ana owah-owahan.
 
@@ -105,13 +105,13 @@ git push -u origin your-branch-name
 
 ngganti `your-branch-name` karo jeneng cabang sing digawe sadurunge.
 
-<detail>
+<details>
 <summary> <strong>Yen ana kesalahan nalika meksa, klik kene:</strong> </summary>
 
 - ### Kasalahan Authentication
      <pre>remote: Dhukungan kanggo otentikasi tembung sandhi wis dibusak tanggal 13 Agustus 2021. Mangga gunakake token akses pribadhi.
   remot: Mangga deleng https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ kanggo informasi luwih lengkap.
-  fatal: Otentikasi gagal kanggo 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Otentikasi gagal kanggo 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Bukak [Github's Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) kanggo nggawe lan ngatur kunci SSH menyang akun sampeyan.
 
   Uga, sampeyan bisa uga pengin mbukak 'git remote -v' kanggo mriksa alamat remot.
@@ -125,17 +125,17 @@ ngganti `your-branch-name` karo jeneng cabang sing digawe sadurunge.
   git remote set-url asal git@github.com:your-username/your_repo.git
   ```
   Yen ora, sampeyan isih bakal dijaluk jeneng pangguna lan sandhi lan entuk kesalahan otentikasi.
-</detail>
+</details>
 
 ## Kirim owahan kanggo ditinjau
 
 Yen sampeyan pindhah menyang repositori ing GitHub, sampeyan bakal weruh tombol `Compare & pull request`. Klik tombol kasebut.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="gawe pull request" />
 
 Saiki kirim panjalukan tarik.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="kirim pull request" />
 
 Sakcepete aku bakal nggabungake kabeh owah-owahan sampeyan menyang cabang utama proyek iki. Sampeyan bakal entuk email kabar yen owah-owahan wis digabung.
 

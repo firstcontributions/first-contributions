@@ -63,7 +63,7 @@ git checkout -b add-nom-cognom
 
 Obre l'arxiu `Contributors.md` en un editor de text i afegeix-hi el teu nom. No l'afegeixis ni al principi, ni al final de l'arxiu. Posa'l en qualsevol altre posició. Llavors desa l'arxiu.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="estat del git" />
 
 
 Ara, si vas al directori del projecte i executes el comandament `git status`, veuràs els canvis.

@@ -103,7 +103,7 @@ Commit การเปลี่ยนแปลง:
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-ในเร็ว ๆ นี้เราจะรวมการเปลี่ยนแปลงทั้งหมดของคุณเข้าไปใน `master` ของโปรเจคนี้ คุณจะได้รับอีเมลแจ้งเตือนเมื่อมีการเปลี่ยนแปลงที่ถูก merge
+ในเร็ว ๆ นี้เราจะรวมการเปลี่ยนแปลงทั้งหมดของคุณเข้าไปใน `main` ของโปรเจคนี้ คุณจะได้รับอีเมลแจ้งเตือนเมื่อมีการเปลี่ยนแปลงที่ถูก merge
 
 ## หลังจากนี้ตองทำอะไรต่อ?
 

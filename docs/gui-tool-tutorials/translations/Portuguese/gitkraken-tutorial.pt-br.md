@@ -95,7 +95,7 @@ Na barra de ferramentas, clique no botão Push.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-origin.png" alt="origin or branch" />
 
-Se você quer enviar as mudanças direto para branch master, você pode enviar para a branch de origem. Caso contrário, selecione uma branch apropriada para mandar.  
+Se você quer enviar as mudanças direto para branch main, você pode enviar para a branch de origem. Caso contrário, selecione uma branch apropriada para mandar.  
 
 
 ## Envie as suas mudanças para revisão
@@ -108,7 +108,7 @@ Agora envie esse Pull Request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Logo irei mesclar todas as suas mudanças na branch master do projeto. Você receberá uma notificação pelo e-mail quando as alterações forem mescladas.
+Logo irei mesclar todas as suas mudanças na branch main do projeto. Você receberá uma notificação pelo e-mail quando as alterações forem mescladas.
 
 ## Onde eu posso ir a partir daqui?
 

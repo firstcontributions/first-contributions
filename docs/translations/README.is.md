@@ -10,7 +10,7 @@
 
 _Ef þú ert ekki þægileg(ur) með skipanalínu, [hér eru leiðbeiningar með því að nota GUI verkfæri.](#Leiðbeiningar-með-öðrum-verkfærum)_
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forka þetta geymslu" />
 
 #### Ef þú ert ekki með Git uppsett á tölvunni þinni, [settu það upp](https://help.github.com/articles/set-up-git/).
 
@@ -21,7 +21,7 @@ Forkaðu þessa geymslu með því að smella á "Fork" hnappinn efst á þessar
 
 ## Klónaðu geymsluna
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="klóna þetta geymslu" />
 
 Núna klónaðu forkaða geymsluna á þína tölvu. Farðu á GitHub reikninginn þinn, opnaðu forkaða geymsluna, smelltu á "Code" hnappinn og smelltu síðan á "copy to clipboard" táknið.
 
@@ -32,7 +32,7 @@ git clone "url sem þú afritaðir"
 ```
 þar sem "url sem þú afritaðir" (án gæsalappa) er slóðin á geymsluna (þitt fork af þessu verkefni). Sjá fyrri skref til að fá slóðina.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="afrita slóð á klemmuspjald" />
 
 Til dæmis:
 ```
@@ -62,7 +62,7 @@ git checkout -b add-jon-jonsson
 
 Nú opnaðu `Contributors.md` skrána í textaritli og bættu nafninu þínu við. Ekki bæta því við í upphafi eða enda skrárinnar. Settu það hvar sem passar miðað við stafrófsröð. Vistaðu síðan skrána.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git staða" />
 
 Ef þú ferð í verkefnismöppuna og framkvæmir skipunina `git status`, þá muntu sjá að það eru breytingar.
 
@@ -90,11 +90,11 @@ og settu nafnið á greininni sem þú bjóst til áður í staðinn fyrir `<naf
 
 Ef þú ferð í geymsluna þína á GitHub, þá muntu sjá `Compare & pull request` hnapp. Smelltu á þann hnapp.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="búa til pull request" />
 
 Nú sendu inn pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="senda pull request" />
 
 Fljótlega mun ég sameina allar breytingarnar þínar við aðalgrein þessa verkefnis. Þú færð tilkynningu í tölvupósti þegar breytingarnar hafa verið sameinaðar.
 

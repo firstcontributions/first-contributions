@@ -109,7 +109,7 @@
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="提交pull请求" />
 
-很快我就会将所有的更改合并到这个项目的master分支中。一旦更改被合并，你将收到通知邮件。
+很快我就会将所有的更改合并到这个项目的main分支中。一旦更改被合并，你将收到通知邮件。
 
 ## Where to go from here?
 

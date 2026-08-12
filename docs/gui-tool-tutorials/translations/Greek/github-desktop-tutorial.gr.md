@@ -1,5 +1,4 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -104,7 +103,6 @@
 
 Γιορτάστε τη συνεισφορά σας και μοιραστείτε τη με τους φίλους σας και τους ακόλουθούς σας μεταβαίνοντας στη [ιστοσελίδα εφαρμογής](https://firstcontributions.github.io#social-share).
 
-Μπορείτε να εγγραφείτε στην ομάδα μας στο Slack αν χρειάζεστε βοήθεια ή έχετε ερωτήσεις. [Εγγραφείτε στην ομάδα Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 ### [Πρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
 

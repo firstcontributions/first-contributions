@@ -1,5 +1,4 @@
 [![Αγάπη για τον Ανοικτό Κώδικα](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![Άδεια: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Βοηθοί Ανοικτού Κώδικα](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -90,7 +89,7 @@
 
 Συνδεθείτε στον λογαριασμό σας στο Github με το όνομα χρήστη και τον κωδικό πρόσβασής σας.
 
-Καταθέστε τις αλλαγές στο παρακλάδι origin εάν θέλετε να εμφανίζονται οι αλλαγές στο παρακλάδι master απευθείας, διαφορετικά επιλέξτε το κατάλληλο παρακλάδι που θέλετε να στείλετε.
+Καταθέστε τις αλλαγές στο παρακλάδι origin εάν θέλετε να εμφανίζονται οι αλλαγές στο παρακλάδι main απευθείας, διαφορετικά επιλέξτε το κατάλληλο παρακλάδι που θέλετε να στείλετε.
 
 ## Υποβολή των αλλαγών σας για αξιολόγηση
 
@@ -102,7 +101,7 @@
 
 Κάντε κλικ στο κουμπί `Υποβολή αιτήματος ενσωμάτωσης` (Submit pull request).
 
-Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στον παρακλάδι master αυτού του έργου. Θα λάβετε ένα email ειδοποίησης μόλις οι αλλαγές έχουν ενσωματωθεί.
+Σύντομα θα ενσωματώσω όλες τις αλλαγές σας στον παρακλάδι main αυτού του έργου. Θα λάβετε ένα email ειδοποίησης μόλις οι αλλαγές έχουν ενσωματωθεί.
 
 ## Τι να κάνετε μετά;
 
@@ -110,9 +109,8 @@
 
 Γιορτάστε τη συνεισφορά σας και μοιραστείτε τη με τους φίλους και τους ακόλουθούς σας, πηγαίνοντας στην [ιστοσελίδα εφαρμογής](https://firstcontributions.github.io#social-share).
 
-Μπορείτε επίσης να εγγραφείτε στην ομάδα μας στο Slack αν χρειαστείτε βοήθεια ή έχετε ερωτήσεις. [Εγγραφή στην ομάδα Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [Επιπλέον υλικό](../additional-material/git_workflow_senarios/additional-material.md)
+### [Επιπλέον υλικό](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Εκπαιδευτικό υλικό για Άλλα Εργαλεία
 [Επιστροφή στην κύρια σελίδα](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
