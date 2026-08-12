@@ -1,4 +1,5 @@
 # Contributors
+- [Anagha Shetty](https://github.com/anaghashetty23)
 -Rishit Raman
 Hiroyuki19830823
 - rishit backend enginner
@@ -12,7 +13,9 @@ Hiroyuki19830823
 - Aprajita Agarwal BT2024258
 - Dinesh BT2024199 (a+b)^3 = a^3 + b^3 + 3ab(a+b)
 - Abhinav Bhatia BT2024156 (a+b)^2 = a^2 + 2ab + b^2
+- [Vedant021004](https://github.com/Vedant021004)
 - [Pulkit Pandey](https://github.com/COolAlien35)
+- [Vedant Kapil](https://github.com/Vedant021004)
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
@@ -4335,3 +4338,7 @@ the world is a stand
 - [Konstantin](https://github.com/Konstantinzjej)
 - [İremsu](https://github.com/iremsu-umit35)
 - [Nikita](https://github.com/nikitameena0408)
+- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast, repeat..."*
+- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast."*
+- [Japheth Jorquia](https://https://github.com/Japhethnothere)
+
