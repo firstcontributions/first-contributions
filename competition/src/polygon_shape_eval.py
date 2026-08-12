@@ -203,8 +203,15 @@ def run(label_dir: str, verbose: bool = True) -> dict:
         if verbose:
             print(f"\n  [{task}] 클래스 {len(keep)}종 · 표본 {len(G):,}")
             print("   ", dict(G["y"].value_counts()))
+        base = majority(y, grp)
         block = {"classes": sorted(keep.tolist()), "n": int(len(G)),
-                 "baseline": majority(y, grp)}
+                 "baseline": base}
+        # **기준선을 먼저 찍는다.** 이걸 빼면 0.6 이 좋아 보이는데, 다수 클래스만
+        # 찍어도 0.636 이 나오는 데이터다. 실제로 처음에 계산만 하고 출력을
+        # 빠뜨려서 결과를 잘못 읽을 뻔했다.
+        if verbose:
+            print(f"    {'다수클래스 기준선':<14} acc {base['acc_mean']:.3f} · "
+                  f"MF1 {base['mf1_mean']:.3f}")
         for name, cols in (("bbox", BBOX_KEYS),
                            ("bbox+poly", BBOX_KEYS + POLY_KEYS),
                            ("poly", POLY_KEYS)):
@@ -213,13 +220,24 @@ def run(label_dir: str, verbose: bool = True) -> dict:
             block[name] = _eval(X, y, grp)
             if verbose:
                 b = block[name]
-                print(f"    {name:<10} acc {b['acc_w']:.3f} · "
-                      f"MF1 {b['mf1_mean']:.3f} ({b['folds']} 폴드)")
+                print(f"    {name:<14} acc {b['acc_mean']:.3f} "
+                      f"({b['acc_mean'] - base['acc_mean']:+.3f}) · "
+                      f"MF1 {b['mf1_mean']:.3f} "
+                      f"({b['mf1_mean'] - base['mf1_mean']:+.3f}) "
+                      f"[{b['folds']} 폴드]")
         gain = block["bbox+poly"]["mf1_mean"] - block["bbox"]["mf1_mean"]
         block["mf1_gain"] = gain
+        block["bbox_beats_baseline_mf1"] = bool(
+            block["bbox"]["mf1_mean"] > base["mf1_mean"])
+        block["bbox_beats_baseline_acc"] = bool(
+            block["bbox"]["acc_mean"] > base["acc_mean"])
         res[task] = block
         if verbose:
-            print(f"    → 폴리곤 추가 이득 MF1 {gain:+.3f}")
+            print(f"    → 폴리곤 추가 이득 MF1 {gain:+.3f}"
+                  + ("  (해롭다)" if gain < 0 else ""))
+            if not block["bbox_beats_baseline_acc"]:
+                print("    ※ 정확도가 기준선보다 낮다 — 클래스가 치우쳐 정확도가"
+                      " 신호를 가린다. 판별력은 Macro-F1 로 본다.")
     return res
 
 
@@ -238,9 +256,11 @@ def main(argv=None) -> int:
     print(f"\n저장: {a.out}")
     g = r["posture"]["mf1_gain"]
     print(f"\n결론: 자세 3클래스에서 폴리곤이 bbox 대비 MF1 {g:+.3f}")
-    print("  이 값이 분할 모델을 붙였을 때의 **상한**이다(정답 폴리곤을 준 셈이라).")
-    print("  실제 예측 폴리곤은 이보다 낮으므로, 이득이 작으면 10GB 원천을 받아")
-    print("  14시간 학습할 이유가 없다.")
+    print("  이 값은 **상한**이다 — 정답 폴리곤을 그대로 준 셈이라, 실제 분할")
+    print("  모델이 예측한 폴리곤은 이보다 낮다.")
+    if g <= 0.02:
+        print("  → 이득이 없다. 원천 이미지(10GB)를 받아 분할 모델을 학습할")
+        print("     이유가 없다. 상한에서 안 나오는 것이 실제에서 나올 수 없다.")
     return 0
 
 
