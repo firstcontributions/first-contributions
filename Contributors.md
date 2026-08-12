@@ -14,6 +14,7 @@ Hiroyuki19830823
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
+- Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
 - Elankavi Pommon B
