@@ -1,5 +1,5 @@
 # Contributors
--[Anagha Shetty](https://github.com/anaghashetty23)
+- [Anagha Shetty](https://github.com/anaghashetty23)
 -Rishit Raman
 Hiroyuki19830823
 - rishit backend enginner
