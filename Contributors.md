@@ -4310,3 +4310,4 @@ jadav-sai-rugvedh_IMT2024051
 - [Lucas Correa Tavares](https://github.com/lucascorreatavares725-source)
 - [Jasmin](https://github.com/HelloJasmin999)
 - [Lev Malkhasian](https://github.com/levmalkhasian)
+- [sakura](https://github.com/sakurajpau) - クロードコード部 第23課題
