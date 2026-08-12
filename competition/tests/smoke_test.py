@@ -1802,13 +1802,78 @@ def test_finetune_polygon() -> None:
                 v = [float(x) for x in line.split()[1:]]
                 assert v and all(0.0 <= x <= 1.0 for x in v), f"{f}: {line[:60]}"
 
-    # 시간 추정: 장수·epoch 에 선형, imgsz 가 작을수록 빨라야 한다
+    # 시간 추정: 실측 표(ms/장/ep)에서 그대로 나와야 한다
+    ms = fp.SPEED_MS[("yolo11n-seg", 416, True)]
     h1 = fp.estimate_hours(1000, 50, "yolo11n-seg", 416)
-    assert abs(h1 - 1000 * 50 * 0.439 / 3600) < 0.01, h1
+    assert abs(h1 - 1000 * 50 * ms / 1000 / 3600) < 0.01, h1
+    # 장수·epoch 에 선형
     assert fp.estimate_hours(2000, 50, "yolo11n-seg", 416) == 2 * h1
+    assert abs(fp.estimate_hours(1000, 100, "yolo11n-seg", 416) - 2 * h1) < 1e-9
+    # 해상도가 클수록 느리고, freeze 하면 빨라야 한다
     assert h1 < fp.estimate_hours(1000, 50, "yolo11n-seg", 640)
-    # 실측에 없는 조합도 픽셀 수 비례로 외삽되어야 한다
-    assert 0 < fp.estimate_hours(1000, 50, "yolo11n-seg", 320) < h1
+    assert h1 < fp.estimate_hours(1000, 50, "yolo11n-seg", 416, freeze=False)
+    # 실측에 없는 조합도 외삽되어야 한다(320/freeze 는 표에 있으므로 224 로)
+    assert 0 < fp.estimate_hours(1000, 50, "yolo11n-seg", 224) < h1
+    # freeze 기본값은 True — CPU 에서 1.76배 차이가 나므로 기본이 중요하다
+    assert fp.estimate_hours(1000, 50, "yolo11n-seg", 416) == \
+        fp.estimate_hours(1000, 50, "yolo11n-seg", 416, freeze=True)
+
+
+def test_fetch_622() -> None:
+    """622 다운로드 헬퍼: filekey·용량·디스크·키 가드."""
+    import contextlib
+    import io
+    import tempfile
+    import fetch_622 as f6
+
+    # filekey 는 tree 622 실측값. 바뀌면 다운로드가 조용히 엉뚱한 걸 받는다.
+    keys = {k for grp in f6.FILES.values() for k, _d, _m in grp}
+    assert {"533708", "533718", "533695"} == keys, keys
+    # 라벨만으로는 학습 불가 — 이미지 항목이 별도로 있어야 한다
+    assert f6.FILES["labels"] and f6.FILES["images"]
+    lab_mb = sum(m for _k, _d, m in f6.FILES["labels"])
+    img_mb = sum(m for _k, _d, m in f6.FILES["images"])
+    assert lab_mb < 200 and img_mb > 1000, (lab_mb, img_mb)
+
+    def run(argv, env_key=None):
+        old = os.environ.pop("AIHUB_APIKEY", None)
+        if env_key:
+            os.environ["AIHUB_APIKEY"] = env_key
+        buf = io.StringIO()
+        try:
+            with contextlib.redirect_stdout(buf):
+                rc = f6.main(argv)
+        finally:
+            os.environ.pop("AIHUB_APIKEY", None)
+            if old is not None:
+                os.environ["AIHUB_APIKEY"] = old
+        return rc, buf.getvalue()
+
+    with tempfile.TemporaryDirectory() as d:
+        # 키 없으면 받기 전에 멈춘다
+        rc, out = run(["--out", d, "--dry-run"])
+        assert rc == 1 and "AIHUB_APIKEY" in out, out
+        assert "커밋하지 않는다" in out, "키 커밋 금지 경고가 없다"
+
+        # 라벨만일 때는 학습 불가 경고
+        rc, out = run(["--out", d, "--dry-run"], env_key="dummy")
+        assert rc == 0 and "학습할 수 없다" in out, out
+        assert "533708" in out and "533718" in out
+        assert "533695" not in out, "--images 없이 원천을 받으려 한다"
+
+        # --images 면 원천도 계획에 들어간다
+        rc, out = run(["--out", d, "--images", "--dry-run"], env_key="dummy")
+        assert "533695" in out, out
+
+    # 디스크 부족은 받기 전에 잡아야 한다 — 10GB 를 다 받고 실패하면 늦다
+    real = f6.free_gb
+    try:
+        f6.free_gb = lambda _p: 0.5
+        with tempfile.TemporaryDirectory() as d:
+            rc, out = run(["--out", d, "--images", "--dry-run"], env_key="k")
+            assert rc == 1 and "공간이 부족" in out, out
+    finally:
+        f6.free_gb = real
 
 
 def test_farm_economics() -> None:
@@ -1915,7 +1980,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon]
+             test_finetune_polygon, test_fetch_622]
     failed = 0
     for t in tests:
         try:

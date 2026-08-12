@@ -17,21 +17,27 @@ AI Hub 622 의 라벨(TL01 77MB)에는 폴리곤 좌표만 있고 **이미지가
 라벨은 전부 받아 두고 **이미지가 있는 것만 골라 쓴다**. pair() 가 매칭률을
 보고하므로, TS06 이 라벨의 몇 %를 덮는지 보고 다음 zip 을 받을지 정하면 된다.
 
-## CPU 실측 (합성 640px, batch 8, 4코어)
+## CPU 실측 (batch 8 · cache=ram · 4코어 · 2 epoch 평균)
 
-    yolo11n-seg  imgsz 416   439 ms/장/epoch
-    yolo11n-seg  imgsz 640  1624 ms/장/epoch
-    yolo11s-seg  imgsz 640  2167 ms/장/epoch
+    yolo11n-seg 320 freeze   153 ms/장/ep
+    yolo11n-seg 416 freeze   197          ← 기본값
+    yolo11n-seg 416 전체학습  346
+    yolo11n-seg 640 freeze   544
+    yolo11n-seg 640 전체학습  650
 
-즉 2,000장 × 50epoch 이 416 에서도 12시간이다. CPU 로 갈 거면
-**imgsz 416 · n-seg · 1~2천장 서브샘플**이 상한이고, 그 이상은 GPU 로 옮긴다.
+**backbone freeze 가 416 에서 1.76배 빠르다**(346→197). 데이터가 수천 장
+규모일 때는 속도만이 아니라 과적합 방지에도 낫다. 640 에서 이득이 1.2배로
+주는 것은 해상도가 커질수록 neck/head 연산 비중이 커지기 때문이다.
+
+이 기본값(416·freeze)에서 5,000장 × 50epoch 이 13.7시간 — 하룻밤에 들어온다.
+전체학습·640 으로 올리면 같은 양이 사흘이 되므로 GPU 로 옮기는 편이 맞다.
 
     # 1) 데이터 점검 — 매칭률·소요시간만 보고 끝
     python competition/src/finetune_polygon.py prep <라벨디렉터리> <이미지디렉터리>
 
     # 2) 학습 (예상시간 확인 후)
     python competition/src/finetune_polygon.py train <라벨디렉터리> <이미지디렉터리> \
-        --max-images 1500 --imgsz 416 --epochs 40
+        --max-images 5000 --imgsz 416 --epochs 50
 """
 from __future__ import annotations
 
@@ -50,10 +56,21 @@ sys.path.insert(0, HERE)
 import parse_pig_polygon as ppp  # noqa: E402
 
 IMG_EXT = (".jpg", ".jpeg", ".png", ".bmp")
-# 실측 ms/장/epoch — CPU 4코어. 예상시간 산출의 근거이며, 다른 기계에서는
-# calibrate() 로 다시 재는 것이 맞다.
-SPEED_MS = {("yolo11n-seg", 416): 439, ("yolo11n-seg", 640): 1624,
-            ("yolo11s-seg", 640): 2167}
+# 실측 ms/장/epoch — CPU 4코어 · batch 8 · cache=ram.
+# **2 epoch 평균**을 쓴다. 1 epoch 만 재면 초기화·워밍업이 통째로 섞여 40~50%
+# 과대추정된다(같은 조건에서 439 vs 346 이 나왔다).
+#   키: (모델, imgsz, freeze 여부)
+SPEED_MS = {
+    ("yolo11n-seg", 320, True): 153,
+    ("yolo11n-seg", 416, True): 197,
+    ("yolo11n-seg", 416, False): 346,
+    ("yolo11n-seg", 640, True): 544,
+    ("yolo11n-seg", 640, False): 650,
+    ("yolo11s-seg", 640, False): 2167,
+}
+# backbone 을 얼리면 416 에서 1.76배 빨라진다(346→197). 640 에서는 1.2배에
+# 그치는데, 해상도가 커질수록 neck/head 연산이 비중을 차지하기 때문이다.
+FREEZE_LAYERS = 10
 DEFAULT_BUDGET_H = 14.0     # 하룻밤. 넘으면 멈춰 세운다.
 
 
@@ -117,12 +134,20 @@ def pair(df, images: dict, verbose: bool = True):
     return out
 
 
-def estimate_hours(n_images: int, epochs: int, model: str, imgsz: int) -> float:
-    ms = SPEED_MS.get((model, imgsz))
+def estimate_hours(n_images: int, epochs: int, model: str, imgsz: int,
+                   freeze: bool = True) -> float:
+    ms = SPEED_MS.get((model, imgsz, freeze))
     if ms is None:
-        # 픽셀 수에 대략 비례한다고 보고 가장 가까운 실측에서 환산
-        base = SPEED_MS.get((model, 640)) or 1624
-        ms = base * (imgsz / 640.0) ** 2
+        # 실측에 없는 조합은 픽셀 수 비례로 외삽한다. 완전 비례는 아니지만
+        # (고정비가 있어 작은 해상도에서 과소추정) 자릿수 판단에는 충분하다.
+        cands = [(sz, v) for (m, sz, fr), v in SPEED_MS.items()
+                 if m == model and fr == freeze]
+        if not cands:
+            cands = [(sz, v) for (m, sz, _f), v in SPEED_MS.items() if m == model]
+        if not cands:
+            cands = [(640, 650)]
+        sz, base = min(cands, key=lambda x: abs(x[0] - imgsz))
+        ms = base * (imgsz / sz) ** 2
     return n_images * epochs * ms / 1000.0 / 3600.0
 
 
@@ -171,7 +196,7 @@ def build_dataset(df, out_dir: str, ratios=None, seed: int = 0,
 
 def prep(label_dir: str, image_dir: str, max_images: int, epochs: int,
          model: str, imgsz: int, out_dir: str | None = None,
-         build: bool = False) -> dict:
+         build: bool = False, freeze: bool = True) -> dict:
     print(f"\n{'=' * 72}\n  622 폴리곤 파인튜닝 준비\n{'=' * 72}")
     print("1) 라벨 읽기")
     df = load_labels(label_dir)
@@ -193,18 +218,22 @@ def prep(label_dir: str, image_dir: str, max_images: int, epochs: int,
         print(f"  (audit 생략: {e})")
 
     use = min(n, max_images)
-    hours = estimate_hours(use, epochs, model, imgsz)
-    print(f"\n4) 소요시간 추정 — {model} · imgsz {imgsz} · CPU")
+    hours = estimate_hours(use, epochs, model, imgsz, freeze)
+    print(f"\n4) 소요시간 추정 — {model} · imgsz {imgsz} · CPU"
+          + (" · freeze" if freeze else " · 전체학습"))
     print(f"  학습 대상 {use:,}장 × {epochs} epoch")
     print(f"  예상 **{hours:.1f}시간** ({hours / 24:.1f}일)")
     if hours > DEFAULT_BUDGET_H:
         print(f"  ⚠️  하룻밤({DEFAULT_BUDGET_H:.0f}h)을 넘는다. 아래 중 하나를 택할 것:")
+        if not freeze:
+            print(f"      · backbone freeze  →  "
+                  f"{estimate_hours(use, epochs, model, imgsz, True):.1f}h")
         for tgt in (416, 320):
             if tgt < imgsz:
-                h2 = estimate_hours(use, epochs, model, tgt)
+                h2 = estimate_hours(use, epochs, model, tgt, freeze)
                 print(f"      · imgsz {imgsz}→{tgt}  →  {h2:.1f}h")
-        fit = int(DEFAULT_BUDGET_H * 3600 * 1000
-                  / (epochs * (SPEED_MS.get((model, imgsz)) or 1624)))
+        per = SPEED_MS.get((model, imgsz, freeze)) or 650
+        fit = int(DEFAULT_BUDGET_H * 3600 * 1000 / (epochs * per))
         print(f"      · --max-images {fit:,} 로 줄이기  →  {DEFAULT_BUDGET_H:.0f}h")
         print(f"      · GPU 로 옮기기 (같은 data.yaml 그대로, device=0)")
 
@@ -220,20 +249,28 @@ def prep(label_dir: str, image_dir: str, max_images: int, epochs: int,
 
 
 def train(label_dir: str, image_dir: str, max_images: int, epochs: int,
-          model: str, imgsz: int, out_dir: str, batch: int, force: bool) -> int:
+          model: str, imgsz: int, out_dir: str, batch: int, force: bool,
+          freeze: bool = True, cache: bool = True) -> int:
     info = prep(label_dir, image_dir, max_images, epochs, model, imgsz,
-                out_dir, build=True)
+                out_dir, build=True, freeze=freeze)
     if info["hours"] > DEFAULT_BUDGET_H and not force:
         print(f"\n중단 — 예상 {info['hours']:.1f}h 가 예산 {DEFAULT_BUDGET_H:.0f}h 초과. "
               f"그래도 돌리려면 --force.")
         return 2
     from ultralytics import YOLO
-    print(f"\n6) 학습 시작 — {model} · imgsz {imgsz} · batch {batch} · CPU")
+    print(f"\n6) 학습 시작 — {model} · imgsz {imgsz} · batch {batch} · CPU"
+          + (f" · freeze {FREEZE_LAYERS}" if freeze else " · 전체학습")
+          + (" · cache" if cache else ""))
     t0 = time.time()
     m = YOLO(model if model.endswith(".pt") else model + ".pt")
-    m.train(data=info["yaml"], epochs=epochs, imgsz=imgsz, batch=batch,
-            workers=2, device="cpu", project=os.path.join(out_dir, "runs"),
-            name="seg", exist_ok=True, patience=10, plots=True)
+    kw = dict(data=info["yaml"], epochs=epochs, imgsz=imgsz, batch=batch,
+              workers=2, device="cpu", project=os.path.join(out_dir, "runs"),
+              name="seg", exist_ok=True, patience=10, plots=True)
+    if freeze:
+        kw["freeze"] = FREEZE_LAYERS
+    if cache:
+        kw["cache"] = "ram"
+    m.train(**kw)
     dt = time.time() - t0
     print(f"\n완료 — {dt / 3600:.2f}시간 (추정 {info['hours']:.1f}h)")
     print(f"가중치: {out_dir}/runs/seg/weights/best.pt")
@@ -248,21 +285,26 @@ def main(argv=None) -> int:
     ap.add_argument("mode", choices=["prep", "train"])
     ap.add_argument("label_dir", help="TL01/VL01 을 푼 디렉터리 (XML 포함)")
     ap.add_argument("image_dir", help="TS06 등 원천 이미지를 푼 디렉터리")
-    ap.add_argument("--max-images", type=int, default=1500)
+    ap.add_argument("--max-images", type=int, default=5000)
     ap.add_argument("--epochs", type=int, default=40)
     ap.add_argument("--model", default="yolo11n-seg")
     ap.add_argument("--imgsz", type=int, default=416)
     ap.add_argument("--batch", type=int, default=8)
+    ap.add_argument("--no-freeze", action="store_true",
+                    help="backbone 까지 전부 학습(느리고 소량 데이터에선 과적합)")
+    ap.add_argument("--no-cache", action="store_true",
+                    help="이미지를 RAM 에 안 올림(메모리 부족할 때)")
     ap.add_argument("--out", default="/tmp/pigseg")
     ap.add_argument("--force", action="store_true",
                     help="예상시간이 예산을 넘어도 강행")
     a = ap.parse_args(argv)
     if a.mode == "prep":
         prep(a.label_dir, a.image_dir, a.max_images, a.epochs, a.model,
-             a.imgsz, a.out, build=False)
+             a.imgsz, a.out, build=False, freeze=not a.no_freeze)
         return 0
     return train(a.label_dir, a.image_dir, a.max_images, a.epochs, a.model,
-                 a.imgsz, a.out, a.batch, a.force)
+                 a.imgsz, a.out, a.batch, a.force,
+                 freeze=not a.no_freeze, cache=not a.no_cache)
 
 
 if __name__ == "__main__":
