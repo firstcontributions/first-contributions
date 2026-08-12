@@ -3,6 +3,7 @@
 -Rishit Raman
 Hiroyuki19830823
 - rishit backend enginner
+- [Ishan Pathak](https://github.com/theishanpathak)
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - Oscar Heslop (https://github.com/OscarHeslop)
 - Lisath Wijekoon (https://github.com/LisWije)
