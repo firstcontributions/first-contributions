@@ -1,7 +1,10 @@
 # Contributors
 -Rishit Raman
+Hiroyuki19830823
 - rishit backend enginner
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
+- Oscar Heslop (https://github.com/OscarHeslop)
+- Lisath Wijekoon (https://github.com/LisWije)
 - [Tanmay Dixit](https://github.com/tdixit547)
 - [Tanmay Dixit BT2024016](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
@@ -13,8 +16,10 @@
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
+- Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
+- Elankavi Pommon B
 - AyushPatel - BT2024171 (https://github.com/Ayush1patel)
 - Hardh S Kava
 - suhith reddy bt2024066
@@ -84,6 +89,7 @@ Varshith IMT2024044
 - Ankita Gupta
 - HelaElbez
 - first contribution
+- Sherwin Mazarello
 - Kartik
 - Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
@@ -100,6 +106,7 @@ Varshith IMT2024044
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
+- Rafael Morales Sánchez
 - Dhanush BT2024169
 - Savani Vedant Vijay BT2024191
 - Gagan Syam Reddy BT2024032
@@ -120,6 +127,7 @@ Varshith IMT2024044
 - [Sesetty Viraj Sriker IMT2024040](https://github.com/virr-tuk31)
 - [soupnaie-mnm]
 - [Diogo Higa]
+- drzn
 - [Rakhi Jamdade]
 - [Yashvi Mehta]
 - [abdelrahman-mahmoud] (Iterating Test)
@@ -153,6 +161,7 @@ Varshith IMT2024044
 - [ParaMatrix-404]
 - [SathvikaGangalam](https://github.com/gsathvika28)
 - [Anish Nagubandi](https://github.com/anishnagubandi)
+- [Hardiik12](https://github.com/Hardiik12)
 - [Anish] 
 - [Sushant Prabhu Sawkar](https://github.com/susfungit)
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
@@ -365,6 +374,7 @@ nathan practice here
 - [Raj Vardhan Gutha](IMT2024003)
 - [Prachi](https://github.com/prachu25)
 - [Erika Buckley](https://github.com/Erikabuckley)
+- [Palash Hazra] (https://github.com/palashhazraofficial)
 - [Esraa Bakkar](https://github.com/Esraa-Bakkar)
 - [Jeet Narayan Chakraborty](https://github.com/JeetNarayanChakraborty)
 - [SidGod](https://github.com/starboylive)
@@ -506,6 +516,7 @@ nathan practice here
 - [Samyuktha Mandali](https://github.com/samyuktha935)
 [Alonzo Church](https://github.com/AlonzoChurch)
 - [Shringar Sharan](https://github.com/shringarsharan)
+- [Jerin Joice](https://github.com/Sandglitch)
 - [Mohamed Ahmed Abdelrazik](https://github.com/mohamed5446)
 - [Ahmed Awad](https://github.com/ahmedawad72)
 - [Rushi Rane](https://github.com/RushiRane2006)
@@ -1066,6 +1077,7 @@ niceshowmini
 - [Shaurya Sharma](https://github.com/shaurya-sharma123)
 - [Dev Varshney](https://github.com/dev200413y)
 - [Mrunalraul](https://github.com/mrunalraul)
+- [Branden Bean Drake](https://github.com/beandrake)
 - [shimitaka](https://github.com/shimitaka1209)
 - [Arturo Avalos] (https://github.com/aavalose)
 -[vishnu](https://github.com/vishnu-R2005)
@@ -3301,6 +3313,7 @@ Amna Naeem
 - [Korey Wimberly](https://github.com/k3he1121kw)
 - [Saumya Jaiswal](https://github.com/Saumyajaiswal9794)
 - [Hema G](https://github.com/hemag111)
+- [Pradeep R](https://github/pradeepinfom)
 - [Avani Halbe](https://github.com/avani2518)
 - [Ayse Ciftci](https://github.com/aysenurcftc)
 - [Timothy Tan](https://github.com/tlmotan)
@@ -3446,6 +3459,7 @@ Amna Naeem
   Himanshu Singh wants Pull Shark
   Siddesh Raoandure
   Nethmi Thakshila
+  Ericahuang
   Nice to try out first pull
   Nethmi(https://github.com/thakshilaaa)
 - [Siddharth](https://github.com/siddharth03015)
@@ -4304,4 +4318,17 @@ jadav-sai-rugvedh_IMT2024051
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tarikur Rahman](https://github.com/tarikurrahman)
 - [Obeida Arafa](https://github.com/o-arafa)
-
+- [Mythri](https://github.com/mythreddy03-svg)
+- [gmroberf](https://github.com/gmroberf)
+- [Lucas Correa Tavares](https://github.com/lucascorreatavares725-source)
+- [Jasmin](https://github.com/HelloJasmin999)
+- [Lev Malkhasian](https://github.com/levmalkhasian)
+ - [ajith](https://github.com/ajithajith638254-afk)
+- [Aniket Shinde](https://github.com/ananikets18)
+- [Hari](https://github.com/Hari-00x)
+- WZY(https://github.com/AAApfwang)
+- [Ankit Pal](https://github.com/icyfire8)
+- [Antony Alves](https://github.com/antonyalvesofc1-arch)
+- [Manoj Dewda](https://github.com/Manoj-Dewda)
+- [Duxl-Ai](https://github.com/Duxl-Ai)
+- [Konstantin](https://github.com/Konstantinzjej)
