@@ -507,7 +507,7 @@ nathan practice here
 - [victor Mejia](https://github.com/victor1243mj)
 - [Yoh Brain](https://github.com/Yoh-Brain)
 //Mohamed//
-- [Deepak J Mathew](https://github.com/DeepakJ-777)
+this is my combo pack so you very much then 
 - [Samyuktha Mandali](https://github.com/samyuktha935)
 [Alonzo Church](https://github.com/AlonzoChurch)
 - [Shringar Sharan](https://github.com/shringarsharan)
