@@ -506,6 +506,7 @@ nathan practice here
 - [Samyuktha Mandali](https://github.com/samyuktha935)
 [Alonzo Church](https://github.com/AlonzoChurch)
 - [Shringar Sharan](https://github.com/shringarsharan)
+- [Jerin Joice](https://github.com/Sandglitch)
 - [Mohamed Ahmed Abdelrazik](https://github.com/mohamed5446)
 - [Ahmed Awad](https://github.com/ahmedawad72)
 - [Rushi Rane](https://github.com/RushiRane2006)
