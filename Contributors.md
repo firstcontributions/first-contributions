@@ -14,6 +14,7 @@ Hiroyuki19830823
 - Abhinav Bhatia BT2024156 (a+b)^2 = a^2 + 2ab + b^2
 - [Vedant021004](https://github.com/Vedant021004)
 - [Pulkit Pandey](https://github.com/COolAlien35)
+- [Vedant Kapil](https://github.com/Vedant021004)
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
