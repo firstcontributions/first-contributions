@@ -2385,6 +2385,100 @@ def test_farm_monthly() -> None:
                - fr_["summer_minus_winter"]) < 0.2
 
 
+def test_synth_farm() -> None:
+    """가상 데이터 — 실측 분포를 재현하고 날짜가 앞뒤 맞는지.
+
+    검사 없는 합성은 시뮬레이션을 통째로 무의미하게 만든다. 생성기보다
+    **검증기가 제 일을 하는지**가 이 테스트의 요점이다.
+    """
+    import tempfile
+    import pandas as pd
+    import synth_farm as sf
+
+    P = sf.Params()
+    assert 0.5 < P.farrowing_rate < 1.0
+    assert P.summer_gap < 0, "여름 교배 분만율이 낮다는 실측이 반영돼야 한다"
+
+    # 계절 검사가 실제로 돌 만큼 표본을 준다. 작게 잡으면 건너뛰어서
+    # "통과"가 아무것도 보증하지 않는다.
+    df = sf.generate(n_sows=600, years=3.0, seed=1, params=P)
+    assert len(df) > 2000 and df["sow_id"].nunique() == 600
+    v = sf.validate(df, P)
+    assert v["ok"], (v["checks"], v["consistency"])
+    assert not v["consistency"], v["consistency"]
+
+    # 검사 항목이 실제로 다 돌았는지 — 조용히 건너뛰면 통과가 무의미하다
+    names = {c["name"] for c in v["checks"]}
+    for need in ("분만율", "재귀발정일 중앙", "임신기간 중앙",
+                 "복당 이유두수 중앙", "하계 분만율 차(%p)"):
+        assert need in names, f"{need} 검사가 없다"
+
+    # 계절 대비는 실측과 **같은 구간**이어야 한다(7·8·9 vs 1·2·3).
+    # 처음엔 6월을 넣고 "나머지 전체"와 비교해 −5.2%p 가 나왔는데 부호만
+    # 봐서 통과했다. 실측 −2.7%p 의 2배를 통과시키면 계절을 과장하게 된다.
+    assert sf.SUMMER == (7, 8, 9) and sf.WINTER == (1, 2, 3)
+    gap = next(c for c in v["checks"] if "하계" in c["name"])
+    assert "skipped" not in gap, "표본이 모자라 계절 검사를 건너뛰었다"
+    # 허용치는 **표준오차에서** 나온다. 고정 허용치를 쓰면 표본이 작을 때
+    # 잡음을 잡아내지 못하거나(느슨) 멀쩡한 걸 실패시킨다(빡빡).
+    assert abs(gap["got"] - gap["want"]) < max(1.0, 2.5 * gap["se_pp"]), gap
+    assert gap["n"][0] >= 200 and gap["n"][1] >= 200
+
+    # 표본이 모자라면 **판정하지 말고 건너뛰어야** 한다.
+    # 모돈 150·1.5년에서 −6.4%p 가 나왔는데 그건 생성기 문제가 아니라
+    # 각 군 100건일 때 표준오차가 5%p 를 넘기 때문이다.
+    small = sf.validate(sf.generate(n_sows=60, years=0.8, seed=2, params=P), P)
+    sg = next(c for c in small["checks"] if "하계" in c["name"])
+    assert "skipped" in sg and sg["ok"], sg
+
+    # 날짜 정합성 — 앱의 일정·지연 판정이 여기 기댄다
+    assert (pd.to_datetime(df["service"]) >= pd.to_datetime(df["estrus"])).all()
+    far = df[df["outcome"] == "분만"]
+    assert (pd.to_datetime(far["farrow"]) > pd.to_datetime(far["service"])).all()
+    assert (pd.to_datetime(far["wean"]) > pd.to_datetime(far["farrow"])).all()
+    assert (far["weaned"] <= far["born_alive"]).all()
+    assert set(df["outcome"]) <= {"분만", "재발"}
+    ret = df[df["outcome"] == "재발"]
+    assert ret["farrow"].isna().all() and len(ret) > 0
+    assert set(ret["return_type"].dropna()) <= set(sf.RETURN_MIX) | {"기타"}
+
+    # 재귀발정일은 **오른쪽 꼬리**여야 한다. 대칭으로 만들면 '늦게 오는 소수'가
+    # 사라져 조기경보를 시험할 표본이 없어진다.
+    w2e = (pd.to_datetime(df["estrus"]) - pd.to_datetime(df["wean_prev"])).dt.days
+    assert w2e.mean() > w2e.median(), (w2e.mean(), w2e.median())
+    assert w2e.min() >= 3
+
+    # **검증기가 나쁜 데이터를 잡는가** — 이게 안 되면 통과가 의미 없다
+    broken = df.copy()
+    broken.loc[broken.index[0], "service"] = (
+        pd.to_datetime(broken.loc[broken.index[0], "estrus"])
+        - pd.Timedelta(days=5)).date()
+    vb = sf.validate(broken, P)
+    assert not vb["ok"] and vb["consistency"], "교배가 발정보다 앞선 걸 못 잡는다"
+
+    flat = df.copy()
+    flat["outcome"] = "분만"        # 분만율 100% — 실측과 크게 어긋난다
+    assert not sf.validate(flat, P)["ok"], "비현실적 분만율을 통과시킨다"
+
+    # 재현성
+    a = sf.generate(n_sows=40, years=0.6, seed=7, params=P)
+    b = sf.generate(n_sows=40, years=0.6, seed=7, params=P)
+    assert len(a) == len(b) and a["outcome"].tolist() == b["outcome"].tolist()
+
+    # CSV → 앱이 먹는 형태(개체당 최근 이벤트 한 줄)
+    with tempfile.TemporaryDirectory() as d:
+        path = os.path.join(d, "herd.csv")
+        n = sf.to_herd_csv(df, path, today="2025-06-01")
+        assert n > 0
+        out = pd.read_csv(path)
+        assert out["id"].is_unique and len(out) == n
+        for c in ("id", "parity", "weaning_date", "service_date"):
+            assert c in out.columns
+        # 기준일 이후 사건은 들어가면 안 된다(미래를 아는 셈이 된다)
+        assert (pd.to_datetime(out["service_date"]).dt.date
+                <= pd.Timestamp("2025-06-01").date()).all()
+
+
 def test_docs_consistent() -> None:
     """문서에 박힌 숫자가 실제와 맞는지. 어긋나면 나머지 수치도 못 믿게 된다.
 
@@ -2519,7 +2613,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
