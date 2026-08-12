@@ -252,11 +252,19 @@ def demo_farm(n_sows: int = 68) -> Farm:
     n_sows 를 300 으로 줘도 68두만 배치되고 나머지는 조용히 사라졌다.
     실제 농장 도면이 들어오면 이 함수 대신 Farm 을 직접 구성한다.
 
-    구성 비율은 번식주기에서 나온다 — 임신 115일 · 포유 24일 · 이유~교배 7일:
-      교배사(스톨)  이유~임신확인 약 5주      → 약 25%
-      임신사(군사)  임신확인~분만 약 11주     → 약 55%
-      분만사(분만틀) 분만 전후 약 4주         → 약 15%
-      후보사        전입 대기                → 약 5%
+    **구성 비율을 눈대중으로 정하면 안 된다.** 처음에 25/55/15/5 로 적었다가
+    주기 일수로 검산하니 분만사가 45두 vs 64두로 19두 어긋났고, pigflow 가
+    같은 농장에 대해 계산한 분만틀 60틀과도 맞지 않았다. 정상 상태에서
+
+        단계별 두수 = 총두수 × (그 단계에 머무는 일수 ÷ 번식주기)
+
+    이므로 비율은 유도되는 값이지 고르는 값이 아니다. 기본값 기준:
+
+        교배사  이유~임신확인      7 + 28 =  35일 → 24.1%
+        임신사  임신확인~분만7일전 114-28-7 = 79일 → 54.5%
+        분만사  분만7일전~이유      7 + 24 =  31일 → 21.4%
+
+    후보사는 주기 밖(전입 대기)이라 별도로 얹는다.
     """
     f = Farm("시연농장")
     (f.add_barn("1동", "교배사", "이유 후 발정 확인 + 교배")
@@ -265,10 +273,20 @@ def demo_farm(n_sows: int = 68) -> Farm:
       .add_barn("4동", "후보사", "순치 중인 후보돈"))
 
     n = max(1, int(n_sows))
-    n_mate = max(1, round(n * 0.25))
-    n_gest = max(1, round(n * 0.55))
-    n_farrow = max(1, round(n * 0.15))
-    n_gilt = max(1, n - n_mate - n_gest - n_farrow)
+    # 번식주기에서 유도. pigflow 기본값과 같은 상수를 쓴다.
+    W2S, GEST, LACT = 7, 114, 24          # 이유~교배 · 임신 · 포유
+    CONFIRM = 28                          # 임신확인(재발정 확인)까지
+    PRE_FARROW = 7                        # 분만사 사전 이동
+    cycle = W2S + GEST + LACT
+    seg = {"mate": W2S + CONFIRM,
+           "gest": GEST - CONFIRM - PRE_FARROW,
+           "farrow": PRE_FARROW + LACT}
+    # 후보사는 주기 밖이다. 연간 도태·갱신율에서 나오지만 여기서는 관행값 5%.
+    n_gilt = max(1, round(n * 0.05))
+    body = n - n_gilt
+    n_mate = max(1, round(body * seg["mate"] / cycle))
+    n_gest = max(1, round(body * seg["gest"] / cycle))
+    n_farrow = max(1, body - n_mate - n_gest)
 
     # 교배사: 스톨 열당 12자리
     STALL_PER_COL = 12

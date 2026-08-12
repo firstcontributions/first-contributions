@@ -2229,9 +2229,37 @@ def test_run_farm_end_to_end() -> None:
         occ = f.occupancy()
         assert (occ["n"] <= occ["capacity"]).all(), "수용능력 초과"
         assert set(occ["stage"]) == {"교배사", "임신사", "분만사", "후보사"}
-        # 임신사가 가장 크다(임신 115일이 주기의 대부분)
+        # 임신사가 가장 크다(임신 114일이 주기의 대부분)
         by = occ.groupby("stage")["n"].sum()
         assert by["임신사"] == by.max(), dict(by)
+
+        # **단계별 두수는 주기 일수에서 유도돼야 한다.** 눈대중으로 25/55/15 를
+        # 넣었다가 분만사가 45두 vs 64두로 어긋났다. 정상 상태에서
+        #   단계별 두수 = 총두수 × (그 단계 일수 ÷ 주기)
+        from pigflow.config import BREEDING_DEFAULTS as BD
+        cyc = (BD["wean_to_service_days"] + BD["gestation_days"]
+               + BD["lactation_days"])
+        body = n - by["후보사"]
+        want = {
+            "교배사": body * (BD["wean_to_service_days"] + 28) / cyc,
+            "임신사": body * (BD["gestation_days"] - 28 - 7) / cyc,
+            "분만사": body * (7 + BD["lactation_days"]) / cyc,
+        }
+        for st, w in want.items():
+            assert abs(by[st] - w) <= max(2, 0.03 * w), \
+                f"{n}두 {st}: {by[st]} vs 주기유도 {w:.0f}"
+
+    # 두 모듈이 **독립적으로** 계산한 분만 수용력이 맞아야 한다.
+    # demo_farm 은 주기 비율에서, pigflow 는 분만틀×방수에서 나온다.
+    for n in (300, 500):
+        f = fr.demo_farm(n)
+        by = f.occupancy().groupby("stage")["n"].sum()
+        cfg3 = default_config()
+        cfg3.crate_count = rfm.crates_for_sows(n, cfg3)
+        crates = cfg3.crate_count * calc.rooms_required(
+            cfg3.stage("SUCKLING"), cfg3.batch_system.interval_weeks)
+        assert abs(by["분만사"] - crates) <= max(3, 0.05 * crates), \
+            f"{n}두: demo_farm 분만사 {by['분만사']} vs pigflow 분만틀 {crates}"
 
     buf = io.StringIO()
     with contextlib.redirect_stdout(buf):
