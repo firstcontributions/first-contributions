@@ -1747,6 +1747,70 @@ def test_check_download() -> None:
             ["x.tar.part00", "x.tar.part01"]
 
 
+def test_finetune_polygon() -> None:
+    """폴리곤 파인튜닝 준비: 매칭률·서브샘플·데이터셋 생성·시간추정."""
+    import shutil
+    import tempfile
+    import numpy as np
+    import cv2
+    import parse_pig_polygon as ppp
+    import finetune_polygon as fp
+
+    with tempfile.TemporaryDirectory() as d:
+        ld, idir = os.path.join(d, "lab"), os.path.join(d, "img")
+        os.makedirs(ld); os.makedirs(idir)
+        ppp.synth_cvat(os.path.join(ld, "a.xml"), n_images=30, seed=1)
+        df = fp.load_labels(ld, verbose=False)
+        imgs = sorted(df["image"].unique())
+        rng = np.random.default_rng(0)
+        # 절반만 이미지를 만든다 — 라벨 전체 + 원천 일부 상황 재현
+        for name in imgs[:len(imgs) // 2]:
+            row = df[df["image"] == name].iloc[0]
+            cv2.imwrite(os.path.join(idir, os.path.basename(name)),
+                        rng.integers(0, 255, (int(row.img_h or 64),
+                                              int(row.img_w or 64), 3),
+                                     dtype=np.uint8))
+        index = fp.index_images(idir)
+        assert len(index) == len(imgs) // 2
+        paired = fp.pair(df, index, verbose=False)
+        assert paired["image"].nunique() == len(imgs) // 2
+        assert paired["path"].map(os.path.exists).all(), "경로가 실제 파일이 아니다"
+
+        # 서브샘플은 **이미지 단위** — 한 장이 반만 라벨되면 안 된다
+        sub = fp.subsample(paired, 5, seed=0)
+        assert sub["image"].nunique() == 5
+        for img in sub["image"].unique():
+            assert len(sub[sub["image"] == img]) == \
+                len(paired[paired["image"] == img]), f"{img} 폴리곤이 잘렸다"
+        assert fp.subsample(paired, 10_000)["image"].nunique() == len(imgs) // 2
+
+        out = os.path.join(d, "ds")
+        built = fp.build_dataset(paired, out)
+        assert os.path.exists(built["yaml"])
+        # train/val 이미지가 겹치면 검증이 무의미하다
+        tr = set(os.listdir(os.path.join(out, "images", "train")))
+        va = set(os.listdir(os.path.join(out, "images", "val")))
+        assert tr and va and not (tr & va), "train/val 이미지 누수"
+        # 이미지마다 라벨 파일이 있어야 한다
+        for split in ("train", "val"):
+            ii = os.listdir(os.path.join(out, "images", split))
+            ll = os.listdir(os.path.join(out, "labels", split))
+            assert len(ii) == len(ll), f"{split}: 이미지 {len(ii)} vs 라벨 {len(ll)}"
+        # YOLO-seg 좌표는 전부 0~1 정규화
+        for f in os.listdir(os.path.join(out, "labels", "train")):
+            for line in open(os.path.join(out, "labels", "train", f)):
+                v = [float(x) for x in line.split()[1:]]
+                assert v and all(0.0 <= x <= 1.0 for x in v), f"{f}: {line[:60]}"
+
+    # 시간 추정: 장수·epoch 에 선형, imgsz 가 작을수록 빨라야 한다
+    h1 = fp.estimate_hours(1000, 50, "yolo11n-seg", 416)
+    assert abs(h1 - 1000 * 50 * 0.439 / 3600) < 0.01, h1
+    assert fp.estimate_hours(2000, 50, "yolo11n-seg", 416) == 2 * h1
+    assert h1 < fp.estimate_hours(1000, 50, "yolo11n-seg", 640)
+    # 실측에 없는 조합도 픽셀 수 비례로 외삽되어야 한다
+    assert 0 < fp.estimate_hours(1000, 50, "yolo11n-seg", 320) < h1
+
+
 def test_farm_economics() -> None:
     """생산비 구조: 사료 비중·손익분기·지렛대 순서."""
     import farm_economics as fe
@@ -1850,7 +1914,8 @@ def main() -> int:
              test_farm_registry, test_breeding_ledger, test_barn_environment,
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
-             test_pigflow_package, test_check_download]
+             test_pigflow_package, test_check_download,
+             test_finetune_polygon]
     failed = 0
     for t in tests:
         try:
