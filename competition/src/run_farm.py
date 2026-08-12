@@ -78,6 +78,36 @@ def crates_for_sows(n_sows: int, cfg) -> int:
     return min([max(1, lo - 1), lo], key=lambda c: abs(sows(c) - n_sows))
 
 
+def program_metrics(cfg) -> dict:
+    """이 프로그램이 **스스로 깔고 있는** 번식 성적 — farm_gap 입력 형태로.
+
+    실측 기록이 없을 때 진단의 기준선으로 쓴다. 중앙값을 기본값으로 넣으면
+    격차가 늘 0 이 되어 아무것도 진단하지 못한다.
+
+    NPD 만 상수가 아니라 파생값이다. pigflow 는 비생산일수를 따로 두지 않고
+    번식주기에서 나오므로, 이론 최소치(재발정·유산 0)를 쓴다 — 그래서 실측
+    중앙 43일보다 한참 낮게 나오는 것이 정상이고, 그 차이가 이 설계가
+    낙관적인 폭이다.
+    """
+    b = cfg.breeding
+    return {
+        "weaned": float(b.weaned_per_litter),
+        "lactation": float(b.lactation_days),
+        "gestation": float(b.gestation_days),
+        "farrowing_rate": float(b.farrowing_rate) * 100.0,
+        "wean_to_estrus": float(b.wean_to_service_days),
+        "npd": _npd_floor(b),
+    }
+
+
+def _npd_floor(b) -> float:
+    import farm_gap as fg
+    return fg.npd_floor_annual({
+        "wean_to_service_days": b.wean_to_service_days,
+        "gestation_days": b.gestation_days,
+        "lactation_days": b.lactation_days})
+
+
 def run(n_sows: int, system: str = "WEEKLY", days: int = 400,
         farm_metrics: dict | None = None, verbose: bool = True) -> dict:
     from datetime import date
@@ -155,20 +185,37 @@ def run(n_sows: int, system: str = "WEEKLY", days: int = 400,
     p(f"   출하 {tl.attrs['n_marketed']}두 · 육성률 {tl.attrs['survival']:.1%}")
 
     # 5) 성적 진단 — 실측 분포에서 얼마나 멀어져 있나
+    #
+    # **기본값을 중앙값으로 채우면 안 된다.** 원래 farm_metrics 가 없으면
+    # 실측 중앙값을 그대로 넣었는데, 그러면 "내 값 = 중앙값" 이라 격차가
+    # 항상 0.00 으로 찍혔다. 진단이 아니라 항등식을 확인한 셈이다.
+    # 입력이 없을 때의 정직한 기본값은 **이 프로그램 자신의 가정값**이다.
     st = fg.load_stats()
-    med = {kk: v["p50"] for kk, v in st["quantiles"].items()}
-    fm = dict(med)
+    fm = program_metrics(cfg)
+    given = bool(farm_metrics)
     fm.update(farm_metrics or {})
     diag = fg.diagnose(fm, st, n_sows=n_sows)
     out["gap"] = diag
+    out["gap_basis"] = "입력값" if given else "프로그램 가정값"
+    src = "내 농장" if given else "내 프로그램 가정"
     p(f"\n⑤ 성적 진단 (국내 466농장 분포 대비)")
-    p(f"   내 농장 PSY {diag['psy']} · 중앙 농장 {diag['psy_median_farm']} "
+    p(f"   {src} PSY {diag['psy']} · 중앙 농장 {diag['psy_median_farm']} "
       f"→ 격차 {diag['psy_gap']:+.2f}두")
+    p(f"   (중앙 농장은 지표별 중앙값을 항등식에 넣은 합성값. 실제 PSY 열의 "
+      f"중앙은 {diag['psy_median_observed']})")
     for r in diag["rows"][:3]:
         rec = (f"되돌리면 PSY {r['psy_recover']:+.2f}"
                if r["psy_recover"] is not None else "간접 지표")
         p(f"     {r['name_ko']:<14}{r['value']:>7} (중앙 {r['median']}) "
           f"IQR {r['iqr_z']:+.2f} {r['band']:<8}{rec}")
+    if not given:
+        p(f"   ※ 실측 기록을 안 넣었으므로 위는 **가정값 대 실측 분포**다."
+          f"\n     NPD {fm['npd']}일은 재발정·유산이 0 인 이론 최소치고 실측 중앙은"
+          f" {diag['rows'][0]['median'] if diag['rows'][0]['metric']=='npd' else 43.0}일이다."
+          f"\n     이 프로그램이 낙관적인 폭이 곧 발정 관리로 메울 몫이다.")
+        p(f"   같은 가정을 시뮬레이션으로 돌리면 PSY {psy_breeding:.2f} — "
+          f"항등식 {diag['psy']} 과의 차 {psy_breeding - diag['psy']:+.2f}두가"
+          f"\n     후보돈 자리·모돈 교체에서 빠지는 몫이다.")
 
     # 6) 손익 — 무엇부터 고칠 것인가
     lv = fe.levers(n_sows=n_sows, psy=diag["psy"])

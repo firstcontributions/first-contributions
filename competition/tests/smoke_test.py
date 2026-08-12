@@ -2276,6 +2276,34 @@ def test_run_farm_end_to_end() -> None:
     for tag in ("①", "②", "③", "④", "⑤", "⑥"):
         assert tag in out, f"{tag} 단계가 없다"
 
+    # **기본 진단이 자기 자신과의 비교면 안 된다.** 입력이 없을 때 실측
+    # 중앙값을 그대로 기본값으로 넣고 있어서 격차가 늘 +0.00 으로 찍혔다.
+    # 진단처럼 보이지만 항등식을 두 번 계산한 것뿐이었다.
+    assert r["gap_basis"] == "프로그램 가정값"
+    assert abs(r["gap"]["psy_gap"]) > 0.5, \
+        f"입력 없이 격차 {r['gap']['psy_gap']} — 중앙값을 되돌려 넣고 있다"
+    assert "가정값 대 실측 분포" in out, "무엇과 비교한 건지 표시가 없다"
+
+    # '중앙 농장' 은 합성값이다. PSY 열의 실제 중앙(24.1)보다 높게 나오는데
+    # 그걸 "평균 농장의 PSY" 로 인용하면 1.2두 부풀린다 — 둘 다 찍어야 한다.
+    assert r["gap"]["psy_median_observed"] < r["gap"]["psy_median_farm"] - 0.5
+    assert str(r["gap"]["psy_median_observed"]) in out, "실측 PSY 중앙이 없다"
+
+    # program_metrics 의 NPD 는 pigflow 가 계산하는 이론 최소치와 같아야 한다.
+    # 두 곳에 식이 있으므로 어긋나면 여기서 잡는다.
+    pm = rfm.program_metrics(default_config())
+    assert abs(pm["npd"] - r["kpi"]["npd_floor_annual_days"]) < 0.15, \
+        (pm["npd"], r["kpi"]["npd_floor_annual_days"])
+    npd_row = [x for x in r["gap"]["rows"] if x["metric"] == "npd"][0]
+    assert npd_row["value"] < npd_row["median"] - 10, \
+        "이론 최소 NPD 가 실측 중앙보다 낮지 않다 — 어느 쪽 단위가 틀렸다"
+
+    # 임신기간은 항등식에 들어가되 **지렛대로 세면 안 된다**
+    g_row = [x for x in r["gap"]["rows"] if x["metric"] == "gestation"][0]
+    assert g_row["psy_recover"] is not None and g_row["actionable"] is False
+    assert all(m["metric"] != "gestation" for m in r["gap"]["won_per_year"]), \
+        "임신기간을 단축하라는 금액 권고가 나왔다"
+
     # **PSY 분모가 둘이다** — 설명 없이 나란히 두면 어느 쪽이 틀린 줄 안다.
     # pigflow 는 후보돈 자리를 포함하고, 실측 비교는 번식돈 기준이다.
     assert r["psy_breeding_only"] > r["kpi"]["psy"], \
