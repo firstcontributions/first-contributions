@@ -148,7 +148,7 @@ def main(argv=None) -> int:
           f"출하배치 {k['batches_shipped']}개 · 동일 코호트)")
     print(f"  모돈회전율 {k['sow_turnover']:>5} (이론) vs "
           f"{k['sow_turnover_config']} (설정) · "
-          f"이론 최소 NPD {k['npd_floor_days']}일")
+          f"이론 최소 NPD {k['npd_floor_annual_days']}일/년 (실측 중앙 43)")
     print(f"  돈방 가동률 {k['room_utilization']:.1%}  "
           f"(평균 모돈 {k['avg_sows']}두 · 정상구간 {k['days_steady']}일)")
     print("  * PSY/MSY 는 모든 배치가 분만틀을 채운다는 설계 가정의 상한이다. "

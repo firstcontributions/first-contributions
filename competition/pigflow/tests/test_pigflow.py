@@ -385,7 +385,12 @@ def test_kpi_cohort_consistency() -> None:
         f"{k['post_wean_survival']} vs 설정 {expect:.3f}"
     assert k["msy"] < k["psy"], "MSY 가 PSY 보다 클 수 없다"
     assert 0.0 < k["room_utilization"] <= 1.0
-    assert k["npd_floor_days"] == c.breeding.wean_to_service_days
+    # NPD 는 **연간**이다. 주기당(7일)을 현장 벤치마크 40~60일과 나란히 놓으면
+    # 단위가 달라 오독한다 — 실제로 그렇게 찍고 있었다.
+    assert k["npd_per_cycle_days"] == c.breeding.wean_to_service_days
+    assert abs(k["npd_floor_annual_days"]
+               - k["npd_per_cycle_days"] * k["sow_turnover"]) < 0.2
+    assert k["npd_floor_annual_days"] > k["npd_per_cycle_days"]
 
 
 def test_kpi_stable_across_run_length() -> None:

@@ -209,18 +209,29 @@ def kpis(breeding: BreedingCfg, weaned_total: float, shipped_total: float,
          avg_sows: float) -> dict:
     """연간 두수 → PSY/MSY.
 
-    npd_floor_days 는 **이론 최소 비생산일**이다 = 이유~재교배 간격. 재발정·
-    유산·도태 대기가 전혀 없다는 가정이라 현장 NPD(40~60일)와 직접 비교하면
-    안 된다. 설정 회전율(sow_turnover)과 이론 회전율의 차이가 그 손실이다.
+    **NPD 는 연간 일수다.** 국내 466농장 실측으로 확인한 정의:
+
+        회전율 = (365 − NPD_연간) / (임신 + 포유)     ← 86.2% 가 오차 0.05 이내
+
+    처음엔 `365/회전율 − (임신+포유)` 만 냈는데 그건 **주기당** 값이라 7일이
+    나왔다. 현장 벤치마크 40~60일과 나란히 찍으면 단위가 달라 오독한다 —
+    실제로 그렇게 찍고 있었다. 같은 회전율의 연간 환산은 7 × 2.52 = 17.6일/년.
+
+    npd_floor_annual_days 는 **이론 최소치**다: 재발정·유산·도태 대기가 전혀
+    없고 이유 후 곧바로 재교배되는 가정. 실측 중앙 43일과의 차이가 그 농장이
+    실제로 흘리는 몫이고, 그 대부분이 발정 관리에서 나온다.
     """
     turnover = 365.0 / breeding.cycle_days
-    npd_floor = 365.0 / turnover - (breeding.gestation_days
-                                    + breeding.lactation_days)
+    # 주기당 비생산일 = 이유~재교배. **연간으로 쓰려면 회전율을 곱한다.**
+    npd_per_cycle = 365.0 / turnover - (breeding.gestation_days
+                                        + breeding.lactation_days)
+    npd_floor = npd_per_cycle * turnover
     return {
         "psy": round(weaned_total / max(1e-9, avg_sows), 2),
         "msy": round(shipped_total / max(1e-9, avg_sows), 2),
         "sow_turnover": round(turnover, 2),
-        "npd_floor_days": round(npd_floor, 1),
+        "npd_floor_annual_days": round(npd_floor, 1),
+        "npd_per_cycle_days": round(npd_per_cycle, 1),
         "post_wean_survival": round(
             shipped_total / max(1e-9, weaned_total), 3),
     }

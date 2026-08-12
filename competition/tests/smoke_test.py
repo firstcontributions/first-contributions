@@ -2130,6 +2130,76 @@ def test_korean_farm_stats() -> None:
     assert "msy" not in kfs.quantiles(d)
 
 
+def test_farm_gap() -> None:
+    """분포에서의 **거리** 진단 — 순위가 아니라 크기를 말해야 한다."""
+    import farm_gap as fg
+
+    st = fg.load_stats()
+    med = {k: v["p50"] for k, v in st["quantiles"].items()}
+
+    # PSY 항등식: 466농장으로 확인한 정의. NPD 는 **연간**이다.
+    #   회전율 = (365 − NPD) / (임신 + 포유)
+    # 주기당으로 잘못 쓰면 오차 −0.32 가 난다(실제로 그렇게 시작했다).
+    p = fg.psy_from(11.0, 43.0, 24.8)
+    assert abs(p - 11.0 * (365 - 43) / (115 + 24.8)) < 1e-9
+    assert abs(p - med["psy"]) < 1.5, (p, med["psy"])   # 중앙 농장과 맞물린다
+    # 단조성: 이유두수↑ PSY↑ · NPD↑ PSY↓ · 포유↑ PSY↓
+    assert fg.psy_from(12, 43, 24.8) > p > fg.psy_from(10, 43, 24.8)
+    assert fg.psy_from(11, 30, 24.8) > p > fg.psy_from(11, 60, 24.8)
+    assert fg.psy_from(11, 43, 21) > p
+    for bad in ((11, 365, 24.8), (11, 400, 24.8)):
+        try:
+            fg.psy_from(*bad)
+        except ValueError:
+            continue
+        raise AssertionError(f"불가능한 NPD 를 통과시킴: {bad}")
+
+    # 중앙값 농장은 거리 0
+    d0 = fg.diagnose({k: med[k] for k in fg.DIRECT + fg.INDIRECT}, st)
+    assert abs(d0["psy_gap"]) < 0.01, d0["psy_gap"]
+    for r in d0["rows"]:
+        assert abs(r["iqr_z"]) < 0.01 and r["band"] == "중앙 부근", r
+
+    # 부진 농장: 거리가 음의 방향, 회수량이 양수
+    bad_farm = {"weaned": 10.0, "npd": 62.0, "lactation": med["lactation"],
+                "farrowing_rate": 74.0, "wean_to_estrus": 9.5}
+    d = fg.diagnose(bad_farm, st, n_sows=300)
+    assert d["psy_gap"] < -1.0, d["psy_gap"]
+    rows = {r["metric"]: r for r in d["rows"]}
+    assert rows["weaned"]["psy_recover"] > 0 and rows["npd"]["psy_recover"] > 0
+    # 결과는 회수량 내림차순 — 무엇부터 고칠지가 표의 목적이다
+    rec = [r["psy_recover"] for r in d["rows"] if r["psy_recover"] is not None]
+    assert rec == sorted(rec, reverse=True), rec
+    # 간접 지표는 PSY 로 환산하지 않는다(없는 인과를 지어내지 않는다)
+    assert rows["farrowing_rate"]["psy_recover"] is None
+    assert rows["wean_to_estrus"]["psy_recover"] is None
+    # 방향 부호: 낮을수록 좋은 지표는 값이 크면 '나쁨'
+    assert "나쁨" in rows["npd"]["band"] and rows["npd"]["gap"] > 0
+    assert "나쁨" in rows["weaned"]["band"] and rows["weaned"]["gap"] < 0
+
+    # 우수 농장: 반대 방향
+    good = fg.diagnose({"weaned": 12.0, "npd": 30.0,
+                        "lactation": med["lactation"]}, st)
+    assert good["psy_gap"] > 1.0
+    g = {r["metric"]: r for r in good["rows"]}
+    assert "좋음" in g["weaned"]["band"] and "좋음" in g["npd"]["band"]
+    assert g["npd"]["psy_recover"] < 0, "이미 좋은 지표를 중앙으로 되돌리면 손해"
+
+    # 개별 합 ≠ 전체 (항이 곱해진다) — 이걸 합산해 보고하면 과장이 된다
+    assert abs(d["sum_of_parts"] - (d["psy_all_median"] - d["psy"])) > 0.01
+
+    # 금액 환산은 회수량에 단조
+    m = d["won_per_year"]
+    assert m and all(x["won_year"] > 0 for x in m)
+    assert m[0]["psy_recover"] >= m[-1]["psy_recover"]
+    assert m[0]["won_year"] >= m[-1]["won_year"]
+
+    # IQR 기반 z — 분포가 치우쳐도 중앙이 0
+    q = st["quantiles"]["npd"]
+    assert abs(fg.robust_z(q["p50"], q)) < 1e-9
+    assert fg.robust_z(q["p75"], q) > 0 > fg.robust_z(q["p25"], q)
+
+
 def test_docs_consistent() -> None:
     """문서에 박힌 숫자가 실제와 맞는지. 어긋나면 나머지 수치도 못 믿게 된다.
 
@@ -2264,7 +2334,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_gap, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
