@@ -35,13 +35,21 @@ sys.path.insert(0, HERE)
 
 DATASET = "622"
 # tree 622 실측(2026-08). 갱신되면 `aihub.py tree 622` 로 다시 확인할 것.
+# **TL/VL 은 서로 다른 이미지 세트를 가리킨다.** TL01 은 TS01~06 을, VL01 은
+# VS01 을 라벨한다. VS01 이 55GB 라 안 받을 거면 VL01 도 받을 이유가 없다 —
+# 매칭 0장이 되고, 그보다 나쁘게 **매칭률의 분모를 부풀려** 판단을 흐린다.
+# 기본은 TL01 + TS06 이고, 검증셋은 TS06 매칭분을 이미지 단위로 쪼개 만든다.
 FILES = {
     "labels": [
         ("533708", "Training 폴리곤 라벨 TL01.zip", 77),
-        ("533718", "Validation 폴리곤 라벨 VL01.zip", 8),
     ],
     "images": [
         ("533695", "Training 폴리곤 원천 TS06.zip (가장 작은 것)", 10_240),
+    ],
+    # --official-val 을 줄 때만. 둘은 **함께**여야 의미가 있다.
+    "official_val": [
+        ("533718", "Validation 폴리곤 라벨 VL01.zip", 8),
+        ("533714", "Validation 폴리곤 원천 VS01.zip", 55 * 1024),
     ],
 }
 # 원천 zip 을 풀면 대략 압축 크기만큼 더 쓴다. 10GB zip → 여유 25GB 는 봐야 한다.
@@ -74,13 +82,20 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="fetch_622")
     ap.add_argument("--images", action="store_true",
                     help="원천 TS06(10GB)도 받는다. 없으면 학습 불가")
+    ap.add_argument("--official-val", action="store_true",
+                    help="공식 검증셋 VL01+VS01(55GB). 라벨만 받아 봐야 "
+                         "이미지가 없어 못 쓰므로 항상 둘을 같이 받는다")
     ap.add_argument("--out", default=os.path.join(ROOT, "competition", "data",
                                                   "aihub622"))
     ap.add_argument("--dry-run", action="store_true",
                     help="받지 않고 계획만 출력")
     a = ap.parse_args(argv)
 
-    plan = list(FILES["labels"]) + (list(FILES["images"]) if a.images else [])
+    plan = list(FILES["labels"])
+    if a.images:
+        plan += list(FILES["images"])
+    if a.official_val:
+        plan += list(FILES["official_val"])
     total_mb = sum(mb for _k, _d, mb in plan)
     print("=" * 72)
     print(f"  AI Hub {DATASET} 폴리곤 — 받을 파일 {len(plan)}개")
@@ -95,6 +110,13 @@ def main(argv=None) -> int:
         print("     폴리곤 좌표만 있고 이미지가 없다. 학습하려면 --images 를 붙여")
         print("     TS06(10GB)까지 받을 것. 라벨 먼저 받아 내용을 확인하고 싶다면")
         print("     지금 그대로 진행해도 된다.")
+    if not a.official_val:
+        print("\n  ℹ️  공식 검증셋(VL01+VS01)은 받지 않는다. VL01 라벨은 VS01")
+        print("     이미지(55GB)를 가리키므로 라벨만 받으면 매칭 0장이고 매칭률")
+        print("     분모만 부풀린다. 검증은 TS06 매칭분을 **이미지 단위로** 쪼개")
+        print("     만든다(train 70 / val 15 / test 15).")
+        print("     한계: 홀드아웃이 같은 원천 zip 에서 나와 촬영 조건이 겹친다.")
+        print("     공식 지표와 맞추려면 --official-val 로 55GB 를 받아야 한다.")
 
     os.makedirs(a.out, exist_ok=True)
     need = total_mb / 1024 * DISK_FACTOR

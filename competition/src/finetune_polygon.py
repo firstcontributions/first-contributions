@@ -79,13 +79,48 @@ def find_xml(label_dir: str) -> list:
                             recursive=True))
 
 
+def _suffixes(rel: str) -> list:
+    """경로를 뒤에서부터 잘라 후보 키를 만든다. 'a/b/c.jpg' → c, b/c, a/b/c."""
+    rel = os.path.splitext(rel.replace("\\", "/").strip("/"))[0]
+    parts = rel.split("/")
+    return ["/".join(parts[-i:]) for i in range(1, len(parts) + 1)]
+
+
 def index_images(image_dir: str) -> dict:
-    """basename(확장자 제외) → 실제 경로. 라벨과 이름으로 맞춘다."""
-    out = {}
+    """경로 접미사 → 실제 경로. **basename 만으로 맞추면 안 된다.**
+
+    CVAT 내보내기는 `frame_0000.jpg` 같은 이름을 쓰고, 그 이름이 원천 zip
+    마다 반복된다(TS06 과 VS01 에 같은 이름이 다 있다). basename 으로만
+    색인하면 서로 다른 이미지가 한 칸을 두고 다투고, 라벨이 엉뚱한 사진에
+    붙은 채로 학습에 들어간다 — 에러도 안 난다.
+
+    그래서 basename 뿐 아니라 상위 디렉터리를 붙인 접미사까지 전부 색인하고,
+    **모호한 키(둘 이상이 차지)는 None 으로 표시**해 매칭에서 제외한다.
+    호출부는 가장 긴(=가장 구체적인) 접미사부터 조회하면 된다.
+    """
+    out: dict = {}
+    n = 0
     for p in glob.glob(os.path.join(image_dir, "**", "*"), recursive=True):
-        if p.lower().endswith(IMG_EXT):
-            out.setdefault(os.path.splitext(os.path.basename(p))[0], p)
+        if not p.lower().endswith(IMG_EXT):
+            continue
+        n += 1
+        rel = os.path.relpath(p, image_dir)
+        for key in _suffixes(rel):
+            if key in out and out[key] != p:
+                out[key] = None          # 모호 — 이 키로는 못 고른다
+            elif key not in out:
+                out[key] = p
+    out["__n_files__"] = n               # 파일 수(모호 키 때문에 len 과 다르다)
     return out
+
+
+def resolve(name: str, images: dict) -> str | None:
+    """라벨의 image 값 → 실제 경로. 가장 구체적인 접미사부터 시도한다."""
+    for key in reversed(_suffixes(name)):     # 긴 것 → 짧은 것
+        hit = images.get(key)
+        if hit:
+            return hit
+    return None
 
 
 def load_labels(label_dir: str, verbose: bool = True):
@@ -97,7 +132,11 @@ def load_labels(label_dir: str, verbose: bool = True):
     frames = []
     for x in xmls:
         try:
-            frames.append(ppp.parse_cvat(x))
+            fr = ppp.parse_cvat(x)
+            # 어느 XML 에서 왔는지 남긴다. TL/VL 이 섞이면 매칭률이 왜곡되므로
+            # 출처별로 따로 세야 한다(아래 pair 참고).
+            fr["source"] = os.path.basename(x)
+            frames.append(fr)
         except Exception as e:                                    # noqa: BLE001
             if verbose:
                 print(f"  ! {os.path.basename(x)} 파싱 실패: {e}")
@@ -116,13 +155,43 @@ def pair(df, images: dict, verbose: bool = True):
     **매칭률이 이 작업의 핵심 지표다.** 라벨은 전체(TL01)인데 이미지는 일부
     (TS06)만 받았으므로 대부분이 안 맞는 것이 정상이다. 몇 %가 맞는지 알아야
     다음 zip 을 받을지 판단할 수 있다.
+
+    **출처별로 따로 센다.** TL01(Training 라벨)과 VL01(Validation 라벨)은
+    서로 다른 이미지 세트를 가리킨다 — VL01 은 VS01(55GB)을 라벨한다. VS01
+    없이 VL01 만 있으면 그쪽은 무조건 0% 인데, 전체를 뭉뚱그리면 TS06 의
+    실제 커버리지가 그만큼 낮아 보인다. 다음 zip 을 받을지 정하는 판단이
+    여기서 갈리므로 출처를 갈라서 보여준다.
     """
-    stems = df["image"].map(lambda s: os.path.splitext(os.path.basename(s))[0])
-    have = stems.map(lambda s: s in images)
-    n_all, n_hit = stems.nunique(), stems[have].nunique()
+    paths = df["image"].map(lambda s: resolve(s, images))
+    have = paths.notna()
+    n_all = df["image"].nunique()
+    n_hit = df.loc[have, "image"].nunique()
+    # 모호해서 버린 것 — 이걸 안 세면 "왜 매칭이 낮지" 하고 엉뚱한 데를 본다
+    ambiguous = sum(1 for k, v in images.items()
+                    if v is None and k != "__n_files__")
     if verbose:
         rate = n_hit / max(1, n_all)
-        print(f"  라벨 이미지 {n_all:,}장 중 실제 파일 있는 것 "
+        if ambiguous:
+            print(f"  ⚠️  이름이 겹쳐 못 고르는 이미지 키 {ambiguous:,}개 — "
+                  f"라벨 쪽 경로에 상위 폴더가 없으면 매칭에서 빠진다.")
+        if "source" in df.columns and df["source"].nunique() > 1:
+            print("  라벨 출처별 매칭:")
+            live = []
+            for src, g in df.groupby("source"):
+                a = g["image"].nunique()
+                gh = g["image"].map(lambda s: resolve(s, images)).notna()
+                h = g.loc[gh, "image"].nunique()
+                mark = "  ← 이미지 미보유" if h == 0 else ""
+                print(f"    {src:<28} {h:>7,} / {a:>7,}장 "
+                      f"({h / max(1, a):>5.1%}){mark}")
+                if h:
+                    live.append(src)
+            if len(live) < df["source"].nunique():
+                dead = df["source"].nunique() - len(live)
+                print(f"    ※ 매칭 0장인 출처 {dead}개는 전체 매칭률의 분모만"
+                      f" 키운다. 아래 총계는 참고용이고,"
+                      f" **판단은 위 줄별 비율로** 할 것.")
+        print(f"  총계: 라벨 이미지 {n_all:,}장 중 실제 파일 있는 것 "
               f"{n_hit:,}장 ({rate:.1%})")
         if n_hit == 0:
             print("  ! 하나도 안 맞는다 — 라벨과 원천이 다른 세트이거나 "
@@ -130,7 +199,7 @@ def pair(df, images: dict, verbose: bool = True):
             print(f"      라벨 쪽: {list(stems[:3])}")
             print(f"      이미지 쪽: {list(images)[:3]}")
     out = df[have].copy()
-    out["path"] = stems[have].map(images)
+    out["path"] = paths[have]
     return out
 
 
@@ -202,7 +271,7 @@ def prep(label_dir: str, image_dir: str, max_images: int, epochs: int,
     df = load_labels(label_dir)
     print("2) 이미지 매칭")
     images = index_images(image_dir)
-    print(f"  이미지 파일 {len(images):,}개 발견")
+    print(f"  이미지 파일 {images['__n_files__']:,}개 발견")
     df = pair(df, images)
     n = df["image"].nunique() if len(df) else 0
     if n == 0:

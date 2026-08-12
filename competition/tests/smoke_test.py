@@ -1771,7 +1771,7 @@ def test_finetune_polygon() -> None:
                                               int(row.img_w or 64), 3),
                                      dtype=np.uint8))
         index = fp.index_images(idir)
-        assert len(index) == len(imgs) // 2
+        assert index["__n_files__"] == len(imgs) // 2
         paired = fp.pair(df, index, verbose=False)
         assert paired["image"].nunique() == len(imgs) // 2
         assert paired["path"].map(os.path.exists).all(), "경로가 실제 파일이 아니다"
@@ -1819,6 +1819,46 @@ def test_finetune_polygon() -> None:
         fp.estimate_hours(1000, 50, "yolo11n-seg", 416, freeze=True)
 
 
+def test_image_name_collision() -> None:
+    """같은 파일명이 원천마다 반복될 때 **엉뚱한 짝을 맺으면 안 된다**.
+
+    CVAT 내보내기는 frame_0000.jpg 같은 이름을 쓰고 그 이름이 TS06/VS01 양쪽에
+    다 있다. basename 으로만 색인하면 라벨이 다른 원천의 사진에 붙은 채로
+    학습에 들어가고 에러도 안 난다 — 조용히 오염된다.
+    """
+    import tempfile
+    import numpy as np
+    import cv2
+    import finetune_polygon as fp
+
+    with tempfile.TemporaryDirectory() as d:
+        for sub in ("TS06", "VS01"):
+            os.makedirs(os.path.join(d, sub))
+            for i in range(3):
+                cv2.imwrite(os.path.join(d, sub, f"frame_{i:04d}.jpg"),
+                            np.zeros((8, 8, 3), np.uint8))
+        cv2.imwrite(os.path.join(d, "TS06", "only_here.jpg"),
+                    np.zeros((8, 8, 3), np.uint8))
+        idx = fp.index_images(d)
+        assert idx["__n_files__"] == 7
+
+        # 경로가 붙어 있으면 정확히 그 폴더로
+        for sub in ("TS06", "VS01"):
+            got = fp.resolve(f"{sub}/frame_0000.jpg", idx)
+            assert got and os.path.basename(os.path.dirname(got)) == sub, got
+        # 맨 이름은 모호하므로 **매칭을 거부**해야 한다(아무거나 고르면 안 된다)
+        assert fp.resolve("frame_0000.jpg", idx) is None
+        assert idx["frame_0000"] is None
+        # 유일한 이름은 맨 이름으로도 찾힌다
+        assert fp.resolve("only_here.jpg", idx) is not None
+        assert fp.resolve("없는파일.jpg", idx) is None
+        # 윈도우 구분자·선행 슬래시도 처리
+        assert fp.resolve("\\TS06\\frame_0001.jpg", idx) is not None
+        assert fp.resolve("/TS06/frame_0002.jpg", idx) is not None
+        # 더 긴 경로가 주어져도 뒤에서부터 맞춘다
+        assert fp.resolve("x/y/TS06/frame_0001.jpg", idx) is not None
+
+
 def test_fetch_622() -> None:
     """622 다운로드 헬퍼: filekey·용량·디스크·키 가드."""
     import contextlib
@@ -1828,9 +1868,14 @@ def test_fetch_622() -> None:
 
     # filekey 는 tree 622 실측값. 바뀌면 다운로드가 조용히 엉뚱한 걸 받는다.
     keys = {k for grp in f6.FILES.values() for k, _d, _m in grp}
-    assert {"533708", "533718", "533695"} == keys, keys
+    assert {"533708", "533718", "533695", "533714"} == keys, keys
     # 라벨만으로는 학습 불가 — 이미지 항목이 별도로 있어야 한다
     assert f6.FILES["labels"] and f6.FILES["images"]
+    # VL01 은 VS01 을 가리킨다. 라벨만 받으면 매칭 0장이므로 **둘이 한 묶음**
+    ov = {k for k, _d, _m in f6.FILES["official_val"]}
+    assert ov == {"533718", "533714"}, ov
+    assert "533718" not in {k for k, _d, _m in f6.FILES["labels"]}, \
+        "VL01 이 기본 라벨에 있다 — 이미지 없이 받으면 매칭률만 왜곡된다"
     lab_mb = sum(m for _k, _d, m in f6.FILES["labels"])
     img_mb = sum(m for _k, _d, m in f6.FILES["images"])
     assert lab_mb < 200 and img_mb > 1000, (lab_mb, img_mb)
@@ -1858,8 +1903,15 @@ def test_fetch_622() -> None:
         # 라벨만일 때는 학습 불가 경고
         rc, out = run(["--out", d, "--dry-run"], env_key="dummy")
         assert rc == 0 and "학습할 수 없다" in out, out
-        assert "533708" in out and "533718" in out
+        assert "533708" in out, "Training 라벨이 기본에 없다"
         assert "533695" not in out, "--images 없이 원천을 받으려 한다"
+        assert "533718" not in out, "VL01 을 기본으로 받으려 한다"
+        assert "공식 검증셋" in out, "VL/VS 를 왜 안 받는지 설명이 없다"
+
+        # --official-val 은 라벨과 원천을 **함께** 받아야 한다
+        rc, out = run(["--out", d, "--images", "--official-val", "--dry-run"],
+                      env_key="dummy")
+        assert "533718" in out and "533714" in out, out
 
         # --images 면 원천도 계획에 들어간다
         rc, out = run(["--out", d, "--images", "--dry-run"], env_key="dummy")
@@ -1980,7 +2032,8 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622]
+             test_finetune_polygon, test_fetch_622,
+             test_image_name_collision]
     failed = 0
     for t in tests:
         try:
