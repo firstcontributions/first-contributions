@@ -1819,6 +1819,62 @@ def test_finetune_polygon() -> None:
         fp.estimate_hours(1000, 50, "yolo11n-seg", 416, freeze=True)
 
 
+def test_fetch_622_doctor() -> None:
+    """502 해석: AI Hub 는 정상 응답에도 502 를 준다 — 본문으로 판단해야 한다."""
+    import contextlib
+    import io
+    import fetch_622 as f6
+
+    TREE = ("└─108.지능형 스마트축사 통합 데이터(양돈)\n  ├─1.Training\n"
+            + "x" * 400).encode()
+
+    def run(responses, key=None):
+        """_probe 를 가짜로 바꿔 분기별 문구를 확인한다."""
+        seq = list(responses)
+        real, old = f6._probe, os.environ.pop("AIHUB_APIKEY", None)
+        if key:
+            os.environ["AIHUB_APIKEY"] = key
+        f6._probe = lambda *_a, **_k: seq.pop(0)
+        buf = io.StringIO()
+        try:
+            with contextlib.redirect_stdout(buf):
+                rc = f6.doctor()
+        finally:
+            f6._probe = real
+            os.environ.pop("AIHUB_APIKEY", None)
+            if old is not None:
+                os.environ["AIHUB_APIKEY"] = old
+        return rc, buf.getvalue()
+
+    # 502 + 트리 = 정상. 상태코드로 실패 판정하면 안 된다.
+    rc, out = run([(502, TREE)])
+    assert "파일 트리 조회" in out and "✅ 정상" in out, out
+    assert rc == 1 and "AIHUB_APIKEY 없음" in out          # 키 없어 2단계 스킵
+
+    # 트리 자체가 안 오면 네트워크 문제로 짚어야 한다
+    rc, out = run([(-1, b"timeout")])
+    assert rc == 1 and "네트워크" in out, out
+
+    # 502 + 인증실패 = 진짜 실패. 키/승인 둘 다 제시해야 한다.
+    rc, out = run([(502, TREE), (502, "인증실패, 권한이 거부되었습니다".encode())],
+                  key="k")
+    assert rc == 1 and "API 키가 틀렸다" in out and "활용신청" in out, out
+
+    rc, out = run([(502, TREE),
+                   (502, "AI 허브는 해외에서의 데이터 다운로드를 "
+                         "제한하고 있습니다.".encode())], key="k")
+    assert rc == 1 and "해외 IP 차단" in out, out
+
+    # /0.6/ 을 쓰는데도 404 문구면 그때는 정말 filekey 가 바뀐 것
+    rc, out = run([(502, TREE), (404, "페이지가 존재하지 않습니다.".encode())],
+                  key="k")
+    assert rc == 1 and "filekey 가 실제로 바뀐" in out, out
+
+    # 바이너리가 오면 통과
+    rc, out = run([(502, TREE), (200, b"PK\x03\x04" + b"\x00" * 200)], key="k")
+    assert rc == 0 and "통과" in out, out
+
+
 def test_image_name_collision() -> None:
     """같은 파일명이 원천마다 반복될 때 **엉뚱한 짝을 맺으면 안 된다**.
 
@@ -2033,7 +2089,8 @@ def main() -> int:
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
              test_finetune_polygon, test_fetch_622,
-             test_image_name_collision]
+             test_image_name_collision,
+             test_fetch_622_doctor]
     failed = 0
     for t in tests:
         try:

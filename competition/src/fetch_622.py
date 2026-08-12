@@ -56,6 +56,82 @@ FILES = {
 DISK_FACTOR = 2.5
 
 
+# AI Hub 는 **정상 응답에도 502 를 준다.** 상태코드로 성패를 가리면 안 되고
+# 본문을 읽어야 한다. 실측:
+#   /info/622.do            502 · 4,475B · 파일 트리        ← 정상
+#   /down/0.6/622.do        502 ·    46B · 인증실패…        ← 진짜 실패
+DOWN_URL = "https://api.aihub.or.kr/down/0.6/{ds}.do?fileSn={fk}"
+INFO_URL = "https://api.aihub.or.kr/info/{ds}.do"
+
+
+def _probe(url: str, apikey: str | None = None, nbytes: int = 400) -> tuple:
+    """상태코드와 본문 앞부분을 같이 돌려준다(상태코드만으로는 판단 불가)."""
+    import urllib.error
+    import urllib.request
+    req = urllib.request.Request(url)
+    if apikey:
+        req.add_header("apikey", apikey)
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:      # noqa: S310
+            return r.status, r.read(nbytes)
+    except urllib.error.HTTPError as e:
+        return e.code, e.read(nbytes)
+    except Exception as e:                                       # noqa: BLE001
+        return -1, str(e).encode()
+
+
+def doctor(datasetkey: str = DATASET) -> int:
+    """지금 어디서 막혀 있는지 — 받기 전에 3분 안에 확인한다."""
+    print("=" * 72)
+    print(f"  AI Hub 접근 진단 (dataset {datasetkey})")
+    print("=" * 72)
+    print("  ※ AI Hub 는 정상 응답에도 HTTP 502 를 준다. 상태코드가 아니라")
+    print("     **본문**으로 판단한다.\n")
+
+    st, body = _probe(INFO_URL.format(ds=datasetkey))
+    ok_info = b"Training" in body or b"\xe2\x94\x94" in body or len(body) > 300
+    print(f"  1. 파일 트리 조회(키 불필요)   HTTP {st}  "
+          + ("✅ 정상" if ok_info else "❌ 실패"))
+    if not ok_info:
+        print(f"     본문: {body[:120].decode('utf-8', 'replace')}")
+        print("     → 네트워크·프록시 문제. AI Hub 자체에 못 닿고 있다.")
+        return 1
+
+    key = os.environ.get("AIHUB_APIKEY")
+    if not key:
+        print("  2. 다운로드 권한              ⏭  AIHUB_APIKEY 없음 — 건너뜀")
+        print('     export AIHUB_APIKEY="발급받은_키" 후 다시 실행할 것.')
+        return 1
+
+    fk = FILES["labels"][0][0]
+    st, body = _probe(DOWN_URL.format(ds=datasetkey, fk=fk), key)
+    txt = body.decode("utf-8", "replace")
+    print(f"  2. 다운로드 권한 (filekey {fk})  HTTP {st}")
+    if "인증실패" in txt or "권한" in txt:
+        print(f"     ❌ {txt.strip()[:80]}")
+        print("     → 원인이 **둘 중 하나**인데 API 가 구분해 주지 않는다:")
+        print("        (a) API 키가 틀렸다 — AI Hub 마이페이지에서 재확인")
+        print("        (b) 이 데이터셋 '활용신청'이 아직 승인 전 (보통 1~2 영업일)")
+        print("     키 검증 전용 엔드포인트(keyValidate.do)는 현재 죽어 있어")
+        print("     따로 확인할 수 없다. 이미 승인받은 다른 데이터셋을 같은 키로")
+        print("     받아 보면 (a)와 (b)를 가를 수 있다.")
+        return 1
+    if "해외" in txt:
+        print(f"     ❌ {txt.strip()[:80]}")
+        print("     → 해외 IP 차단. 국내망에서 받아야 한다.")
+        return 1
+    if "페이지가 존재하지" in txt:
+        print(f"     ❌ {txt.strip()[:80]}")
+        print("     → URL 이 틀렸다. 이 스크립트는 /down/0.6/ 을 쓰므로 여기서")
+        print("        이 응답이 나오면 filekey 가 실제로 바뀐 것이다:")
+        print(f"        python competition/src/aihub.py tree {datasetkey}")
+        return 1
+    print(f"     ✅ 통과 — 본문 {len(body)}B, 텍스트 오류 아님(바이너리로 보임)")
+    print("\n  받을 준비가 됐다:")
+    print("     python competition/src/fetch_622.py --images")
+    return 0
+
+
 def free_gb(path: str) -> float:
     return shutil.disk_usage(path).free / 1024 ** 3
 
@@ -89,7 +165,12 @@ def main(argv=None) -> int:
                                                   "aihub622"))
     ap.add_argument("--dry-run", action="store_true",
                     help="받지 않고 계획만 출력")
+    ap.add_argument("--doctor", action="store_true",
+                    help="어디서 막혔는지 진단만 (트리 조회 → 다운로드 권한)")
     a = ap.parse_args(argv)
+
+    if a.doctor:
+        return doctor()
 
     plan = list(FILES["labels"])
     if a.images:
