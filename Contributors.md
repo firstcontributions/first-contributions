@@ -3453,6 +3453,7 @@ Amna Naeem
   Himanshu Singh wants Pull Shark
   Siddesh Raoandure
   Nethmi Thakshila
+  Ericahuang
   Nice to try out first pull
   Nethmi(https://github.com/thakshilaaa)
 - [Siddharth](https://github.com/siddharth03015)
