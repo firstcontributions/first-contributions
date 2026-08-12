@@ -1,4 +1,5 @@
 # Contributors
+-Rishit Raman
 Hiroyuki19830823
 - rishit backend enginner
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
@@ -15,6 +16,7 @@ Hiroyuki19830823
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
+- Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
 - Elankavi Pommon B
@@ -4316,6 +4318,7 @@ jadav-sai-rugvedh_IMT2024051
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tarikur Rahman](https://github.com/tarikurrahman)
 - [Obeida Arafa](https://github.com/o-arafa)
+the world is a stand
 - [Mythri](https://github.com/mythreddy03-svg)
 - [gmroberf](https://github.com/gmroberf)
 - [Lucas Correa Tavares](https://github.com/lucascorreatavares725-source)
