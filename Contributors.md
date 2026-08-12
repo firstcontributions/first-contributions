@@ -2187,6 +2187,7 @@ Amna Naeem
 - [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [Nicholas C](https://github.com/KrustKrabPizza42/)
 - [Nicholas Sobchak](https://github.com/NicholasSobchak)
+- [Fucai Xie](https://github.com/fufu1209)
 - [n-noraf](https://github.com/n-noraf)
 - [Nicolas Lefterache](https://github.com/Nick-codes-47)
 - [Nicolas Antonio](https://github.com/nicolasantonioa)
