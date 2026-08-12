@@ -1,0 +1,336 @@
+{
+ "n_rows": 466,
+ "years": [
+  2020,
+  2021,
+  2022,
+  2023
+ ],
+ "n_farms": 202,
+ "quantiles": {
+  "sows": {
+   "n": 465,
+   "mean": 599.48,
+   "p10": 131.4,
+   "p25": 194.6,
+   "p50": 352.4,
+   "p75": 746.3,
+   "p90": 1347.9
+  },
+  "msy": {
+   "n": 127,
+   "mean": 17.56,
+   "p10": 5.28,
+   "p25": 14.9,
+   "p50": 18.8,
+   "p75": 23.05,
+   "p90": 25.66
+  },
+  "psy": {
+   "n": 448,
+   "mean": 23.83,
+   "p10": 19.77,
+   "p25": 21.9,
+   "p50": 24.1,
+   "p75": 26.1,
+   "p90": 27.93
+  },
+  "turnover": {
+   "n": 448,
+   "mean": 2.28,
+   "p10": 2.09,
+   "p25": 2.2,
+   "p50": 2.31,
+   "p75": 2.4,
+   "p90": 2.45
+  },
+  "npd": {
+   "n": 448,
+   "mean": 48.51,
+   "p10": 28.37,
+   "p25": 34.1,
+   "p50": 43.0,
+   "p75": 57.73,
+   "p90": 73.66
+  },
+  "born_total": {
+   "n": 448,
+   "mean": 12.94,
+   "p10": 11.0,
+   "p25": 12.0,
+   "p50": 13.0,
+   "p75": 14.0,
+   "p90": 15.0
+  },
+  "born_alive": {
+   "n": 448,
+   "mean": 11.8,
+   "p10": 11.0,
+   "p25": 11.0,
+   "p50": 12.0,
+   "p75": 12.0,
+   "p90": 13.0
+  },
+  "weaned": {
+   "n": 448,
+   "mean": 10.5,
+   "p10": 9.0,
+   "p25": 10.0,
+   "p50": 11.0,
+   "p75": 11.0,
+   "p90": 12.0
+  },
+  "farrowing_rate": {
+   "n": 448,
+   "mean": 80.11,
+   "p10": 66.51,
+   "p25": 74.9,
+   "p50": 82.0,
+   "p75": 87.0,
+   "p90": 90.4
+  },
+  "first_service_age": {
+   "n": 445,
+   "mean": 261.23,
+   "p10": 238.36,
+   "p25": 242.8,
+   "p50": 258.2,
+   "p75": 271.2,
+   "p90": 289.02
+  },
+  "gestation": {
+   "n": 448,
+   "mean": 115.04,
+   "p10": 113.9,
+   "p25": 114.5,
+   "p50": 115.0,
+   "p75": 115.6,
+   "p90": 116.3
+  },
+  "lactation": {
+   "n": 448,
+   "mean": 24.71,
+   "p10": 21.07,
+   "p25": 22.7,
+   "p50": 24.8,
+   "p75": 26.62,
+   "p90": 28.1
+  },
+  "wean_to_estrus": {
+   "n": 450,
+   "mean": 8.48,
+   "p10": 5.4,
+   "p25": 5.8,
+   "p50": 6.9,
+   "p75": 8.4,
+   "p90": 10.7
+  }
+ },
+ "drivers_psy": [
+  {
+   "metric": "weaned",
+   "name_ko": "평균이유",
+   "spearman": 0.811,
+   "top25": 11.0,
+   "bottom25": 10.0,
+   "gap": 1.0
+  },
+  {
+   "metric": "npd",
+   "name_ko": "비생산일수",
+   "spearman": -0.737,
+   "top25": 32.3,
+   "bottom25": 67.9,
+   "gap": -35.6
+  },
+  {
+   "metric": "turnover",
+   "name_ko": "모돈회전율",
+   "spearman": 0.727,
+   "top25": 2.41,
+   "bottom25": 2.15,
+   "gap": 0.26
+  },
+  {
+   "metric": "born_alive",
+   "name_ko": "평균실산",
+   "spearman": 0.644,
+   "top25": 13.0,
+   "bottom25": 11.0,
+   "gap": 2.0
+  },
+  {
+   "metric": "born_total",
+   "name_ko": "평균총산",
+   "spearman": 0.588,
+   "top25": 14.0,
+   "bottom25": 12.0,
+   "gap": 2.0
+  },
+  {
+   "metric": "farrowing_rate",
+   "name_ko": "분만율(%)",
+   "spearman": 0.563,
+   "top25": 87.0,
+   "bottom25": 72.55,
+   "gap": 14.45
+  },
+  {
+   "metric": "wean_to_estrus",
+   "name_ko": "재귀발정일",
+   "spearman": -0.365,
+   "top25": 6.0,
+   "bottom25": 7.95,
+   "gap": -1.95
+  },
+  {
+   "metric": "sows",
+   "name_ko": "상시모돈수",
+   "spearman": 0.178,
+   "top25": 354.8,
+   "bottom25": 238.9,
+   "gap": 115.9
+  },
+  {
+   "metric": "first_service_age",
+   "name_ko": "초교배일령",
+   "spearman": 0.105,
+   "top25": 259.6,
+   "bottom25": 253.7,
+   "gap": 5.9
+  },
+  {
+   "metric": "lactation",
+   "name_ko": "포유기간",
+   "spearman": -0.066,
+   "top25": 24.2,
+   "bottom25": 24.7,
+   "gap": -0.5
+  }
+ ],
+ "by_scale": [
+  {
+   "scale": "100~200",
+   "n": 91,
+   "psy_median": 22.2,
+   "npd_median": 47.8,
+   "farrowing_median": 77.9
+  },
+  {
+   "scale": "100두 미만",
+   "n": 23,
+   "psy_median": 22.9,
+   "npd_median": 54.3,
+   "farrowing_median": 74.7
+  },
+  {
+   "scale": "1000두 이상",
+   "n": 73,
+   "psy_median": 23.9,
+   "npd_median": 43.1,
+   "farrowing_median": 83.0
+  },
+  {
+   "scale": "200~300",
+   "n": 79,
+   "psy_median": 24.6,
+   "npd_median": 47.1,
+   "farrowing_median": 78.5
+  },
+  {
+   "scale": "400~500",
+   "n": 46,
+   "psy_median": 24.6,
+   "npd_median": 39.5,
+   "farrowing_median": 82.0
+  },
+  {
+   "scale": "500~1000",
+   "n": 90,
+   "psy_median": 24.8,
+   "npd_median": 40.2,
+   "farrowing_median": 84.5
+  },
+  {
+   "scale": "300~400",
+   "n": 45,
+   "psy_median": 25.0,
+   "npd_median": 39.9,
+   "farrowing_median": 81.6
+  }
+ ],
+ "defaults_check": [
+  {
+   "metric": "gestation",
+   "name_ko": "임신기간",
+   "config": "gestation_days",
+   "ours": 114.0,
+   "median": 115.0,
+   "mean": 115.04,
+   "p25": 114.5,
+   "p75": 115.6,
+   "off": false
+  },
+  {
+   "metric": "lactation",
+   "name_ko": "포유기간",
+   "config": "lactation_days",
+   "ours": 24.0,
+   "median": 24.8,
+   "mean": 24.71,
+   "p25": 22.7,
+   "p75": 26.62,
+   "off": false
+  },
+  {
+   "metric": "wean_to_estrus",
+   "name_ko": "재귀발정일",
+   "config": "wean_to_service_days",
+   "ours": 7.0,
+   "median": 6.9,
+   "mean": 8.48,
+   "p25": 5.8,
+   "p75": 8.4,
+   "off": false
+  },
+  {
+   "metric": "farrowing_rate",
+   "name_ko": "분만율(%)",
+   "config": "farrowing_rate",
+   "ours": 82.0,
+   "median": 82.0,
+   "mean": 80.11,
+   "p25": 74.9,
+   "p75": 87.0,
+   "off": false
+  },
+  {
+   "metric": "turnover",
+   "name_ko": "모돈회전율",
+   "config": "sow_turnover",
+   "ours": 2.3,
+   "median": 2.31,
+   "mean": 2.28,
+   "p25": 2.2,
+   "p75": 2.4,
+   "off": false
+  },
+  {
+   "metric": "weaned",
+   "name_ko": "평균이유",
+   "config": "weaned_per_litter",
+   "ours": 11.0,
+   "median": 11.0,
+   "mean": 10.5,
+   "p25": 10.0,
+   "p75": 11.0,
+   "off": false
+  }
+ ],
+ "post_wean_survival": {
+  "n": 119,
+  "median": 0.813,
+  "p25": 0.687,
+  "p75": 0.889
+ }
+}

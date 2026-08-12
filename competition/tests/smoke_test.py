@@ -2058,6 +2058,78 @@ def test_fetch_622() -> None:
         f6.free_gb = real
 
 
+def test_korean_farm_stats() -> None:
+    """국내 466행 실측 집계 — 원자료 없이 JSON + 합성 프레임으로 검증.
+
+    원자료(farm_stats.xlsx)는 농장 식별자가 있어 커밋하지 않으므로, 테스트는
+    커밋된 집계 JSON 과 합성 데이터프레임으로 함수를 확인한다.
+    """
+    import json
+    import numpy as np
+    import pandas as pd
+    import korean_farm_stats as kfs
+
+    j = os.path.join(ROOT, "data", "korean_farm_stats.json")
+    assert os.path.exists(j), "집계 JSON 이 커밋돼 있어야 한다"
+    r = json.load(open(j, encoding="utf-8"))
+    assert r["n_rows"] >= 400 and r["n_farms"] >= 100, r
+    assert r["years"] == sorted(r["years"]) and len(r["years"]) >= 3
+
+    q = r["quantiles"]
+    for k in ("psy", "npd", "farrowing_rate", "turnover", "weaned"):
+        v = q[k]
+        # 분위수는 단조여야 한다 — 아니면 집계가 깨진 것
+        seq = [v["p10"], v["p25"], v["p50"], v["p75"], v["p90"]]
+        assert seq == sorted(seq), (k, seq)
+        assert v["n"] >= 100
+
+    # 우리 기본값이 실측과 10% 넘게 어긋나면 config 를 손봐야 한다
+    off = [x["name_ko"] for x in r["defaults_check"] if x["off"]]
+    assert not off, f"실측과 어긋난 기본값이 남아 있다: {off}"
+
+    # 앱의 논거: NPD·분만율이 PSY 를 좌우해야 한다
+    dr = {x["metric"]: x for x in r["drivers_psy"]}
+    assert dr["npd"]["spearman"] < -0.5, dr["npd"]
+    assert dr["farrowing_rate"]["spearman"] > 0.4, dr["farrowing_rate"]
+    assert dr["npd"]["top25"] < dr["npd"]["bottom25"], "상위 농장 NPD 가 더 크다"
+    assert dr["farrowing_rate"]["top25"] > dr["farrowing_rate"]["bottom25"]
+
+    # growth_flow 벤치마크가 이 실측에서 나왔는지
+    import growth_flow as gf
+    assert abs(gf.BENCHMARKS["국내 중앙값"]["psy"] - q["psy"]["p50"]) < 0.15
+    assert abs(gf.BENCHMARKS["국내 상위 10%"]["psy"] - q["psy"]["p90"]) < 0.15
+    surv = [v["msy"] / v["psy"] for k, v in gf.BENCHMARKS.items()]
+    assert surv == sorted(surv), "육성률이 벤치마크 순서와 어긋난다"
+
+    # 함수 자체 — 합성 프레임으로
+    rng = np.random.default_rng(0)
+    n = 200
+    npd = rng.uniform(25, 75, n)
+    d = pd.DataFrame({
+        "year": 2021, "region": "-", "scale": ["A"] * 100 + ["B"] * 100,
+        "farm": [f"F{i}" for i in range(n)],
+        "sows": rng.uniform(100, 900, n),
+        "psy": 30 - npd * 0.12 + rng.normal(0, 0.4, n),   # NPD 가 PSY 를 깎는다
+        "msy": np.nan, "turnover": rng.uniform(2.1, 2.5, n), "npd": npd,
+        "born_total": rng.uniform(12, 15, n), "born_alive": rng.uniform(11, 14, n),
+        "weaned": rng.uniform(9, 12, n),
+        "farrowing_rate": rng.uniform(70, 90, n),
+        "first_service_age": rng.uniform(240, 290, n),
+        "gestation": 115.0, "lactation": 24.8, "wean_to_estrus": 6.9,
+    })
+    dv = {x["metric"]: x for x in kfs.drivers(d, "psy")}
+    assert dv["npd"]["spearman"] < -0.8, dv["npd"]   # 심어 둔 관계를 찾아야 한다
+    assert dv["npd"]["gap"] < 0                       # 상위 농장이 NPD 가 낮다
+    qq = kfs.quantiles(d, ["psy", "npd"])
+    assert qq["psy"]["p10"] < qq["psy"]["p90"]
+    # 분위 조회 — 농가 피드백에 쓴다
+    assert 0.0 <= kfs.percentile_of(d, "psy", float(d["psy"].median())) <= 1.0
+    assert kfs.percentile_of(d, "psy", 0.0) == 0.0
+    assert kfs.percentile_of(d, "psy", 1e9) == 1.0
+    # 표본이 적은 컬럼은 분위수를 내지 않는다(오해 방지)
+    assert "msy" not in kfs.quantiles(d)
+
+
 def test_docs_consistent() -> None:
     """문서에 박힌 숫자가 실제와 맞는지. 어긋나면 나머지 수치도 못 믿게 된다.
 
@@ -2192,7 +2264,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

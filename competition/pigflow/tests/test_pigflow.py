@@ -21,8 +21,26 @@ from pigflow.models import Batch, Room, RoomState, Stage, stage_index  # noqa: E
 from pigflow.simulator import Simulator, build_rooms             # noqa: E402
 
 
+# 명세 §5 검산은 **명세가 준 입력값**으로 한다. BREEDING_DEFAULTS 는 국내
+# 466농장 실측을 따라 움직이므로(이유 12→11두, 재귀발정 5→7일), 기본값에
+# 기대면 계산식이 멀쩡한데도 검산이 깨진다. 둘은 다른 것을 지킨다:
+#   _cfg()      명세 입력 고정 → **계산식**이 맞는지
+#   _real_cfg() 실측 기본값     → **현실값**으로도 도는지
+SPEC_BREEDING = dict(wean_to_service_days=5, weaned_per_litter=12.0)
+
+
 def _cfg() -> Config:
-    """명세 §5 검산 조건: 분만틀 10 · 주간배치 · 이유 24일."""
+    """명세 §5 검산 조건: 분만틀 10 · 주간배치 · 이유 24일 · 복당 12두."""
+    c = default_config()
+    c.crate_count = 10
+    c.batch_system_id = "WEEKLY"
+    for k, v in SPEC_BREEDING.items():
+        setattr(c.breeding, k, v)
+    return c
+
+
+def _real_cfg() -> Config:
+    """국내 실측 기본값 그대로 — 명세 입력을 덮어쓰지 않는다."""
     c = default_config()
     c.crate_count = 10
     c.batch_system_id = "WEEKLY"
@@ -111,6 +129,31 @@ def test_zero_interval_rejected() -> None:
 
 
 # -- 설정 -------------------------------------------------------------------
+def test_real_defaults_from_korean_farms() -> None:
+    """기본값은 국내 466농장 실측 중앙값을 따라야 한다.
+
+    처음엔 이유 12두 · 재귀발정 5일이었는데, 실측은 11두 · 6.9일이다. 이유두수는
+    PSY 와 상관 +0.811 로 가장 직접적이라 12 로 두면 PSY 가 9% 부풀었다.
+    """
+    from pigflow.config import BREEDING_DEFAULTS as B
+    c = _real_cfg()
+    assert B["weaned_per_litter"] == 11.0
+    assert B["wean_to_service_days"] == 7
+    # dataclass 기본값이 dict 와 갈리면 두 경로가 다른 답을 낸다
+    from pigflow.config import BreedingCfg
+    bare = BreedingCfg()
+    for k, v in B.items():
+        assert getattr(bare, k) == v, f"{k}: dataclass {getattr(bare, k)} vs dict {v}"
+    # 실측 기본값으로도 계산이 성립해야 한다
+    p = calc.plan(c)
+    assert p["weaned_per_batch"] == 110.0
+    assert p["cycle_days"] == 7 + 114 + 24 == 145
+    assert p["services_per_batch"] == 13     # 분만틀·분만율만의 함수라 불변
+    sim = Simulator(c, date(2026, 1, 1)).run(400)
+    assert validate.summarize(sim.findings)["n"] == 0, \
+        [f.message for f in sim.findings[:3]]
+
+
 def test_yaml_partial_stage_update() -> None:
     """YAML 에 한 필드만 적어도 나머지가 살아 있어야 한다."""
     import tempfile
@@ -132,7 +175,8 @@ def test_yaml_partial_stage_update() -> None:
     assert c.crate_count == 40 and c.batch_system_id == "B3W"
     assert c.breeding.lactation_days == 28
     assert c.breeding.gestation_days == 114
-    assert c.breeding.cycle_days == 147
+    # 재귀발정 7(실측) + 임신 114 + 포유 28(YAML) = 149
+    assert c.breeding.cycle_days == 7 + 114 + 28 == 149
 
 
 def test_merged_wean_to_finish() -> None:

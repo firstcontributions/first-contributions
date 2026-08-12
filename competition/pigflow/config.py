@@ -56,10 +56,16 @@ STAGE_DEFAULTS = [
          note=""),
 ]
 
+# 국내 466개 농장 실측(2020~2023)으로 대조한 값 — src/korean_farm_stats.py.
+# 대부분 맞았지만 둘이 낙관적이라 실측 중앙값으로 내렸다:
+#   wean_to_service_days  5 → 7     실측 중앙 6.9 (평균 8.5, 상위25% 농장도 6.0)
+#   weaned_per_litter    12 → 11    실측 중앙 11.0 (평균 10.5)
+# 이유두수는 PSY 와 상관 +0.811 로 가장 직접적이라, 12 로 두면 PSY 가 9% 부풀었다.
+# 나머지는 실측과 일치: 임신 115 · 포유 24.8 · 분만율 82.0% · 회전율 2.31.
 BREEDING_DEFAULTS = dict(
-    wean_to_service_days=5, gestation_days=114, lactation_days=24,
+    wean_to_service_days=7, gestation_days=114, lactation_days=24,
     farrowing_rate=0.82, gilt_ratio_of_service=0.22, gilt_lead_weeks=7,
-    sow_turnover=2.3, weaned_per_litter=12.0, post_wean_survival=0.95,
+    sow_turnover=2.3, weaned_per_litter=11.0, post_wean_survival=0.95,
 )
 
 BATCH_SYSTEM_DEFAULTS = [
@@ -111,14 +117,16 @@ class StageCfg:
 
 @dataclass
 class BreedingCfg:
-    wean_to_service_days: int = 5
+    # BREEDING_DEFAULTS 와 **같은 값을 유지한다**. 갈리면 BreedingCfg() 를 직접
+    # 만든 코드와 default_config() 가 다른 답을 낸다.
+    wean_to_service_days: int = 7
     gestation_days: int = 114
     lactation_days: int = 24
     farrowing_rate: float = 0.82
     gilt_ratio_of_service: float = 0.22
     gilt_lead_weeks: int = 7
     sow_turnover: float = 2.3
-    weaned_per_litter: float = 12.0
+    weaned_per_litter: float = 11.0
     post_wean_survival: float = 0.95
 
     @property
