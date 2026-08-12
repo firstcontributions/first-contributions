@@ -4333,4 +4333,7 @@ the world is a stand
 - [Manoj Dewda](https://github.com/Manoj-Dewda)
 - [Duxl-Ai](https://github.com/Duxl-Ai)
 - [Konstantin](https://github.com/Konstantinzjej)
+- [İremsu](https://github.com/iremsu-umit35)
+- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast."*
 - [Japheth Jorquia](https://https://github.com/Japhethnothere)
+
