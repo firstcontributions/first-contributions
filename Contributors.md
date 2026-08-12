@@ -101,6 +101,7 @@ Varshith IMT2024044
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Jody Haynes]
 - yuvraj
+- Rafael Morales Sánchez
 - Dhanush BT2024169
 - Savani Vedant Vijay BT2024191
 - Gagan Syam Reddy BT2024032
