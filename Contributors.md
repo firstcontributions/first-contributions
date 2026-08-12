@@ -3,6 +3,7 @@ Hiroyuki19830823
 - rishit backend enginner
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - Oscar Heslop (https://github.com/OscarHeslop)
+- Lisath Wijekoon (https://github.com/LisWije)
 - [Tanmay Dixit](https://github.com/tdixit547)
 - [Tanmay Dixit BT2024016](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
