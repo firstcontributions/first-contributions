@@ -2058,6 +2058,36 @@ def test_fetch_622() -> None:
         f6.free_gb = real
 
 
+def test_docs_consistent() -> None:
+    """문서에 박힌 숫자가 실제와 맞는지. 어긋나면 나머지 수치도 못 믿게 된다.
+
+    실제로 테스트를 47→53개로 늘렸는데 문서 세 곳이 47 로 남아 있었다.
+    손으로 고치면 또 어긋나므로 테스트로 붙든다.
+    """
+    import contextlib
+    import importlib.util
+    import io
+
+    path = os.path.join(ROOT, "tools", "check_docs.py")
+    spec = importlib.util.spec_from_file_location("_chkdocs", path)
+    cd = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(cd)
+
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        rc = cd.main()
+    assert rc == 0, "\n" + buf.getvalue()
+
+    # 검사기 자체가 동작하는지 — 실제값을 못 세면 통과해도 의미가 없다
+    a = cd.actual_counts()
+    assert a["tests"] > 40 and a["views"] > 10 and a["modules"] > 30, a
+    m = cd.actual_metrics()
+    assert "posture3_best_acc" in m and "poly_gain_posture" in m, m
+    # 폴리곤 실험의 결론(이득 없음)이 뒤집히면 발표자료 슬라이드 9-1 을 고쳐야 한다
+    assert m["poly_gain_posture"] <= 0, \
+        f"폴리곤 이득이 양수로 바뀌었다({m['poly_gain_posture']}) — 슬라이드 9-1 재검토"
+
+
 def test_farm_economics() -> None:
     """생산비 구조: 사료 비중·손익분기·지렛대 순서."""
     import farm_economics as fe
@@ -2162,7 +2192,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622,
+             test_finetune_polygon, test_fetch_622, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
