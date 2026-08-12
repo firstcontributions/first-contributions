@@ -1875,6 +1875,80 @@ def test_fetch_622_doctor() -> None:
     assert rc == 0 and "통과" in out, out
 
 
+def test_real_622_schema() -> None:
+    """실제 622 CVAT 스키마 회귀 — VL01 실측값으로 고정.
+
+    파서를 합성 픽스처로만 검증하면 실제 스키마가 다를 때 조용히 무너진다.
+    VL01(27 세션)에서 확인한 사실을 여기 못 박는다:
+      · <image> 안의 <polygon>, points="x,y;x,y;..."
+      · XML 파일명이 27개 전부 annotations.xml → 세션 디렉터리가 유일한 구분자
+      · frame_000000 이 27개 세션에 전부 있음 → 세션 한정 없이는 9,427→1,301 뭉갬
+      · 라벨 21종 중 돼지 개체는 14종뿐(시설물·신체부위 제외)
+    """
+    import tempfile
+    import textwrap
+    import parse_pig_polygon as ppp
+    import finetune_polygon as fp
+
+    def sess_xml(path, frames=2, labels=("Resting", "Feedbox", "Head")):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        imgs = ""
+        for i in range(frames):
+            polys = "".join(
+                f'<polygon label="{lb}" occluded="0" source="manual" '
+                f'points="10.5,20.5;30.5,20.5;30.5,40.5;10.5,40.5"></polygon>'
+                for lb in labels)
+            imgs += (f'<image id="{i}" name="frame_{i:06d}" '
+                     f'width="2560" height="1944">{polys}</image>')
+        open(path, "w", encoding="utf-8").write(textwrap.dedent(f"""\
+            <?xml version="1.0" encoding="utf-8"?>
+            <annotations><version>1.1</version>
+            <meta><task><id>1</id><mode>interpolation</mode></task></meta>
+            {imgs}</annotations>"""))
+
+    with tempfile.TemporaryDirectory() as d:
+        # 세션 3개, 전부 annotations.xml, 전부 frame_000000 부터
+        for sn in ("farmA/stageX/P01_07_a", "farmA/stageX/P01_07_b",
+                   "farmB/stageY/P03_02_a"):
+            sess_xml(os.path.join(d, sn, "annotations.xml"), frames=2)
+
+        one = ppp.parse_cvat(os.path.join(d, "farmA/stageX/P01_07_a",
+                                          "annotations.xml"))
+        assert len(one) == 6 and one["image"].nunique() == 2
+        assert one["img_w"].iloc[0] == 2560 and one["img_h"].iloc[0] == 1944
+        assert one["points"].iloc[0][0] == (10.5, 20.5), one["points"].iloc[0]
+
+        df = fp.load_labels(d, verbose=False)
+        # 세션 한정이 없으면 2장으로 뭉개진다 — 6장이어야 한다
+        assert df["image"].nunique() == 6, df["image"].nunique()
+        assert df["image_name"].nunique() == 2
+        assert df["session"].nunique() == 3
+        assert df["source"].nunique() == 3, "파일명이 다 같아 출처 구분이 안 된다"
+        assert df["image"].iloc[0].startswith("farmA/stageX/"), df["image"].iloc[0]
+
+        # 라벨 분류: 시설물·신체부위를 학습에서 빼야 한다
+        assert fp.label_kind("Resting") == "behavior"
+        assert fp.label_kind("Feedbox") == "fixture"
+        assert fp.label_kind("Head") == "part"
+        assert fp.label_kind("Nonexistent") == "unknown"
+        pig = fp.select_labels(df, "pig", verbose=False)
+        assert set(pig["label"]) == {"pig"}
+        assert len(pig) == 6, "행동 폴리곤만 남아야 한다(세션3×프레임2×Resting1)"
+        assert set(pig["behavior"]) == {"Resting"}
+        beh = fp.select_labels(df, "behavior", verbose=False)
+        assert set(beh["label"]) == {"Resting"}
+        assert len(fp.select_labels(df, "all", verbose=False)) == 18
+
+        # 21종 분류표에 빠진 라벨이 없는지 — 실제 VL01 에서 나온 전체 목록
+        real = ["Resting", "Feedbox", "Watercup", "Suckling", "Eating",
+                "Searching", "Lying", "Standing", "Head", "Hip", "Walking",
+                "Right_front_leg", "Right_behind_leg", "Drinking",
+                "Left_behind_leg", "Sitting", "Left_front_leg", "Scrubbing",
+                "Eating head", "Drinking head", "Parturition"]
+        unknown = [x for x in real if fp.label_kind(x) == "unknown"]
+        assert not unknown, f"분류 안 된 실제 라벨: {unknown}"
+
+
 def test_image_name_collision() -> None:
     """같은 파일명이 원천마다 반복될 때 **엉뚱한 짝을 맺으면 안 된다**.
 
@@ -2090,6 +2164,7 @@ def main() -> int:
              test_pigflow_package, test_check_download,
              test_finetune_polygon, test_fetch_622,
              test_image_name_collision,
+             test_real_622_schema,
              test_fetch_622_doctor]
     failed = 0
     for t in tests:

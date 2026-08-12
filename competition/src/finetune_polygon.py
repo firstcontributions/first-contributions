@@ -56,6 +56,47 @@ sys.path.insert(0, HERE)
 import parse_pig_polygon as ppp  # noqa: E402
 
 IMG_EXT = (".jpg", ".jpeg", ".png", ".bmp")
+
+# 622 라벨 21종은 **전부 돼지가 아니다**(VL01 실측).
+#   행동(개체) 44,038 · 시설물 23,174 · 신체부위 6,487
+# 시설물을 넣으면 급이기를 돼지로 배우고, 신체부위를 넣으면 한 마리가 머리·
+# 엉덩이·다리로 나뉘어 중복 검출된다. 기본은 행동 폴리곤만 쓴다.
+BEHAVIOR = {"Resting", "Suckling", "Eating", "Searching", "Lying", "Standing",
+            "Walking", "Drinking", "Sitting", "Scrubbing", "Parturition",
+            "Running", "Urinating", "Defecating"}
+BODY_PART = {"Head", "Hip", "Right_front_leg", "Left_front_leg",
+             "Right_behind_leg", "Left_behind_leg", "Eating head",
+             "Drinking head"}
+FIXTURE = {"Feedbox", "Watercup"}
+LABEL_SETS = {"behavior": BEHAVIOR, "part": BODY_PART, "fixture": FIXTURE}
+
+
+def label_kind(label: str) -> str:
+    for k, v in LABEL_SETS.items():
+        if label in v:
+            return k
+    return "unknown"
+
+
+def select_labels(df, mode: str = "pig", verbose: bool = True):
+    """학습 대상 폴리곤만 남긴다.
+
+    pig      행동 폴리곤 → 전부 한 클래스("pig"). 인스턴스 분할용.
+    behavior 행동 폴리곤 → 행동별 클래스 유지. 행동 인식용.
+    all      거르지 않는다(감사·통계용).
+    """
+    if mode == "all":
+        return df
+    keep = df[df["label"].map(label_kind) == "behavior"].copy()
+    if verbose:
+        drop = len(df) - len(keep)
+        by = df[df["label"].map(label_kind) != "behavior"]["label"].value_counts()
+        print(f"  학습 대상 {len(keep):,} 폴리곤 (제외 {drop:,}: "
+              + ", ".join(f"{k} {v:,}" for k, v in by.head(4).items()) + ")")
+    if mode == "pig":
+        keep["behavior"] = keep["label"]
+        keep["label"] = "pig"
+    return keep
 # 실측 ms/장/epoch — CPU 4코어 · batch 8 · cache=ram.
 # **2 epoch 평균**을 쓴다. 1 epoch 만 재면 초기화·워밍업이 통째로 섞여 40~50%
 # 과대추정된다(같은 조건에서 439 vs 346 이 나왔다).
@@ -124,7 +165,21 @@ def resolve(name: str, images: dict) -> str | None:
 
 
 def load_labels(label_dir: str, verbose: bool = True):
-    """CVAT XML 을 전부 읽어 하나의 DataFrame 으로."""
+    """CVAT XML 을 전부 읽어 하나로. **세션으로 한정한 image 키를 만든다.**
+
+    실측(VL01): XML 27개가 전부 `annotations.xml` 이고, 이미지 이름은 세션마다
+    `frame_000000` 부터 다시 시작한다. 1,070개 이름이 여러 세션에 겹치고 최대
+    27개 세션이 같은 이름을 쓴다.
+
+    그냥 concat 하면 이미지가 9,427장 → 1,301장으로 **뭉개진다**. 그 상태로
+    to_yolo_seg 를 돌리면 27개 세션의 폴리곤이 라벨 파일 하나에 겹쳐 쓰이고,
+    split_images 는 같은 프레임을 train 과 val 양쪽에 넣는다. 둘 다 에러 없이
+    조용히 일어난다.
+
+    그래서 image 를 `<세션경로>/<프레임>` 으로 바꾸고, 원래 이름은 image_name
+    에 남긴다. 세션 경로는 label_dir 기준 상대경로라 이미지 디렉터리의 같은
+    구조와 그대로 맞물린다.
+    """
     import pandas as pd
     xmls = find_xml(label_dir)
     if not xmls:
@@ -133,19 +188,31 @@ def load_labels(label_dir: str, verbose: bool = True):
     for x in xmls:
         try:
             fr = ppp.parse_cvat(x)
-            # 어느 XML 에서 왔는지 남긴다. TL/VL 이 섞이면 매칭률이 왜곡되므로
-            # 출처별로 따로 세야 한다(아래 pair 참고).
-            fr["source"] = os.path.basename(x)
-            frames.append(fr)
         except Exception as e:                                    # noqa: BLE001
             if verbose:
-                print(f"  ! {os.path.basename(x)} 파싱 실패: {e}")
+                print(f"  ! {os.path.relpath(x, label_dir)} 파싱 실패: {e}")
+            continue
+        # XML 이 놓인 디렉터리 = 세션. 이게 유일한 구분자다(파일명은 전부 같다).
+        sess = os.path.relpath(os.path.dirname(x), label_dir).replace(os.sep, "/")
+        sess = "" if sess == "." else sess
+        fr["session"] = sess
+        fr["image_name"] = fr["image"]
+        fr["image"] = fr["image"].map(
+            lambda n, s=sess: f"{s}/{n}" if s else n)
+        fr["source"] = sess or os.path.basename(x)
+        frames.append(fr)
     if not frames:
         raise SystemExit("파싱된 XML 이 하나도 없다.")
     df = pd.concat(frames, ignore_index=True)
     if verbose:
+        raw = df["image_name"].nunique()
+        n = df["image"].nunique()
         print(f"  XML {len(xmls)}개 → 폴리곤 {len(df):,}개 · "
-              f"이미지 {df['image'].nunique():,}장")
+              f"이미지 {n:,}장 · 세션 {df['session'].nunique()}개")
+        if raw < n:
+            print(f"  ※ 프레임 이름은 {raw:,}종뿐이다 — 세션마다 frame_000000 "
+                  f"부터 다시 시작한다. 세션으로 한정하지 않으면 {n:,}장이 "
+                  f"{raw:,}장으로 뭉개진다.")
     return df
 
 
@@ -265,7 +332,8 @@ def build_dataset(df, out_dir: str, ratios=None, seed: int = 0,
 
 def prep(label_dir: str, image_dir: str, max_images: int, epochs: int,
          model: str, imgsz: int, out_dir: str | None = None,
-         build: bool = False, freeze: bool = True) -> dict:
+         build: bool = False, freeze: bool = True,
+         label_mode: str = "pig") -> dict:
     print(f"\n{'=' * 72}\n  622 폴리곤 파인튜닝 준비\n{'=' * 72}")
     print("1) 라벨 읽기")
     df = load_labels(label_dir)
@@ -277,6 +345,10 @@ def prep(label_dir: str, image_dir: str, max_images: int, epochs: int,
     if n == 0:
         raise SystemExit("\n학습할 이미지가 없다. 원천 zip(TS06 = filekey 533695)을 "
                          "받아 같은 위치에 풀 것.")
+
+    df = select_labels(df, label_mode)
+    if not len(df):
+        raise SystemExit("걸러내고 나니 학습할 폴리곤이 없다.")
 
     print("3) 라벨 품질")
     try:
@@ -319,9 +391,10 @@ def prep(label_dir: str, image_dir: str, max_images: int, epochs: int,
 
 def train(label_dir: str, image_dir: str, max_images: int, epochs: int,
           model: str, imgsz: int, out_dir: str, batch: int, force: bool,
-          freeze: bool = True, cache: bool = True) -> int:
+          freeze: bool = True, cache: bool = True,
+          label_mode: str = "pig") -> int:
     info = prep(label_dir, image_dir, max_images, epochs, model, imgsz,
-                out_dir, build=True, freeze=freeze)
+                out_dir, build=True, freeze=freeze, label_mode=label_mode)
     if info["hours"] > DEFAULT_BUDGET_H and not force:
         print(f"\n중단 — 예상 {info['hours']:.1f}h 가 예산 {DEFAULT_BUDGET_H:.0f}h 초과. "
               f"그래도 돌리려면 --force.")
@@ -366,14 +439,20 @@ def main(argv=None) -> int:
     ap.add_argument("--out", default="/tmp/pigseg")
     ap.add_argument("--force", action="store_true",
                     help="예상시간이 예산을 넘어도 강행")
+    ap.add_argument("--labels", default="pig",
+                    choices=["pig", "behavior", "all"],
+                    help="pig=행동 폴리곤을 한 클래스로(분할) · "
+                         "behavior=행동별 클래스 · all=거르지 않음")
     a = ap.parse_args(argv)
     if a.mode == "prep":
         prep(a.label_dir, a.image_dir, a.max_images, a.epochs, a.model,
-             a.imgsz, a.out, build=False, freeze=not a.no_freeze)
+             a.imgsz, a.out, build=False, freeze=not a.no_freeze,
+             label_mode=a.labels)
         return 0
     return train(a.label_dir, a.image_dir, a.max_images, a.epochs, a.model,
                  a.imgsz, a.out, a.batch, a.force,
-                 freeze=not a.no_freeze, cache=not a.no_cache)
+                 freeze=not a.no_freeze, cache=not a.no_cache,
+                 label_mode=a.labels)
 
 
 if __name__ == "__main__":
