@@ -4334,4 +4334,4 @@ the world is a stand
 - [Duxl-Ai](https://github.com/Duxl-Ai)
 - [Konstantin](https://github.com/Konstantinzjej)
 - [İremsu](https://github.com/iremsu-umit35)
-- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer | *"Make it work, make it right, make it fast."*
+- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast."*
