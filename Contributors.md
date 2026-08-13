@@ -4366,10 +4366,6 @@ the world is a stand
 - [Lucas Vidal] (https://github.com/lucasvidalsilva)
 - [Mudassir Ahmad](https://github.com/Mudassir-ahmad551080)
 - [BTK9938](https://github.com/BTK9938)
-- cj0y9
-<<<<<<< HEAD
 - [btk linkedin](linkedin.com/in/bommisetty-tandava-krishna-57923531a)
-
-=======
 [AMABUA REAGAN](https://github.com/regs123guy)
->>>>>>> fa5037999 (regans work)
+
