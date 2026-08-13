@@ -4265,18 +4265,14 @@ Raphael Karani
 - [Aslam](https://github.com/aslamlm02-afk)
 - [Thrilok Manjunath](https://github.com/thrilokmanjunath)
 - [awes-alhamdi](https://github.com/awes-alhamdi)
-Nitin Sharma
 - [Zainab](https://github.com/untitledfolder01)
 - [arthurhu2026](https://github.com/arthurhu2026)
-[Abdullah](https://github.com/Malik-Abdullah123)
-Megan Das 
+- [Abdullah](https://github.com/Malik-Abdullah123)
 - [Shrestha Mohanty] (https://github.com/shresthamohanty05-art)
 - [Davi Maceno](https://github.com/DAVI2027508)
 - [Caleb Faulks](https://github.com/calebfaulks)
 - [ssup1024-tech](https://github.com/ssup1024-tech)
-
 - [agenciaklyp](https://github.com/agenciaklyp)
-- Joseph Francis (refresh)
 - [Yerassyl Kaiyrzhan](https://github.com/yerakairzhan)
 - [Mahesh Epili](https://github.com/maheshepili)
 - [Jaspinder Singh](https://github.com/Jaspinder-12)
@@ -4286,7 +4282,6 @@ Megan Das
 - [Atheros](https://github.com/chishkin-afk)
 - [Aashutosh K.C.](https://github.com/Aashutosh-kc)
 - [Ayfa Mehrin P](https://github.com/ayfamehrinpalapatta1234)
-
 - [Jashandeep Singh Bedi- IMT2024022](https://github.com/Jdsb06)
 - [Mitansh Shringi](https://github.com/Mitansh1309)
 - Deepika - https://github.com/deepika072
@@ -4310,9 +4305,7 @@ Megan Das
 - [vishyatchennai2026](https://github.com/vishyatchennai2026)
 - [markchang](https://github.com/13603601431mayc-cell)
 - [buiducnhat](https://github.com/buiducnhat)
- Santosh_BT2024012
 - [Santosh Reddy - BT2024012](https://github.com/SantoshReddy0603)
-
 - [Rudra Hardik Shroff](https://github.com/rudra-shroff06)
 - [kritika](https://github.com/Kxor8)
 - [Yashkumar](https://github.com/yash110905)
@@ -4325,7 +4318,6 @@ Megan Das
 - [Vraj Saurabhbhai Vashi](https://github.com/VrajVashi) 
 - [Sachin Nain](https://github.com/SachinSNain)
 - [Dev Kumar Taggar BT2024158](https://github.com/DevKT896)
-jadav-sai-rugvedh_IMT2024051
 - [Jadav Sai Rugvedh](https://github.com/rugvedhjadav)
 - [Tanuj Shah IMT2024018](https://github.com/Tanujshah18)
 - [Atharva Jakhi IMT2024059](https://github.com/athjagit)
@@ -4335,7 +4327,6 @@ jadav-sai-rugvedh_IMT2024051
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tarikur Rahman](https://github.com/tarikurrahman)
 - [Obeida Arafa](https://github.com/o-arafa)
-the world is a stand
 - [Mythri](https://github.com/mythreddy03-svg)
 - [gmroberf](https://github.com/gmroberf)
 - [Lucas Correa Tavares](https://github.com/lucascorreatavares725-source)
@@ -4355,7 +4346,6 @@ the world is a stand
 - [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast, repeat..."*
 - [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast."*
 - [Japheth Jorquia](https://https://github.com/Japhethnothere)
-
 - [sebsibosi-cyber](https://github.com/sebsibosi-cyber)
 - [PrathamSalotra](https://github.com/PrathamSalotra)
 - [Jasiel Rodrigues](https://github.com/jasieldubox-tech)
