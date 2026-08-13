@@ -12,7 +12,7 @@
 # | 설정 | 값 | 왜 |
 # |---|---|---|
 # | **Add Input** | Competition `multi-view-pig-posture-recognition` | 데이터 |
-# | **Accelerator** | **GPU** (T4 ×2 또는 P100) | CPU 로는 LOVO 7폴드가 50분 |
+# | **Accelerator** | **GPU T4 ×2** | ⚠️ **P100 은 안 된다** — sm_60 이라 최신 PyTorch 에 커널이 없다 |
 # | **Internet** | **On** | resnet18 사전학습 가중치를 받는다 |
 #
 # > 인터넷을 끄면 가중치를 못 받아 **scratch 학습으로 자동 폴백**한다. 죽지는
@@ -66,9 +66,40 @@ if not os.path.exists(os.path.join(IN, "train1.csv")):
     IN = cand[0]
 print("입력:", IN)
 print(" ", sorted(os.listdir(IN))[:8])
-DEV = "cuda" if torch.cuda.is_available() else "cpu"
-print("장치:", DEV, torch.cuda.get_device_name(0) if DEV == "cuda" else "")
 CEILING, MIN_FOLD, CROP, PAD = 0.861, 150, 96, 0.12
+
+# ── 사전 점검 ────────────────────────────────────────────────────────────
+# **비싼 일(크롭 추출 ~50초) 전에 환경부터 본다.** 예전엔 크롭을 다 뽑고
+# 학습 첫 줄에서 CUDA 커널 오류로 죽어서, 원인 파악에 매번 1분씩 버렸다.
+def pick_device():
+    if not torch.cuda.is_available():
+        print("⚠️ GPU 없음 → CPU. 오른쪽 Accelerator 를 GPU 로 바꾸면 빠르다.")
+        return "cpu"
+    cap = torch.cuda.get_device_capability(0)
+    name, sm = torch.cuda.get_device_name(0), f"sm_{cap[0]}{cap[1]}"
+    arch = torch.cuda.get_arch_list()
+    if sm in arch:
+        print(f"장치: cuda · {name} ({sm})")
+        return "cuda"
+    # P100 은 sm_60 이라 최신 PyTorch 빌드(sm_70+)에서 커널이 없다.
+    print(f"⚠️ {name} ({sm}) 는 이 PyTorch 빌드가 못 쓴다. 지원: {arch}")
+    print("   → 오른쪽 **Accelerator 를 'GPU T4 x2' 로** 바꾸고 다시 실행할 것.")
+    print("     (P100 이 걸리면 이 오류가 난다. 지금은 CPU 로 계속 — 훨씬 느리다)")
+    return "cpu"
+
+DEV = pick_device()
+
+# 사전학습 가중치를 지금 받아 둔다. 인터넷이 꺼져 있으면 여기서 바로 안다.
+PRETRAINED = True
+try:
+    from torchvision.models import resnet18
+    resnet18(weights="IMAGENET1K_V1")
+    print("사전학습 가중치: OK")
+except Exception as e:
+    PRETRAINED = False
+    print(f"⚠️ 사전학습 가중치 못 받음({type(e).__name__}) → scratch 학습.")
+    print("   → 오른쪽 **Internet 을 On** 으로 켜면 크게 좋아진다.")
+    print("     (끄고 돌려도 죽지는 않지만 23,450장을 밑바닥부터 배운다)")
 
 # ── 평가 규약 (competition/src/ml_core.py 와 같은 내용을 인라인) ──────────
 # 이 프로젝트가 비싸게 배운 것 넷:
@@ -189,14 +220,10 @@ print(f"크롭 {len(full):,} · 실패 {miss} · {time.time()-t0:.0f}s")
 import torch.nn as nn
 from torch.utils.data import TensorDataset, DataLoader
 
-def make_net(n_cls, pretrained=True):
-    """GPU 라 resnet18 을 쓴다. 인터넷이 꺼져 있으면 자동으로 scratch."""
+def make_net(n_cls):
+    """resnet18. 가중치 가용 여부는 위 사전 점검(PRETRAINED)에서 이미 정해졌다."""
     from torchvision.models import resnet18
-    try:
-        m = resnet18(weights="IMAGENET1K_V1" if pretrained else None)
-    except Exception as e:
-        print("  사전학습 가중치 못 받음 → scratch:", type(e).__name__)
-        m = resnet18(weights=None)
+    m = resnet18(weights="IMAGENET1K_V1" if PRETRAINED else None)
     m.fc = nn.Linear(m.fc.in_features, n_cls)
     return m
 
@@ -296,7 +323,8 @@ print("""
    · 0.6 이상  → 갈린다. bbox 로는 원리상 불가능했던 부분이다.
 """)
 json.dump({"cls5": m5, "cls3": m3, "left_right": mlr, "baseline_cls5": b5,
-           "baseline_cls3": b3, "ceiling": CEILING, "per_fold": per_fold},
+           "baseline_cls3": b3, "ceiling": CEILING, "per_fold": per_fold,
+           "pretrained": PRETRAINED, "device": DEV, "crop_px": CROP},
           open("/kaggle/working/posture_cnn.json", "w"),
           ensure_ascii=False, indent=1)
 print("저장: /kaggle/working/posture_cnn.json")

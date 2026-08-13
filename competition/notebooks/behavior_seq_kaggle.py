@@ -33,8 +33,21 @@
 import os, json, time, glob
 import numpy as np, pandas as pd, torch
 IN = "/kaggle/input/edinburgh-pig-behaviour-annotated"
-DEV = "cuda" if torch.cuda.is_available() else "cpu"
-print("장치:", DEV)
+
+# P100(sm_60)은 최신 PyTorch 빌드가 못 쓴다. 미리 잡아 CPU 로 넘긴다.
+def pick_device():
+    if not torch.cuda.is_available():
+        return "cpu"
+    cap = torch.cuda.get_device_capability(0)
+    name, sm = torch.cuda.get_device_name(0), f"sm_{cap[0]}{cap[1]}"
+    if sm in torch.cuda.get_arch_list():
+        print(f"장치: cuda · {name} ({sm})")
+        return "cuda"
+    print(f"⚠️ {name} ({sm}) 는 이 PyTorch 빌드가 못 쓴다 "
+          f"→ Accelerator 를 'GPU T4 x2' 로 바꿀 것. 지금은 CPU 로 계속.")
+    return "cpu"
+
+DEV = pick_device()
 GEOM = ["bbox_w", "bbox_h", "aspect_ratio", "centroid_x", "centroid_y"]
 WIN, MIN_COUNT, MAX_GAP = 15, 100, 5
 print("녹화:", sum("output.json" in f for _d, _s, f in os.walk(IN)))
