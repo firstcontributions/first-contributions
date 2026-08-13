@@ -123,6 +123,37 @@ def leave_one_group_out(df: pd.DataFrame, label: str, group: str,
     return out
 
 
+def group_kfold(df: pd.DataFrame, label: str, group: str, fit_predict,
+                k: int = 5, seed: int = 0) -> dict:
+    """그룹을 k 덩어리로 나눠 검증 — 그룹이 많아 LOVO 가 과한 경우.
+
+    개체 96마리를 LOVO 로 돌리면 폴드마다 표본이 수십 개라 분산에 묻힌다
+    (`MIN_FOLD` 에서 대부분 잘려 나간다). 기존 행동 모델이 쓰던
+    GroupKFold(5) 와 같은 규약이다. **그룹은 통째로 한 폴드에만 들어간다.**
+    """
+    from sklearn.model_selection import GroupKFold
+    g = df[group].to_numpy()
+    rows = []
+    for tr_i, te_i in GroupKFold(n_splits=k).split(df, df[label], g):
+        tr, te = df.iloc[tr_i], df.iloc[te_i]
+        if tr[label].nunique() < 2:
+            continue
+        rows.append(score(te[label], fit_predict(tr, te)))
+    out = weighted(rows)
+    out["skipped"] = []
+    out["min_fold"] = 0
+    out["scheme"] = f"GroupKFold({k}) · {group}"
+    return out
+
+
+def majority_baseline_kfold(df: pd.DataFrame, label: str, group: str,
+                            k: int = 5) -> dict:
+    """group_kfold 와 같은 분할에서의 다수 클래스 기준선."""
+    def _maj(tr, te):
+        return np.full(len(te), tr[label].value_counts().idxmax())
+    return group_kfold(df, label, group, _maj, k)
+
+
 def majority_baseline(df: pd.DataFrame, label: str, group: str,
                       min_fold: int = MIN_FOLD) -> dict:
     """학습 폴드의 다수 클래스를 그대로 찍는다 — **넘어야 할 선**."""

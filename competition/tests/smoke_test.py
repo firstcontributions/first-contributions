@@ -2130,6 +2130,78 @@ def test_korean_farm_stats() -> None:
     assert "msy" not in kfs.quantiles(d)
 
 
+def test_kaggle_notebooks() -> None:
+    """캐글 노트북 — 자립적이고, 규약이 ml_core 와 갈리지 않는가.
+
+    노트북은 저장소가 없는 런타임에서 도니 규약을 인라인한다. 두 곳이
+    갈라지면 캐글 결과와 로컬 결과를 나란히 놓을 수 없다.
+    """
+    import json
+    import build_kaggle_notebooks as bkn
+    import ml_core as mc
+
+    assert bkn.main() == 0
+    for name in ("posture_cnn_kaggle.ipynb", "behavior_seq_kaggle.ipynb"):
+        p = os.path.join(ROOT, "notebooks", name)
+        nb = json.load(open(p, encoding="utf-8"))
+        assert nb["nbformat"] == 4 and nb["cells"], name
+        assert nb["metadata"].get("accelerator") == "GPU", f"{name} GPU 미설정"
+        code = [c for c in nb["cells"] if c["cell_type"] == "code"]
+        assert code, name
+        for c in code:                       # 셀마다 구문이 성립해야 한다
+            compile("".join(c["source"]), name, "exec")
+        txt = "".join("".join(c["source"]) for c in nb["cells"])
+        # 자립성 — 이 저장소 모듈을 **import** 하면 캐글에서 죽는다.
+        # 주석으로 출처를 가리키는 건 괜찮으므로 import 문만 본다.
+        code_txt = "".join("".join(c["source"]) for c in code)
+        for bad in ("import ml_core", "from ml_core",
+                    "import posture_crossview", "import posture_features",
+                    "sys.path.insert"):
+            assert bad not in code_txt, f"{name} 이 저장소 모듈에 기댄다: {bad}"
+        # 규약이 인라인돼 있는가
+        for need in ("def score(", "def weighted(", "def report(",
+                     "기준선", "Macro-F1" if "Macro" in txt else "mf1"):
+            assert need in txt, f"{name} 에 규약 {need} 이 없다"
+        assert "/kaggle/input/" in txt
+
+    post = json.load(open(os.path.join(ROOT, "notebooks",
+                                       "posture_cnn_kaggle.ipynb"),
+                          encoding="utf-8"))
+    ptxt = "".join("".join(c["source"]) for c in post["cells"])
+    # **밟기 쉬운 함정 둘이 실제로 막혀 있는가.**
+    assert "drop_duplicates" in ptxt, "train1/train2 중복 제거가 없다"
+    assert "flip" not in ptxt.lower() and "hflip" not in ptxt.lower(), \
+        "좌우 뒤집기 증강 — 좌횡와를 뒤집으면 라벨이 바뀐다"
+    assert str(bkn.CEILING) in ptxt, "원리적 상한이 노트북에 없다"
+    # 상한·MIN_FOLD 가 다른 곳과 어긋나면 안 된다
+    import train_posture_cnn as tpc
+    assert bkn.CEILING == tpc.CEILING == 0.861
+    assert bkn.MIN_FOLD == tpc.MIN_FOLD
+
+    # 인라인 규약이 ml_core 와 같은 판정을 내는가 — 갈리면 비교가 무의미하다
+    ns: dict = {}
+    exec(compile(bkn.CONTRACT, "contract", "exec"), ns)
+    B1 = {"acc": 0.636, "mf1": 0.280, "n": 100, "folds": 3}   # 폴리곤 실험
+    B2 = {"acc": 0.423, "mf1": 0.119, "n": 100, "folds": 3}   # 자세 5클래스
+    cases = [
+        # 둘 다 아래 → 진짜 미달(폴리곤)
+        (B1, {"acc": 0.615, "mf1": 0.260, "n": 100, "folds": 3}, "기준선 미달"),
+        # 정확도만 아래, MF1 은 위 → 불균형이 가린 것(자세 기하 실측)
+        (B2, {"acc": 0.414, "mf1": 0.228, "n": 100, "folds": 3},
+         "정확도만 미달(불균형에 가림)"),
+        (B1, {"acc": 0.700, "mf1": 0.400, "n": 100, "folds": 3}, "개선"),
+        (B1, dict(B1), "기준선과 같음"),
+    ]
+    for base, m, want in cases:
+        got = ns["report"]("t", m, base)["verdict"]
+        ref = mc.report("t", m, base, quiet=True)["verdict"]
+        assert got == want == ref, \
+            f"인라인 규약이 ml_core 와 다르다: {got} / {ref} (기대 {want})"
+    w = ns["weighted"]([{"acc": 1.0, "mf1": 1.0, "n": 900},
+                        {"acc": 0.0, "mf1": 0.0, "n": 100}])
+    assert abs(w["acc"] - 0.9) < 1e-9, "가중 집계가 다르다"
+
+
 def test_ml_core() -> None:
     """학습·평가 공통 규약 — 굳혀 둔 실수 넷이 실제로 막히는가.
 
@@ -2908,7 +2980,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

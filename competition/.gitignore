@@ -38,5 +38,5 @@ dashboard/alert_console.html
 *.pt
 outputs/video_report_*.html
 outputs/video_*.webm
-data/posture_crops.npz
+data/*.npz
 data/work_log.csv
