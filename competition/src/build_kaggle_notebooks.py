@@ -167,7 +167,20 @@ def posture_nb() -> dict:
 import os, ast, time, json
 import numpy as np, pandas as pd, torch
 IN = "{POSTURE_INPUT}"
-print("입력:", sorted(os.listdir(IN))[:8])
+
+# 경로를 고정하면 캐글 중첩에 걸린다. train1.csv 가 있는 폴더를 찾아 쓴다.
+if not os.path.exists(os.path.join(IN, "train1.csv")):
+    cand = [dp for dp, _s, fs in os.walk("/kaggle/input") if "train1.csv" in fs]
+    if not cand:
+        print("train1.csv 를 못 찾았다. /kaggle/input 아래 구조:")
+        for dp, ds, fs in os.walk("/kaggle/input"):
+            rel = os.path.relpath(dp, "/kaggle/input")
+            if rel.count(os.sep) < 2:
+                print("  ", rel, "→", (fs[:4] or ds[:4]))
+        raise SystemExit("Add Input 으로 대회 데이터를 붙였는지 확인할 것")
+    IN = cand[0]
+print("입력:", IN)
+print(" ", sorted(os.listdir(IN))[:8])
 DEV = "cuda" if torch.cuda.is_available() else "cpu"
 print("장치:", DEV, torch.cuda.get_device_name(0) if DEV == "cuda" else "")
 CEILING, MIN_FOLD, CROP, PAD = {CEILING}, {MIN_FOLD}, 96, 0.12
@@ -398,19 +411,37 @@ print("녹화:", sum("output.json" in f for _d, _s, f in os.walk(IN)))
 """),
         code(CONTRACT),
         code('''
+# ── 데이터 뿌리 자동 탐색 ────────────────────────────────────────────────
+# 캐글은 데이터셋을 한 단계 더 깊은 폴더에 넣을 때가 있다. 경로를 고정하면
+# rows 가 비고, 빈 DataFrame 은 컬럼이 없어서 dropna 가 KeyError 를 낸다 —
+# 원인과 상관없는 에러라 디버깅이 어렵다. 찾아서 쓰고, 못 찾으면 구조를 찍는다.
+def find_jsons(base):
+    return [dp for dp, _s, fs in os.walk(base) if "output.json" in fs]
+
+hits = find_jsons(IN) or find_jsons("/kaggle/input")
+if not hits:
+    print("output.json 을 못 찾았다. /kaggle/input 아래 구조:")
+    for dp, ds, fs in os.walk("/kaggle/input"):
+        rel = os.path.relpath(dp, "/kaggle/input")
+        if rel.count(os.sep) < 2:
+            print("  ", rel, "→", (fs[:4] or ds[:4]))
+    raise SystemExit("Add Input 으로 Edinburgh 데이터셋을 붙였는지 확인할 것")
+print(f"output.json {len(hits)}개 발견 · 예: "
+      f"{os.path.relpath(hits[0], '/kaggle/input')}")
+
 # ── output.json → 프레임 표 ──────────────────────────────────────────────
 # 구조: { objects: [ { id, frames: [ {frameNumber, bbox:{x,y,width,height},
 #                                     visible, behaviour}, ... ] }, ... ] }
-# 폴더는 <날짜>/<녹화>/output.json 로 **두 단계**라 os.walk 로 훑는다.
 rows = []
-for dp, _, fs in os.walk(IN):
-    if "output.json" not in fs:
-        continue
+for dp in hits:
     try:
         j = json.load(open(os.path.join(dp, "output.json"), encoding="utf-8"))
-    except Exception:
+    except Exception as e:
+        print("  읽기 실패:", dp, type(e).__name__)
         continue
-    rec = os.path.relpath(dp, IN).replace(os.sep, "_")
+    # 녹화 이름은 **마지막 두 단계**로 짓는다(<날짜>/<녹화>). 중첩 깊이가
+    # 달라져도 같은 이름이 나오도록.
+    rec = "_".join(dp.rstrip(os.sep).split(os.sep)[-2:])
     for obj in j.get("objects", []):
         uid = f"{rec}#{obj.get('id')}"      # 녹화+개체로 유일 식별
         for fr in obj.get("frames", []):
@@ -428,8 +459,16 @@ for dp, _, fs in os.walk(IN):
                          "aspect_ratio": float(w) / float(h),
                          "centroid_x": float(x) + float(w) / 2,
                          "centroid_y": float(y) + float(h) / 2})
+# **비었는지를 먼저 본다.** 빈 DataFrame 은 컬럼이 없어서 dropna 가
+# KeyError 를 내고, 그러면 진짜 원인(파싱 0건)이 안 보인다.
+if not rows:
+    j = json.load(open(os.path.join(hits[0], "output.json"), encoding="utf-8"))
+    print("JSON 최상위 키:", list(j.keys()))
+    o = (j.get("objects") or [{}])[0]
+    print("object 키:", list(o.keys()))
+    print("frame 키:", list((o.get("frames") or [{}])[0].keys()))
+    raise SystemExit("파싱 0건 — 위 키 구조가 objects[].frames[] 와 다르다")
 d = pd.DataFrame(rows).dropna(subset=GEOM)
-assert len(d), "파싱 결과가 비었다 — 입력 경로/구조를 확인할 것"
 vc = d["behavior"].value_counts()
 d["behavior"] = d["behavior"].where(d["behavior"].isin(vc[vc >= MIN_COUNT].index),
                                     "other")

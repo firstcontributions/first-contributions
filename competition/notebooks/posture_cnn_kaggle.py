@@ -52,7 +52,20 @@
 import os, ast, time, json
 import numpy as np, pandas as pd, torch
 IN = "/kaggle/input/multi-view-pig-posture-recognition"
-print("입력:", sorted(os.listdir(IN))[:8])
+
+# 경로를 고정하면 캐글 중첩에 걸린다. train1.csv 가 있는 폴더를 찾아 쓴다.
+if not os.path.exists(os.path.join(IN, "train1.csv")):
+    cand = [dp for dp, _s, fs in os.walk("/kaggle/input") if "train1.csv" in fs]
+    if not cand:
+        print("train1.csv 를 못 찾았다. /kaggle/input 아래 구조:")
+        for dp, ds, fs in os.walk("/kaggle/input"):
+            rel = os.path.relpath(dp, "/kaggle/input")
+            if rel.count(os.sep) < 2:
+                print("  ", rel, "→", (fs[:4] or ds[:4]))
+        raise SystemExit("Add Input 으로 대회 데이터를 붙였는지 확인할 것")
+    IN = cand[0]
+print("입력:", IN)
+print(" ", sorted(os.listdir(IN))[:8])
 DEV = "cuda" if torch.cuda.is_available() else "cpu"
 print("장치:", DEV, torch.cuda.get_device_name(0) if DEV == "cuda" else "")
 CEILING, MIN_FOLD, CROP, PAD = 0.861, 150, 96, 0.12
