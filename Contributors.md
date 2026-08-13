@@ -4376,7 +4376,8 @@ the world is a stand
 - [BTK9938](https://github.com/BTK9938)
 - [btk linkedin](linkedin.com/in/bommisetty-tandava-krishna-57923531a)
 
-[AMABUA REAGAN](https://github.com/regs123guy)
+- [AMABUA REAGAN](https://github.com/regs123guy)
 
 
 - [he5stone0311](https://github.com/he5stone0311)
+- [Pedro Gomes](https://github.com/PedroG0)
