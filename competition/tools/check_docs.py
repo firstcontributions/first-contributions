@@ -24,7 +24,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 COMP = os.path.dirname(HERE)
 ROOT = os.path.dirname(COMP)
 DOCS = [os.path.join(COMP, "README.md"),
-        os.path.join(COMP, "docs", "PRESENTATION.md")]
+        os.path.join(COMP, "docs", "PRESENTATION.md"),
+        # 현황 브리핑도 모듈·뷰·테스트 수를 인용한다. 검사 대상에 안 넣으면
+        # 다른 대화로 퍼 나른 뒤에 조용히 낡는다.
+        os.path.join(COMP, "docs", "STATUS.md")]
 
 
 # -- 실제값 수집 -----------------------------------------------------------
