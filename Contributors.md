@@ -27,6 +27,7 @@ Hiroyuki19830823
 - Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
+- Shani Tzoref
 - Elankavi Pommon B
 - AyushPatel - BT2024171 (https://github.com/Ayush1patel)
 - Hardh S Kava
@@ -4366,4 +4367,3 @@ the world is a stand
 - [Mudassir Ahmad](https://github.com/Mudassir-ahmad551080)
 - [BTK9938](https://github.com/BTK9938)
 - cj0y9
-
