@@ -138,6 +138,31 @@ def check_metrics(report: list) -> None:
                     f"{pat.replace(chr(92), '')} → 실제 {want}")
 
 
+def check_negative_results(report: list) -> None:
+    """부정 결과 수치가 문서에서 조용히 낡지 않게 한다.
+
+    폴리곤 무용(-0.018)은 README 첫 화면에 싣는 결론이라 감시한다.
+
+    **발정 판정 AUC 0.465 는 감시하지 못한다.** 산출 JSON 이 없고, 다시
+    내려면 71471 원자료 33,600파일이 필요한데 커밋 대상이 아니다. 이
+    수치만 사람이 지켜야 한다는 사실을 여기 적어 둔다.
+    """
+    m = actual_metrics()
+    if "poly_gain_posture" not in m:
+        return
+    want = f"{m['poly_gain_posture']:.3f}".replace("-", "−")   # 문서는 U+2212
+    for path in DOCS:
+        if not os.path.exists(path):
+            continue
+        t = open(path, encoding="utf-8").read()
+        if "폴리곤" not in t or "bbox" not in t:
+            continue
+        if want not in t and want.replace("−", "-") not in t:
+            report.append(
+                f"{os.path.basename(path)}  폴리곤 결과 재계산값 {want} 가 "
+                f"문서에 없다")
+
+
 def check_survival(report: list) -> None:
     """육성률을 인용한 문서는 **지금 계산되는 값**을 써야 한다.
 
@@ -313,6 +338,7 @@ def main() -> int:
     check_metrics(report)
     check_gap_figures(report)
     check_survival(report)
+    check_negative_results(report)
     check_links(report)
     check_secrets(report)
 
