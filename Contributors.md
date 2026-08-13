@@ -4386,9 +4386,10 @@ the world is a stand
 
 [AMABUA REAGAN](https://github.com/regs123guy)
 
-
+- [telinii] (https://github.com/telinii)
 - [he5stone0311](https://github.com/he5stone0311)
 - [domine02](https://github.com/domine02)
 - [pragyaChauhan240119](https://github.com/pragyaChauhan240119)
 - [Lucas Almeida](https://github.com/lucaskyo)
 - [JaumeCode](https://github.com/JaumeCode)
+
