@@ -16,9 +16,9 @@ data/edinburgh/
 edinburgh_frames.csv
 data/*_parsed.csv
 data/aihub_71471_frames.csv
-# 국내 농장 번식통계 원자료 — 농장 식별자 포함, 집계 JSON 만 커밋
-data/farm_stats.xlsx
-data/farm_monthly.xlsx
+# 국내 농장 번식통계 원자료 — 농장 식별자 포함, 집계 JSON 만 커밋.
+# 파일명을 하나씩 적으면 새 자료가 들어올 때 샌다. 확장자로 막는다.
+*.xlsx
 
 # 실데이터가 임베드된 생성 HTML — 커밋 대신 로컬 생성
 dashboard/edinburgh.html
@@ -33,7 +33,9 @@ dashboard/estrus_timeline.html
 dashboard/eval_report.html
 dashboard/repro_dashboard.html
 dashboard/alert_console.html
-models/*.pt
+# 가중치 전부. models/ 만 막았더니 ultralytics 가 레포 루트로 받은
+# yolo11n-seg.pt · yolo11s-seg.pt 26MB 가 그대로 추적됐다.
+*.pt
 outputs/video_report_*.html
 outputs/video_*.webm
 data/posture_crops.npz
