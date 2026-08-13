@@ -138,6 +138,32 @@ def check_metrics(report: list) -> None:
                     f"{pat.replace(chr(92), '')} → 실제 {want}")
 
 
+def check_view_list(report: list) -> None:
+    """README 의 뷰 목록이 허브 등록과 일치하는가.
+
+    손으로 유지하다 farm_diagnosis 가 빠진 채 지나갔다. 목록은 허브 VIEWS
+    에서 나와야 하고, 여기서 대조한다.
+    """
+    sys.path.insert(0, os.path.join(COMP, "src"))
+    try:
+        import build_dashboard_hub as hub
+    except Exception as e:                                   # noqa: BLE001
+        report.append(f"허브 모듈을 읽지 못했다: {e}")
+        return
+    p = os.path.join(COMP, "README.md")
+    if not os.path.exists(p):
+        return
+    t = open(p, encoding="utf-8").read()
+    for v in hub.VIEWS:
+        if f"**{v[1]}**" not in t:
+            report.append(f"README  뷰 목록에 '{v[1]}' 이 없다 (허브에는 있다)")
+    for key, title in (("운영", "농장 운영 (현장·설계)"), ("분석", "분석 · 리포트"),
+                       ("탐색", "데이터 탐색 · 시각화")):
+        n = sum(1 for v in hub.VIEWS if v[4] == key)
+        if f"### {title} ({n})" not in t:
+            report.append(f"README  '{title}' 개수가 {n} 이 아니다")
+
+
 def check_negative_results(report: list) -> None:
     """부정 결과 수치가 문서에서 조용히 낡지 않게 한다.
 
@@ -338,6 +364,7 @@ def main() -> int:
     check_metrics(report)
     check_gap_figures(report)
     check_survival(report)
+    check_view_list(report)
     check_negative_results(report)
     check_links(report)
     check_secrets(report)

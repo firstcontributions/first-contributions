@@ -1,5 +1,5 @@
 #!/bin/bash
-# 통합 대시보드 전체 생성 — 20개 뷰 + 허브(index.html).
+# 통합 대시보드 전체 생성 — 21개 뷰 + 허브(index.html).
 # 데이터/영상이 있어야 하는 뷰는 없으면 건너뜀. 마지막에 허브가 링크를 잡는다.
 #
 # 사용: bash competition/build_all.sh
@@ -34,6 +34,8 @@ run $SRC/build_posture_gallery.py
 # 행동 갤러리(영상 필요: 000009)
 VID=$(ls /tmp/edvid/color.mp4 /tmp/edin_vids/2019_11_05_000009/color.mp4 2>/dev/null | head -1)
 [ -n "$VID" ] && run $SRC/build_behavior_gallery.py competition/data/edinburgh/2019_11_05/000009 "$VID"
+# PC 통합 콘솔 — 위 여섯 뷰를 한 파일로 합친다(반드시 그 뒤에 돌 것)
+run $SRC/build_pc_suite.py
 # 통합 허브(마지막)
 VID2=$(ls /tmp/edvid/color.mp4 /tmp/edin_vids/2019_11_05_000009/color.mp4 2>/dev/null | head -1)
 [ -n "$VID2" ] && run $SRC/build_estrus_timeline.py competition/data/edinburgh/2019_11_05/000009 "$VID2"

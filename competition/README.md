@@ -198,7 +198,7 @@ CCTV → [탐지] → [추적/활동] → [행동·자세] → [발정 판정] �
 추적 과분할의 주원인은 카메라 흔들림이 아니라 **탐지 명멸**(3.02마리/프레임)이었고,
 `conf 0.25 + max_age 40` 으로 **과분할 59% 개선**했다(모션 보상은 14%에 그침).
 
-## 웹 대시보드 (20개 뷰, 통합 허브)
+## 웹 대시보드 (21개 뷰, 통합 허브)
 
 모든 뷰는 **외부 라이브러리·연결 없는 자체완결 HTML**(인라인 SVG/데이터,
 라이트·다크 테마). 실데이터가 임베드된 대용량 뷰는 커밋하지 않고 로컬 생성한다.
@@ -208,7 +208,8 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 # → competition/dashboard/index.html 를 브라우저로 열면 통합 이동
 ```
 
-### 농장 운영 (현장·설계) (6)
+### 농장 운영 (현장·설계) (7)
+- 🗂️ **★ PC 통합 콘솔 (한 파일)** — 사무실에서 진행하는 화면 6개를 한 HTML 로 — 사이드바·숫자키 이동 · 모바일 제외
 - 🖥️ **PC 관리 콘솔 (동작)** — 사무실용 — 일괄 처리·정렬·작업지시서 인쇄·단축키
 - 🐖 **앱 프로토타입 (동작)** — 실제로 눌러서 돌아다니는 앱 — 탭 이동·검색·도면 드릴다운
 - 📱 **앱 사용 화면** — 농가가 보게 될 6개 화면 — 실데이터로 채운 하루 동선
@@ -216,7 +217,8 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 - 🗺️ **농장 도면 관제** — 축사 배치도 위에 사육현황·환경(THI)·오늘의 업무를 겹쳐 표시
 - 🔄 **돈군흐름 관제** — 분만틀에서 역산한 설계 · 필요 vs 보유 돈방 · 점유 간트 · 배치 what-if
 
-### 분석 · 리포트 (10)
+### 분석 · 리포트 (11)
+- 📉 **실측 진단 (466농장 대비)** — 순위가 아니라 거리 — 격차를 두수로, 두수를 원/년으로 · 하락 비대칭 · 계절 되돌림
 - 🎯 **발정 표준 리포트** — AI Hub 71471 발정 기준으로 케글 데이터 분석 + 실영상 근거
 - 📈 **활동·발정 모니터링** — 개체 시계열 활동량 + 행동→발정 의심 지수
 - ⏱️ **개체별 발정 타임라인** — IoU 추적으로 개체 ID 부여 → 개체별 발정 점수 시계열(실영상)
@@ -275,7 +277,7 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 | **패널로 교란 제거** | 같은 농장 전년 대비 변화. 하락군은 Δ이유두수 +0.00두인데 ΔNPD +11.6일 — 하락은 사양이 아니라 발정·교배 관리 | `farm_panel.py` |
 | **무센서 개체 식별** | 기존 CCTV 만. 영상 Re-ID 로 트랙 단편화 −46%, GT ID 일관성 0.77 | `reid.py` |
 | **평가 투명성** | 개체·뷰 분리 검증, 보정곡선(Brier 0.174), 자세 LOVO 0.684 ± 0.028 | `build_eval_report.py` |
-| **재현성** | 테스트 61개 · 자체완결 대시보드 20뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
+| **재현성** | 테스트 62개 · 자체완결 대시보드 21뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
 
 ### 다루지 않는 영역 — 여기서 기대하면 안 되는 것
 
@@ -311,7 +313,7 @@ RFID 이표는 개체 ID 가 결정적으로 읽히고, 영상 Re-ID 는 학습�
 - [x] 관찰: 탐지→추적→행동 인식→활동 분석
 - [x] 진단: 문제 3종 분류 + 원인 4종 귀인 + 처방
 - [x] 예측: 발정 조기경보(D-day·지연/무발정)
-- [x] 대시보드: 20뷰 통합 허브 + 평가 신뢰도 리포트
+- [x] 대시보드: 21뷰 통합 허브 + 평가 신뢰도 리포트
 - [x] 실측: 71471 발정 정답 검증 — 서브셋 부적합을 3단계 설계로 규명(AUC 0.465)
 - [x] keypoints 경로 시도: 파서·자세 기술자(44개, 회전·크기 불변) 완성. 날짜
       불일치로 개체 내 대조는 미실시했으나, **자세 vs 행동라벨 정보량 비교**를
@@ -334,7 +336,7 @@ competition/
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
   docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md · PRESENTATION.md · STATUS.md
-  src/   (81개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
+  src/   (82개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
     ── 인식   posture_crossview.py  view_align.py  motion_tracker.py  iou_tracker.py
     ── 번식   breeding_timing.py  repro_calendar.py  pregnancy_check.py
               herd_board.py  breeding_ledger.py  work_log.py
@@ -346,7 +348,7 @@ competition/
     calc.py  config.py  models.py  simulator.py  validate.py  report.py
     example_farm.yaml  tests/test_pigflow.py
   tests/ smoke_test.py       # 47개 스모크 테스트(pigflow 30개 포함)
-  dashboard/                 # (생성물) 뷰 20개 — 허브 index.html 제외 커밋 안 함
+  dashboard/                 # (생성물) 뷰 21개 — 허브 index.html 제외 커밋 안 함
   data/, outputs/            # (생성물)
 ```
 
@@ -356,7 +358,7 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 61/61 통과 확인
+python competition/tests/smoke_test.py        # 62/62 통과 확인
 
 # ★ 전체 시뮬레이션 — 모돈 두수 하나로 설계·흐름·성적진단·손익까지
 python competition/src/run_farm.py --sows 300

@@ -2130,6 +2130,61 @@ def test_korean_farm_stats() -> None:
     assert "msy" not in kfs.quantiles(d)
 
 
+def test_pc_suite() -> None:
+    """PC 통합 콘솔 — 여섯 화면을 한 파일로 합쳤는가.
+
+    합치는 방식이 핵심이다. 여섯 뷰가 전부 `.card` `.wrap` 같은 **같은
+    클래스명**을 쓰고 각자 전역 스크립트를 깐다. DOM 을 이어붙이면 CSS 가
+    서로를 덮으므로 srcdoc iframe 으로 격리해야 하고, 그게 유지되는지 본다.
+    """
+    import base64
+    import re
+    import build_pc_suite as bps
+
+    # 모바일은 빠져야 한다 — 그게 이 뷰의 전제다
+    names = [v[0] for v in bps.VIEWS]
+    assert "app_prototype.html" not in names and "app_screens.html" not in names
+    assert len(names) == len(set(names)) == 6
+
+    made = [n for n in names if os.path.exists(os.path.join(ROOT, "dashboard", n))]
+    if not made:
+        return                      # 대시보드 미생성 환경 — build_all.sh 선행
+    assert bps.main() == 0
+    html = open(bps.OUT, encoding="utf-8").read()
+
+    # 자체완결 — 합친 뒤에도 외부로 나가면 안 된다
+    assert not re.findall(r'https?://[^"\'\s)]+', html), "외부 URL"
+
+    # **격리.** 원본을 DOM 에 풀어 놓으면 CSS 가 충돌한다.
+    assert "srcdoc" in html and "<iframe" in html
+    assert html.count("<iframe") == 1, "화면마다 iframe 을 만들면 안 된다"
+
+    # 원본이 통째로, 손대지 않은 채 들어 있는가 — base64 를 되돌려 대조
+    b64s = re.findall(r'"([A-Za-z0-9+/=]{500,})"', html)
+    assert len(b64s) == len(made), f"실린 문서 {len(b64s)} vs 화면 {len(made)}"
+    for name, enc in zip(made, b64s):
+        src = base64.b64decode(enc).decode("utf-8")
+        orig = open(os.path.join(ROOT, "dashboard", name),
+                    encoding="utf-8").read()
+        assert src == bps.strip_bom(orig), f"{name} 원본과 다르다"
+        assert src.lstrip().lower().startswith("<!doctype"), \
+            f"{name} 이 완전한 문서가 아니다"
+
+    # 테마는 iframe 에 넣기 전에 문자열로 주입한다(file:// 오리진 회피)
+    assert "function themed" in html and "data-theme" in html
+    for sel in (":root{", "prefers-color-scheme:dark", ':root[data-theme=dark]'):
+        assert sel in html, f"테마 선언 누락: {sel}"
+
+    # 등록
+    import build_dashboard_hub as hub
+    assert any(v[0] == "pc_suite.html" for v in hub.VIEWS), "허브 미등록"
+    sh = open(os.path.join(ROOT, "build_all.sh"), encoding="utf-8").read()
+    assert "build_pc_suite.py" in sh
+    # 합치는 쪽이 원본보다 **뒤에** 돌아야 한다
+    assert sh.index("build_pc_suite.py") > sh.index("build_farm_diagnosis.py")
+    assert sh.index("build_pc_suite.py") < sh.index("build_dashboard_hub.py")
+
+
 def test_farm_diagnosis_view() -> None:
     """20번째 뷰 — 실측 진단이 화면에 올라왔는가.
 
@@ -2775,7 +2830,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_pc_suite, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
