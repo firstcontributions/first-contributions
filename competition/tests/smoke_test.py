@@ -2130,6 +2130,66 @@ def test_korean_farm_stats() -> None:
     assert "msy" not in kfs.quantiles(d)
 
 
+def test_farm_diagnosis_view() -> None:
+    """20번째 뷰 — 실측 진단이 화면에 올라왔는가.
+
+    이 뷰의 임무는 **새 계산이 아니라 기존 출력의 렌더링**이다. 그래서
+    화면 수치가 모듈 출력과 같은지까지 본다 — 여기서 값을 다시 계산하면
+    언젠가 두 곳이 어긋난다.
+    """
+    import re
+    import build_farm_diagnosis as bfd
+
+    d = bfd.collect()
+    html = bfd.build(d)
+
+    # 자체완결 — 외부로 나가는 연결이 하나도 없어야 한다
+    ext = re.findall(r'https?://[^"\'\s)]+', html)
+    assert not ext, f"외부 URL {ext[:3]}"
+    assert not re.findall(r'<(?:script|link|img)[^>]*\bsrc=|<link[^>]*href=', html)
+
+    # 농장 식별자 유출 — 원자료는 커밋 금지 대상이다
+    assert not re.search(r'PIGGO|00217\d', html), "농장 식별자 노출"
+
+    # 출처 라벨(원칙 1) — 실측과 계산이 한 화면에 섞이므로 패널마다 있어야
+    assert html.count('class="tag"') >= 5, "패널별 출처 라벨이 모자란다"
+    for kind in ("실측", "계산"):
+        assert f'>{kind}</span>' in html, f"'{kind}' 라벨이 없다"
+
+    # **화면 수치 = 모듈 출력.** 뷰가 따로 계산하고 있으면 여기서 갈린다.
+    assert str(d["diag"]["psy"]) in html and str(d["prog"]["psy"]) in html
+    dn = d["panel"]["downside"]
+    assert f'{dn["expected_won_year"]/10_000:,.0f}만원' in html
+    lo = next(g for g in d["panel"]["paths_matched"]["groups"]
+              if g["label"] == "하락")
+    assert f'{lo["d_npd"]:+.1f}' in html
+
+    # 패널 4 는 전/후를 **동시에** 보여야 한다. 토글이면 안 눌러 본다.
+    raw, sh = d["monthly"]["farrowing_rate_raw"], d["monthly"]["farrowing_rate"]
+    assert raw["min_month"] != sh["min_month"], \
+        "되돌리기 전후 최저월이 같다 — 대비가 사라졌다"
+    assert f'최저 {raw["min_month"]}월' in html and f'최저 {sh["min_month"]}월' in html
+    assert "toggle" not in html.lower() and "<button" not in html
+
+    # 다섯 패널이 다 있는가
+    for n in "12345":
+        assert f'class="cn">{n}</span>' in html, f"패널 {n} 이 없다"
+
+    # 예시 농장이 실제 농장으로 오해되면 안 된다
+    assert "실제 농장이 아니다" in html
+
+    # 다크 테마 3종 선언(기존 뷰와 같은 규약)
+    for sel in (":root{", "prefers-color-scheme:dark",
+                ':root[data-theme=dark]'):
+        assert sel in html, f"테마 선언 누락: {sel}"
+
+    # 허브에 등록됐는가
+    import build_dashboard_hub as hub
+    assert any(v[0] == "farm_diagnosis.html" for v in hub.VIEWS), "허브 미등록"
+    sh_path = os.path.join(ROOT, "build_all.sh")
+    assert "build_farm_diagnosis.py" in open(sh_path, encoding="utf-8").read()
+
+
 def test_farm_panel() -> None:
     """같은 농장의 연도별 변화 — 원자료 없이 JSON + 합성 프레임으로 검증.
 
@@ -2715,7 +2775,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

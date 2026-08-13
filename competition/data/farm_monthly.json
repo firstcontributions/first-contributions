@@ -52,6 +52,31 @@
   "winter": 83.67,
   "summer_minus_winter": -2.7
  },
+ "farrowing_rate_raw": {
+  "metric": "분만율",
+  "by_month": {
+   "1": 82.4,
+   "2": 84.2,
+   "3": 83.4,
+   "4": 83.4,
+   "5": 83.3,
+   "6": 84.3,
+   "7": 83.4,
+   "8": 84.1,
+   "9": 84.4,
+   "10": 82.6,
+   "11": 80.3,
+   "12": 80.2
+  },
+  "n": 4470,
+  "basis": "기록월",
+  "min_month": 12,
+  "max_month": 9,
+  "amplitude": 4.2,
+  "summer": 83.97,
+  "winter": 83.33,
+  "summer_minus_winter": 0.64
+ },
  "weaned": {
   "metric": "평균이유",
   "by_month": {

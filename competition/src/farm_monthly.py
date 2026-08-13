@@ -143,6 +143,10 @@ def run(path: str | None = None, verbose: bool = True) -> dict:
         "metrics": sorted(long["데이터구분"].unique().tolist()),
         # 분만율·산자수는 분만 시점 기록 → 교배월로 되돌린다
         "farrowing_rate": seasonality(long, "분만율", shift_to_service=True),
+        # **되돌리기 전** 곡선도 같이 낸다. 산식은 위와 같고 플래그만 다르다.
+        # 기록월 그대로 보면 12월이 최저라 여름 불임이 안 보이는데, 그 '안
+        # 보이는 그림' 을 나란히 놓지 않으면 왜 되돌려야 하는지가 안 보인다.
+        "farrowing_rate_raw": seasonality(long, "분만율"),
         "weaned": seasonality(long, "평균이유", shift_to_service=True),
         # 재귀율은 이유 직후 사건이라 기록월이 곧 발생월이다
         "return_7d": seasonality(long, "7일내재귀율"),

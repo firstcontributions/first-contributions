@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>실측 진단 — 국내 466농장 대비</title><style>
+:root{color-scheme:light;--page:#f9f9f7;--surface:#fcfcfb;--surface2:#f2f2ee;
+--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--border:rgba(11,11,11,.12);
+--band:rgba(11,11,11,.07);--band2:rgba(42,120,214,.20);--grid:rgba(11,11,11,.09);
+--summer:rgba(232,163,61,.15)}
+@media(prefers-color-scheme:dark){:root:where(:not([data-theme=light])){
+--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;--ink:#fff;--ink2:#c3c2b7;
+--muted:#898781;--border:rgba(255,255,255,.14);--band:rgba(255,255,255,.09);
+--band2:rgba(57,135,229,.28);--grid:rgba(255,255,255,.10);
+--summer:rgba(232,163,61,.16)}}
+:root[data-theme=dark]{--page:#0d0d0d;--surface:#1a1a19;--surface2:#242422;
+--ink:#fff;--ink2:#c3c2b7;--muted:#898781;--border:rgba(255,255,255,.14);
+--band:rgba(255,255,255,.09);--band2:rgba(57,135,229,.28);
+--grid:rgba(255,255,255,.10);--summer:rgba(232,163,61,.16)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;
+background:var(--page);color:var(--ink);line-height:1.55;padding:22px}
+.wrap{max-width:860px;margin:0 auto}
+h1{font-size:1.55rem;letter-spacing:-.02em}
+.sub{color:var(--ink2);font-size:.92rem;margin:6px 0 6px}
+.demo{font-size:.82rem;color:var(--ink2);background:var(--surface2);
+border:1px solid var(--border);border-radius:9px;padding:9px 12px;margin:12px 0 18px}
+.card{background:var(--surface);border:1px solid var(--border);
+border-radius:13px;padding:17px 18px;margin-bottom:15px}
+.ch{display:flex;align-items:baseline;gap:9px}
+.cn{font-size:.72rem;font-weight:700;color:var(--page);background:var(--ink);
+border-radius:6px;padding:2px 7px}
+h2{font-size:1.05rem;letter-spacing:-.01em}
+.prov{display:flex;align-items:center;gap:7px;margin:7px 0 2px;flex-wrap:wrap}
+.tag{font-size:.68rem;font-weight:700;color:#fff;background:var(--tc);
+border-radius:5px;padding:1px 7px;letter-spacing:.02em}
+.tagtxt{font-size:.74rem;color:var(--muted)}
+.lead{font-size:.87rem;color:var(--ink2);margin:9px 0 4px}
+.body{margin-top:12px}
+.qrow{margin-bottom:6px}
+.qh{font-size:.85rem;font-weight:600;display:flex;justify-content:space-between;
+align-items:baseline;gap:10px}
+.qgap{font-weight:400;font-size:.76rem;color:var(--muted)}
+svg.qs{width:100%;height:auto;display:block;overflow:visible}
+svg.sl{width:100%;height:auto;display:block}
+.qt{font-size:9.5px;fill:var(--muted)}
+.qv{font-size:11px;font-weight:700}
+.br{display:grid;grid-template-columns:112px 1fr auto;align-items:center;
+gap:9px;margin:5px 0;font-size:.82rem}
+.brl{color:var(--ink2)}
+.brt{background:var(--band);border-radius:5px;height:15px;overflow:hidden}
+.brf{height:100%;border-radius:5px}
+.brv{font-variant-numeric:tabular-nums;font-size:.78rem;white-space:nowrap}
+.t{width:100%;border-collapse:collapse;font-size:.82rem;margin-bottom:10px}
+.t th{text-align:right;font-weight:600;color:var(--muted);font-size:.74rem;
+padding:5px 7px;border-bottom:1px solid var(--border)}
+.t th:first-child,.t td:first-child{text-align:left}
+.t td{text-align:right;padding:5px 7px;border-bottom:1px solid var(--border);
+font-variant-numeric:tabular-nums}
+.t tr.hl td{background:color-mix(in srgb,#d03b3b 8%,transparent)}
+.key{background:color-mix(in srgb,#2a78d6 9%,transparent);
+border-left:3px solid #2a78d6;padding:9px 12px;border-radius:6px;
+font-size:.85rem;margin-top:11px}
+.sub2{font-size:.75rem;color:var(--muted);margin-top:9px;line-height:1.6}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+gap:10px;margin:11px 0}
+.stat{background:var(--surface2);border:1px solid var(--border);
+border-radius:10px;padding:11px 13px}
+.sv{font-size:1.5rem;font-weight:700;letter-spacing:-.02em}
+.sl2{font-size:.75rem;color:var(--ink2);margin-top:2px}
+.legend{display:flex;gap:15px;font-size:.76rem;color:var(--ink2);
+margin-top:4px;flex-wrap:wrap}
+.legend i{display:inline-block;width:15px;height:3px;border-radius:2px;
+margin-right:5px;vertical-align:middle}
+footer{font-size:.74rem;color:var(--muted);margin-top:18px;line-height:1.7}
+</style></head><body><div class="wrap">
+<h1>실측 진단 — 국내 466농장 분포 대비</h1>
+<div class="sub">순위가 아니라 <b>거리</b>. 거리를 <b>두수</b>로, 두수를
+<b>원/년</b>으로 환산한다.</div>
+<div class="demo"><b>예시 농장</b>으로 채운 화면이다 — 비생산일수
+62일 · 복당 이유두수 10두 ·
+분만율 74% · 모돈 300두.
+<b>실제 농장이 아니다.</b> 자기 농장 값을 넣으면 이 자리가 그 농장 계산으로
+바뀐다 → <code>python competition/src/farm_gap.py --npd 62 --sows 300</code>
+<br>예시 농장 PSY <b>21.67</b> · 중앙 농장 25.34
+→ 격차 <b>-3.66두</b></div>
+<section class="card"><div class="ch"><span class="cn">1</span><h2>국내 466농장 분포에서 얼마나 멀어져 있나</h2></div><div class="prov"><span class="tag" style="--tc:#1baf7a">실측</span><span class="tagtxt">국내 202농장 · 466행 · 2020~2023</span></div><p class="lead">순위가 아니라 <b>거리</b>다. "상위 40%"는 얼마나 고쳐야 하는지 알려주지 않는다.</p><div class="body"><div class="qrow"><div class="qh">PSY (이유두수/모돈/년)<span class="qgap">중앙 대비 -2.4두</span></div><svg viewBox="0 0 620 74" class="qs" role="img" aria-label="PSY (이유두수/모돈/년) 분포에서 내 농장 위치"><rect x="121.8" y="27" width="376.5" height="14" rx="7" fill="var(--band)"/><rect x="220.0" y="27" width="193.8" height="14" rx="7" fill="var(--band2)"/><line x1="321.5" y1="21" x2="321.5" y2="47" stroke="var(--ink)" stroke-width="2"/><text x="321.5" y="62" class="qt" text-anchor="middle">중앙 24.1</text><line x1="321.5" y1="34" x2="209.4" y2="34" stroke="#d03b3b" stroke-width="2.5" stroke-dasharray="3 2"/><circle cx="209.4" cy="34" r="7" fill="#d03b3b" stroke="var(--surface)" stroke-width="2.5"/><text x="209.4" y="17" class="qv" text-anchor="middle" fill="#d03b3b">21.67두</text><text x="121.8" y="62" class="qt" text-anchor="middle">하위10% 19.77</text><text x="498.2" y="62" class="qt" text-anchor="middle">상위10% 27.93</text></svg></div><div class="qrow"><div class="qh">비생산일수 (연간)<span class="qgap">중앙 대비 +19.0일  ·  중앙에서 +0.80 IQR</span></div><svg viewBox="0 0 620 74" class="qs" role="img" aria-label="비생산일수 (연간) 분포에서 내 농장 위치"><rect x="121.8" y="27" width="376.5" height="14" rx="7" fill="var(--band)"/><rect x="169.4" y="27" width="196.4" height="14" rx="7" fill="var(--band2)"/><line x1="243.4" y1="21" x2="243.4" y2="47" stroke="var(--ink)" stroke-width="2"/><text x="243.4" y="62" class="qt" text-anchor="middle">중앙 43</text><line x1="243.4" y1="34" x2="401.3" y2="34" stroke="#d03b3b" stroke-width="2.5" stroke-dasharray="3 2"/><circle cx="401.3" cy="34" r="7" fill="#d03b3b" stroke="var(--surface)" stroke-width="2.5"/><text x="401.3" y="17" class="qv" text-anchor="middle" fill="#d03b3b">62일</text><text x="121.8" y="62" class="qt" text-anchor="middle">하위10% 28.37</text><text x="498.2" y="62" class="qt" text-anchor="middle">상위10% 73.66</text></svg></div><div class="qrow"><div class="qh">복당 이유두수<span class="qgap">중앙 대비 -1.0두  ·  중앙에서 -1.00 IQR</span></div><svg viewBox="0 0 620 74" class="qs" role="img" aria-label="복당 이유두수 분포에서 내 농장 위치"><rect x="121.8" y="27" width="376.5" height="14" rx="7" fill="var(--band)"/><rect x="247.3" y="27" width="125.5" height="14" rx="7" fill="var(--band2)"/><line x1="372.7" y1="21" x2="372.7" y2="47" stroke="var(--ink)" stroke-width="2"/><text x="372.7" y="62" class="qt" text-anchor="middle">중앙 11</text><line x1="372.7" y1="34" x2="247.3" y2="34" stroke="#d03b3b" stroke-width="2.5" stroke-dasharray="3 2"/><circle cx="247.3" cy="34" r="7" fill="#d03b3b" stroke="var(--surface)" stroke-width="2.5"/><text x="247.3" y="17" class="qv" text-anchor="middle" fill="#d03b3b">10두</text><text x="121.8" y="62" class="qt" text-anchor="middle">하위10% 9</text><text x="498.2" y="62" class="qt" text-anchor="middle">상위10% 12</text></svg></div><div class="qrow"><div class="qh">분만율<span class="qgap">중앙 대비 -8.0%  ·  중앙에서 -0.66 IQR</span></div><svg viewBox="0 0 620 74" class="qs" role="img" aria-label="분만율 분포에서 내 농장 위치"><rect x="121.8" y="27" width="376.5" height="14" rx="7" fill="var(--band)"/><rect x="254.0" y="27" width="190.7" height="14" rx="7" fill="var(--band2)"/><line x1="365.9" y1="21" x2="365.9" y2="47" stroke="var(--ink)" stroke-width="2"/><text x="365.9" y="62" class="qt" text-anchor="middle">중앙 82</text><line x1="365.9" y1="34" x2="239.8" y2="34" stroke="#d03b3b" stroke-width="2.5" stroke-dasharray="3 2"/><circle cx="239.8" cy="34" r="7" fill="#d03b3b" stroke="var(--surface)" stroke-width="2.5"/><text x="239.8" y="17" class="qv" text-anchor="middle" fill="#d03b3b">74%</text><text x="121.8" y="62" class="qt" text-anchor="middle">하위10% 66.51</text><text x="498.2" y="62" class="qt" text-anchor="middle">상위10% 90.4</text></svg></div></div></section><section class="card"><div class="ch"><span class="cn">2</span><h2>격차를 두수로, 두수를 돈으로</h2></div><div class="prov"><span class="tag" style="--tc:#2a78d6">계산</span><span class="tagtxt">PSY 항등식으로 분해 · 금액은 farm_economics 단가 가정</span></div><p class="lead">각 지표를 <b>하나만</b> 중앙값으로 되돌렸을 때의 PSY 변화. 지표끼리 맞물려 있어 개별 회수량의 합은 전체와 다르다.</p><div class="body"><div class="br"><div class="brl">이유두수(복당)</div><div class="brt"><div class="brf" style="width:100.0%;background:#2a78d6"></div></div><div class="brv">PSY +2.17두  ·  8,140만원/년</div></div><div class="br"><div class="brl">비생산일수(연간)</div><div class="brt"><div class="brf" style="width:62.7%;background:#2a78d6"></div></div><div class="brv">PSY +1.36두  ·  5,102만원/년</div></div><div class="sub2">분만율(%) · 재귀발정일 은 NPD 를 통해 간접 작용해 정의로 환산되지 않는다 — 거리만 보고하고 <b>없는 인과를 지어내지 않는다</b>.</div></div></section><section class="card"><div class="ch"><span class="cn">3</span><h2>하락은 사양이 아니라 발정·교배 관리에서 온다</h2></div><div class="prov"><span class="tag" style="--tc:#1baf7a">실측</span><span class="tagtxt">같은 농장 전년 대비 239쌍 · 122농장</span></div><p class="lead">횡단면 상관은 시설 좋은 농장이 다 좋을 뿐일 수 있다. <b>같은 농장의 변화</b>로 보면 그 교란이 차분으로 지워진다.</p><div class="body"><table class="t"><thead><tr><th></th><th>건수</th><th>ΔPSY</th><th>ΔNPD</th><th>Δ이유두수</th><th>Δ분만율</th></tr></thead><tbody><tr><td>상승</td><td>29</td><td>+1.80</td><td><b>-3.2</b></td><td><b>+1.00</b></td><td>+2.6</td></tr><tr class="hl"><td>하락</td><td>35</td><td>-2.20</td><td><b>+11.6</b></td><td><b>+0.00</b></td><td>-3.8</td></tr></tbody></table><div class="br"><div class="brl">상승군 ΔNPD</div><div class="brt"><div class="brf" style="width:27.6%;background:#1baf7a"></div></div><div class="brv">-3.2일</div></div><div class="br"><div class="brl">하락군 ΔNPD</div><div class="brt"><div class="brf" style="width:100.0%;background:#d03b3b"></div></div><div class="brv">+11.6일  (3.6배)</div></div><div class="key">떨어질 때 <b>이유두수는 움직이지 않는다</b>(+0.00두). 하락은 사양이 아니라 <b>발정·교배 관리</b>에서 온다.</div><div class="grid2"><div class="stat"><div class="sv">33%</div><div class="sl2">농장-연이 1두 이상 하락<br>(중앙 -2.40두)</div></div><div class="stat"><div class="sv">2,976만원</div><div class="sl2">지키는 값 · 연 기댓값<br>모돈 300두 기준</div></div></div><div class="sub2">평균회귀가 있다(전년 성적 vs 변화 ρ -0.296). 위 표는 그래서 전년 PSY 22.3~26.0 중간층만 으로 층화했다. ΔPSY 는 239쌍·122농장.</div></div></section><section class="card"><div class="ch"><span class="cn">4</span><h2>여름 불임은 교배월로 되돌려야 보인다</h2></div><div class="prov"><span class="tag" style="--tc:#1baf7a">실측</span><span class="tagtxt">179농장 월별 · 관측 51,233건</span></div><div class="body"><svg viewBox="0 0 640 250" class="sl" role="img" aria-label="분만율 계절 곡선 — 기록월 대 교배월"><rect x="362.4" y="18" width="105.5" height="190" fill="var(--summer)"/><text x="415.1" y="31" class="qt" text-anchor="middle">여름 교배</text><line x1="46" y1="193.9" x2="626" y2="193.9" stroke="var(--grid)"/><text x="39" y="197.4" class="qt" text-anchor="end">80</text><line x1="46" y1="158.7" x2="626" y2="158.7" stroke="var(--grid)"/><text x="39" y="162.2" class="qt" text-anchor="end">81</text><line x1="46" y1="123.6" x2="626" y2="123.6" stroke="var(--grid)"/><text x="39" y="127.1" class="qt" text-anchor="end">82</text><line x1="46" y1="88.4" x2="626" y2="88.4" stroke="var(--grid)"/><text x="39" y="91.9" class="qt" text-anchor="end">83</text><line x1="46" y1="53.2" x2="626" y2="53.2" stroke="var(--grid)"/><text x="39" y="56.7" class="qt" text-anchor="end">84</text><line x1="46" y1="18.0" x2="626" y2="18.0" stroke="var(--grid)"/><text x="39" y="21.5" class="qt" text-anchor="end">85</text><text x="46.0" y="226" class="qt" text-anchor="middle">1</text><text x="98.7" y="226" class="qt" text-anchor="middle">2</text><text x="151.5" y="226" class="qt" text-anchor="middle">3</text><text x="204.2" y="226" class="qt" text-anchor="middle">4</text><text x="256.9" y="226" class="qt" text-anchor="middle">5</text><text x="309.6" y="226" class="qt" text-anchor="middle">6</text><text x="362.4" y="226" class="qt" text-anchor="middle">7</text><text x="415.1" y="226" class="qt" text-anchor="middle">8</text><text x="467.8" y="226" class="qt" text-anchor="middle">9</text><text x="520.5" y="226" class="qt" text-anchor="middle">10</text><text x="573.3" y="226" class="qt" text-anchor="middle">11</text><text x="626.0" y="226" class="qt" text-anchor="middle">12</text><text x="320" y="242" class="qt" text-anchor="middle">월</text><polyline points="46.0,109.5 98.7,46.1 151.5,74.3 204.2,74.3 256.9,77.8 309.6,42.6 362.4,74.3 415.1,49.7 467.8,39.1 520.5,102.4 573.3,183.4 626.0,186.9" fill="none" stroke="var(--muted)" stroke-width="2.5" stroke-dasharray="5 3"/><circle cx="626.0" cy="186.9" r="5" fill="var(--muted)"/><text x="626.0" y="176.9" class="qv" text-anchor="middle" fill="var(--muted)">최저 12월</text><!-- 기록월(분만 시점) --><polyline points="46.0,77.8 98.7,42.6 151.5,74.3 204.2,49.7 256.9,39.1 309.6,102.4 362.4,183.4 415.1,186.9 467.8,109.5 520.5,46.1 573.3,74.3 626.0,74.3" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-dasharray=""/><circle cx="415.1" cy="186.9" r="5" fill="#2a78d6"/><text x="415.1" y="176.9" class="qv" text-anchor="middle" fill="#2a78d6">최저 8월</text><!-- 교배월(임신 114일 되돌림) --></svg><div class="legend"><span><i style="background:var(--muted)"></i>기록월(분만 시점)</span><span><i style="background:#2a78d6"></i>교배월(임신 114일 되돌림)</span></div><div class="key">같은 데이터다. <b>기록월로 보면 최저가 12월</b>이라 여름 불임이 안 보이고, 여름−겨울이 +0.64%p 로 오히려 양수다. 임신 114일을 빼서 교배월로 되돌리면 <b>최저가 8월</b>, 여름−겨울 <b>-2.7%p</b>.</div></div></section><section class="card"><div class="ch"><span class="cn">5</span><h2>이 프로그램이 스스로 신고하는 낙관 폭</h2></div><div class="prov"><span class="tag" style="--tc:#2a78d6">계산</span><span class="tagtxt">pigflow 기본 상수 대 466농장 실측 — 실제 농장 기록이 아니다</span></div><p class="lead">자기 설계가 얼마나 낙관적인지를 같은 자로 잰다.</p><div class="body"><div class="grid2"><div class="stat"><div class="sv">27.69</div><div class="sl2">프로그램 가정 PSY</div></div><div class="stat"><div class="sv">+2.36두</div><div class="sl2">중앙 농장(25.34) 대비 <b>낙관</b></div></div></div><div class="br"><div class="brl">비생산일수(연간)</div><div class="brt"><div class="brf" style="width:100.0%;background:#e8a33d"></div></div><div class="brv">-2.02두  (17.6 vs 중앙 43)</div></div><div class="br"><div class="brl">임신기간 (상수)</div><div class="brt"><div class="brf" style="width:9.9%;background:var(--muted)"></div></div><div class="brv">-0.20두  (114 vs 중앙 115)</div></div><div class="br"><div class="brl">포유기간</div><div class="brt"><div class="brf" style="width:7.9%;background:#e8a33d"></div></div><div class="brv">-0.16두  (24 vs 중앙 24.8)</div></div><div class="key">설계 산식이 <b>재발정·유산·도태 대기를 0 으로</b> 깔고 있다. 비생산일수를 이론 최소 17.6일로 잡는데 실측 중앙은 43.0일 — 그 25일이 이 프로그램이 낙관적인 폭이고, <b>발정 관리로 메울 몫</b>이다.</div><div class="sub2">중앙 농장 25.34 은 지표별 중앙값을 항등식에 넣은 <b>합성값</b>이다. PSY 열 자체의 중앙은 24.1 — 모든 지표가 동시에 중앙인 농장은 없다.</div></div></section>
+<footer>
+※ 원자료(농장별 스프레드시트)는 <b>농장 식별자가 있어 커밋하지 않는다.</b>
+이 화면은 집계값만 쓴다.<br>
+※ 이 뷰는 계산을 하지 않는다 — <code>farm_gap</code> ·
+<code>farm_panel</code> · <code>korean_farm_stats</code> ·
+<code>farm_monthly</code> 의 출력을 그릴 뿐이다. 수치의 정본은
+<code>docs/STATUS.md</code>.<br>
+※ 외부 연결 없는 자체완결 HTML(인라인 SVG·CSS). 라이트/다크 자동.
+</footer>
+</div></body></html>
