@@ -2,6 +2,7 @@
 
 - [Pranjal Mahajan](https://github.com/Pranjal-mahajan113) — [LinkedIn](https://www.linkedin.com/in/pranjal-mahajan-21a7ba361)
 - [Anagha Shetty](https://github.com/anaghashetty23)
+- [Aqsa Jamali](https://github.com/AqsaAliRazaJamali)
 -Rishit Raman
 Hiroyuki19830823
 - rishit backend enginner
