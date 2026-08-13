@@ -1,4 +1,6 @@
 # Contributors
+
+- [Pranjal Mahajan](https://github.com/Pranjal-mahajan113) — [LinkedIn](https://www.linkedin.com/in/pranjal-mahajan-21a7ba361)
 - [Anagha Shetty](https://github.com/anaghashetty23)
 -Rishit Raman
 Hiroyuki19830823
