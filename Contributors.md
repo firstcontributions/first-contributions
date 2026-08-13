@@ -101,6 +101,7 @@ Varshith IMT2024044
 - HelaElbez
 - first contribution
 - Sherwin Mazarello
+- [Ravi Teja S](https://github.com/Ravi-Teja-S)
 - Kartik
 - Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
@@ -215,6 +216,7 @@ Ridwan Umar- [Nico]
 - [ODbeke](https://github.com/ODbeke)
 - [Harshil Srivastav] (https://github.com/rasmalai25)
 - [Haikal Taufiq](https://github.com/haikaltaufiq)
+- [Keerthana Krishna](https://github.com/cheralakeerthana07)
 - [Darshan Bothra](https://github.com/DarshanBothra)
 - [Jyatin Singh](https://github.com/Jyatin)
 - [rickylinn](https://github.com/rickylinn)
@@ -2020,6 +2022,7 @@ Amna Naeem
 - [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
 - [Celestial_1]
+- [Leonardo Herédia](https://github.com/LeoHeredia2004)
 - [Juan Escobar]
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
@@ -4233,6 +4236,7 @@ abhinav abhinav
 - [krish4iv](https://github.com/krish4iv)
 - [Anshul Kumar](https://github.com/anshullakra007)
 - [Mayank Dhanagar](https://github.com/mayankdhanagar)
+- [Aswin Sreeraj](https://github.com/aswinsreeraj)
 - [Roger](https://github.com/rdemarco13-byte)
 - [Asif Ilyas](https://github.com/Kakaman-Kakaman)
 - [Prateek Pandey](https://github.com/prateek942)
@@ -4358,3 +4362,8 @@ Raphael Karani
 - [Mudassir Ahmad](https://github.com/Mudassir-ahmad551080)
 - [BTK9938](https://github.com/BTK9938)
 - cj0y9
+- [btk linkedin](linkedin.com/in/bommisetty-tandava-krishna-57923531a)
+- [Abimael243](https://github.com/Abimael243)
+- [Dead_0hlin](https://github.com/Dead0hlin)
+
+- [he5stone0311](https://github.com/he5stone0311)
