@@ -4396,4 +4396,5 @@ the world is a stand
 - [Lucas Almeida](https://github.com/lucaskyo)
 - [JaumeCode](https://github.com/JaumeCode)
 - [Aman Yadav](https://github.com/AmanYadav1127)
+- [fericik](https://github.com/fericik)
 
