@@ -25,6 +25,7 @@ Hiroyuki19830823
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
 - [Saransh Dhiman](https://github.com/Saransh-27)
+- [Azka Zubish](https://github.com/azkaZubish)
 - Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
