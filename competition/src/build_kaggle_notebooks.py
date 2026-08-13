@@ -121,8 +121,17 @@ def posture_nb() -> dict:
         md(f"""
 # 자세 CNN — 원리적 상한 {CEILING} 을 넘을 수 있는가
 
-**붙일 데이터**: Competition `multi-view-pig-posture-recognition`
-(오른쪽 *Add Input* → Competitions 에서 검색) · **Accelerator: GPU**
+## 실행 전 설정 셋 (오른쪽 패널)
+
+| 설정 | 값 | 왜 |
+|---|---|---|
+| **Add Input** | Competition `multi-view-pig-posture-recognition` | 데이터 |
+| **Accelerator** | **GPU** (T4 ×2 또는 P100) | CPU 로는 LOVO 7폴드가 50분 |
+| **Internet** | **On** | resnet18 사전학습 가중치를 받는다 |
+
+> 인터넷을 끄면 가중치를 못 받아 **scratch 학습으로 자동 폴백**한다. 죽지는
+> 않지만 23,450장으로 밑바닥부터 배우는 셈이라 성능이 크게 떨어진다.
+> 셀 출력에 `사전학습 가중치 못 받음 → scratch` 가 찍히면 그 상태다.
 
 ## 이 노트북이 묻는 것 하나
 
@@ -354,8 +363,14 @@ def behavior_nb() -> dict:
         md(f"""
 # 행동 인식 시퀀스 모델 — 프레임 하나가 아니라 **구간**을 본다
 
-**붙일 데이터**: Dataset `jackbyte/edinburgh-pig-behaviour-annotated`
-(CC BY-NC 4.0) · **Accelerator: GPU**
+## 실행 전 설정 (오른쪽 패널)
+
+| 설정 | 값 |
+|---|---|
+| **Add Input** | Dataset `jackbyte/edinburgh-pig-behaviour-annotated` (CC BY-NC 4.0) |
+| **Accelerator** | **GPU** |
+
+인터넷은 꺼도 된다 — 사전학습 가중치를 쓰지 않는다.
 
 `walk` 와 `standing` 은 한 프레임만 보면 같은 상자다. 갈리는 건 **다음
 프레임에 움직였는가**다. 기존 프레임 단위 모델은 acc 0.516 / MF1 0.386
@@ -511,20 +526,49 @@ json.dump({"seq_cnn": m, "baseline": b, "classes": classes, "window": WIN},
     ])
 
 
+def flatten(nb: dict, title: str) -> str:
+    """노트북 → **한 셀에 붙여넣는** 스크립트.
+
+    .ipynb 임포트보다 붙여넣기가 빠르다. 마크다운 셀은 주석으로 접는다.
+    """
+    out = [f"# {'=' * 72}", f"# {title}",
+           "# 캐글: New Notebook → Add Input 으로 데이터 붙이고",
+           "#       Accelerator = GPU → 이 전체를 셀 하나에 붙여넣고 실행",
+           f"# {'=' * 72}", ""]
+    for c in nb["cells"]:
+        src = "".join(c["source"]).rstrip("\n")
+        if c["cell_type"] == "markdown":
+            out.append("")
+            out += ["# " + ln if ln else "#" for ln in src.splitlines()]
+            out.append("")
+        else:
+            out.append(src)
+            out.append("")
+    return "\n".join(out) + "\n"
+
+
 def main() -> int:
     os.makedirs(OUTDIR, exist_ok=True)
     made = []
-    for name, nb in (("posture_cnn_kaggle.ipynb", posture_nb()),
-                     ("behavior_seq_kaggle.ipynb", behavior_nb())):
-        p = os.path.join(OUTDIR, name)
+    for stem, nb, title in (
+            ("posture_cnn_kaggle", posture_nb(),
+             "자세 CNN — 원리적 상한 0.861 을 넘을 수 있는가"),
+            ("behavior_seq_kaggle", behavior_nb(),
+             "행동 인식 시퀀스 모델 — 프레임 하나가 아니라 구간을 본다")):
+        p = os.path.join(OUTDIR, stem + ".ipynb")
         json.dump(nb, open(p, "w", encoding="utf-8"),
                   ensure_ascii=False, indent=1)
-        made.append((name, len(nb["cells"]), os.path.getsize(p)))
-    print("캐글 노트북 생성:", os.path.relpath(OUTDIR, os.path.dirname(ROOT)))
-    for n, c, s in made:
-        print(f"  {n:<28} 셀 {c}개 · {s/1024:.0f}KB")
-    print("\n  캐글에서: New Notebook → Add Input 으로 데이터 붙이고")
-    print("            Accelerator 를 GPU 로 바꾼 뒤 Run All")
+        py = os.path.join(OUTDIR, stem + ".py")
+        open(py, "w", encoding="utf-8").write(flatten(nb, title))
+        made.append((stem, len(nb["cells"]), os.path.getsize(p),
+                     os.path.getsize(py)))
+    print("캐글 학습 파일 생성:", os.path.relpath(OUTDIR, os.path.dirname(ROOT)))
+    for n, c, s1, s2 in made:
+        print(f"  {n}.ipynb  셀 {c}개 · {s1/1024:.0f}KB")
+        print(f"  {n}.py     붙여넣기용 · {s2/1024:.0f}KB")
+    print("\n  방법 A(빠름)  캐글 New Notebook → .py 내용을 셀 하나에 붙여넣기")
+    print("  방법 B        캐글 File → Import Notebook 으로 .ipynb 올리기")
+    print("  둘 다 Add Input 으로 데이터를 붙이고 Accelerator 를 GPU 로.")
     return 0
 
 

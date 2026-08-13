@@ -4,8 +4,28 @@
 새로 만들기 전에 이 문서와 `src/ml_core.py` 를 먼저 본다.
 
 ```bash
-python competition/src/ml_core.py     # 과제별 가용 여부 점검
+python competition/src/ml_core.py              # 과제별 가용 여부 점검
+python competition/src/build_kaggle_notebooks.py   # 캐글 학습 파일 생성
 ```
+
+## 학습은 캐글 GPU 에서
+
+로컬은 CPU 4스레드라 자세 LOVO 7폴드가 **50분**이다(실측). 캐글 T4 면 몇
+분이므로 학습은 캐글에서 한다. `competition/notebooks/` 에 두 벌이 있다.
+
+| 파일 | 쓰는 법 |
+|---|---|
+| `*.py` | 캐글 New Notebook → **셀 하나에 통째로 붙여넣기** (빠름) |
+| `*.ipynb` | 캐글 File → Import Notebook |
+
+| 노트북 | Add Input | Accelerator | Internet |
+|---|---|---|---|
+| `posture_cnn_kaggle` | Competition `multi-view-pig-posture-recognition` | GPU | **On** (resnet18 가중치) |
+| `behavior_seq_kaggle` | Dataset `jackbyte/edinburgh-pig-behaviour-annotated` | GPU | Off 무방 |
+
+노트북은 저장소가 없는 런타임에서 도니 평가 규약을 **인라인**한다. 인라인본과
+`ml_core` 가 같은 판정을 내는지 테스트가 대조하므로, 캐글 결과와 로컬 결과를
+나란히 놓을 수 있다.
 
 ---
 
