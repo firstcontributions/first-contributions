@@ -2130,6 +2130,84 @@ def test_korean_farm_stats() -> None:
     assert "msy" not in kfs.quantiles(d)
 
 
+def test_ml_core() -> None:
+    """학습·평가 공통 규약 — 굳혀 둔 실수 넷이 실제로 막히는가.
+
+    가장 중요한 건 **기존 결과를 재현**하는 것이다. 새 규약이 아니라 이미
+    쓰던 방식을 모은 것이므로, 공표된 기준선과 다르면 규약이 틀린 것이다.
+    """
+    import json
+    import numpy as np
+    import pandas as pd
+    import ml_core as mc
+
+    # ① 공표된 기준선을 그대로 재현하는가 (캐시가 있을 때만)
+    npz = os.path.join(ROOT, "data", "posture_crops.npz")
+    pub_p = os.path.join(ROOT, "data", "posture_crossview.json")
+    if os.path.exists(npz) and os.path.exists(pub_p):
+        import posture_crossview as pc
+        full, _X, _c = pc.load()
+        pub = json.load(open(pub_p, encoding="utf-8"))["baseline"]
+        for lab in ("cls", "cls3"):
+            got = mc.majority_baseline(full, lab, "view", min_fold=pc.MIN_FOLD)
+            assert abs(got["acc"] - pub[lab]["acc_w"]) < 0.002, \
+                f"{lab} 기준선 재현 실패: {got['acc']} vs {pub[lab]['acc_w']}"
+            assert abs(got["mf1"] - pub[lab]["mf1_w"]) < 0.002
+
+    # ② 기준선 미달을 **실패로 표시**하는가. 폴리곤 실험에서 0.615 를
+    #    기준선 0.636 과 견주지 않아 개선으로 읽을 뻔했다(MF1 도 아래였다).
+    base = {"acc": 0.636, "mf1": 0.28, "n": 100, "folds": 3}
+    lo = {"acc": 0.615, "mf1": 0.26, "n": 100, "folds": 3}
+    r = mc.report("t", lo, base, quiet=True)
+    assert r["verdict"] == "기준선 미달", r
+
+    # 정확도만 아래이고 MF1 은 위인 경우는 **미달이 아니다.** 자세 실측이
+    # 정확히 그랬다(기하 0.414 vs 기준선 0.423, MF1 0.228 vs 0.119).
+    masked = mc.report("t", {"acc": 0.414, "mf1": 0.228, "n": 100, "folds": 3},
+                       {"acc": 0.423, "mf1": 0.119, "n": 100, "folds": 3},
+                       quiet=True)
+    assert masked["verdict"].startswith("정확도만 미달"), masked
+    same = mc.report("t", dict(base), base, quiet=True)
+    assert same["verdict"] == "기준선과 같음", same
+    up = mc.report("t", {"acc": 0.70, "mf1": 0.40, "n": 100, "folds": 3},
+                   base, quiet=True)
+    assert up["verdict"] == "개선"
+
+    # ③ 작은 폴드는 집계에서 빠지는가 — 분산에 묻혀 순서가 뒤집힌 적이 있다
+    rng = np.random.default_rng(0)
+    df = pd.DataFrame({
+        "g": ["big"] * 200 + ["tiny"] * 5,
+        "y": list(rng.integers(0, 2, 200)) + [0] * 5,
+        "x": rng.normal(size=205)})
+    out = mc.leave_one_group_out(df, "y", "g", lambda tr, te: np.zeros(len(te)),
+                                 min_fold=30)
+    assert "tiny" in out["skipped"] and out["folds"] <= 1, out
+
+    # ④ 누수 검사 — 고유하지 않은 id 를 주면 세지 말고 경고해야 한다.
+    #    frame_idx 처럼 그룹마다 0 부터 다시 매겨지는 값을 넘겼다가
+    #    전부 '누수' 로 찍힌 적이 있다.
+    dup = pd.DataFrame({"g": ["a"] * 4 + ["b"] * 4, "fid": [0, 1, 2, 3] * 2})
+    lk = mc.leakage_check(dup, "g", "fid")     # 전부 그룹을 넘음 = 카운터
+    assert lk["checked"] is False and lk["leaked"] == 0 and "note" in lk
+    # 진짜 누수는 **일부만** 넘는다 — p1 하나만 두 그룹에 걸쳐 있다
+    real = pd.DataFrame({"g": ["a", "a", "a", "b", "b"],
+                         "path": ["p1", "p2", "p3", "p4", "p1"]})
+    lk2 = mc.leakage_check(real, "g", "path")
+    assert lk2["checked"] is True and lk2["leaked"] == 1, lk2
+    assert lk2["examples"] == ["p1"]
+
+    # ⑤ 폴드 집계는 **표본 수 가중**이다. 단순 평균이면 작은 폴드에 끌려간다.
+    w = mc.weighted([{"acc": 1.0, "mf1": 1.0, "n": 900},
+                     {"acc": 0.0, "mf1": 0.0, "n": 100}])
+    assert abs(w["acc"] - 0.9) < 1e-9, w
+
+    # ⑥ 발정은 막힌 과제로 등록돼 있어야 한다 — 실측 결론이다
+    est = next(t for t in mc.TASKS if t.key == "estrus")
+    assert est.status == "blocked" and "라벨 어휘" in est.note
+    assert all(t.status in ("ready", "blocked") for t in mc.TASKS)
+    assert mc.main() == 0
+
+
 def test_pc_suite() -> None:
     """PC 통합 콘솔 — 여섯 화면을 한 파일로 합쳤는가.
 
@@ -2830,7 +2908,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_pc_suite, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
