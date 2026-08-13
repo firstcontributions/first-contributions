@@ -102,6 +102,7 @@ Varshith IMT2024044
 - HelaElbez
 - first contribution
 - Sherwin Mazarello
+- [Ravi Teja S](https://github.com/Ravi-Teja-S)
 - Kartik
 - Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
