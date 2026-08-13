@@ -1,6 +1,16 @@
 # Contributors
+
+- [Pranjal Mahajan](https://github.com/Pranjal-mahajan113) — [LinkedIn](https://www.linkedin.com/in/pranjal-mahajan-21a7ba361)
+- [Anagha Shetty](https://github.com/anaghashetty23)
+- [Aqsa Jamali](https://github.com/AqsaAliRazaJamali)
+-Rishit Raman
+Hiroyuki19830823
 - rishit backend enginner
+- [Ishan Pathak](https://github.com/theishanpathak)
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
+- Ricardo Sastre (https://github.com/ricsas)
+- Oscar Heslop (https://github.com/OscarHeslop)
+- Lisath Wijekoon (https://github.com/LisWije)
 - [Tanmay Dixit](https://github.com/tdixit547)
 - [Tanmay Dixit BT2024016](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
@@ -8,10 +18,13 @@
 - Aprajita Agarwal BT2024258
 - Dinesh BT2024199 (a+b)^3 = a^3 + b^3 + 3ab(a+b)
 - Abhinav Bhatia BT2024156 (a+b)^2 = a^2 + 2ab + b^2
+- [Vedant021004](https://github.com/Vedant021004)
 - [Pulkit Pandey](https://github.com/COolAlien35)
+- [Vedant Kapil](https://github.com/Vedant021004)
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
+- Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
 - Elankavi Pommon B
@@ -25,6 +38,7 @@
 - Pranav Goyal BT2024086
 - Karan Mansuria BT2024104 
 - Parth Sutaria BT20240:wq28
+- [Kaztral](https://github.com/kaztral-ar)
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - [Akshay-K-M_IMT2024014] (https://github.com/Akshay-K-M)
@@ -116,12 +130,14 @@ Varshith IMT2024044
 - [Harshavardhan Reddy_BT2024064](https://github.com/HarshaVPolar)
 - Pennam Nikhil
 - Sai sathvik K
+-Sangram Sankpal(https://github.com/Sangram0105)
 - IMT2024065
 - BT2024015 - Mai bhi aaya tha. Thnax
 - BT2024053
 - [Sesetty Viraj Sriker IMT2024040](https://github.com/virr-tuk31)
 - [soupnaie-mnm]
 - [Diogo Higa]
+- drzn
 - [Rakhi Jamdade]
 - [Yashvi Mehta]
 - [abdelrahman-mahmoud] (Iterating Test)
@@ -155,6 +171,7 @@ Varshith IMT2024044
 - [ParaMatrix-404]
 - [SathvikaGangalam](https://github.com/gsathvika28)
 - [Anish Nagubandi](https://github.com/anishnagubandi)
+- [Hardiik12](https://github.com/Hardiik12)
 - [Anish] 
 - [Sushant Prabhu Sawkar](https://github.com/susfungit)
 - [Mr Talha Mulani](https://github.com/Mr-Talha-Mulani)
@@ -192,7 +209,7 @@ Ridwan Umar- [Nico]
 - [hui455](https://github.com/hui455)
 -[shuvronil](https://github.com/shuvronilmondal3)
 - [Kaustubh](https://github.com/Kaustubh0404)
-- 
+- [z-k0123](https://github.com/z-k0123)
 - [ODbeke](https://github.com/ODbeke)
 - [Harshil Srivastav] (https://github.com/rasmalai25)
 - [Haikal Taufiq](https://github.com/haikaltaufiq)
@@ -272,6 +289,7 @@ Ridwan Umar- [Nico]
 - [Adhiraj Sengar](https://github.com/Adhiraj2601)
 - [Erikito Consultancy](https://github.com/erikvanappeldoorn)
 -[sanchit] 
+- [Favour Obademi] (https://github.com/Favyman)
 - [Bilaal Bakare](https://github.com/BilaalBakare)
 [Raj Gandhi](https://github.com/rajg2906) 
 - [Thuta](https://github.com/thuta-dev)
@@ -648,8 +666,10 @@ Syed Omer
 - [Ronit] (https://github.com/Shah-Ronit)
 - [malem777](https://github.com/malem777)
 - [royya6](https://github.com/royya6)
+- [pranto210102](https://github.com/pranto210102)
 - [Surya](https://github.com/SuryaElango-1208)
 - [onizukaTP] (https://github.com/onizukaTP)
+- [Albert Yu] (https://github.com/Gregtheslime)
 - [Hemant Kumar](https://github.com/hemant2186)
 -[Tania](https://github.com/taniashahida-dev)
 -[Tomas Granja](https://github.com/tomas-neo)
@@ -2176,6 +2196,7 @@ Amna Naeem
 - [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [Nicholas C](https://github.com/KrustKrabPizza42/)
 - [Nicholas Sobchak](https://github.com/NicholasSobchak)
+- [Fucai Xie](https://github.com/fufu1209)
 - [n-noraf](https://github.com/n-noraf)
 - [Nicolas Lefterache](https://github.com/Nick-codes-47)
 - [Nicolas Antonio](https://github.com/nicolasantonioa)
@@ -3452,6 +3473,7 @@ Amna Naeem
   Himanshu Singh wants Pull Shark
   Siddesh Raoandure
   Nethmi Thakshila
+  Ericahuang
   Nice to try out first pull
   Nethmi(https://github.com/thakshilaaa)
 - [Siddharth](https://github.com/siddharth03015)
@@ -4310,6 +4332,7 @@ jadav-sai-rugvedh_IMT2024051
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - [Tarikur Rahman](https://github.com/tarikurrahman)
 - [Obeida Arafa](https://github.com/o-arafa)
+the world is a stand
 - [Mythri](https://github.com/mythreddy03-svg)
 - [gmroberf](https://github.com/gmroberf)
 - [Lucas Correa Tavares](https://github.com/lucascorreatavares725-source)
@@ -4319,3 +4342,24 @@ jadav-sai-rugvedh_IMT2024051
 - [Aniket Shinde](https://github.com/ananikets18)
 - [Hari](https://github.com/Hari-00x)
 - WZY(https://github.com/AAApfwang)
+- [Ankit Pal](https://github.com/icyfire8)
+- [Antony Alves](https://github.com/antonyalvesofc1-arch)
+- [Manoj Dewda](https://github.com/Manoj-Dewda)
+- [Duxl-Ai](https://github.com/Duxl-Ai)
+- [Konstantin](https://github.com/Konstantinzjej)
+- [İremsu](https://github.com/iremsu-umit35)
+- [Nikita](https://github.com/nikitameena0408)
+- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast, repeat..."*
+- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast."*
+- [Japheth Jorquia](https://https://github.com/Japhethnothere)
+
+- [sebsibosi-cyber](https://github.com/sebsibosi-cyber)
+- [PrathamSalotra](https://github.com/PrathamSalotra)
+- [Jasiel Rodrigues](https://github.com/jasieldubox-tech)
+- [Nikhil GUpta](https://github.com/nik-G-54)
+- [Arturo](https://github.com/arturojoao)
+- [megatren-park](https://github.com/megatren-park)
+- [ninacreator](https://github.com/ninacreator)
+- [Saravana Priya] (https://github.com/Saro290603)
+- [Lucas Vidal] (https://github.com/lucasvidalsilva)
+- [Mudassir Ahmad](https://github.com/Mudassir-ahmad551080)
