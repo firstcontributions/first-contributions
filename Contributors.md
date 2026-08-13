@@ -1,5 +1,5 @@
 # Contributors
-
+- [Jacky](https://github.com/jackyzpanda)
 - [Pranjal Mahajan](https://github.com/Pranjal-mahajan113) — [LinkedIn](https://www.linkedin.com/in/pranjal-mahajan-21a7ba361)
 - [Anagha Shetty](https://github.com/anaghashetty23)
 - [Aqsa Jamali](https://github.com/AqsaAliRazaJamali)
@@ -24,6 +24,8 @@ Hiroyuki19830823
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
+- [Saransh Dhiman](https://github.com/Saransh-27)
+- [Azka Zubish](https://github.com/azkaZubish)
 - Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
@@ -49,6 +51,7 @@ Varshith IMT2024044
 - Shive S Bhat BT2024067
 - [Naman_Jindal_BT2024203](https://github.com/LEGEND-Droit-7)
 - Yashaswini
+- Mohammed Ayaan
 - Krititka
 -Harsha BT2024148
 - mohammedfarhanBT2024140
@@ -94,12 +97,14 @@ Varshith IMT2024044
 - [Umesh-Dulara ](https://github.com/Umesh-Dulara)
 - First contribution
 - Second Contribution
+- Ankit Johri (https://github.com/neoNEMES1S)
 - [Divyanshu_Ghosh_IMT2024068](https://github.com/77-Div-77)
 - Joseph Francis
 - Ankita Gupta
 - HelaElbez
 - first contribution
 - Sherwin Mazarello
+- [Ravi Teja S](https://github.com/Ravi-Teja-S)
 - Kartik
 - Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
@@ -214,6 +219,7 @@ Ridwan Umar- [Nico]
 - [ODbeke](https://github.com/ODbeke)
 - [Harshil Srivastav] (https://github.com/rasmalai25)
 - [Haikal Taufiq](https://github.com/haikaltaufiq)
+- [Keerthana Krishna](https://github.com/cheralakeerthana07)
 - [Darshan Bothra](https://github.com/DarshanBothra)
 - [Jyatin Singh](https://github.com/Jyatin)
 - [rickylinn](https://github.com/rickylinn)
@@ -2019,6 +2025,7 @@ Amna Naeem
 - [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
 - [Celestial_1]
+- [Leonardo Herédia](https://github.com/LeoHeredia2004)
 - [Juan Escobar]
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
@@ -4232,6 +4239,7 @@ abhinav abhinav
 - [krish4iv](https://github.com/krish4iv)
 - [Anshul Kumar](https://github.com/anshullakra007)
 - [Mayank Dhanagar](https://github.com/mayankdhanagar)
+- [Aswin Sreeraj](https://github.com/aswinsreeraj)
 - [Roger](https://github.com/rdemarco13-byte)
 - [Asif Ilyas](https://github.com/Kakaman-Kakaman)
 - [Prateek Pandey](https://github.com/prateek942)
@@ -4367,5 +4375,8 @@ the world is a stand
 - [Mudassir Ahmad](https://github.com/Mudassir-ahmad551080)
 - [BTK9938](https://github.com/BTK9938)
 - [btk linkedin](linkedin.com/in/bommisetty-tandava-krishna-57923531a)
+
 [AMABUA REAGAN](https://github.com/regs123guy)
 
+
+- [he5stone0311](https://github.com/he5stone0311)
