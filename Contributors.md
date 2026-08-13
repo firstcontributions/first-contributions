@@ -25,6 +25,7 @@
 - [Saurabh Chaudhary](https://github.com/saurabhcr007)
 - [Jaya Nallapati] (https://github.com/jaya103)
 - [Bas]
+- [Sushmitha M G] (https://github.com/sushmitha-m-g)
 - [V.Pranavi](https://github.com/pranavivaranasi07-dev)
 - [antoni306] (https://github.com/antoni306)
 - [adwait zanjurne](https://github.com/adwaitzanjurnepz-netizen)
