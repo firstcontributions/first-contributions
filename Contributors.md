@@ -51,6 +51,7 @@ Varshith IMT2024044
 - Shive S Bhat BT2024067
 - [Naman_Jindal_BT2024203](https://github.com/LEGEND-Droit-7)
 - Yashaswini
+- Mohammed Ayaan
 - Krititka
 -Harsha BT2024148
 - mohammedfarhanBT2024140
