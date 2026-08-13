@@ -2130,6 +2130,72 @@ def test_korean_farm_stats() -> None:
     assert "msy" not in kfs.quantiles(d)
 
 
+def test_farm_panel() -> None:
+    """같은 농장의 연도별 변화 — 원자료 없이 JSON + 합성 프레임으로 검증.
+
+    핵심 주장이 "하락은 이유두수가 아니라 NPD·분만율에서 온다" 이므로,
+    그 비대칭이 실제로 JSON 에 남아 있는지까지 확인한다.
+    """
+    import json
+    import pandas as pd
+    import farm_panel as fp
+
+    j = os.path.join(ROOT, "data", "farm_panel.json")
+    assert os.path.exists(j), "패널 집계 JSON 이 커밋돼 있어야 한다"
+    r = json.load(open(j, encoding="utf-8"))
+
+    # 농장 식별자가 새어 나가면 안 된다 — 원자료는 커밋 금지 대상이다
+    blob = json.dumps(r, ensure_ascii=False)
+    assert "PIGGO" not in blob and "farm\":" not in blob, "식별자 누출"
+
+    m = r["movement"]
+    assert m["n_pairs"] >= 100 and m["n_farms"] >= 50, m
+    assert m["p10"] < m["p25"] < m["median"] < m["p75"] < m["p90"], m
+    # 오른 비율과 1두 이상 오른 비율은 순서가 정해져 있다
+    assert m["share_up_1"] <= m["share_up"] <= 1.0
+
+    # 평균회귀는 **있다**. 없다고 나오면 층화 경고가 근거를 잃는다.
+    mr = r["mean_reversion"]
+    assert mr["rho_prev_vs_delta"] < -0.1, mr
+    assert mr["low_delta_median"] > mr["high_delta_median"], mr
+
+    # 대조군: 모돈두수 변화는 ΔPSY 와 상관이 없어야 한다. 상관이 있으면
+    # 규모 변동이 섞인 것이고 나머지 해석이 다 흔들린다.
+    ctl = next(x for x in r["drivers"] if x["metric"] == "sows")
+    assert abs(ctl["rho"]) < 0.15, f"규모 변동이 섞였다: {ctl}"
+    npd = next(x for x in r["drivers"] if x["metric"] == "npd")
+    assert npd["rho"] < -0.5 and npd["in_identity"], npd
+
+    # **핵심 비대칭.** 전년 수준을 맞춘 층에서도 남아야 한다.
+    up, dn = (next(g for g in r["paths_matched"]["groups"] if g["label"] == x)
+              for x in ("상승", "하락"))
+    assert dn["d_npd"] > abs(up["d_npd"]), \
+        f"하락 NPD 폭이 상승보다 크지 않다: {dn['d_npd']} vs {up['d_npd']}"
+    assert abs(dn["d_weaned"]) < 0.3 < up["d_weaned"], \
+        f"하락군 이유두수가 움직였다: {dn['d_weaned']}"
+
+    # 방어 금액 = 떨어졌을 때 손실 × 빈도
+    d = r["downside"]
+    # freq 는 소수 3자리로 반올림돼 저장되므로 그 폭만큼은 어긋난다
+    tol = d["loss_if_falls_won"] * 5e-4 + 1
+    assert abs(d["expected_won_year"] - d["loss_if_falls_won"] * d["freq"]) < tol
+    assert d["size_psy"] < 0 and 0 < d["freq"] < 1
+
+    # -- 함수 자체: 연도가 붙은 쌍만 써야 한다 --------------------------
+    # 2020→2022 를 한 칸으로 세면 2년치 변화가 1년치인 척하게 된다.
+    cols = {c: 1.0 for c in fp.TRACK}
+    syn = pd.DataFrame([
+        {**cols, "farm": "A", "year": 2020, "psy": 20.0},
+        {**cols, "farm": "A", "year": 2021, "psy": 22.0},
+        {**cols, "farm": "B", "year": 2020, "psy": 20.0},
+        {**cols, "farm": "B", "year": 2022, "psy": 30.0},   # 구멍 — 빠져야
+        {**cols, "farm": "C", "year": 2021, "psy": 25.0},   # 1년치 — 빠져야
+    ])
+    p = fp.pairs(syn)
+    assert list(p["farm"]) == ["A"], f"연속 아닌 쌍이 섞였다: {list(p['farm'])}"
+    assert abs(p.iloc[0]["d_psy"] - 2.0) < 1e-9
+
+
 def test_farm_gap() -> None:
     """분포에서의 **거리** 진단 — 순위가 아니라 크기를 말해야 한다."""
     import farm_gap as fg
@@ -2641,7 +2707,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

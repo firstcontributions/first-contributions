@@ -1,0 +1,127 @@
+{
+ "movement": {
+  "n_pairs": 239,
+  "n_farms": 122,
+  "p10": -2.82,
+  "p25": -1.5,
+  "median": -0.1,
+  "p75": 1.2,
+  "p90": 2.92,
+  "share_up": 0.452,
+  "share_up_1": 0.28,
+  "share_down_1": 0.331,
+  "pct_rank_of_plus1": 0.72
+ },
+ "mean_reversion": {
+  "rho_prev_vs_delta": -0.296,
+  "q25_cut": 22.3,
+  "q75_cut": 26.0,
+  "low_n": 66,
+  "low_delta_median": 0.7,
+  "high_n": 62,
+  "high_delta_median": -1.0
+ },
+ "drivers": [
+  {
+   "metric": "npd",
+   "name_ko": "비생산일수",
+   "n": 239,
+   "rho": -0.751,
+   "in_identity": true
+  },
+  {
+   "metric": "weaned",
+   "name_ko": "이유두수",
+   "n": 239,
+   "rho": 0.707,
+   "in_identity": true
+  },
+  {
+   "metric": "turnover",
+   "name_ko": "모돈회전율",
+   "n": 239,
+   "rho": 0.69,
+   "in_identity": true
+  },
+  {
+   "metric": "farrowing_rate",
+   "name_ko": "분만율",
+   "n": 239,
+   "rho": 0.564,
+   "in_identity": false
+  },
+  {
+   "metric": "wean_to_estrus",
+   "name_ko": "재귀발정일",
+   "n": 239,
+   "rho": -0.287,
+   "in_identity": false
+  },
+  {
+   "metric": "sows",
+   "name_ko": "모돈두수(대조)",
+   "n": 238,
+   "rho": -0.022,
+   "in_identity": false
+  }
+ ],
+ "paths_matched": {
+  "basis": "전년 PSY 22.3~26.0 중간층만",
+  "n": 111,
+  "groups": [
+   {
+    "label": "상승",
+    "n": 29,
+    "d_psy": 1.8,
+    "d_npd": -3.2,
+    "d_weaned": 1.0,
+    "d_farrowing_rate": 2.6
+   },
+   {
+    "label": "하락",
+    "n": 35,
+    "d_psy": -2.2,
+    "d_npd": 11.6,
+    "d_weaned": 0.0,
+    "d_farrowing_rate": -3.8
+   }
+  ]
+ },
+ "paths_all": {
+  "basis": "전체",
+  "n": 239,
+  "groups": [
+   {
+    "label": "상승",
+    "n": 67,
+    "d_psy": 2.0,
+    "d_npd": -5.8,
+    "d_weaned": 1.0,
+    "d_farrowing_rate": 3.8
+   },
+   {
+    "label": "하락",
+    "n": 79,
+    "d_psy": -2.4,
+    "d_npd": 11.8,
+    "d_weaned": 0.0,
+    "d_farrowing_rate": -4.3
+   }
+  ]
+ },
+ "downside": {
+  "freq": 0.331,
+  "size_psy": -2.4,
+  "loss_if_falls_won": 90031500,
+  "expected_won_year": 29759366,
+  "n_sows": 300,
+  "base_psy": 24.1
+ },
+ "attrition": {
+  "n_left": 98,
+  "n_stayed": 104,
+  "psy_left": 23.9,
+  "psy_stayed": 24.4
+ },
+ "basis": "국내 202농장 2020~2023 패널 · 연속 2년 쌍만"
+}

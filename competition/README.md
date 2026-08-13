@@ -255,9 +255,11 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 | **발정 예상일(D-day)** | 추세 외삽으로 리드타임 +1.8일 (합성 데이터 검증) | `estrus_early_warning.py` |
 | **돈군흐름 설계·병목** | 분만틀 역산 → 필요 돈방 → 병목 지목 → 배치 시스템 what-if | `pigflow/` |
 | **개선을 원/년으로** | 모든 지렛대를 금액 환산해 크기순 정렬 | `farm_economics.py` |
+| **하락 방어를 값으로** | 농장-연의 33%가 1두 이상 떨어진다(중앙 −2.40두) → 기댓값 연 2,976만원. PSY +1두와 같은 급 | `farm_panel.py` · 202농장 패널 |
+| **패널로 교란 제거** | 같은 농장 전년 대비 변화. 하락군은 Δ이유두수 +0.00두인데 ΔNPD +11.6일 — 하락은 사양이 아니라 발정·교배 관리 | `farm_panel.py` |
 | **무센서 개체 식별** | 기존 CCTV 만. 영상 Re-ID 로 트랙 단편화 −46%, GT ID 일관성 0.77 | `reid.py` |
 | **평가 투명성** | 개체·뷰 분리 검증, 보정곡선(Brier 0.174), 자세 LOVO 0.684 ± 0.028 | `build_eval_report.py` |
-| **재현성** | 테스트 59개 · 자체완결 대시보드 19뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
+| **재현성** | 테스트 60개 · 자체완결 대시보드 19뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
 
 ### 다루지 않는 영역 — 여기서 기대하면 안 되는 것
 
@@ -316,7 +318,7 @@ competition/
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
   docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md · PRESENTATION.md
-  src/   (79개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
+  src/   (80개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
     ── 인식   posture_crossview.py  view_align.py  motion_tracker.py  iou_tracker.py
     ── 번식   breeding_timing.py  repro_calendar.py  pregnancy_check.py
               herd_board.py  breeding_ledger.py  work_log.py
@@ -338,12 +340,20 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 59/59 통과 확인
+python competition/tests/smoke_test.py        # 60/60 통과 확인
 
 # ★ 전체 시뮬레이션 — 모돈 두수 하나로 설계·흐름·성적진단·손익까지
 python competition/src/run_farm.py --sows 300
 python competition/src/run_farm.py --sows 300 --npd 62 --weaned 10   # 농장 실적 반영
 python competition/src/run_farm.py --data          # 필요한 자료 목록
+
+# 성적 격차 진단 — 순위가 아니라 거리 · 프로그램 자기 가정도 잰다
+python competition/src/farm_gap.py --npd 62 --sows 300
+python competition/src/farm_gap.py --program --sows 300
+
+# 같은 농장의 연도별 변화 — 개선폭의 현실성 · 하락의 정체 · 방어의 값
+#   (원자료 xlsx 는 농장 식별자 때문에 미커밋. 집계 JSON 은 커밋돼 있다)
+python competition/src/farm_panel.py --sows 300
 
 # 가상 농장 데이터 — 실측 분포를 재현하고, 재현했는지 검사까지
 python competition/src/synth_farm.py --sows 600 --years 3
