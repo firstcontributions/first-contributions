@@ -4355,3 +4355,4 @@ the world is a stand
 - [megatren-park](https://github.com/megatren-park)
 - [ninacreator](https://github.com/ninacreator)
 - [Saravana Priya] (https://github.com/Saro290603)
+- [Lucas Vidal] (https://github.com/lucasvidalsilva)
