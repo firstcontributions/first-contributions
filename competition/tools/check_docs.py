@@ -68,6 +68,14 @@ def actual_metrics() -> dict:
         r = json.load(open(p, encoding="utf-8"))
         m["poly_gain_posture"] = round(r["posture"]["mf1_gain"], 3)
         m["poly_bbox_mf1"] = round(r["posture"]["bbox"]["mf1_mean"], 3)
+    # 이유후 육성률 — 프로젝트의 간판 수치("격차는 국가가 아니라 농장 사이").
+    # 한 번 분위수끼리 나눠 91.9% 로 잘못 낸 적이 있어서 감시 대상에 넣는다.
+    p = os.path.join(COMP, "data", "korean_farm_stats.json")
+    if os.path.exists(p):
+        s = json.load(open(p, encoding="utf-8")).get("post_wean_survival") or {}
+        for k in ("p25", "median", "p90"):
+            if k in s:
+                m["survival_" + k] = s[k]
     return m
 
 
@@ -128,6 +136,45 @@ def check_metrics(report: list) -> None:
                 report.append(
                     f"{os.path.basename(path)}  {key}: 문서 "
                     f"{pat.replace(chr(92), '')} → 실제 {want}")
+
+
+def check_survival(report: list) -> None:
+    """육성률을 인용한 문서는 **지금 계산되는 값**을 써야 한다.
+
+    check_metrics 는 "옛 값이 남아 있나" 를 보는데, 이 수치는 방법 자체를
+    고쳤으므로(분위수끼리 나누기 → 농장별) 옛 값 목록으로는 못 잡는다.
+    현재 값이 실려 있는지를 직접 본다.
+    """
+    m = actual_metrics()
+    if "survival_p90" not in m:
+        return
+    pct = {k: f"{m['survival_' + k]:.1%}" for k in ("p25", "median", "p90")}
+    stale = ("92.1%", "91.9%", "78.0%", "68.0%")   # 분위수끼리 나눠 냈던 값
+    for path in DOCS:
+        if not os.path.exists(path):
+            continue
+        t = open(path, encoding="utf-8").read()
+        if "육성률" not in t:
+            continue
+        name = os.path.basename(path)
+        # 옛 값을 **주장으로** 쓰는 줄만 잡는다. "처음엔 92.1% 로 냈는데
+        # 틀렸다" 같이 오류를 설명하는 줄은 남겨 둬야 한다 — 스스로 잡은
+        # 오류를 싣는 게 이 프로젝트의 방식이라 그 문장을 지우면 안 된다.
+        # 슬라이드 12(스스로 잡은 오류) 행처럼 고친 내역을 적은 줄은 통과시킨다.
+        EXCUSE = ("틀렸", "처음엔", "잘못", "옛 ", "나왔는데", "폐기", "재계산")
+        for ln, line in enumerate(t.splitlines(), 1):
+            if any(x in line for x in EXCUSE):
+                continue
+            for s in stale:
+                if s in line:
+                    report.append(
+                        f"{name}:{ln}  육성률에 옛 계산법 값 {s} 이 주장으로 "
+                        f"남아 있다 (분위수끼리 나눈 값 — 농장별로 다시 계산할 것)")
+        # 분포를 **인용하는** 문서에만 현재 값을 요구한다. "육성률 86% 가정"
+        # 처럼 손익 가정으로만 쓰는 문서까지 잡으면 헛경보가 난다.
+        if "덴마크" in t and pct["p90"] not in t:
+            report.append(
+                f"{name}  육성률 상위10% 재계산값 {pct['p90']} 가 문서에 없다")
 
 
 def check_links(report: list) -> None:
@@ -265,6 +312,7 @@ def main() -> int:
     check_counts(report)
     check_metrics(report)
     check_gap_figures(report)
+    check_survival(report)
     check_links(report)
     check_secrets(report)
 

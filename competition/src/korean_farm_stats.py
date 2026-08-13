@@ -168,6 +168,52 @@ def percentile_of(d: pd.DataFrame, metric: str, value: float) -> float:
     return float((s < value).mean())
 
 
+# MSY/PSY 가 이 범위 밖이면 보고 오류로 본다. 100% 초과는 이유보다 출하가
+# 많다는 뜻이라 물리적으로 불가능하고(실제로 최대 207.8% 가 있었다), 60% 미만은
+# 연중 일부만 집계된 것으로 보인다. 이상치 농장의 규모 중앙이 422두로 정상군
+# 431두와 같아서 **소규모 표본 문제가 아니라 보고 품질 문제**다.
+SURVIVAL_BOUNDS = (0.60, 1.00)
+
+
+def post_wean_survival(d: pd.DataFrame) -> dict:
+    """이유후 육성률 = MSY/PSY 를 **농장별로** 계산한 분포.
+
+    처음엔 이 값을 `MSY 분위수 ÷ PSY 분위수` 로 냈다(발표 슬라이드 1).
+    두 가지가 틀렸다:
+
+      1. **모집단이 다르다.** PSY 는 448행, MSY 는 127행에서 나온다.
+         서로 다른 집단의 분위수를 나눈 값이다.
+      2. **그런 농장은 없다.** PSY 상위 10% 인 농장이 MSY 상위 10% 인 농장이
+         아니다. farm_gap 의 '중앙 농장' 이 합성값이라고 잡아 고친 것과
+         같은 오류를 여기서 또 냈다.
+
+    농장별로 다시 계산하면 상위 10% 가 91.9% → 95.5% 로 올라가는데, 그건
+    207.8% 같은 불가능한 값이 섞여 있어서다. 범위를 걸러 95농장으로 재면
+    93.9% — 덴마크 문헌 93.3% 와 나란하다. **결론(격차는 국가가 아니라 농장
+    사이에 있다)은 세 방법 모두에서 같고, 셋 중 이게 가장 깨끗하다.**
+
+    raw_* 는 거르기 전 값이다. 얼마나 걸러냈는지 보이지 않으면 이 필터가
+    유리한 쪽만 남긴 게 아닌지 확인할 수 없다.
+    """
+    both = d.dropna(subset=["psy", "msy"])
+    if len(both) < 20:
+        return {}
+    raw = both["msy"] / both["psy"]
+    lo, hi = SURVIVAL_BOUNDS
+    ok = raw[(raw >= lo) & (raw <= hi)]
+    q = lambda s, p: round(float(s.quantile(p)), 3)      # noqa: E731
+    return {
+        "n": int(len(ok)), "n_raw": int(len(raw)),
+        "n_dropped": int(len(raw) - len(ok)),
+        "bounds": [lo, hi],
+        "p10": q(ok, .10), "p25": q(ok, .25), "median": q(ok, .50),
+        "p75": q(ok, .75), "p90": q(ok, .90),
+        "raw_median": q(raw, .50), "raw_p90": q(raw, .90),
+        "raw_max": round(float(raw.max()), 3),
+        "denmark_ref": 0.933,
+    }
+
+
 def run(path: str | None = None, verbose: bool = True) -> dict:
     d = load(path)
     res = {
@@ -179,14 +225,7 @@ def run(path: str | None = None, verbose: bool = True) -> dict:
         "by_scale": by_scale(d),
         "defaults_check": compare_defaults(d),
     }
-    both = d.dropna(subset=["psy", "msy"])
-    if len(both) >= 20:
-        res["post_wean_survival"] = {
-            "n": int(len(both)),
-            "median": round(float((both["msy"] / both["psy"]).median()), 3),
-            "p25": round(float((both["msy"] / both["psy"]).quantile(.25)), 3),
-            "p75": round(float((both["msy"] / both["psy"]).quantile(.75)), 3),
-        }
+    res["post_wean_survival"] = post_wean_survival(d)
     if verbose:
         _print(res)
     return res
@@ -220,10 +259,18 @@ def _print(r: dict) -> None:
         print(f"  {x['name_ko']:<14}{x['config']:<22}"
               f"{x['ours']:>8} vs {x['median']:>7}{mark}")
 
-    if "post_wean_survival" in r:
+    if r.get("post_wean_survival"):
         p = r["post_wean_survival"]
-        print(f"\n  이유후 육성률(MSY/PSY, {p['n']}농장): 중앙 {p['median']:.1%} "
-              f"· 25% {p['p25']:.1%} · 75% {p['p75']:.1%}")
+        print(f"\n  이유후 육성률(MSY/PSY 를 **농장별로**, {p['n']}농장)")
+        print(f"    하위10% {p['p10']:.1%} · 25% {p['p25']:.1%} · "
+              f"중앙 {p['median']:.1%} · 75% {p['p75']:.1%} · "
+              f"상위10% {p['p90']:.1%}")
+        print(f"    → 상위 10% {p['p90']:.1%} 가 덴마크 문헌 "
+              f"{p['denmark_ref']:.1%} 와 나란하다."
+              f" 격차는 국가가 아니라 농장 사이에 있다.")
+        print(f"    ※ {p['n_raw']}농장 중 {p['n_dropped']}개를 뺐다"
+              f"(육성률 {p['bounds'][0]:.0%}~{p['bounds'][1]:.0%} 밖 = 보고 오류."
+              f" 거르기 전 최대 {p['raw_max']:.1%}, 상위10% {p['raw_p90']:.1%}).")
     print("\n  규모별 PSY 중앙값")
     for s in r["by_scale"]:
         print(f"    {s['scale']:<12} n={s['n']:>3}  PSY {s['psy_median']:>5} · "
