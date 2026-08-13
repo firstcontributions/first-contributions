@@ -2378,9 +2378,17 @@ def test_run_farm_end_to_end() -> None:
     assert abs(r["psy_breeding_only"] - r["gap"]["psy_median_farm"]) < 1.0, \
         (r["psy_breeding_only"], r["gap"]["psy_median_farm"])
 
-    # 출처 표시 — 합성을 실측처럼 보이게 두면 안 된다
-    for word in ("실측", "가정", "합성"):
+    # 출처 표시 — 유도값을 실측처럼 보이게 두면 안 된다.
+    # '합성' 이라고 적어 놨었는데 ③단계는 난수가 아니라 주기 비율에서
+    # 유도한 결정론적 값이다. 없는 난수를 있다고 적는 것도 틀린 표시다.
+    for word in ("실측", "가정", "유도"):
         assert word in out, f"출처 구분에 '{word}' 가 없다"
+
+    # 실제로 난수가 없는지 — 같은 입력이면 두 번 돌려 같아야 한다
+    buf3 = io.StringIO()
+    with contextlib.redirect_stdout(buf3):
+        rfm.run(300, days=250)
+    assert buf3.getvalue() == out, "같은 입력인데 출력이 다르다 — 난수가 섞였다"
 
     # 성적을 나쁘게 주면 격차가 음수, 회수량이 양수
     buf2 = io.StringIO()
