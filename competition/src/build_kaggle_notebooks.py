@@ -58,10 +58,24 @@ def show_input_tree():
         return
     print("붙어 있는 입력:", items)
     print("찾는 파일이 없다 — 아래 구조에서 경로를 확인할 것:")
+    # 캐글은 notebooks/<user>/ · datasets/<user>/<slug>/ 로 감쌀 때가 있어
+    # 두 단계로는 실제 데이터가 안 보인다. 네 단계까지 판다.
     for dp, ds, fs in os.walk(base):
         rel = os.path.relpath(dp, base)
-        if rel.count(os.sep) < 2:
-            print("  ", rel, "→", (fs[:5] or ds[:5]))
+        depth = 0 if rel == "." else rel.count(os.sep) + 1
+        if depth > 4:
+            continue
+        mark = "  " * depth
+        if fs:
+            print(f"  {mark}{rel}/  →  파일 {len(fs)}개: {sorted(fs)[:4]}")
+        elif ds:
+            print(f"  {mark}{rel}/  →  {sorted(ds)[:6]}")
+        else:
+            print(f"  {mark}{rel}/  →  (비어 있음)")
+    print()
+    print("  ※ 'notebooks/<이름>/' 이 비어 있으면 데이터셋이 아니라")
+    print("    **노트북을 붙인 것**이다. Add Input 의 'Datasets' 탭에서")
+    print("    다시 붙일 것.")
 '''
 
 # 규약 — 두 노트북이 공유한다. ml_core 와 같은 내용이라 갈라지면 안 된다.
@@ -198,7 +212,7 @@ def posture_nb() -> dict:
 import os, ast, time, json
 import numpy as np, pandas as pd, torch
 IN = "{POSTURE_INPUT}"
-""" + INPUT_TREE + """
+""" + INPUT_TREE + f"""
 # 경로를 고정하면 캐글 중첩에 걸린다. train1.csv 가 있는 폴더를 찾아 쓴다.
 if not os.path.exists(os.path.join(IN, "train1.csv")):
     cand = [dp for dp, _s, fs in os.walk("/kaggle/input") if "train1.csv" in fs]
@@ -364,24 +378,43 @@ vs = full["view"].value_counts()
 views = [v for v in sorted(vs.index) if vs[v] >= MIN_FOLD]
 print("폴드:", views)
 
-rows5, rows3, lrs, per_fold = [], [], [], []
+rows5, rows3, lrs, lrs_rest, per_fold = [], [], [], [], []
+ALL_TRUE, ALL_PRED, ALL_VIEW = [], [], []      # 혼동행렬용 — 전 폴드 누적
 for v in views:
     m = (full["view"] == v).to_numpy()
     t = time.time()
     p5 = train_fold(imgs[~m], y5[~m], imgs[m], len(classes))
     yv = y5[m]
+    ALL_TRUE.append(yv); ALL_PRED.append(p5)
+    ALL_VIEW.append(np.full(len(yv), v))
     s5 = score(yv, p5); rows5.append(s5)
     p3 = np.array([TO3[classes[i]] for i in p5])
     s3 = score(full.loc[m, "cls3"].to_numpy(), p3); rows3.append(s3)
+
     sel = np.isin(yv, [LEFT, RIGHT])
     slr = score(yv[sel], p5[sel]) if sel.sum() >= 30 else None
     if slr: lrs.append(slr)
+    # **위 좌우 지표만으로는 해석이 안 된다.** 정답이 좌/우인데 예측이
+    # 5클래스 아무거나일 수 있어서, 낮은 값이 (a) 좌↔우 반전인지
+    # (b) 복와로 몰린 건지 구분이 안 된다. 결론이 정반대인데.
+    # → **예측도 좌/우인 경우로 한정**해서 다시 잰다. 이건 순수하게
+    #   "좌우를 가리는가" 만 본다(동전 = 0.5).
+    both = sel & np.isin(p5, [LEFT, RIGHT])
+    srest = score(yv[both], p5[both]) if both.sum() >= 30 else None
+    if srest: lrs_rest.append(srest)
+
     per_fold.append({{"view": v, "n": int(m.sum()), "cls5": s5["acc"],
                      "cls3": s3["acc"],
-                     "lr": (slr["acc"] if slr else None)}})
+                     "lr": (slr["acc"] if slr else None),
+                     "lr_restricted": (srest["acc"] if srest else None),
+                     "lr_n": int(sel.sum()), "lr_pred_lr_n": int(both.sum())}})
     print(f"  {{v:<16}} n={{int(m.sum()):>5}}  5cls {{s5['acc']:.3f}}  "
           f"3cls {{s3['acc']:.3f}}  좌우 {{(slr['acc'] if slr else float('nan')):.3f}}"
+          f"  좌우한정 {{(srest['acc'] if srest else float('nan')):.3f}}"
           f"  ({{time.time()-t:.0f}}s)")
+
+ALL_TRUE = np.concatenate(ALL_TRUE); ALL_PRED = np.concatenate(ALL_PRED)
+ALL_VIEW = np.concatenate(ALL_VIEW)
 '''),
         code('''
 # ── 기준선 먼저, 그다음 결과 ─────────────────────────────────────────────
@@ -407,6 +440,42 @@ print(f"  CNN 5클래스 정확도        {m5['acc']:.3f}  "
       f"({'✅ 상한 돌파' if m5['acc'] > CEILING else '❌ 상한 이하'})")
 print(f"  좌/우 횡와 이진 정확도    {mlr['acc']:.3f}  (동전 = 0.500, 표본 {mlr['n']:,})")
 print("  폴드별 좌/우:", [(p["view"], p["lr"]) for p in per_fold])
+
+# ── 좌/우가 왜 낮은가 — 혼동행렬로 가른다 ────────────────────────────────
+# 위 '좌/우' 는 정답이 좌/우인 행만 골랐을 뿐 예측은 5클래스 전부다.
+# 낮게 나오는 이유가 둘인데 결론이 정반대라, 여기서 갈라야 한다.
+from sklearn.metrics import confusion_matrix
+cm = confusion_matrix(ALL_TRUE, ALL_PRED, labels=range(len(classes)))
+print("\\n  ── 혼동행렬 (행=정답, 열=예측) ──")
+print("  " + " " * 21 + "".join(f"{c[:9]:>11}" for c in classes))
+for i, c in enumerate(classes):
+    print(f"  {c:<21}" + "".join(f"{cm[i][j]:>11,}" for j in range(len(classes))))
+
+lr_i = [LEFT, RIGHT]
+tot_lr = cm[lr_i].sum()
+to_lr = cm[np.ix_(lr_i, lr_i)].sum()
+correct = cm[LEFT][LEFT] + cm[RIGHT][RIGHT]
+swapped = cm[LEFT][RIGHT] + cm[RIGHT][LEFT]
+mrest = weighted(lrs_rest)
+print(f"\\n  정답이 좌/우인 {tot_lr:,}건 중")
+print(f"    예측도 좌/우  {to_lr:,} ({to_lr/tot_lr:.1%}) "
+      f"— 그중 맞음 {correct:,} · 뒤집힘 {swapped:,}")
+print(f"    다른 자세로 샘  {tot_lr-to_lr:,} ({1-to_lr/tot_lr:.1%})")
+print(f"\\n  **좌/우 한정 정확도 {mrest['acc']:.3f}** (동전 = 0.500, "
+      f"표본 {mrest['n']:,})")
+if mrest["acc"] < 0.35:
+    print("   → **체계적 반전.** 방향은 가리는데 부호가 뒤집힌다. 좌/우는")
+    print("     '돼지 기준' 라벨이라, 카메라가 반대편에서 찍으면 이미지상")
+    print("     방향이 뒤집힌다. 카메라 자세를 모르면 부호를 정할 수 없다 —")
+    print("     모델 문제가 아니라 **라벨 정의가 카메라 상대적**인 것이다.")
+    print(f"     (뒤집으면 {1-mrest['acc']:.3f} — 방향 정보는 픽셀에 있다)")
+elif mrest["acc"] < 0.60:
+    print("   → 좌/우를 못 가린다. 픽셀에도 방향 정보가 충분치 않다.")
+else:
+    print("   → 좌/우를 가린다. bbox 로는 원리상 불가능했던 부분이다.")
+if to_lr / tot_lr < 0.5:
+    print(f"   ※ 다만 절반 이상({1-to_lr/tot_lr:.0%})이 아예 다른 자세로 샜다 —")
+    print("     위 한정 정확도는 '좌/우로 찍은 경우' 에 대한 값이다.")
 print("""
   읽는 법:
    · 0.5 근처  → 크롭 픽셀에도 방향 정보가 없거나 이 해상도로는 못 잡는다
@@ -417,7 +486,9 @@ print("""
 """)
 json.dump({"cls5": m5, "cls3": m3, "left_right": mlr, "baseline_cls5": b5,
            "baseline_cls3": b3, "ceiling": CEILING, "per_fold": per_fold,
-           "pretrained": PRETRAINED, "device": DEV, "crop_px": CROP},
+           "pretrained": PRETRAINED, "device": DEV, "crop_px": CROP,
+           "left_right_restricted": mrest,
+           "confusion": cm.tolist(), "classes": classes},
           open("/kaggle/working/posture_cnn.json", "w"),
           ensure_ascii=False, indent=1)
 print("저장: /kaggle/working/posture_cnn.json")
@@ -458,7 +529,7 @@ def behavior_nb() -> dict:
 import os, json, time, glob
 import numpy as np, pandas as pd, torch
 IN = "{EDIN_INPUT}"
-""" + INPUT_TREE + """
+""" + INPUT_TREE + f"""
 # P100(sm_60)은 최신 PyTorch 빌드가 못 쓴다. 미리 잡아 CPU 로 넘긴다.
 def pick_device():
     if not torch.cuda.is_available():

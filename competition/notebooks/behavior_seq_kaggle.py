@@ -56,21 +56,35 @@ def show_input_tree():
         return
     print("붙어 있는 입력:", items)
     print("찾는 파일이 없다 — 아래 구조에서 경로를 확인할 것:")
+    # 캐글은 notebooks/<user>/ · datasets/<user>/<slug>/ 로 감쌀 때가 있어
+    # 두 단계로는 실제 데이터가 안 보인다. 네 단계까지 판다.
     for dp, ds, fs in os.walk(base):
         rel = os.path.relpath(dp, base)
-        if rel.count(os.sep) < 2:
-            print("  ", rel, "→", (fs[:5] or ds[:5]))
+        depth = 0 if rel == "." else rel.count(os.sep) + 1
+        if depth > 4:
+            continue
+        mark = "  " * depth
+        if fs:
+            print(f"  {mark}{rel}/  →  파일 {len(fs)}개: {sorted(fs)[:4]}")
+        elif ds:
+            print(f"  {mark}{rel}/  →  {sorted(ds)[:6]}")
+        else:
+            print(f"  {mark}{rel}/  →  (비어 있음)")
+    print()
+    print("  ※ 'notebooks/<이름>/' 이 비어 있으면 데이터셋이 아니라")
+    print("    **노트북을 붙인 것**이다. Add Input 의 'Datasets' 탭에서")
+    print("    다시 붙일 것.")
 
 # P100(sm_60)은 최신 PyTorch 빌드가 못 쓴다. 미리 잡아 CPU 로 넘긴다.
 def pick_device():
     if not torch.cuda.is_available():
         return "cpu"
     cap = torch.cuda.get_device_capability(0)
-    name, sm = torch.cuda.get_device_name(0), f"sm_{{cap[0]}}{{cap[1]}}"
+    name, sm = torch.cuda.get_device_name(0), f"sm_{cap[0]}{cap[1]}"
     if sm in torch.cuda.get_arch_list():
-        print(f"장치: cuda · {{name}} ({{sm}})")
+        print(f"장치: cuda · {name} ({sm})")
         return "cuda"
-    print(f"⚠️ {{name}} ({{sm}}) 는 이 PyTorch 빌드가 못 쓴다 "
+    print(f"⚠️ {name} ({sm}) 는 이 PyTorch 빌드가 못 쓴다 "
           f"→ Accelerator 를 'GPU T4 x2' 로 바꿀 것. 지금은 CPU 로 계속.")
     return "cpu"
 
