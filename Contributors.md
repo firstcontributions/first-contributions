@@ -235,6 +235,7 @@ Ridwan Umar- [Nico]
 - [Nay Nelson](https://github.com/estrogenius)
 - [Jaya Nallapati] (https://github.com/jaya103)
 - [Bas]
+- [Sushmitha M G](https://github.com/sushmitha-m-g)
 - [FLX009](https://github.com/FLX009)
 - [amebakkd](https://github.com/amebakkd)
 - [S0ra-ai](https://github.com/S0ra-ai)
