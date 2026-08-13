@@ -187,10 +187,81 @@ def check_secrets(report: list) -> None:
                         f"**{what}로 보이는 문자열**: {s[:8]}…")
 
 
+def gap_figures() -> dict:
+    """포지셔닝 표가 인용하는 진단 수치를 **다시 계산해서** 돌려준다.
+
+    이 표는 "NPD +19일 → PSY −1.50두 → 연 5,627만원" 같은 값을 싣는다.
+    처음 쓸 때 다른 조건(NPD·이유두수를 동시에 나쁘게 준 경우)의 값을
+    베껴 와서 −1.37두 / 5,102만원 으로 잘못 적었다. 사람 눈으로는 안
+    잡히니 여기서 계산해 대조한다.
+    """
+    sys.path.insert(0, os.path.join(COMP, "src"))
+    sys.path.insert(0, COMP)
+    import farm_gap as fg
+    from pigflow.config import BREEDING_DEFAULTS as B
+
+    st = fg.load_stats()
+    med = {k: v["p50"] for k, v in st["quantiles"].items()}
+
+    # ① NPD 만 실측 하위(62일)로 놓았을 때 — 표의 "격차의 크기" 칸
+    d = fg.diagnose({"npd": 62.0}, st, n_sows=300)
+    npd = next(r for r in d["rows"] if r["metric"] == "npd")
+    won = next(m for m in d["won_per_year"] if m["metric"] == "npd")
+
+    # ② 프로그램 가정값 대 중앙 농장 — 표의 "낙관 폭" 칸
+    prog = fg.diagnose(
+        {"weaned": B["weaned_per_litter"], "lactation": B["lactation_days"],
+         "gestation": B["gestation_days"],
+         "farrowing_rate": B["farrowing_rate"] * 100,
+         "wean_to_estrus": B["wean_to_service_days"],
+         "npd": fg.npd_floor_annual(B)}, st)
+    pnpd = next(r for r in prog["rows"] if r["metric"] == "npd")
+    return {
+        "npd_gap_days": round(62.0 - med["npd"]),
+        "npd_psy": abs(npd["psy_recover"]),
+        "npd_won_eok": won["won_year"],
+        "prog_psy": prog["psy"],
+        "med_psy": prog["psy_median_farm"],
+        "prog_npd_psy": pnpd["psy_recover"],
+    }
+
+
+def check_gap_figures(report: list) -> None:
+    try:
+        g = gap_figures()
+    except Exception as e:                                   # noqa: BLE001
+        report.append(f"진단 수치를 재계산하지 못했다: {e}")
+        return
+    # 문서에 이 문자열 그대로 실려 있어야 한다. 데이터가 바뀌면 재계산값이
+    # 바뀌고, 문서가 옛 값을 들고 있으면 여기서 걸린다.
+    want = {
+        "NPD 격차 일수": f"{g['npd_gap_days']}일",
+        "NPD 회수 PSY": f"{g['npd_psy']:.2f}두",
+        "NPD 금액": f"{g['npd_won_eok'] / 10_000:,.0f}만원",
+        "가정 PSY": f"{g['prog_psy']}",
+        "중앙 농장 PSY": f"{g['med_psy']}",
+        "가정 NPD 낙관 폭": f"{g['prog_npd_psy']:.2f}두",
+    }
+    for path in DOCS:
+        if not os.path.exists(path):
+            continue
+        # 문서는 조판용 유니코드 빼기(U+2212)를 쓴다. ASCII 로 맞춰 놓지
+        # 않으면 '-2.02두' 가 '−2.02두' 와 안 맞아 헛경보가 난다.
+        t = open(path, encoding="utf-8").read().replace("−", "-")
+        if "격차의 크기" not in t and "성적 격차" not in t:
+            continue        # 포지셔닝 표가 없는 문서는 건너뛴다
+        for label, s in want.items():
+            if s not in t:
+                report.append(
+                    f"{os.path.basename(path)}  포지셔닝 표의 {label}: "
+                    f"재계산값 '{s}' 가 문서에 없다")
+
+
 def main() -> int:
     report: list = []
     check_counts(report)
     check_metrics(report)
+    check_gap_figures(report)
     check_links(report)
     check_secrets(report)
 
