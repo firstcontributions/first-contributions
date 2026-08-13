@@ -126,6 +126,7 @@ Varshith IMT2024044
 - [Harshavardhan Reddy_BT2024064](https://github.com/HarshaVPolar)
 - Pennam Nikhil
 - Sai sathvik K
+-Sangram Sankpal(https://github.com/Sangram0105)
 - IMT2024065
 - BT2024015 - Mai bhi aaya tha. Thnax
 - BT2024053
