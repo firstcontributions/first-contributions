@@ -33,6 +33,37 @@ MIN_FOLD = 150
 POSTURE_INPUT = "/kaggle/input/multi-view-pig-posture-recognition"
 EDIN_INPUT = "/kaggle/input/edinburgh-pig-behaviour-annotated"
 
+# 입력이 없을 때의 안내. "아무것도 안 붙음" 과 "붙었는데 구조가 다름" 은
+# 조치가 전혀 다른데, 예전 진단은 둘 다 `. → []` 로만 찍혀서 구분이 안 됐다.
+INPUT_TREE = '''
+def show_input_tree():
+    base = "/kaggle/input"
+    if not os.path.isdir(base):
+        print("/kaggle/input 자체가 없다 — 캐글 노트북이 아닌 환경이다.")
+        return
+    items = sorted(os.listdir(base))
+    if not items:
+        print("=" * 62)
+        print("  /kaggle/input 이 비어 있다 — **데이터가 하나도 안 붙었다.**")
+        print("=" * 62)
+        print("  오른쪽 패널 위 [+ Add Input] 을 누르고:")
+        print("   · 자세 → 상단 탭 'Competitions' →")
+        print("            multi-view-pig-posture-recognition")
+        print("            (대회 규칙 동의를 안 했으면 검색에 안 뜬다.")
+        print("             대회 페이지에서 'Join Competition' 먼저)")
+        print("   · 행동 → 상단 탭 'Datasets' →")
+        print("            jackbyte/edinburgh-pig-behaviour-annotated")
+        print("  붙이면 세션이 재시작되니, 그 뒤 셀을 다시 실행한다.")
+        print("  ※ 가속기를 바꾸면 새 세션이라 입력이 안 따라올 때가 있다.")
+        return
+    print("붙어 있는 입력:", items)
+    print("찾는 파일이 없다 — 아래 구조에서 경로를 확인할 것:")
+    for dp, ds, fs in os.walk(base):
+        rel = os.path.relpath(dp, base)
+        if rel.count(os.sep) < 2:
+            print("  ", rel, "→", (fs[:5] or ds[:5]))
+'''
+
 # 규약 — 두 노트북이 공유한다. ml_core 와 같은 내용이라 갈라지면 안 된다.
 CONTRACT = '''
 # ── 평가 규약 (competition/src/ml_core.py 와 같은 내용을 인라인) ──────────
@@ -167,17 +198,13 @@ def posture_nb() -> dict:
 import os, ast, time, json
 import numpy as np, pandas as pd, torch
 IN = "{POSTURE_INPUT}"
-
+""" + INPUT_TREE + """
 # 경로를 고정하면 캐글 중첩에 걸린다. train1.csv 가 있는 폴더를 찾아 쓴다.
 if not os.path.exists(os.path.join(IN, "train1.csv")):
     cand = [dp for dp, _s, fs in os.walk("/kaggle/input") if "train1.csv" in fs]
     if not cand:
-        print("train1.csv 를 못 찾았다. /kaggle/input 아래 구조:")
-        for dp, ds, fs in os.walk("/kaggle/input"):
-            rel = os.path.relpath(dp, "/kaggle/input")
-            if rel.count(os.sep) < 2:
-                print("  ", rel, "→", (fs[:4] or ds[:4]))
-        raise SystemExit("Add Input 으로 대회 데이터를 붙였는지 확인할 것")
+        show_input_tree()
+        raise RuntimeError("대회 데이터가 안 붙어 있다 — 위 안내대로 Add Input")
     IN = cand[0]
 print("입력:", IN)
 print(" ", sorted(os.listdir(IN))[:8])
@@ -431,7 +458,7 @@ def behavior_nb() -> dict:
 import os, json, time, glob
 import numpy as np, pandas as pd, torch
 IN = "{EDIN_INPUT}"
-
+""" + INPUT_TREE + """
 # P100(sm_60)은 최신 PyTorch 빌드가 못 쓴다. 미리 잡아 CPU 로 넘긴다.
 def pick_device():
     if not torch.cuda.is_available():
@@ -461,12 +488,8 @@ def find_jsons(base):
 
 hits = find_jsons(IN) or find_jsons("/kaggle/input")
 if not hits:
-    print("output.json 을 못 찾았다. /kaggle/input 아래 구조:")
-    for dp, ds, fs in os.walk("/kaggle/input"):
-        rel = os.path.relpath(dp, "/kaggle/input")
-        if rel.count(os.sep) < 2:
-            print("  ", rel, "→", (fs[:4] or ds[:4]))
-    raise SystemExit("Add Input 으로 Edinburgh 데이터셋을 붙였는지 확인할 것")
+    show_input_tree()
+    raise RuntimeError("Edinburgh 데이터셋이 안 붙어 있다 — 위 안내대로 Add Input")
 print(f"output.json {len(hits)}개 발견 · 예: "
       f"{os.path.relpath(hits[0], '/kaggle/input')}")
 

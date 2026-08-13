@@ -53,20 +53,43 @@ import os, ast, time, json
 import numpy as np, pandas as pd, torch
 IN = "/kaggle/input/multi-view-pig-posture-recognition"
 
+def show_input_tree():
+    base = "/kaggle/input"
+    if not os.path.isdir(base):
+        print("/kaggle/input 자체가 없다 — 캐글 노트북이 아닌 환경이다.")
+        return
+    items = sorted(os.listdir(base))
+    if not items:
+        print("=" * 62)
+        print("  /kaggle/input 이 비어 있다 — **데이터가 하나도 안 붙었다.**")
+        print("=" * 62)
+        print("  오른쪽 패널 위 [+ Add Input] 을 누르고:")
+        print("   · 자세 → 상단 탭 'Competitions' →")
+        print("            multi-view-pig-posture-recognition")
+        print("            (대회 규칙 동의를 안 했으면 검색에 안 뜬다.")
+        print("             대회 페이지에서 'Join Competition' 먼저)")
+        print("   · 행동 → 상단 탭 'Datasets' →")
+        print("            jackbyte/edinburgh-pig-behaviour-annotated")
+        print("  붙이면 세션이 재시작되니, 그 뒤 셀을 다시 실행한다.")
+        print("  ※ 가속기를 바꾸면 새 세션이라 입력이 안 따라올 때가 있다.")
+        return
+    print("붙어 있는 입력:", items)
+    print("찾는 파일이 없다 — 아래 구조에서 경로를 확인할 것:")
+    for dp, ds, fs in os.walk(base):
+        rel = os.path.relpath(dp, base)
+        if rel.count(os.sep) < 2:
+            print("  ", rel, "→", (fs[:5] or ds[:5]))
+
 # 경로를 고정하면 캐글 중첩에 걸린다. train1.csv 가 있는 폴더를 찾아 쓴다.
 if not os.path.exists(os.path.join(IN, "train1.csv")):
     cand = [dp for dp, _s, fs in os.walk("/kaggle/input") if "train1.csv" in fs]
     if not cand:
-        print("train1.csv 를 못 찾았다. /kaggle/input 아래 구조:")
-        for dp, ds, fs in os.walk("/kaggle/input"):
-            rel = os.path.relpath(dp, "/kaggle/input")
-            if rel.count(os.sep) < 2:
-                print("  ", rel, "→", (fs[:4] or ds[:4]))
-        raise SystemExit("Add Input 으로 대회 데이터를 붙였는지 확인할 것")
+        show_input_tree()
+        raise RuntimeError("대회 데이터가 안 붙어 있다 — 위 안내대로 Add Input")
     IN = cand[0]
 print("입력:", IN)
 print(" ", sorted(os.listdir(IN))[:8])
-CEILING, MIN_FOLD, CROP, PAD = 0.861, 150, 96, 0.12
+CEILING, MIN_FOLD, CROP, PAD = {CEILING}, {MIN_FOLD}, 96, 0.12
 
 # ── 사전 점검 ────────────────────────────────────────────────────────────
 # **비싼 일(크롭 추출 ~50초) 전에 환경부터 본다.** 예전엔 크롭을 다 뽑고
@@ -76,13 +99,13 @@ def pick_device():
         print("⚠️ GPU 없음 → CPU. 오른쪽 Accelerator 를 GPU 로 바꾸면 빠르다.")
         return "cpu"
     cap = torch.cuda.get_device_capability(0)
-    name, sm = torch.cuda.get_device_name(0), f"sm_{cap[0]}{cap[1]}"
+    name, sm = torch.cuda.get_device_name(0), f"sm_{{cap[0]}}{{cap[1]}}"
     arch = torch.cuda.get_arch_list()
     if sm in arch:
-        print(f"장치: cuda · {name} ({sm})")
+        print(f"장치: cuda · {{name}} ({{sm}})")
         return "cuda"
     # P100 은 sm_60 이라 최신 PyTorch 빌드(sm_70+)에서 커널이 없다.
-    print(f"⚠️ {name} ({sm}) 는 이 PyTorch 빌드가 못 쓴다. 지원: {arch}")
+    print(f"⚠️ {{name}} ({{sm}}) 는 이 PyTorch 빌드가 못 쓴다. 지원: {{arch}}")
     print("   → 오른쪽 **Accelerator 를 'GPU T4 x2' 로** 바꾸고 다시 실행할 것.")
     print("     (P100 이 걸리면 이 오류가 난다. 지금은 CPU 로 계속 — 훨씬 느리다)")
     return "cpu"
@@ -97,7 +120,7 @@ try:
     print("사전학습 가중치: OK")
 except Exception as e:
     PRETRAINED = False
-    print(f"⚠️ 사전학습 가중치 못 받음({type(e).__name__}) → scratch 학습.")
+    print(f"⚠️ 사전학습 가중치 못 받음({{type(e).__name__}}) → scratch 학습.")
     print("   → 오른쪽 **Internet 을 On** 으로 켜면 크게 좋아진다.")
     print("     (끄고 돌려도 죽지는 않지만 23,450장을 밑바닥부터 배운다)")
 
