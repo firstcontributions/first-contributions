@@ -102,6 +102,7 @@ Varshith IMT2024044
 - HelaElbez
 - first contribution
 - Sherwin Mazarello
+- [Ravi Teja S](https://github.com/Ravi-Teja-S)
 - Kartik
 - Kkshiteej Tiwari BT2024154
 - [Parth Malhotra BT2024197](https://github.com/ParthMalhotra07)
@@ -2021,6 +2022,7 @@ Amna Naeem
 - [Jin_Sakai](https://github.com/ShamGaneshan2008)
 - [Jnaneswar karedla](https://github.com/jnaneswar077)
 - [Celestial_1]
+- [Leonardo Herédia](https://github.com/LeoHeredia2004)
 - [Juan Escobar]
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
@@ -4372,3 +4374,6 @@ the world is a stand
 - cj0y9
 - [btk linkedin](linkedin.com/in/bommisetty-tandava-krishna-57923531a)
 - [Abimael243](https://github.com/Abimael243)
+- [Dead_0hlin](https://github.com/Dead0hlin)
+
+- [he5stone0311](https://github.com/he5stone0311)
