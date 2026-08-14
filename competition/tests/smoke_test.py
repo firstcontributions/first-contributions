@@ -2335,6 +2335,82 @@ def test_pc_suite() -> None:
     assert sh.index("build_pc_suite.py") < sh.index("build_dashboard_hub.py")
 
 
+def test_barn_watch() -> None:
+    """배치 전이 감시 — 검사기가 **틀어진 것을 실제로 잡는가**.
+
+    설계대로 지으면 0 건이 나오는 건 쉽다. 이 검사의 요점은 방을 빼면
+    반드시 잡히는가, 그리고 **아무것도 안 움직인 것을 '정상' 이라 하지
+    않는가**다. 후자는 실제로 그렇게 보고했다가 고쳤다.
+    """
+    import barn_watch as bw
+    import run_farm as rf
+    from pigflow.config import default_config
+    from pigflow.simulator import build_rooms
+
+    cfg = default_config()
+    cfg.crate_count = rf.crates_for_sows(300, cfg)
+    m = cfg.merged()
+    full = build_rooms(m)
+
+    # 1) 설계대로 지으면 규칙 위반이 없어야 한다
+    r = bw.watch(cfg, days=400, rooms=full)
+    assert r["feasible"] and r["verdict"] == "정상", (r["verdict"], r["counts"])
+    assert r["n_violations"] == 0, r["counts"]
+    assert r["n_transitions"] > 50 and r["n_steady"] > 20, r
+    # 갓 태어난 배치를 '못 움직인' 것으로 세면 안 된다
+    assert r["n_never_moved"] == 0, r["n_never_moved"]
+    # 워밍업은 판정에서 빠져야 한다 — 뒷단이 비어 있는 구간이다
+    assert r["warmup_days"] > 0 and r["n_steady"] < r["n_transitions"]
+    assert all(s["warmup"] for s in r["snapshots"]
+               if s["day"] < r["warmup_days"])
+
+    # 2) 방을 빼면 반드시 잡혀야 한다. 안 잡히면 검사기가 무용하다.
+    ids = [x.room_id for x in full if x.house == "nursery"][:2]
+    short = [x for x in build_rooms(m) if x.room_id not in ids]
+    r2 = bw.watch(cfg, days=400, rooms=short)
+    assert r2["verdict"] == "위반 있음", r2["verdict"]
+    assert r2["counts"].get("적체", 0) > 0, r2["counts"]
+    assert r2["worst_jam"] and r2["worst_jam"]["over_days"] > 0
+
+    # 3) **아무것도 안 움직인 것을 '정상' 이라 하면 안 된다.**
+    #    방을 배치보다 작게 주면 한 발짝도 못 가는데, 그때 위반 0 건이
+    #    나온다고 통과시키면 이 도구는 거짓말을 하는 셈이다.
+    tiny = [x for x in build_rooms(m)]
+    for x in tiny:
+        x.capacity_head, x.area_m2 = 1, 1.0
+    r3 = bw.watch(cfg, days=200, rooms=tiny)
+    assert not r3["feasible"] and r3["blocked"], r3["verdict"]
+    assert r3["verdict"] == "흐름 실패", r3["verdict"]
+    assert r3["n_steady"] == 0
+
+    # 4) 분만사 부족은 '적체' 가 아니라 '무처소' 로 나타난다 — 배치는 방이
+    #    없어도 만들어지고 나이가 차면 다음 단계로 가기 때문이다
+    fids = [x.room_id for x in full if x.house == "farrowing"][:3]
+    nf = [x for x in build_rooms(m) if x.room_id not in fids]
+    r4 = bw.watch(cfg, days=400, rooms=nf)
+    assert r4["counts"].get("무처소", 0) > 0, r4["counts"]
+
+    # 5) 등록 화면 JSON → 돈방. 비육사는 육성·비육을 겸하므로 나뉘어야 한다
+    spec, notes = bw.rooms_from_setup(
+        {"barns": [{"name": "3동", "stage": "분만사", "rooms": 2, "per": 40},
+                   {"name": "6동", "stage": "비육사", "rooms": 10, "per": 120},
+                   {"name": "1동", "stage": "교배사", "rooms": 1, "per": 70}]}, m)
+    houses = {s["house"] for s in spec}
+    assert houses == {"farrowing", "grower", "finisher"}, houses
+    # 교배사는 번식돈 자리라 빠지고, 그 사실이 보고돼야 한다
+    assert any(n[1] == "교배사" for n in notes), notes
+    assert any("육성·비육" in n[2] for n in notes), notes
+    # 나눈 방 수의 합은 등록한 수와 같아야 한다 — 여기서 새 방을 만들면 안 된다
+    assert sum(1 for s in spec if s["house"] in ("grower", "finisher")) == 10
+
+    # 6) 어휘는 farm_registry 것이어야 한다
+    import farm_registry as fr
+    for stage in bw.HOUSE_OF:
+        assert stage in fr.BARN_STAGES, stage
+    for stage in bw.BREEDING_ONLY:
+        assert stage in fr.BARN_STAGES, stage
+
+
 def test_farm_setup_view() -> None:
     """농장 등록 화면 — 어휘가 코드와 같은가, 그리고 아무 데도 안 보내는가.
 
@@ -3217,7 +3293,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
