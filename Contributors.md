@@ -88,6 +88,7 @@ Varshith IMT2024044
 - [Srijan Gupta BT2024098](https://github.com/SrijanG07)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
+- [beiwei91](https://github.com/beiwei91)
 - [Sushmit-Biswas-BT2024038](https://github.com/Sushmit-Biswas)
 - [Soham Banerjee](https://github.com/oki-dokii)
 - [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
