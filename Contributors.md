@@ -1,4 +1,5 @@
 # Contributors
+- [Jawad Noori](https://github.com/Jawadnoori1718)
 - [amdeldacc]
 - [Krish](https://github.com/kaptankrrish)
 - [Mollyb333]
