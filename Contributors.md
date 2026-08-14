@@ -1,5 +1,6 @@
 # Contributors
 - [Mollyb333]
+-[Alan]
 - [Anita Demo 814]
 - [Sophia]
 - [Maicon Vieira](https://github.com/maiconvieira)
