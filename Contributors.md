@@ -144,6 +144,7 @@ Varshith IMT2024044
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
+- [Tarek-Rahman] (https://github.com/rahman-tarek)
 - [Jody Haynes]
 - yuvraj
 - Rafael Morales Sánchez
