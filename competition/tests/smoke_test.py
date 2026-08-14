@@ -2402,6 +2402,36 @@ def test_farm_setup_view() -> None:
     assert d["gestation"] == float(B["gestation_days"])
     assert d["lactation"] == float(B["lactation_days"])
 
+    # -- 계절 손실(발견 ③′)이 **같은 수치로** 붙었는가 -------------------
+    #
+    # 이 화면의 값어치는 원/년을 **사용자 규모로** 놓는 것이다. 그러려면
+    # 환산 계수와 여름 비중이 farm_monthly_panel 과 같아야 한다. 여기서
+    # 새로 만들면 두 화면이 같은 농장에 다른 금액을 말하게 된다.
+    import farm_monthly_panel as mp
+    import farm_economics as fe
+    s = bfs.season()
+    pj = json.load(open(os.path.join(ROOT, "data", "farm_monthly_panel.json"),
+                        encoding="utf-8"))
+    assert s["per_sow_won"] == pj["money"]["per_sow_won"]
+    lev = fe.levers(n_sows=mp.REF_SOWS)
+    assert s["per_sow_won"] == int(
+        lev.loc[lev["lever"] == "PSY +1두", "두당효과"].iloc[0])
+    assert s["share"] == mp.SEASON_SHARE
+    assert s["loss"] == pj["loss"] and s["n_farms"] == pj["n_farms"]
+    assert s["implantation"] == list(
+        __import__("barn_environment").IMPLANTATION_WINDOW)
+
+    # 화면에 실린 값도 같은 것이어야 한다
+    assert cfg["season"]["per_sow_won"] == s["per_sow_won"], "화면 계수가 갈렸다"
+
+    # 계절 취약도는 연간 성적으로 예측이 안 된다 — 이 경고가 빠지면 사용자가
+    # PSY 만 보고 "우리는 괜찮겠지" 로 넘어간다
+    assert "맞힐 수 없습니다" in html and str(s["rho_psy"]) in html
+    # 비운 경우를 우리 농장 값처럼 보이게 하면 안 된다
+    assert "우리 농장 값이 아닙니다" in html
+    # 겨울 기준이라 상한이라는 것도 밝혀야 한다
+    assert "손실 상한" in html
+
 
 def test_farm_diagnosis_view() -> None:
     """20번째 뷰 — 실측 진단이 화면에 올라왔는가.

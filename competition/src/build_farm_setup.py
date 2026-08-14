@@ -5,13 +5,26 @@
 
 ## 폼이 아니라 검산기다
 
-칸을 채우는 것만으로는 값이 없다. 넣는 즉시 **다섯 가지를 되짚어 준다.**
+칸을 채우는 것만으로는 값이 없다. 넣는 즉시 **여섯 가지를 되짚어 준다.**
 
   1) 배치 설계     모돈·간격 → 배치 수 · 배치당 두수 · 필요 분만틀
   2) 필요 vs 보유  등록한 축사동 자리와 대 봐서 부족분을 즉시
   3) 포유 상한     방 주기에서 분만대기·세척을 빼고 남는 것이 포유 최대치
   4) 발정 판정 경로 사육 방식(스톨/군사)만 정해지면 분석 방법이 따라 정해진다
   5) 분포에서의 위치 성적을 넣으면 466농장 어디쯤인지
+  6) **여름 손실 원/년** 발견 ③′ 를 **우리 규모로** — 아래
+
+## 원/년을 처음으로 '우리 규모' 로 놓는다
+
+발견 ③′ 의 금액은 전부 300두 환산이었다. 이 화면만 사용자의 상시모돈수를
+알기 때문에, 같은 산식을 그 규모로 다시 놓을 수 있다. 환산 계수는
+`farm_monthly_panel` 이 쓴 값을 그대로 받아 온다 — 여기서 새로 만들면
+같은 농장에 두 화면이 다른 금액을 말한다.
+
+여름·겨울 교배분 분만율을 넣으면 **우리 농장 값**이 나오고, 비우면 국내
+분포를 우리 규모로 환산한 **범위**가 나온다. 둘을 구별해 표시한다.
+계절 취약도는 연간 성적과 상관이 없으므로(ρ −0.149) PSY 로 대신 맞힐 수
+없다는 것도 같이 적는다.
 
 ## 빈 칸을 조용히 채우지 않는다
 
@@ -40,6 +53,7 @@ sys.path.insert(0, ROOT)          # pigflow 패키지가 competition/ 아래에 
 
 OUT = os.path.join(ROOT, "dashboard", "farm_setup.html")
 STATS = os.path.join(ROOT, "data", "korean_farm_stats.json")
+SEASON = os.path.join(ROOT, "data", "farm_monthly_panel.json")
 
 # 축사 용도·사육 방식은 farm_registry 가 검증하는 어휘를 그대로 쓴다.
 # 여기서 새 낱말을 만들면 등록 화면과 코드가 갈라진다.
@@ -78,6 +92,45 @@ def quantiles() -> dict:
             for k in keep if k in q}
 
 
+def season() -> dict:
+    """계절 손실 — 발견 ③′ 를 이 화면에 붙인다.
+
+    지금까지 원/년은 전부 **300두 환산**이었다. 이 화면은 사용자의 상시모돈수를
+    아는 유일한 자리라서, 같은 산식을 그 규모로 다시 놓을 수 있다.
+
+    환산 계수(PSY 1두의 두당 가치)와 여름 비중은 `farm_monthly_panel` 이 쓴
+    값을 그대로 가져온다. 여기서 새로 만들면 두 화면이 다른 금액을 말한다.
+    """
+    if not os.path.exists(SEASON):
+        return {}
+    r = json.load(open(SEASON, encoding="utf-8"))
+    import farm_monthly_panel as mp
+    return {
+        "loss": r["loss"], "shrunk": r["loss_shrunk"],
+        "n_farms": r["n_farms"],
+        "per_sow_won": r["money"]["per_sow_won"],
+        "ref_sows": r["money"]["ref_sows"],
+        "share": mp.SEASON_SHARE,
+        "overall_summer": r["overall"]["summer"],
+        "overall_winter": r["overall"]["winter"],
+        "gap": r["overall"]["summer_minus_winter"],
+        "true_share": r["spread"]["true_share"],
+        # 여름에 사고 구성이 어디로 기우는가 — 처방이 여기서 나온다
+        "acc_1st": r["pathways"]["accidents"]["delta"].get("임신사고(1차)", 0.0),
+        "acc_summer": r["pathways"]["accidents"]["summer"].get("임신사고(1차)", 0.0),
+        "acc_winter": r["pathways"]["accidents"]["winter"].get("임신사고(1차)", 0.0),
+        "rho_psy": r["join"].get("PSY", {}).get("rho"),
+        "rho_sows": r["join"].get("상시모돈", {}).get("rho"),
+        # 착상기 — 여름 손실을 겨냥할 시점
+        "implantation": list(_implantation()),
+    }
+
+
+def _implantation() -> tuple:
+    import barn_environment as be
+    return be.IMPLANTATION_WINDOW
+
+
 def defaults() -> dict:
     """번식 상수 기본값 — pigflow 설정에서 받는다. 여기서 새로 만들지 않는다."""
     from pigflow.config import BREEDING_DEFAULTS as B
@@ -102,9 +155,11 @@ def build() -> str:
     # 화면에서 바로 보여 주기 위해 통째로 넘긴다.
     routes = {k: {"label": v[0], "module": v[1], "signal": v[2], "note": v[3]}
               for k, v in fr.HOUSING.items()}
+    sn = season()
     cfg = {"q": q, "d": d, "intervals": INTERVALS, "routes": routes,
            "perf": [{"key": k, "label": lb, "unit": u, "arg": a,
                      "lo": lo, "hi": hi} for k, lb, u, a, lo, hi in PERF],
+           "season": sn,
            "cycle_base": d["gestation"] + d["lactation"] + d["wean_to_service"]}
 
     stage_desc = "".join(
@@ -249,7 +304,21 @@ color:var(--accent);text-decoration:none}}
 중앙값을 넣으면 그 항목의 격차가 늘 0 으로 찍힙니다 — 실제로 겪은 버그입니다.</div>
 <div class="card"><div class="grid" id="perf"></div></div>
 
-<h2>5. 즉시 검산</h2>
+<h2>5. 여름 손실 — 우리 규모로</h2>
+<div class="h2d">국내 67농장 실측에서 여름 교배분 분만율이 겨울보다
+<b>중앙 +2.7%p</b> 떨어집니다. 그런데 <b>농장마다 갈립니다</b>(하위10% −4.4 ~
+상위10% +13.0%p). 아래 두 칸을 알면 우리 농장이 어느 쪽인지 나옵니다.</div>
+<div class="card"><div class="grid">
+  <div><label>여름 교배분 분만율 <span class="u">7·8·9월 교배 · %</span></label>
+    <input id="s_summer" type="number" step="0.1" min="20" max="100" placeholder="">
+    <div class="hint">분만 11·12·1월분입니다(임신 114일 되돌림)</div></div>
+  <div><label>겨울 교배분 분만율 <span class="u">1·2·3월 교배 · %</span></label>
+    <input id="s_winter" type="number" step="0.1" min="20" max="100" placeholder="">
+    <div class="hint">분만 5·6·7월분</div></div>
+</div></div>
+<div id="season"></div>
+
+<h2>6. 즉시 검산</h2>
 <div class="h2d">위 값으로 바로 나오는 것들. 새 산식이 아니라
 <code>batch_flow.plan</code> 과 같은 식입니다.</div>
 <div class="card"><div class="kpis" id="kpis"></div>
@@ -260,7 +329,7 @@ color:var(--accent);text-decoration:none}}
 <div id="routes"></div></div>
 <div id="pos"></div>
 
-<h2>6. 내보내기</h2>
+<h2>7. 내보내기</h2>
 <div class="h2d">복사해서 그대로 돌리면 이 농장 기준으로 전체 화면이 다시 계산됩니다.</div>
 <div class="card">
 <label>명령줄</label><textarea id="out_cmd" readonly style="min-height:64px"></textarea>
@@ -390,6 +459,92 @@ function strip(q, v, unit, higherBetter) {{
     `<div class="lb" style="left:${{px(hi)}}%">상위10% ${{hi}}</div></div>`;
 }}
 
+// 발견 ③′ 를 **우리 규모로** 다시 놓는다.
+// 지금까지 원/년은 전부 300두 환산이었고, 이 화면만 실제 상시모돈수를 안다.
+// 산식은 farm_monthly_panel.to_money 와 같다 —
+//   ΔPSY = PSY × (여름 3개월/12) × (손실%p ÷ 겨울 분만율)
+//   원/년 = ΔPSY × PSY 1두의 두당 가치 × 상시모돈
+function renderSeason(p) {{
+  const S = CFG.season;
+  const box = $("#season");
+  if (!S || !S.per_sow_won) {{ box.innerHTML = ""; return; }}
+
+  // PSY 는 항등식으로 낸다(farm_gap.psy_from). 재료가 없으면 실측 중앙값을
+  // 쓰되 **가정이라고 밝힌다** — 조용히 넣으면 그게 내 농장 값인 줄 안다.
+  const w = num("#p_weaned"), npd = num("#p_npd");
+  let psy, psySrc;
+  if (w !== null && npd !== null && npd < 365) {{
+    psy = w * (365 - npd) / (CFG.d.gestation + p.lact);
+    psySrc = "입력값에서 유도";
+  }} else {{
+    psy = CFG.q.psy ? CFG.q.psy.p50 : 24.1;
+    psySrc = "466농장 중앙값 · 가정";
+  }}
+
+  const su = num("#s_summer"), wi = num("#s_winter");
+  const won = (lossPP) =>
+    psy * S.share * (lossPP / Math.max(1e-9, wi ?? S.overall_winter))
+    * S.per_sow_won * p.sows;
+
+  let head, body;
+  if (su !== null && wi !== null) {{
+    const loss = wi - su;
+    const dPsy = psy * S.share * (loss / wi);
+    const money = dPsy * S.per_sow_won * p.sows;
+    const q = S.loss;
+    const worse = loss > q.median;
+    head =
+      `<div class="kpis">` +
+      kpi(`${{loss >= 0 ? "+" : ""}}${{loss.toFixed(1)}}%p`, "우리 농장 여름 손실",
+          `겨울 ${{wi}} − 여름 ${{su}}`) +
+      kpi(`${{dPsy >= 0 ? "+" : ""}}${{dPsy.toFixed(2)}}두`, "연간 PSY 손실",
+          `PSY ${{psy.toFixed(1)}} · ${{psySrc}}`) +
+      kpi(`${{(money / 1e4).toLocaleString(undefined, {{maximumFractionDigits: 0}})}}만원`,
+          "연 손실 상한", `${{Math.round(p.sows)}}두 기준`) +
+      `</div>` +
+      strip({{p10: q.p10, p25: q.p25, p50: q.median, p75: q.p75, p90: q.p90}},
+            +loss.toFixed(1), "%p", false) +
+      `<div class="note">국내 <b>${{S.n_farms}}농장</b> 분포에서 ` +
+      `${{worse ? "<b>중앙보다 취약한 쪽</b>" : "중앙보다 무던한 쪽"}}입니다. ` +
+      `겨울 수준을 되찾았을 때의 몫이라 <b>손실 상한</b>이고, 냉방 장비값을 뺀 ` +
+      `순이익이 아닙니다.</div>`;
+  }} else {{
+    // **패널의 733만원(300두 중앙)과 같은 값이 아니다.** 저건 농장마다
+    // 자기 PSY·자기 겨울로 낸 금액들의 **중앙값**이고, 여기 726만원은
+    // **중앙 손실 하나를 대표 PSY 에 적용한** 시나리오다. 곱의 중앙값과
+    // 중앙값의 곱은 다르다 — 육성률을 분위수끼리 나눠 92.1% 로 틀렸던 것과
+    // 같은 갈래라, 두 수를 억지로 맞추지 않고 라벨을 '가정' 으로 둔다.
+    const mid = won(S.loss.median), p90 = won(S.loss.p90);
+    head =
+      `<div class="kpis">` +
+      kpi(`${{(mid / 1e4).toLocaleString(undefined, {{maximumFractionDigits: 0}})}}만원`,
+          "중앙 농장이라면", `여름 손실 +${{S.loss.median}}%p · 가정`) +
+      kpi(`${{(p90 / 1e4).toLocaleString(undefined, {{maximumFractionDigits: 0}})}}만원`,
+          "취약 상위10% 라면", `여름 손실 +${{S.loss.p90}}%p · 가정`) +
+      kpi(`${{Math.round(p.sows)}}두`, "우리 규모로 환산", `PSY ${{psy.toFixed(1)}} · ${{psySrc}}`) +
+      `</div>` +
+      `<div class="note"><b>두 칸을 비웠으므로 위는 우리 농장 값이 아닙니다</b> — ` +
+      `국내 분포를 우리 규모로 환산한 범위입니다. 어느 쪽인지 알려면 ` +
+      `월별 분만율 12개월이 필요합니다.</div>`;
+  }}
+
+  // **연간 성적으로는 예측이 안 된다.** 이걸 안 적으면 위 두 칸을 비운 채
+  // PSY 만 보고 "우리는 괜찮겠지" 로 넘어간다.
+  body =
+    `<div class="note" style="margin-top:12px">` +
+    `<b>연간 성적으로 계절 취약도를 맞힐 수 없습니다.</b> 67농장에서 ` +
+    `PSY 와의 상관 ρ ${{S.rho_psy}} · 상시모돈 ρ ${{S.rho_sows}} 로 사실상 무관합니다 — ` +
+    `<b>잘하는 농장도 여름은 피하지 못합니다.</b><br>` +
+    `무너지는 경로는 사양이 아니라 <b>착상</b>입니다. 여름에 이유두수·재귀율은 ` +
+    `거의 그대로인데 임신사고 구성이 <b>1차 재발 쪽으로 ` +
+    `+${{(S.acc_1st * 100).toFixed(1)}}%p</b> 기웁니다` +
+    `(겨울 ${{(S.acc_winter * 100).toFixed(1)}}% → 여름 ${{(S.acc_summer * 100).toFixed(1)}}%). ` +
+    `그래서 겨냥할 시점은 <b>교배 후 ${{S.implantation[0]}}~${{S.implantation[1]}}일 착상기</b>이고, ` +
+    `이 구간 축사의 THI 를 낮추는 것이 처방입니다.</div>`;
+
+  box.innerHTML = `<div class="card">` + head + body + `</div>`;
+}}
+
 function render() {{
   const p = planOf();
   $("#kpis").innerHTML =
@@ -513,6 +668,8 @@ function render() {{
       `<div class="note">기준은 국내 202농장 × 4년 = 466행 실측입니다.</div></div>`
     : "";
 
+  renderSeason(p);
+
   // 내보내기
   const args = [`--sows ${{Math.round(p.sows)}}`];
   for (const f of CFG.perf) {{
@@ -544,6 +701,8 @@ function snapshot() {{
     washout_days: num("#f_wash"),
     barns: barns.map(b => ({{...b}})),
     performance: perf,
+    season: {{summer_farrowing_rate: num("#s_summer"),
+              winter_farrowing_rate: num("#s_winter")}},
     note: "비어 있는 성적은 진단에서 제외한다. 중앙값을 대입하지 않는다."
   }};
 }}
@@ -572,6 +731,9 @@ function load() {{
     const v = (s.performance || {{}})[f.key];
     if (v != null) $("#p_" + f.key).value = v;
   }}
+  const sz = s.season || {{}};
+  if (sz.summer_farrowing_rate != null) $("#s_summer").value = sz.summer_farrowing_rate;
+  if (sz.winter_farrowing_rate != null) $("#s_winter").value = sz.winter_farrowing_rate;
   return true;
 }}
 
