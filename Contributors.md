@@ -3753,6 +3753,7 @@ bhumika
 - [Fauzan](https://github.com/fauzan660)
 - [Santiago Satragni](https://github.com/santisatragni)
 - [Sahil Dhanvij](https://github.com/Sahil4636)
+- [Naruto Uzumaki]
 - - [01100001melia](https://github.com/01100001melia)
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
 - [rod-liu-id](https://github.com/rod-liu-id)
