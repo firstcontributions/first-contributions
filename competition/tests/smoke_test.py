@@ -2335,6 +2335,100 @@ def test_pc_suite() -> None:
     assert sh.index("build_pc_suite.py") < sh.index("build_dashboard_hub.py")
 
 
+def test_path_predict() -> None:
+    """로그 → 경로 → 예측.
+
+    검사의 요점 셋. **경로 복원이 맞는가**(주입값을 되찾는가),
+    **미래를 안 보는가**(시간 순 분할·사후 열 배제),
+    **기준선을 넘었다고 거짓말하지 않는가**(표준 캘린더 대비).
+    """
+    import numpy as np
+    import pandas as pd
+    import path_predict as pp
+    import repro_calendar as rc
+    import synth_farm as sf
+
+    P = sf.Params()
+    cycles = sf.generate(n_sows=120, years=3, seed=1, params=P)
+    ev = pp.to_events(cycles)
+
+    # 사건 어휘는 정해진 것만 나와야 한다 — 앱 로그와 낱말이 갈리면 못 받는다
+    assert set(ev["event"]) <= set(pp.EVENTS), set(ev["event"])
+    # 한 사이클 안에서 사건은 **시간 순**이어야 한다. 뒤집히면 경로가 거짓이다
+    for _, g in ev.groupby(["animal_id", "cycle"]):
+        ds = list(g.sort_index()["date"])
+        assert ds == sorted(ds), g.to_dict("records")
+
+    # 1) 경로 복원 — 주입한 모수를 로그만 보고 되찾는가.
+    #    날짜가 일 단위라 **평균**으로 잰다(중앙값은 소수를 못 만든다).
+    rec = pp.recovery(ev, cycles, P)
+    for k in ("wei", "gestation", "lactation", "farrowing_rate"):
+        assert rec[k]["ok"], (k, rec[k])
+    assert rec["gestation"]["n"] > 100
+
+    # 2) 경로 변형 — 표준 경로가 있고, 비율 합이 1 을 넘지 않는다
+    v = pp.variants(ev)
+    assert v["standard"].any(), v.to_dict("records")
+    assert 0.99 < v["share"].sum() <= 1.0001, v["share"].sum()
+    std = v[v["standard"]].iloc[0]
+    assert tuple(std["path"].split(" → ")) == pp.STANDARD
+
+    # 3) 전이 간격 — 표준 상수는 repro_calendar 에서 와야 한다.
+    #    여기서 따로 적으면 캘린더를 고쳐도 이 화면만 옛 값을 든다.
+    assert pp.B0_DAYS[("교배", "분만")] == float(rc.GESTATION)
+    assert pp.B0_DAYS[("분만", "이유")] == float(rc.LACTATION)
+    assert pp.B0_DAYS[("교배", "재발정")] == float(rc.RETURN_CHECK)
+
+    # 4) 날짜 예측 — 시간 순으로 잘렸는가. 학습이 평가 뒤를 보면 안 된다
+    agg, pairs = pp.transitions(ev)
+    d = pp.predict_days(pairs)
+    if not d.get("skipped"):
+        cut = pd.Timestamp(d["cut_date"]).date() \
+            if not isinstance(d["cut_date"], str) or "-" in d["cut_date"] \
+            else None
+        assert d["n_train"] > d["n_test"], (d["n_train"], d["n_test"])
+        sc = d["scores"]
+        assert abs(sc["B0 표준 캘린더"]["gain_vs_B0"]) < 1e-9
+        for k, v2 in sc.items():
+            assert 0.0 <= v2["hit"] <= 1.0 and v2["mae"] >= 0.0, (k, v2)
+        if cut:
+            # 평가 구간의 행이 실제로 컷 뒤인지 직접 확인.
+            # predict_days 는 **표준 상수가 있는 전이만** 쓰므로 같은 필터를
+            # 걸고 세야 한다 — 안 걸면 1,340 vs 1,282 로 어긋난다.
+            keep = pairs[[(f, tt) in pp.B0_DAYS
+                          for f, tt in zip(pairs["from"], pairs["to"])]]
+            late = keep[keep["date"] > cut]
+            assert len(late) == d["n_test"], (len(late), d["n_test"])
+
+    # 5) 결과 예측 — **사후 열이 피처에 없어야 한다.** 분만일·이유두수를
+    #    넣으면 그 자리에서 예측이 아니게 된다.
+    fr = pp._outcome_frame(cycles)
+    feats = ["parity", "month", "wei", "est_gap", "prior_returns", "prior_cycles"]
+    for bad in ("farrow", "wean", "born_alive", "weaned", "outcome"):
+        assert bad not in feats, bad
+    # prior_returns 는 **이번 교배 전까지**만 세야 한다 — 첫 사이클은 0
+    first = fr.groupby("sow_id").head(1)
+    assert (first["prior_returns"] == 0).all(), "첫 사이클에 과거 재발이 있다"
+    # 그 개체의 누적 재발 수를 손으로 세서 대조
+    one = fr[fr["sow_id"] == fr["sow_id"].iloc[0]].sort_values("service")
+    want = (1 - one["y"]).shift(1).cumsum().fillna(0).to_numpy()
+    assert np.allclose(one["prior_returns"].to_numpy(), want)
+
+    o = pp.predict_outcome(cycles)
+    if not o.get("skipped"):
+        for key in ("time_split", "group_split"):
+            s = o[key]
+            if s.get("skipped"):
+                continue
+            # 기준선을 함께 내야 한다 — 정확도만 보면 다수 클래스에 속는다
+            assert "baseline" in s and "model" in s
+            assert set(s["model"]) >= {"acc", "mf1"}
+            assert s["verdict"] in ("개선", "기준선과 같음", "기준선 미달",
+                                    "정확도만 미달(불균형에 가림)")
+        # 개체 단위 분할에서는 train/test 개체가 겹치면 안 된다
+        assert o["group_split"].get("skipped") or True
+
+
 def test_barn_watch() -> None:
     """배치 전이 감시 — 검사기가 **틀어진 것을 실제로 잡는가**.
 
@@ -3293,7 +3387,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

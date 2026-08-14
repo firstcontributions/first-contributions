@@ -20,7 +20,7 @@ CCTV 발정 탐지에서 출발했지만, 국내 실측을 재 보니 손실이 
 
 ## 2. 지금 서 있는 자리
 
-**규모** 모듈 65개 · 대시보드 뷰 22개 · 테스트 68개(전부 통과)
+**규모** 모듈 66개 · 대시보드 뷰 22개 · 테스트 69개(전부 통과)
 자체완결 HTML(외부 연결 0) · `python competition/tests/smoke_test.py`
 
 ### 손에 쥔 데이터
@@ -263,7 +263,7 @@ PSY 27.69(프로그램 가정) vs 25.34(중앙 농장) = **+2.36두 낙관**.
 
 ```bash
 cd /path/to/first-contributions
-python competition/tests/smoke_test.py              # 68/68
+python competition/tests/smoke_test.py              # 69/69
 
 python competition/src/run_farm.py --sows 300       # 설계~손익 6단계
 python competition/src/farm_gap.py --program --sows 300   # 가정 vs 실측
@@ -272,6 +272,7 @@ python competition/src/farm_monthly_panel.py --audit    # 월별 원자료 감�
 python competition/src/farm_monthly_panel.py --season   # 농장별 계절 손실 → 원/년
 python competition/src/farm_monthly_panel.py --model    # lag 기준선 · 114일 검증
 python competition/src/barn_watch.py --sows 300 --sweep # 배치 전이마다 돈사 검사
+python competition/src/path_predict.py --years 3       # 로그 → 경로 → 예측
 python competition/src/korean_farm_stats.py         # 466행 집계
 python competition/src/farm_monthly.py              # 월별 계절성
 

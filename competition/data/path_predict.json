@@ -1,0 +1,203 @@
+{
+ "source": "합성(synth_farm) — 실농장 로그 아님",
+ "params_source": {
+  "annual": "202농장 2020~2023",
+  "monthly": "179농장 2020~2023"
+ },
+ "n_animals": 300,
+ "n_events": 11624,
+ "n_cycles": 2906,
+ "events_per_animal": 38.7,
+ "variants": [
+  {
+   "path": "이유 → 발정확인 → 교배 → 분만",
+   "n": 2379,
+   "median_days": 121.0,
+   "standard": true,
+   "share": 0.8187
+  },
+  {
+   "path": "이유 → 발정확인 → 교배 → 재발정",
+   "n": 527,
+   "median_days": 28.0,
+   "standard": false,
+   "share": 0.1813
+  }
+ ],
+ "transitions": [
+  {
+   "from": "이유",
+   "to": "발정확인",
+   "n": 2906,
+   "p10": 4.0,
+   "median": 6.0,
+   "p90": 10.0,
+   "standard": 5.0,
+   "diff": 1.0
+  },
+  {
+   "from": "발정확인",
+   "to": "교배",
+   "n": 2906,
+   "p10": 0.0,
+   "median": 1.0,
+   "p90": 1.0,
+   "standard": 1.0,
+   "diff": 0.0
+  },
+  {
+   "from": "교배",
+   "to": "분만",
+   "n": 2379,
+   "p10": 113.0,
+   "median": 114.0,
+   "p90": 116.0,
+   "standard": 115.0,
+   "diff": -1.0
+  },
+  {
+   "from": "분만",
+   "to": "이유",
+   "n": 2099,
+   "p10": 22.0,
+   "median": 24.0,
+   "p90": 26.0,
+   "standard": 28.0,
+   "diff": -4.0
+  },
+  {
+   "from": "교배",
+   "to": "재발정",
+   "n": 527,
+   "p10": 21.0,
+   "median": 21.0,
+   "p90": 21.0,
+   "standard": 21.0,
+   "diff": 0.0
+  },
+  {
+   "from": "재발정",
+   "to": "이유",
+   "n": 507,
+   "p10": 0.0,
+   "median": 15.0,
+   "p90": 50.0,
+   "standard": NaN,
+   "diff": NaN
+  }
+ ],
+ "recovery": {
+  "wei": {
+   "injected": 6.9,
+   "recovered": 6.77,
+   "median": 6.0,
+   "n": 2906,
+   "ok": true
+  },
+  "gestation": {
+   "injected": 115.0,
+   "recovered": 114.49,
+   "median": 114.0,
+   "n": 2379,
+   "ok": true
+  },
+  "lactation": {
+   "injected": 24.8,
+   "recovered": 24.28,
+   "median": 24.0,
+   "n": 2099,
+   "ok": true
+  },
+  "farrowing_rate": {
+   "injected": 0.82,
+   "recovered": 0.8187,
+   "median": null,
+   "n": 2906,
+   "ok": true
+  }
+ },
+ "days": {
+  "cut_date": "2027-02-04",
+  "n_train": 7575,
+  "n_test": 3242,
+  "scores": {
+   "B0 표준 캘린더": {
+    "mae": 1.646,
+    "hit": 0.75,
+    "gain_vs_B0": 0.0
+   },
+   "B1 농장 중앙값": {
+    "mae": 1.04,
+    "hit": 0.915,
+    "gain_vs_B0": 0.3682
+   },
+   "B2 개체 과거": {
+    "mae": 1.15,
+    "hit": 0.874,
+    "gain_vs_B0": 0.3013
+   }
+  },
+  "by_transition": {
+   "교배→분만": {
+    "n": 870,
+    "mae_B0": 1.03,
+    "mae_B1": 1.01
+   },
+   "교배→재발정": {
+    "n": 142,
+    "mae_B0": 0.0,
+    "mae_B1": 0.0
+   },
+   "발정확인→교배": {
+    "n": 794,
+    "mae_B0": 0.49,
+    "mae_B1": 0.51
+   },
+   "분만→이유": {
+    "n": 643,
+    "mae_B0": 3.72,
+    "mae_B1": 1.17
+   },
+   "이유→발정확인": {
+    "n": 793,
+    "mae_B0": 2.1,
+    "mae_B1": 1.68
+   }
+  }
+ },
+ "outcome": {
+  "cut_date": "2026-12-28",
+  "n": 2906,
+  "time_split": {
+   "n_train": 2034,
+   "n_test": 872,
+   "model": {
+    "acc": 0.819954128440367,
+    "mf1": 0.4505356017643352,
+    "n": 872
+   },
+   "baseline": {
+    "acc": 0.8314220183486238,
+    "mf1": 0.45397620538509703,
+    "n": 872
+   },
+   "verdict": "기준선 미달"
+  },
+  "shared_animals": 300,
+  "group_split": {
+   "n_train": 2185,
+   "n_test": 721,
+   "model": {
+    "acc": 0.8196948682385575,
+    "mf1": 0.4504573170731707,
+    "n": 721
+   },
+   "baseline": {
+    "acc": 0.8196948682385575,
+    "mf1": 0.4504573170731707,
+    "n": 721
+   },
+   "verdict": "기준선과 같음"
+  }
+ }
+}
