@@ -3214,6 +3214,7 @@ Amna Naeem
 - [Luiz Gustavo](https://github.com/luizg-martins)
 - [mlv](https://github.com/marcelo-mlv)
 - [Josue_Batz]
+- [Shuai Wang](https://github.com/fns3ii)
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 - [Sunir Ibrahim](https://github.com/sunir-ibrahim)
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
