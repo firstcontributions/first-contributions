@@ -75,6 +75,7 @@ Varshith IMT2024044
 - Mohammed Ayaan
 - Naitik
 - Krititka
+- Karst
 -Harsha BT2024148
 - mohammedfarhanBT2024140
 - mannerohithsaiBT2024144(https://github.com/Rohithmanne13)
