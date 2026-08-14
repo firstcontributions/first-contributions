@@ -5,6 +5,7 @@
 -[Alan]
 - [Anita Demo 814]
 - [Sophia]
+[Rohit Patil](https://github.com/JediScout10)
 - [Maicon Vieira](https://github.com/maiconvieira)
 - [isarebolo12](https://github.com/isarebolo12)
 - [Dhanush](https://github.com/dhanush080607)
