@@ -1,4 +1,5 @@
 # Contributors
+-[Alan]
 - [Anita Demo 814]
 - [Sophia]
 - [Maicon Vieira](https://github.com/maiconvieira)
