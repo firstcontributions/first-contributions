@@ -2283,7 +2283,7 @@ def test_ml_core() -> None:
 def test_pc_suite() -> None:
     """PC 통합 콘솔 — 여섯 화면을 한 파일로 합쳤는가.
 
-    합치는 방식이 핵심이다. 여섯 뷰가 전부 `.card` `.wrap` 같은 **같은
+    합치는 방식이 핵심이다. 일곱 뷰가 전부 `.card` `.wrap` 같은 **같은
     클래스명**을 쓰고 각자 전역 스크립트를 깐다. DOM 을 이어붙이면 CSS 가
     서로를 덮으므로 srcdoc iframe 으로 격리해야 하고, 그게 유지되는지 본다.
     """
@@ -2294,7 +2294,7 @@ def test_pc_suite() -> None:
     # 모바일은 빠져야 한다 — 그게 이 뷰의 전제다
     names = [v[0] for v in bps.VIEWS]
     assert "app_prototype.html" not in names and "app_screens.html" not in names
-    assert len(names) == len(set(names)) == 6
+    assert len(names) == len(set(names)) == 7
 
     made = [n for n in names if os.path.exists(os.path.join(ROOT, "dashboard", n))]
     if not made:
@@ -2333,6 +2333,74 @@ def test_pc_suite() -> None:
     # 합치는 쪽이 원본보다 **뒤에** 돌아야 한다
     assert sh.index("build_pc_suite.py") > sh.index("build_farm_diagnosis.py")
     assert sh.index("build_pc_suite.py") < sh.index("build_dashboard_hub.py")
+
+
+def test_farm_setup_view() -> None:
+    """농장 등록 화면 — 어휘가 코드와 같은가, 그리고 아무 데도 안 보내는가.
+
+    이 화면의 위험은 계산이 아니라 **어휘 분기**다. 여기서 축사 용도나 사육
+    방식을 손으로 적어 두면 `farm_registry` 가 거절하는 값을 사용자에게
+    권하게 된다. 그래서 상수를 그대로 쓰는지 본다.
+    """
+    import json
+    import re
+    import build_farm_setup as bfs
+    import farm_registry as fr
+
+    html = bfs.build()
+
+    # 자체완결 — 외부 연결 0. 농장 정보를 다루는 화면이라 특히 그렇다
+    ext = re.findall(r'https?://[^"\'\s)]+', html)
+    assert not ext, f"외부 URL {ext[:3]}"
+    assert not re.findall(r'<(?:script|link|img)[^>]*\bsrc=|<link[^>]*href=', html)
+    # **전송 경로가 없어야 한다.** 입력값이 곧 농장 식별자다
+    for bad in ("fetch(", "XMLHttpRequest", "navigator.sendBeacon",
+                "WebSocket", "<form"):
+        assert bad not in html, f"전송 경로로 보이는 것: {bad}"
+    assert "localStorage" in html, "로컬 저장이 없으면 매번 다시 입력해야 한다"
+
+    # 어휘는 farm_registry 것을 그대로 — 새 낱말을 만들면 코드와 갈라진다.
+    # 선택지는 JS 가 그리므로 화면에 심은 **목록 자체**를 꺼내 대조한다.
+    def embedded(name):
+        m = re.search(rf"^const {name} = (\[.*?\]);$", html, re.M | re.S)
+        assert m, f"{name} 목록을 화면에서 찾지 못했다"
+        return json.loads(m.group(1))
+
+    assert embedded("STAGES") == list(fr.BARN_STAGES), "축사 용도 어휘가 갈렸다"
+    assert [h[0] for h in embedded("HOUSING")] == list(fr.HOUSING), \
+        "사육 방식 어휘가 갈렸다"
+    # 사육 방식 → 발정 판정 경로도 코드에서 와야 한다
+    cm = re.search(r"^const CFG = (\{.*?\});$", html, re.M | re.S)
+    assert cm, "CFG 를 찾지 못했다"
+    cfg = json.loads(cm.group(1))
+    for h, v in fr.HOUSING.items():
+        assert cfg["routes"][h]["module"] == v[1], (h, cfg["routes"][h])
+
+    # 성적란은 run_farm 이 **실제로 받는 인자**여야 한다. 없는 인자를 만들면
+    # 복사해서 붙인 명령줄이 그 자리에서 죽는다.
+    import run_farm
+    ap_src = open(os.path.join(ROOT, "src", "run_farm.py"),
+                  encoding="utf-8").read()
+    for _, _, _, arg, _, _ in bfs.PERF:
+        flag = "--" + arg.replace("_", "-")
+        assert flag in ap_src, f"run_farm 에 없는 인자를 권하고 있다: {flag}"
+    assert run_farm is not None
+
+    # 빈 칸을 중앙값으로 채우지 않는다 — 격차가 늘 0 으로 찍혔던 버그
+    assert "진단에서 제외" in html and "중앙값을 넣지 않습니다" in html
+
+    # 분위수는 466행 실측에서 온다. 화면이 따로 만들어 쓰면 갈린다
+    q = bfs.quantiles()
+    assert "farrowing_rate" in q and "npd" in q, q
+    st = json.load(open(os.path.join(ROOT, "data", "korean_farm_stats.json"),
+                        encoding="utf-8"))
+    assert q["npd"]["p50"] == st["quantiles"]["npd"]["p50"]
+
+    # 번식 상수도 pigflow 에서 받아야 한다
+    from pigflow.config import BREEDING_DEFAULTS as B
+    d = bfs.defaults()
+    assert d["gestation"] == float(B["gestation_days"])
+    assert d["lactation"] == float(B["lactation_days"])
 
 
 def test_farm_diagnosis_view() -> None:
@@ -3119,7 +3187,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

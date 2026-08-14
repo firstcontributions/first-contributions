@@ -39,6 +39,9 @@ OUT = os.path.join(DASH, "pc_suite.html")
 # 모바일(app_prototype·app_screens)은 뺀다. 아래 여섯이 PC 에서 진행하는 것.
 # 순서 = 실제 업무 순서: 오늘 할 일 → 번식 → 도면 → 흐름 → 진단 → 검증.
 VIEWS = [
+    # 처음 쓰는 사람이 가장 먼저 만나는 화면이라 맨 앞에 둔다
+    ("farm_setup.html", "농장 등록", "🏠",
+     "규모 · 축사동 · 운영 방식 → 배치 설계와 부족분을 즉시 검산"),
     ("pc_console.html", "관리 콘솔", "🖥️",
      "오늘의 작업 큐 · 일괄 처리 · 작업지시서"),
     ("breeding_console.html", "번식 관리", "📋",

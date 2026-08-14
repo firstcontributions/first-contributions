@@ -20,7 +20,7 @@ CCTV 발정 탐지에서 출발했지만, 국내 실측을 재 보니 손실이 
 
 ## 2. 지금 서 있는 자리
 
-**규모** 모듈 64개 · 대시보드 뷰 21개 · 테스트 66개(전부 통과)
+**규모** 모듈 64개 · 대시보드 뷰 22개 · 테스트 67개(전부 통과)
 자체완결 HTML(외부 연결 0) · `python competition/tests/smoke_test.py`
 
 ### 손에 쥔 데이터
@@ -263,7 +263,7 @@ PSY 27.69(프로그램 가정) vs 25.34(중앙 농장) = **+2.36두 낙관**.
 
 ```bash
 cd /path/to/first-contributions
-python competition/tests/smoke_test.py              # 66/66
+python competition/tests/smoke_test.py              # 67/67
 
 python competition/src/run_farm.py --sows 300       # 설계~손익 6단계
 python competition/src/farm_gap.py --program --sows 300   # 가정 vs 실측
@@ -274,7 +274,7 @@ python competition/src/farm_monthly_panel.py --model    # lag 기준선 · 114�
 python competition/src/korean_farm_stats.py         # 466행 집계
 python competition/src/farm_monthly.py              # 월별 계절성
 
-bash competition/build_all.sh                       # 대시보드 21뷰 + 허브
+bash competition/build_all.sh                       # 대시보드 22뷰 + 허브
 python competition/src/ml_core.py                   # DL 과제별 가용 점검
 python competition/tools/check_docs.py              # 문서 수치 대조
 ```

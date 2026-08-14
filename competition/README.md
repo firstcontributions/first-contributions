@@ -236,8 +236,9 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 # → competition/dashboard/index.html 를 브라우저로 열면 통합 이동
 ```
 
-### 농장 운영 (현장·설계) (7)
-- 🗂️ **★ PC 통합 콘솔 (한 파일)** — 사무실에서 진행하는 화면 6개를 한 HTML 로 — 사이드바·숫자키 이동 · 모바일 제외
+### 농장 운영 (현장·설계) (8)
+- 🏠 **농장 등록 (처음 한 번)** — 우리 농장 규모·축사동·운영 방식을 넣으면 배치 설계·필요 돈방·발정 판정 경로가 즉시 나온다
+- 🗂️ **★ PC 통합 콘솔 (한 파일)** — 사무실에서 진행하는 화면 7개를 한 HTML 로 — 사이드바·숫자키 이동 · 모바일 제외
 - 🖥️ **PC 관리 콘솔 (동작)** — 사무실용 — 일괄 처리·정렬·작업지시서 인쇄·단축키
 - 🐖 **앱 프로토타입 (동작)** — 실제로 눌러서 돌아다니는 앱 — 탭 이동·검색·도면 드릴다운
 - 📱 **앱 사용 화면** — 농가가 보게 될 6개 화면 — 실데이터로 채운 하루 동선
@@ -305,7 +306,7 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 | **패널로 교란 제거** | 같은 농장 전년 대비 변화. 하락군은 Δ이유두수 +0.00두인데 ΔNPD +11.6일 — 하락은 사양이 아니라 발정·교배 관리 | `farm_panel.py` |
 | **무센서 개체 식별** | 기존 CCTV 만. 영상 Re-ID 로 트랙 단편화 −46%, GT ID 일관성 0.77 | `reid.py` |
 | **평가 투명성** | 개체·뷰 분리 검증, 보정곡선(Brier 0.174), 자세 LOVO 0.684 ± 0.028 | `build_eval_report.py` |
-| **재현성** | 테스트 66개 · 자체완결 대시보드 21뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
+| **재현성** | 테스트 67개 · 자체완결 대시보드 22뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
 
 ### 다루지 않는 영역 — 여기서 기대하면 안 되는 것
 
@@ -341,7 +342,7 @@ RFID 이표는 개체 ID 가 결정적으로 읽히고, 영상 Re-ID 는 학습�
 - [x] 관찰: 탐지→추적→행동 인식→활동 분석
 - [x] 진단: 문제 3종 분류 + 원인 4종 귀인 + 처방
 - [x] 예측: 발정 조기경보(D-day·지연/무발정)
-- [x] 대시보드: 21뷰 통합 허브 + 평가 신뢰도 리포트
+- [x] 대시보드: 22뷰 통합 허브 + 평가 신뢰도 리포트
 - [x] 실측: 71471 발정 정답 검증 — 서브셋 부적합을 3단계 설계로 규명(AUC 0.465)
 - [x] keypoints 경로 시도: 파서·자세 기술자(44개, 회전·크기 불변) 완성. 날짜
       불일치로 개체 내 대조는 미실시했으나, **자세 vs 행동라벨 정보량 비교**를
@@ -364,7 +365,7 @@ competition/
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
   docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md · PRESENTATION.md · STATUS.md · ML.md
-  src/   (87개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
+  src/   (88개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
     ── 인식   posture_crossview.py  view_align.py  motion_tracker.py  iou_tracker.py
     ── 번식   breeding_timing.py  repro_calendar.py  pregnancy_check.py
               herd_board.py  breeding_ledger.py  work_log.py
@@ -376,7 +377,7 @@ competition/
     calc.py  config.py  models.py  simulator.py  validate.py  report.py
     example_farm.yaml  tests/test_pigflow.py
   tests/ smoke_test.py       # 47개 스모크 테스트(pigflow 30개 포함)
-  dashboard/                 # (생성물) 뷰 21개 — 허브 index.html 제외 커밋 안 함
+  dashboard/                 # (생성물) 뷰 22개 — 허브 index.html 제외 커밋 안 함
   data/, outputs/            # (생성물)
 ```
 
@@ -386,7 +387,7 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 66/66 통과 확인
+python competition/tests/smoke_test.py        # 67/67 통과 확인
 
 # ★ 전체 시뮬레이션 — 모돈 두수 하나로 설계·흐름·성적진단·손익까지
 python competition/src/run_farm.py --sows 300
