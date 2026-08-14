@@ -1,4 +1,5 @@
 # Contributors
+- [Sophia]
 - [Maicon Vieira](https://github.com/maiconvieira)
 - [isarebolo12](https://github.com/isarebolo12)
 - [Dhanush](https://github.com/dhanush080607)
