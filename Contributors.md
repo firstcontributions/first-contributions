@@ -171,6 +171,7 @@ Varshith IMT2024044
 - drzn
 - [Rakhi Jamdade]
 - [Yashvi Mehta]
+  [aditya-gupta](https://github.com/aaditya0000007)
 - [abdelrahman-mahmoud] (Iterating Test)
 - [hamsehmahamud] (https://github.com/hamsehmahamud)
 -[harshita-suresh] (https://github.com/Harshi108)
