@@ -1639,6 +1639,7 @@ Amna Naeem
 - [Avanish](https://github.com/satyaavanish)
 - [BrokenHardware](https://github.com/Aryan3it)
 - [Avi Pandey](https://github.com/avi2512)
+- [Aryan Lad](https://github.com/AryanLad17)
 - [Avneesh](https://github.com/Avneesh26024)
 - [Sunshine](https://github.com/Sunshine1917)
 - [Aya Driouche](https://github.com/aya119119)
