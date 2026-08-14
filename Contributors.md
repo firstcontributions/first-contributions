@@ -13,7 +13,9 @@
 - [Muhammad08-dot](https://github.com/Muhammad08-dot)
 - [Hossein P.™](https://GitHub.com/HP2000C)
 - [Jacky](https://github.com/jackyzpanda)
+- [Satyam Adhav](https://github.com/satyamadhav9104)
 - [Pranjal Mahajan](https://github.com/Pranjal-mahajan113) — [LinkedIn](https://www.linkedin.com/in/pranjal-mahajan-21a7ba361)
+
 - [Anagha Shetty](https://github.com/anaghashetty23)
 - [Aqsa Jamali](https://github.com/AqsaAliRazaJamali)
 - Ran Wang https://github.com/ranw27798-ux
