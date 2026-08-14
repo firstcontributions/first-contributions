@@ -1,5 +1,6 @@
 # Contributors
 - [Anita Demo 814]
+- [Sophia]
 - [Maicon Vieira](https://github.com/maiconvieira)
 - [isarebolo12](https://github.com/isarebolo12)
 - [Dhanush](https://github.com/dhanush080607)
@@ -4402,3 +4403,4 @@ the world is a stand
 - [israel2015sccp-hub](https://github.com/israel2015sccp-hub)
 
 - [Nathan Pham](https://github.com/natphm)
+- [yebonstar-tech](https://github.com/yebonstar-tech)
