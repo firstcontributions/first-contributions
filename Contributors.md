@@ -102,6 +102,7 @@ Varshith IMT2024044
 - [Soham Banerjee](https://github.com/oki-dokii)
 - [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [Soham Banerjee](https://github.com/oki-dokii)
+- [Suhas GP](https://github.com/suhasgp2003)
 - [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
 - [Dinesh Karthik BT2024199] (https://github.com/DINESH3803)
 - [Vishudha Sood IMT2024067] (https://github.com/VishudhaSood)
