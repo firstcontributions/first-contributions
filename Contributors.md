@@ -3218,6 +3218,7 @@ Amna Naeem
 - [Shuai Wang](https://github.com/fns3ii)
 - [Manas Rajdeep](https://github.com/manasrajdeep)
 - [Sunir Ibrahim](https://github.com/sunir-ibrahim)
+  [Sóstenes Maciel](https://github.com/Sostenes-Maciel)
 - [Joshua Muinde] (https://github.com/Joshua-Muinde)
 - [Aayush Gupta ] (https://github.com/Aayush652-ops)
 - Sahana K (sahanakothandapani1)
