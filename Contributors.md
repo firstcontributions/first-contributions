@@ -4395,6 +4395,9 @@ the world is a stand
 - [Mudassir Ahmad](https://github.com/Mudassir-ahmad551080)
 - [BTK9938](https://github.com/BTK9938)
 - [btk linkedin](linkedin.com/in/bommisetty-tandava-krishna-57923531a)
+- [Abimael243](https://github.com/Abimael243)
+- [Dead_0hlin](https://github.com/Dead0hlin)
+- [Mayank Sharma](https://github.com/mayank19-sha)
 
 [AMABUA REAGAN](https://github.com/regs123guy)
 - ShaneNg PR FirstContributions
