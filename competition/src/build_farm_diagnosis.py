@@ -31,6 +31,7 @@ sys.path.insert(0, ROOT)
 OUT = os.path.join(ROOT, "dashboard", "farm_diagnosis.html")
 PANEL_JSON = os.path.join(ROOT, "data", "farm_panel.json")
 MONTHLY_JSON = os.path.join(ROOT, "data", "farm_monthly.json")
+MONTHLY_PANEL_JSON = os.path.join(ROOT, "data", "farm_monthly_panel.json")
 
 # 예시 농장 — 실측 하위권 근처로 잡아 격차가 보이게 한다. **실제 농장이
 # 아니다.** 사용자가 자기 값을 넣으면 이 자리가 그 농장으로 바뀐다.
@@ -173,8 +174,9 @@ def collect() -> dict:
          "npd": fg.npd_floor_annual(B)}, st)
     panel = json.load(open(PANEL_JSON, encoding="utf-8"))
     monthly = json.load(open(MONTHLY_JSON, encoding="utf-8"))
+    panel_month = json.load(open(MONTHLY_PANEL_JSON, encoding="utf-8"))
     return {"stats": st, "diag": diag, "prog": prog,
-            "panel": panel, "monthly": monthly}
+            "panel": panel, "monthly": monthly, "panel_month": panel_month}
 
 
 # -- 패널 ------------------------------------------------------------------
@@ -261,9 +263,41 @@ def panel4(d: dict) -> str:
               '</div>'
             + f'<div class="key">같은 데이터다. <b>기록월로 보면 최저가 '
               f'{raw["min_month"]}월</b>이라 여름 불임이 안 보이고, 여름−겨울이 '
-              f'{raw.get("summer_minus_winter", 0):+.2f}%p 로 오히려 양수다. '
+              f'{raw.get("summer_minus_winter", 0):+.2f}%p 로 거의 0 이다. '
               f'임신 114일을 빼서 교배월로 되돌리면 <b>최저가 {sh["min_month"]}월</b>, '
-              f'여름−겨울 <b>{sh["summer_minus_winter"]:+.1f}%p</b>.</div>')
+              f'여름−겨울 <b>{sh["summer_minus_winter"]:+.2f}%p</b>.</div>')
+
+
+def panel4b(d: dict) -> str:
+    """전체 곡선 하나로는 "우리 농장이 취약한 쪽인가"에 답을 못 한다.
+
+    그래서 농장별 손실 분포를 패널 1 과 **같은 띠**로 그린다. 새 그림을
+    만들지 않고 기존 `quantile_strip` 을 쓰는 이유는, 심사위원이 이미 위에서
+    읽는 법을 배운 그림이기 때문이다. 점은 전체 평균 — 평균이 분포 어디에
+    앉아 있는지가 이 패널의 요지다.
+    """
+    p = d["panel_month"]
+    q, sp, mn = p["loss"], p["spread"], p["money"]
+    z = p["loss_shrunk"]
+    strip = {"p10": q["p10"], "p25": q["p25"], "p50": q["median"],
+             "p75": q["p75"], "p90": q["p90"]}
+    avg = -p["overall"]["summer_minus_winter"]      # 손실 부호로 뒤집는다
+    return (quantile_strip(strip, round(avg, 2), "농장별 여름 손실", "%p",
+                           higher_better=False)
+            + f'<div class="key">겨울 교배 − 여름 교배, 양수면 여름에 손해 · '
+              f'<b>{p["n_farms"]}농장</b>. 전체 평균 {avg:+.2f}%p 뒤에 '
+              f'<b>하위10% {q["p10"]:+.1f} ~ 상위10% {q["p90"]:+.1f}%p</b> 가 '
+              f'숨어 있다 — 여름 대책은 전 농장 공통 처방이 아니다.'
+              f'<br>관측 분산의 <b>{sp["true_share"]:.0%}</b> 만 진짜 농장 차이고 '
+              f'나머지는 표본 오차다(농장마다 계절당 3개월). 그 몫을 걷어내면 '
+              f'SD {sp["sd_observed"]} → <b>{sp["sd_true"]}%p</b>, '
+              f'분포는 {z["p10"]:+.1f} ~ {z["p90"]:+.1f}%p 로 좁아지지만 '
+              f'<b>사라지지 않는다</b>.'
+              f'<br>{mn["ref_sows"]}두 환산 손실 상한 — 중앙 '
+              f'<b>{mn["won_ref"]["median"]/1e4:,.0f}만원/년</b> · 상위10% '
+              f'<b>{mn["won_ref"]["p90"]/1e4:,.0f}만원/년</b>. '
+              f'{mn["n"]}농장 실제 규모 합 '
+              f'<b>{mn["total_won"]/1e8:,.1f}억원/년</b>.</div>')
 
 
 def panel5(d: dict) -> str:
@@ -311,9 +345,11 @@ def build(d: dict) -> str:
          "횡단면 상관은 시설 좋은 농장이 다 좋을 뿐일 수 있다. "
          "<b>같은 농장의 변화</b>로 보면 그 교란이 차분으로 지워진다.",
          panel3(d)),
-        ("4", "여름 불임은 교배월로 되돌려야 보인다", "실측",
+        ("4", "여름 불임은 교배월로 되돌려야 보이고, 농장마다 다르다", "실측",
          f"{d['monthly']['n_farms']}농장 월별 · 관측 "
-         f"{d['monthly']['n_obs']:,}건", "", panel4(d)),
+         f"{d['monthly']['n_obs']:,}건 · 분만율은 "
+         f"{d['panel_month']['n_farms']}농장 (중복 제거 후)",
+         "", panel4(d) + panel4b(d)),
         ("5", "이 프로그램이 스스로 신고하는 낙관 폭", "계산",
          "pigflow 기본 상수 대 466농장 실측 — 실제 농장 기록이 아니다",
          "자기 설계가 얼마나 낙관적인지를 같은 자로 잰다.", panel5(d)),

@@ -228,6 +228,43 @@ def check_survival(report: list) -> None:
                 f"{name}  육성률 상위10% 재계산값 {pct['p90']} 가 문서에 없다")
 
 
+def check_season(report: list) -> None:
+    """월별 계절 수치는 **중복을 지운 뒤 값**이어야 한다.
+
+    원자료 6,533행 중 유일한 건 1,464행뿐이었다. 중복 위에서 낸 −2.70%p 와
+    66.9→67.1% 같은 옛 값이 문서에 남으면, 같은 리포지터리 안에서 두 값이
+    싸운다. 그래서 옛 값은 주장으로 못 쓰게 막고, 새 값은 실려 있는지 본다.
+    """
+    p = os.path.join(COMP, "data", "farm_monthly.json")
+    if not os.path.exists(p):
+        return
+    m = json.load(open(p, encoding="utf-8"))
+    gap = m["farrowing_rate"]["summer_minus_winter"]
+    ret = m["accidents"]["return_share"]
+    want = {"여름 교배 격차": f"{abs(gap):.2f}%p",
+            "재발 계열 비중": f"{ret:.1%}"}
+    stale = ("2.7%p", "67.1%", "35.9", "19.6")     # 중복 위에서 냈던 값
+    EXCUSE = ("중복", "틀렸", "처음엔", "잘못", "옛 ", "폐기", "재계산")
+    for path in DOCS:
+        if not os.path.exists(path):
+            continue
+        t = open(path, encoding="utf-8").read().replace("−", "-")
+        if "교배" not in t or "여름" not in t:
+            continue
+        name = os.path.basename(path)
+        for ln, line in enumerate(t.splitlines(), 1):
+            if any(x in line for x in EXCUSE):
+                continue
+            for s in stale:
+                if s in line:
+                    report.append(
+                        f"{name}:{ln}  월별 계절 수치에 중복 제거 전 값 {s} 이 "
+                        f"주장으로 남아 있다")
+        for label, s in want.items():
+            if s not in t:
+                report.append(f"{name}  {label} 재계산값 '{s}' 가 문서에 없다")
+
+
 def check_links(report: list) -> None:
     """문서가 가리키는 파일이 실제로 있는지."""
     for path in DOCS:
@@ -364,6 +401,7 @@ def main() -> int:
     check_metrics(report)
     check_gap_figures(report)
     check_survival(report)
+    check_season(report)
     check_view_list(report)
     check_negative_results(report)
     check_links(report)

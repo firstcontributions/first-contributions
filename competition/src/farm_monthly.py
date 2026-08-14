@@ -6,22 +6,26 @@
 ## 두 가지를 이 데이터로 확인했다
 
 **1) 여름 불임이 실재한다 — 단 교배월로 되돌려야 보인다.**
-분만율은 **분만 시점**에 기록되므로 그대로 보면 12월이 최저(80.2%)다. 임신
+분만율은 **분만 시점**에 기록되므로 그대로 보면 11월이 최저다. 임신
 114일(≈3.8개월)을 빼서 교배월로 옮기면 7·8월 교배분이 최저다:
 
-    교배 7월 → 분만 11월  80.3%
-    교배 8월 → 분만 12월  80.2%
-    여름 교배(7·8·9월) 81.0%  vs  겨울 교배(1·2·3월) 83.7%   → −2.7%p
+    교배 7월 → 분만 11월  79.9%
+    교배 8월 → 분만 12월  80.6%
+    여름 교배(7·8·9월) 81.1%  vs  겨울 교배(1·2·3월) 84.1%   → −2.97%p
 
 **2) 임신사고의 3분의 2가 '재발'이다 — 발정 관리가 잡는 항목.**
-1차 재발 35.9% + 불규칙 19.6% + 2차 재발 11.5% = **67.1%**.
+1차 재발 35.3% + 불규칙 19.9% + 2차 재발 11.7% = **66.9%**.
 
 ## 커버리지 함정
 
 지표마다 보고하는 농장 수가 다르다(공태 52.6% vs 2차재발 22.1%). 전체 합으로
-구성비를 내면 많이 보고된 항목이 커 보인다 — 실제로 그렇게 계산했을 때
-불규칙이 1위(29.0%)로 나왔지만, **전 유형을 다 보고한 농장-월만** 추리면
-1차 재발이 1위(35.9%)다. 이 모듈은 후자로 계산하고 커버리지를 함께 낸다.
+구성비를 내면 많이 보고된 항목이 커 보인다. **전 유형을 다 보고한 농장-월만**
+추리면 1차 재발 35.3%, 전체 합으로는 27.4% — **7.9%p 차이**다. 재발 계열
+합계도 66.9% vs 61.3% 로 갈린다. 이 모듈은 전자로 계산하고 커버리지를 함께 낸다.
+
+한때 "전체 합으로 계산하면 1위가 불규칙(29.0%)으로 바뀐다"고 적었는데,
+그 순위 뒤집힘은 **원자료 중복이 만든 것**이었다. 중복을 지우면 1위는 양쪽
+다 1차 재발이다. 함정은 실재하지만 순위가 아니라 **크기**에서 나타난다.
 
     python competition/src/farm_monthly.py
 """
@@ -60,6 +64,11 @@ def load(path: str | None = None) -> pd.DataFrame:
     miss = [c for c in need if c not in d.columns]
     if miss:
         raise SystemExit(f"컬럼이 없다: {miss}\n실제: {list(d.columns)}")
+    # 원자료 6,533행 중 유일한 건 1,464행뿐이다. 값이 다른 중복은 0건이라
+    # 어느 행을 남길지는 문제가 아니지만, 반복 횟수가 농장마다 1~14회로 달라
+    # 그대로 두면 많이 실린 농장이 중앙값을 끌고 간다. 이걸 안 지우고 냈던
+    # 여름 격차가 −2.70%p, 지우고 내면 −2.97%p 다.
+    d = d.drop_duplicates(["년도", "농장", "데이터구분"] + MONTHS)
     long = d.melt(id_vars=["년도", "지역", "규모", "농장", "데이터구분"],
                   value_vars=MONTHS, var_name="월", value_name="v")
     long["v"] = pd.to_numeric(long["v"], errors="coerce")
@@ -102,8 +111,8 @@ def accident_mix(long: pd.DataFrame) -> dict:
     """임신사고 구성 — **전 유형을 보고한 농장-월만** 쓴다.
 
     지표별 보고율이 22~53% 로 크게 다르다. 전체 합으로 구성비를 내면 많이
-    보고된 항목이 커 보인다(그렇게 하면 불규칙 29.0% 1위, 제대로 하면 1차
-    재발 35.9% 1위). 커버리지를 함께 돌려줘 이 한계를 드러낸다.
+    보고된 항목이 커 보인다 — 1차 재발이 35.3% 에서 27.4% 로 내려앉는다.
+    커버리지와 **두 계산의 차이**를 함께 돌려줘 이 한계를 값으로 남긴다.
     """
     acc = long[long["데이터구분"].str.startswith("임신사고")].copy()
     if not len(acc):
@@ -126,9 +135,14 @@ def accident_mix(long: pd.DataFrame) -> dict:
     naive = piv.sum()
     naive_mix = {k: round(float(v) / float(naive.sum()), 4)
                  for k, v in naive.sort_values(ascending=False).items()}
+    naive_ret = sum(naive_mix.get(t, 0.0) for t in RETURN_TYPES)
+    gap = max(abs(mix[k] - naive_mix.get(k, 0.0)) for k in mix)
     return {"coverage": coverage, "n_complete": int(len(full)),
             "n_all": int(len(piv)), "mix": mix,
             "return_share": round(ret, 4),
+            "naive_mix": naive_mix,
+            "naive_return_share": round(naive_ret, 4),
+            "max_mix_gap": round(gap, 4),
             "naive_mix_top": list(naive_mix)[:3],
             "mix_top": list(mix)[:3]}
 
@@ -144,7 +158,7 @@ def run(path: str | None = None, verbose: bool = True) -> dict:
         # 분만율·산자수는 분만 시점 기록 → 교배월로 되돌린다
         "farrowing_rate": seasonality(long, "분만율", shift_to_service=True),
         # **되돌리기 전** 곡선도 같이 낸다. 산식은 위와 같고 플래그만 다르다.
-        # 기록월 그대로 보면 12월이 최저라 여름 불임이 안 보이는데, 그 '안
+        # 기록월 그대로 보면 11월이 최저라 여름 불임이 안 보이는데, 그 '안
         # 보이는 그림' 을 나란히 놓지 않으면 왜 되돌려야 하는지가 안 보인다.
         "farrowing_rate_raw": seasonality(long, "분만율"),
         "weaned": seasonality(long, "평균이유", shift_to_service=True),
@@ -186,10 +200,11 @@ def _print(r: dict) -> None:
             print(f"    {k:<18}{v:>6.1%} {bar}")
         print(f"\n    **재발 계열 {a['return_share']:.1%}** "
               f"(1차·2차·불규칙) — 발정 관리가 직접 겨냥하는 항목")
-        if a["mix_top"][0] != a["naive_mix_top"][0]:
-            print(f"    ※ 전체 합으로 계산하면 1위가 {a['naive_mix_top'][0]} 로"
-                  f" 바뀐다. 지표별 보고율이 22~53% 로 달라 많이 보고된 항목이")
-            print(f"      커 보이기 때문이다 — 완전 보고 레코드만 쓴 위 값이 맞다.")
+        print(f"    ※ 전체 합으로 계산하면 재발 계열이 "
+              f"{a['naive_return_share']:.1%} 로 내려간다(최대 항목차 "
+              f"{a['max_mix_gap']:.1%}p). 지표별 보고율이 22~53% 로 달라")
+        print(f"      많이 보고된 항목이 커 보이기 때문이다 — "
+              f"완전 보고 레코드만 쓴 위 값이 맞다.")
 
 
 def main(argv=None) -> int:

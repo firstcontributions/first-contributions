@@ -2461,6 +2461,82 @@ def test_farm_panel() -> None:
     assert abs(p.iloc[0]["d_psy"] - 2.0) < 1e-9
 
 
+def test_farm_monthly_panel() -> None:
+    """농장별 계절 손실 → 원/년. 원자료 없이 JSON + 합성 프레임으로 검증."""
+    import json
+    import re
+    import numpy as np
+    import pandas as pd
+    import farm_monthly_panel as mp
+
+    j = os.path.join(ROOT, "data", "farm_monthly_panel.json")
+    assert os.path.exists(j), "월별 패널 집계 JSON 이 커밋돼 있어야 한다"
+    r = json.load(open(j, encoding="utf-8"))
+
+    blob = json.dumps(r, ensure_ascii=False)
+    assert "PIGGO" not in blob and not re.search(r'"0\d{6}"', blob), "식별자 누출"
+
+    # 중복이 실제로 있었고, 값이 다른 중복은 없다 — 그래서 지워도 안전하다
+    d = r["duplicates"]
+    assert d["rows_dedup"] < d["rows_raw"] and d["conflicting_keys"] == 0, d
+
+    # 되돌리기 전/후. 되돌려야만 여름이 드러난다는 게 발견 ③의 요지다
+    assert r["overall"]["summer_minus_winter"] < -2.0, r["overall"]
+    assert abs(r["overall_raw_month"]["summer_minus_winter"]) < 1.0, \
+        "기록월 기준으로도 여름이 보이면 되돌리기의 근거가 사라진다"
+
+    # 분산 분해는 항등식이다 — 관측 = 진짜 + 오차
+    s = r["spread"]
+    assert abs(s["var_true"] + s["var_error"] - s["var_observed"]) < 0.01, s
+    assert 0.0 < s["true_share"] < 1.0, s
+    assert s["sd_true"] < s["sd_observed"], s
+    # 수축은 **분포를 좁힌다**. 넓어지면 부호나 가중이 뒤집힌 것이다
+    z, q = r["loss_shrunk"], r["loss"]
+    assert (z["p90"] - z["p10"]) < (q["p90"] - q["p10"]), (z, q)
+
+    # 규모 보정: 작아서 시끄러운 게 맞다면 표준오차가 상시모돈과 음의 상관
+    b = r["by_size"]
+    assert b["rho_se_sows"] < -0.2, b
+    assert abs(b["gap_shrunk"]) < abs(b["gap_raw"]), \
+        f"수축 후 층간 차이가 안 줄었다: {b}"
+
+    # 금액은 PSY 지렛대에서 와야 한다 — 새 환산 계수를 만들면 축이 어긋난다
+    import farm_economics as fe
+    lev = fe.levers(n_sows=mp.REF_SOWS)
+    want = int(lev.loc[lev["lever"] == "PSY +1두", "두당효과"].iloc[0])
+    assert r["money"]["per_sow_won"] == want, (r["money"]["per_sow_won"], want)
+
+    # 경로 분해: 분만율만 크게 떨어지고 이유두수·재귀율은 거의 안 움직인다
+    pw = r["pathways"]
+    assert abs(pw["metrics"]["평균이유"]["summer_minus_winter"]) < 1.0, pw
+    # 여름에 사고 구성이 **재발 쪽으로** 기운다 — 발정 관리가 겨냥하는 항목
+    assert pw["accidents"]["delta"]["임신사고(1차)"] > 0.03, pw["accidents"]
+
+    # -- 함수 자체 ------------------------------------------------------
+    # 교배월 환산은 전단사여야 한다(farm_monthly 와 같은 규칙)
+    assert len({mp.service_month(m) for m in range(1, 13)}) == 12
+    assert mp.service_month(12) == 8
+
+    # 계절당 관측이 모자란 농장은 **빼야** 한다. 한 달짜리는 그 달의 사고다
+    # 분만 5·6·7월 → 교배 1·2·3월(겨울) · 분만 11·12·1월 → 교배 7·8·9월(여름)
+    def _row(farm, m, v):
+        return {"농장": farm, "년도": 2020, "데이터구분": "분만율",
+                "m": m, "v": v}
+    rows = [_row("A", m, v) for m, v in
+            ((5, 89.0), (6, 90.0), (7, 91.0),      # 겨울 평균 90
+             (11, 79.0), (12, 80.0), (1, 81.0))]   # 여름 평균 80 → 손실 10
+    rows += [_row("B", 6, 90.0), _row("B", 12, 80.0)]   # 계절당 1개월 — 빠져야
+    syn = pd.DataFrame(rows)
+    out = mp.farm_seasonal(syn, min_obs=2)
+    assert list(out["농장"]) == ["A"], f"관측이 모자란 농장이 남았다: {list(out['농장'])}"
+    assert abs(float(out.iloc[0]["loss"]) - 10.0) < 1e-9, out.to_dict()
+    assert float(out.iloc[0]["lo"]) < 10.0 < float(out.iloc[0]["hi"])
+
+    # 진짜 분산이 0 이면(모두 같은 손실) 수축은 전부 평균으로 보낸다
+    flat = pd.DataFrame([{"농장": f, "loss": 5.0, "se": 1.0} for f in "ABCDE"])
+    assert np.allclose(mp.shrink(flat)["shrunk"], 5.0)
+
+
 def test_farm_gap() -> None:
     """분포에서의 **거리** 진단 — 순위가 아니라 크기를 말해야 한다."""
     import farm_gap as fg
@@ -2689,7 +2765,7 @@ def test_farm_monthly() -> None:
     assert r["years"] and min(r["years"]) >= 2020 and max(r["years"]) <= 2023
 
     # 분만율은 **분만 시점 기록**이라 교배월로 되돌려야 여름 효과가 보인다.
-    # 되돌리지 않으면 12월이 최저로 나와 계절 원인을 엉뚱하게 짚는다.
+    # 되돌리지 않으면 11월이 최저로 나와 계절 원인을 엉뚱하게 짚는다.
     fr_ = r["farrowing_rate"]
     assert fr_["basis"] == "교배월"
     assert fr_["min_month"] in (7, 8), fr_["min_month"]
@@ -2707,10 +2783,19 @@ def test_farm_monthly() -> None:
     assert 0 < a["return_share"] < 1
     assert a["return_share"] > 0.5, "재발 계열이 과반이 아니면 논거가 흔들린다"
     assert abs(sum(a["mix"].values()) - 1.0) < 0.01
-    # **커버리지 함정**: 전체 합으로 계산하면 1위가 바뀐다. 그걸 알고 있는지.
+    # **커버리지 함정**: 전체 합으로 계산하면 값이 달라진다. 그걸 알고 있는지.
+    #
+    # 처음엔 "1위가 불규칙으로 바뀐다"를 걸었는데, 그 순위 뒤집힘은 원자료
+    # 중복이 만든 것이었다. 중복을 지우면 1위는 양쪽 다 1차 재발이다.
+    # 함정 자체는 남아 있으므로 **순위가 아니라 크기**로 건다.
     assert a["n_complete"] < a["n_all"]
-    assert a["mix_top"][0] != a["naive_mix_top"][0], \
-        "완전보고/전체합 1위가 같다 — 커버리지 보정이 무의미해졌는지 확인할 것"
+    cov = a["coverage"]
+    assert max(cov.values()) - min(cov.values()) > 0.2, \
+        "보고율이 고르면 이 보정은 필요 없다 — 원자료가 바뀐 것"
+    assert a["max_mix_gap"] > 0.03, \
+        f"두 계산이 거의 같다({a['max_mix_gap']:.3f}) — 보정이 무의미해졌는지 확인할 것"
+    assert a["return_share"] > a["naive_return_share"], \
+        "완전보고 쪽 재발 비중이 더 커야 한다 — 재발 유형이 덜 보고되기 때문"
 
     # 함수 검증 — 합성 프레임으로. 여름에 분만율이 낮은 신호를 심고 찾는지.
     rows = []
@@ -2782,7 +2867,7 @@ def test_synth_farm() -> None:
 
     # 계절 대비는 실측과 **같은 구간**이어야 한다(7·8·9 vs 1·2·3).
     # 처음엔 6월을 넣고 "나머지 전체"와 비교해 −5.2%p 가 나왔는데 부호만
-    # 봐서 통과했다. 실측 −2.7%p 의 2배를 통과시키면 계절을 과장하게 된다.
+    # 봐서 통과했다. 실측 −2.97%p 의 2배를 통과시키면 계절을 과장하게 된다.
     assert sf.SUMMER == (7, 8, 9) and sf.WINTER == (1, 2, 3)
     gap = next(c for c in v["checks"] if "하계" in c["name"])
     assert "skipped" not in gap, "표본이 모자라 계절 검사를 건너뛰었다"
@@ -2980,7 +3065,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
