@@ -305,7 +305,7 @@ bash competition/build_all.sh          # 전체 뷰 + 허브 생성
 | **패널로 교란 제거** | 같은 농장 전년 대비 변화. 하락군은 Δ이유두수 +0.00두인데 ΔNPD +11.6일 — 하락은 사양이 아니라 발정·교배 관리 | `farm_panel.py` |
 | **무센서 개체 식별** | 기존 CCTV 만. 영상 Re-ID 로 트랙 단편화 −46%, GT ID 일관성 0.77 | `reid.py` |
 | **평가 투명성** | 개체·뷰 분리 검증, 보정곡선(Brier 0.174), 자세 LOVO 0.684 ± 0.028 | `build_eval_report.py` |
-| **재현성** | 테스트 65개 · 자체완결 대시보드 21뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
+| **재현성** | 테스트 66개 · 자체완결 대시보드 21뷰 · 외부 연결 없이 실행 | `tests/smoke_test.py` |
 
 ### 다루지 않는 영역 — 여기서 기대하면 안 되는 것
 
@@ -386,7 +386,7 @@ competition/
 
 ```bash
 pip install -r competition/requirements.txt
-python competition/tests/smoke_test.py        # 65/65 통과 확인
+python competition/tests/smoke_test.py        # 66/66 통과 확인
 
 # ★ 전체 시뮬레이션 — 모돈 두수 하나로 설계·흐름·성적진단·손익까지
 python competition/src/run_farm.py --sows 300

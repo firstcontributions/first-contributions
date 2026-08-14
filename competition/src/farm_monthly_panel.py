@@ -461,6 +461,250 @@ def join_annual(d: pd.DataFrame, ann_raw: pd.DataFrame,
     return out
 
 
+# -- lag 회귀 --------------------------------------------------------------
+N_LAGS = 6
+N_FOLDS = 5
+HOLDOUT_YEAR = 2021          # 분만율은 2020·2021 뿐이라 이게 유일한 시간 분할
+
+
+def lag_frame(long: pd.DataFrame, metric: str = TARGET,
+              k: int = N_LAGS) -> pd.DataFrame:
+    """농장-월 롱 테이블 → lag 1~k 피처. **결측 월은 보간하지 않는다.**
+
+    채워 넣으면 lag 구조가 오염되고, 그 다음 무슨 결과가 나오든 채운 값이
+    만든 것인지 알 수 없게 된다. `ym` 은 절대 월 인덱스라 2020-12 → 2021-01
+    은 이어지고, 파일에 없는 2022 는 자연히 끊긴다.
+    """
+    t = long[long["데이터구분"] == metric].copy()
+    t["ym"] = t["년도"].astype(int) * 12 + t["m"].astype(int)
+    t = t[["농장", "ym", "년도", "m", "v"]].rename(columns={"v": "y"})
+    t = t.drop_duplicates(["농장", "ym"]).sort_values(["농장", "ym"])
+    idx = {(f, int(y)): float(v)
+           for f, y, v in zip(t["농장"], t["ym"], t["y"])}
+    rows = []
+    for f, ym, yr, mo, y in zip(t["농장"], t["ym"], t["년도"], t["m"], t["y"]):
+        lags = [idx.get((f, int(ym) - i)) for i in range(1, k + 1)]
+        if any(v is None for v in lags):
+            continue
+        # 인과적 기준선 재료 — 그 농장의 **이전 달들만** 쓴다
+        past = [idx[(f, p)] for p in range(int(ym) - 24, int(ym))
+                if (f, p) in idx]
+        rows.append({"농장": f, "ym": int(ym), "년도": int(yr), "m": int(mo),
+                     "y": float(y), "prev": lags[0],
+                     "farm_past": float(np.mean(past)),
+                     **{f"lag{i}": lags[i - 1] for i in range(1, k + 1)}})
+    return pd.DataFrame(rows)
+
+
+def _scores(y, p) -> dict:
+    e = np.asarray(y, float) - np.asarray(p, float)
+    return {"mae": float(np.mean(np.abs(e))),
+            "rmse": float(np.sqrt(np.mean(e ** 2)))}
+
+
+def _fit_predict(name, xtr, ytr, xte):
+    from sklearn.ensemble import HistGradientBoostingRegressor
+    from sklearn.linear_model import LinearRegression
+    if name == "B3":
+        m = LinearRegression()
+    else:
+        m = HistGradientBoostingRegressor(max_iter=200, max_depth=3,
+                                          learning_rate=0.06,
+                                          random_state=0)
+    m.fit(xtr, ytr)
+    return m.predict(xte)
+
+
+def _eval_split(d: pd.DataFrame, folds: list, feats: list) -> dict:
+    """fold 마다 학습·평가. 표준화 통계는 **train fold 에서만** 낸다.
+
+    B0/B3/B4 는 학습이 필요하고, B1(농장별 과거 평균)·B2(직전월)는 그 농장의
+    **이전 달**만 보는 규칙이라 학습이 없다. 그래서 농장 단위로 갈라도 B1 은
+    불리해지지 않는다 — 그게 B1 을 실질 기준선으로 삼는 이유다.
+    """
+    acc = {k: {"y": [], "p": []} for k in ("B0", "B1", "B2", "B3", "B4")}
+    leaks = 0
+    for tr_idx, te_idx in folds:
+        tr, te = d.loc[tr_idx], d.loc[te_idx]
+        if set(tr["농장"]) & set(te["농장"]):
+            leaks += 1
+        xtr, xte = tr[feats].to_numpy(float), te[feats].to_numpy(float)
+        mu, sd = xtr.mean(0), xtr.std(0)
+        sd[sd == 0] = 1.0
+        xtr, xte = (xtr - mu) / sd, (xte - mu) / sd
+        ytr, yte = tr["y"].to_numpy(float), te["y"].to_numpy(float)
+        preds = {"B0": np.full(len(te), ytr.mean()),
+                 "B1": te["farm_past"].to_numpy(float),
+                 "B2": te["prev"].to_numpy(float),
+                 "B3": _fit_predict("B3", xtr, ytr, xte),
+                 "B4": _fit_predict("B4", xtr, ytr, xte)}
+        for k, p in preds.items():
+            acc[k]["y"].append(yte)
+            acc[k]["p"].append(p)
+    out = {k: _scores(np.concatenate(v["y"]), np.concatenate(v["p"]))
+           for k, v in acc.items()}
+    base = out["B1"]["mae"]
+    for k in out:
+        out[k]["gain_vs_B1"] = round((base - out[k]["mae"]) / base, 4)
+        out[k]["mae"] = round(out[k]["mae"], 3)
+        out[k]["rmse"] = round(out[k]["rmse"], 3)
+    return {"scores": out, "leaks": leaks,
+            "n_eval": int(sum(len(v) for v in acc["B0"]["y"]))}
+
+
+def lag_profile(d: pd.DataFrame, feats: list) -> dict:
+    """lag 별 표준화 계수(±95%) 와 순열 중요도를 한 축에 올린다.
+
+    이건 일반화 성능이 아니라 **기술 통계**다. 전체 표본에 한 번 적합해
+    "어느 lag 이 실린 정보를 갖고 있나" 만 본다. 봉우리가 lag 3~4 에 서면
+    임신 114일을 손으로 넣지 않았는데 데이터에서 나온 것이다.
+    """
+    from sklearn.ensemble import HistGradientBoostingRegressor
+    from sklearn.inspection import permutation_importance
+    x = d[feats].to_numpy(float)
+    x = (x - x.mean(0)) / np.where(x.std(0) == 0, 1.0, x.std(0))
+    y = d["y"].to_numpy(float)
+    xd = np.column_stack([np.ones(len(x)), x])
+    beta, *_ = np.linalg.lstsq(xd, y, rcond=None)
+    resid = y - xd @ beta
+    dof = max(1, len(y) - xd.shape[1])
+    s2 = float(resid @ resid) / dof
+    cov = s2 * np.linalg.pinv(xd.T @ xd)
+    se = np.sqrt(np.diag(cov))
+    gb = HistGradientBoostingRegressor(max_iter=200, max_depth=3,
+                                       learning_rate=0.06, random_state=0)
+    gb.fit(x, y)
+    pi = permutation_importance(gb, x, y, n_repeats=20, random_state=0,
+                                scoring="neg_mean_absolute_error")
+    out = {}
+    for i, f in enumerate(feats, start=1):
+        out[f] = {"beta": round(float(beta[i]), 3),
+                  "lo": round(float(beta[i] - 1.96 * se[i]), 3),
+                  "hi": round(float(beta[i] + 1.96 * se[i]), 3),
+                  "perm": round(float(pi.importances_mean[i - 1]), 4),
+                  "perm_sd": round(float(pi.importances_std[i - 1]), 4)}
+    peak_b = max(out, key=lambda f: abs(out[f]["beta"]))
+    peak_p = max(out, key=lambda f: out[f]["perm"])
+    return {"lags": out, "peak_beta": peak_b, "peak_perm": peak_p,
+            "n": int(len(d))}
+
+
+def shift_scan(long: pd.DataFrame, metric: str = TARGET) -> dict:
+    """되돌림 개월 수를 **데이터가 고르게** 한다 — 114일의 직접 검증.
+
+    지금까지는 임신 114일 ≈ 4개월을 손으로 넣고 여름이 드러나는 걸 보였다.
+    거꾸로 0~6개월을 모두 시도해 여름−겨울 대비가 가장 커지는 지점을 찾으면,
+    넣지 않은 값이 데이터에서 나오는지 알 수 있다. lag 회귀보다 이쪽이
+    기전에 곧게 붙는다 — 분만율의 자기상관에는 임신기간이 실릴 이유가 없다.
+    """
+    s = long[long["데이터구분"] == metric]
+
+    def gaps(d: pd.DataFrame) -> dict:
+        by = d.groupby("m")["v"].median()
+        o = {}
+        for k in range(0, 7):
+            sm = {((m - k - 1) % 12) + 1: v for m, v in by.items()}
+            su = float(np.mean([sm[m] for m in SUMMER if m in sm]))
+            wi = float(np.mean([sm[m] for m in WINTER if m in sm]))
+            o[k] = su - wi
+        return o
+
+    out = {k: round(v, 2) for k, v in gaps(s).items()}
+    best = min(out, key=out.get)
+
+    # **농장 단위 부트스트랩.** 3개월과 4개월의 차이(−3.48 vs −2.97)가 표본
+    # 흔들림 안쪽인지 봐야 한다. 안쪽이면 "데이터가 3을 골랐다"가 아니라
+    # "데이터가 3~4를 골랐다"가 맞는 진술이다.
+    farms = s["농장"].unique()
+    rng = np.random.default_rng(0)
+    votes = {k: 0 for k in range(0, 7)}
+    for _ in range(400):
+        pick = rng.choice(farms, size=len(farms), replace=True)
+        d = pd.concat([s[s["농장"] == f] for f in pick], ignore_index=True)
+        votes[min(gaps(d), key=gaps(d).get)] += 1
+    share = {k: round(v / 400, 3) for k, v in votes.items() if v}
+    return {"by_shift": out, "best_shift": int(best),
+            "best_gap": out[best], "assumed": GESTATION_MONTHS,
+            "argmax_share": share,
+            "share_3_or_4": round(share.get(3, 0) + share.get(4, 0), 3)}
+
+
+def model(path: str | None = None) -> dict:
+    from sklearn.model_selection import GroupKFold
+    wide, _ = load_wide(path)
+    long = to_long(wide)
+    d = lag_frame(long).reset_index(drop=True)
+    feats = [f"lag{i}" for i in range(1, N_LAGS + 1)]
+
+    gk = GroupKFold(n_splits=N_FOLDS)
+    folds = list(gk.split(d, groups=d["농장"]))
+    grp = _eval_split(d, folds, feats)
+
+    # 시간 홀드아웃 — 같은 농장이 양쪽에 들어간다. 그래서 농장 분할과
+    # **나란히** 놓아야 한다. 이쪽이 좋아 보이면 농장을 외운 것이다.
+    te = d.index[d["년도"] == HOLDOUT_YEAR]
+    tr = d.index[d["년도"] < HOLDOUT_YEAR]
+    tim = _eval_split(d, [(tr, te)], feats) if len(te) >= 30 else {}
+    if tim:
+        both = set(d.loc[tr, "농장"]) & set(d.loc[te, "농장"])
+        tim["shared_farms"] = int(len(both))
+
+    return {"n_rows": int(len(d)), "n_farms": int(d["농장"].nunique()),
+            "n_lags": N_LAGS, "folds": N_FOLDS,
+            "group_split": grp, "time_split": tim,
+            "profile": lag_profile(d, feats),
+            "shift_scan": shift_scan(long)}
+
+
+def _print_model(r: dict) -> None:
+    print("=" * 78)
+    print("  lag 회귀 기준선 + 114일 자기검증")
+    print("=" * 78)
+    print(f"\n  표본 {r['n_rows']}행 · {r['n_farms']}농장 · lag 1~{r['n_lags']}"
+          f" (결측 월 보간 없음)")
+
+    names = {"B0": "전체 평균", "B1": "농장별 과거 평균", "B2": "직전월",
+             "B3": "lag 1~6 선형", "B4": "lag 1~6 부스팅"}
+    for key, title in (("group_split", f"농장 단위 GroupKFold({r['folds']})"),
+                       ("time_split", f"시간 홀드아웃 (→{HOLDOUT_YEAR})")):
+        s = r.get(key) or {}
+        if not s:
+            continue
+        extra = ""
+        if key == "time_split":
+            extra = f" · 양쪽에 겹친 농장 {s.get('shared_farms', 0)}"
+        print(f"\n  [{title}] 평가 {s['n_eval']}행 · 누수 fold "
+              f"{s['leaks']}{extra}")
+        print(f"    {'':<4}{'모델':<16}{'MAE':>7}{'RMSE':>8}{'B1 대비':>10}")
+        for k in ("B0", "B1", "B2", "B3", "B4"):
+            v = s["scores"][k]
+            mark = "  ←기준선" if k == "B1" else ""
+            print(f"    {k:<4}{names[k]:<16}{v['mae']:>7.3f}{v['rmse']:>8.3f}"
+                  f"{v['gain_vs_B1']:>+9.1%}{mark}")
+
+    p = r["profile"]
+    print(f"\n  [lag 프로필] 표준화 계수(±95%) + 순열 중요도 · 전체 {p['n']}행")
+    print(f"    {'lag':<6}{'β':>8}{'95% 구간':>18}{'순열':>10}")
+    for f, v in p["lags"].items():
+        star = " *" if (v["lo"] > 0 or v["hi"] < 0) else ""
+        print(f"    {f:<6}{v['beta']:>8.3f}   [{v['lo']:>6.3f},{v['hi']:>7.3f}]"
+              f"{v['perm']:>10.4f}{star}")
+    print(f"    계수 봉우리 {p['peak_beta']} · 순열 봉우리 {p['peak_perm']}")
+
+    sc = r["shift_scan"]
+    print(f"\n  [114일 직접 검증] 되돌림 개월을 0~6 으로 훑어 여름−겨울 대비")
+    print("    " + "  ".join(f"{k}개월 {v:+.2f}" for k, v in
+                             sc["by_shift"].items()))
+    ok = "일치" if sc["best_shift"] == sc["assumed"] else "불일치"
+    print(f"    대비가 가장 큰 지점 {sc['best_shift']}개월 ({sc['best_gap']:+.2f}%p)"
+          f" · 가정한 임신 {sc['assumed']}개월과 {ok}")
+    sh = " · ".join(f"{k}개월 {v:.0%}" for k, v in
+                    sorted(sc["argmax_share"].items(), key=lambda kv: -kv[1]))
+    print(f"    농장 부트스트랩 400회 최댓값 위치 — {sh}")
+    print(f"    3~4개월 안에 드는 비율 {sc['share_3_or_4']:.0%} "
+          f"(임신 114일 = 3.75개월)")
+
+
 def _print_audit(r: dict) -> None:
     d = r["duplicates"]
     print("=" * 78)
@@ -623,15 +867,19 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="farm_monthly_panel")
     ap.add_argument("--audit", action="store_true")
     ap.add_argument("--season", action="store_true")
+    ap.add_argument("--model", action="store_true")
     ap.add_argument("--xlsx", default=None)
     ap.add_argument("--annual", default=None)
     ap.add_argument("--out", default=None)
     a = ap.parse_args(argv)
-    if not (a.audit or a.season):
-        ap.error("--audit 또는 --season 을 고를 것")
+    if not (a.audit or a.season or a.model):
+        ap.error("--audit · --season · --model 중 하나를 고를 것")
     if a.audit:
         r = audit(a.xlsx, a.annual)
         _print_audit(r)
+    elif a.model:
+        r = model(a.xlsx)
+        _print_model(r)
     else:
         r = season(a.xlsx, a.annual)
         _print_season(r)

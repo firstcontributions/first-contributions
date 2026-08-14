@@ -2537,6 +2537,60 @@ def test_farm_monthly_panel() -> None:
     assert np.allclose(mp.shrink(flat)["shrunk"], 5.0)
 
 
+def test_farm_monthly_model() -> None:
+    """lag 회귀 기준선 + 114일 자기검증.
+
+    이 검사의 요점은 성능이 아니라 **분할이 정직한가**다. 롤링 윈도우는
+    행끼리 겹치므로 농장을 갈라 두지 않으면 같은 농장의 이웃 달로 자기를
+    맞히게 된다.
+    """
+    import json
+    import numpy as np
+    import pandas as pd
+    import farm_monthly_panel as mp
+
+    j = os.path.join(ROOT, "data", "farm_monthly_model.json")
+    assert os.path.exists(j), "lag 모델 JSON 이 커밋돼 있어야 한다"
+    r = json.load(open(j, encoding="utf-8"))
+    assert "PIGGO" not in json.dumps(r, ensure_ascii=False), "식별자 누출"
+
+    g = r["group_split"]
+    assert g["leaks"] == 0, "농장이 train/test 양쪽에 들어갔다"
+    assert g["n_eval"] == r["n_rows"], (g["n_eval"], r["n_rows"])
+    # B1(농장별 과거 평균)이 실질 기준선. 전체 평균은 그보다 나빠야 한다
+    sc = g["scores"]
+    assert sc["B0"]["mae"] > sc["B1"]["mae"], sc
+    assert abs(sc["B1"]["gain_vs_B1"]) < 1e-9
+
+    # 시간 홀드아웃은 같은 농장이 양쪽에 들어간다 — 그 사실이 기록돼야 한다
+    t = r["time_split"]
+    assert t["shared_farms"] > 0 and t["leaks"] == 1, t
+
+    # 114일 검증: 되돌림을 데이터가 고르게 한다. 부트스트랩 최댓값이
+    # 3~4개월에 몰려야 한다(임신 114일 = 3.75개월). 이게 깨지면 발견 ③의
+    # 되돌리기 자체가 근거를 잃는다.
+    s = r["shift_scan"]
+    assert s["share_3_or_4"] > 0.7, s
+    assert s["by_shift"]["0"] > s["by_shift"]["3"], s   # 안 되돌리면 안 보인다
+
+    # -- 함수 자체 ------------------------------------------------------
+    # 결측 월은 **보간하지 않는다.** 구멍이 있으면 그 행이 통째로 빠져야 한다
+    rows = [{"농장": "A", "년도": 2020, "데이터구분": "분만율", "m": m,
+             "v": 80.0 + m} for m in range(1, 13)]
+    rows += [{"농장": "B", "년도": 2020, "데이터구분": "분만율", "m": m,
+              "v": 80.0} for m in (1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12)]  # 7월 구멍
+    d = mp.lag_frame(pd.DataFrame(rows))
+    a = d[d["농장"] == "A"]
+    assert list(a["m"]) == [7, 8, 9, 10, 11, 12], list(a["m"])
+    assert abs(float(a.iloc[0]["lag6"]) - 81.0) < 1e-9   # 7월의 lag6 = 1월
+    # B 는 7월이 비어 8~12월 중 lag 이 다 차는 달이 없다 → 한 행도 안 남는다
+    assert len(d[d["농장"] == "B"]) == 0, d[d["농장"] == "B"].to_dict()
+
+    # 인과성: farm_past 는 **이전 달만** 본다. 자기 값이 섞이면 안 된다
+    assert abs(float(a.iloc[0]["farm_past"]) - np.mean([81.0 + i
+                                                        for i in range(6)])) < 1e-9
+
+
 def test_farm_gap() -> None:
     """분포에서의 **거리** 진단 — 순위가 아니라 크기를 말해야 한다."""
     import farm_gap as fg
@@ -3065,7 +3119,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
