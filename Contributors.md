@@ -1815,6 +1815,7 @@ Amna Naeem
 - [Dhruv Bansal](https://github.com/dhruvbansalup)
 - [Dhruv Srivastava](https://github.com/Dhruvh-maker)
 - [Dhruv](https://github.com/Dhru08)
+- [Dhruv](https://github.com/kkura01)
   Cade Tramonte
 - [Dhruvi](https://github.com/DhruviGajjar26)
 - [Dhruvi Rana](https://github.com/Dhruvirana08)
