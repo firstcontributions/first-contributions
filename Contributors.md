@@ -51,6 +51,7 @@ Hiroyuki19830823
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
 - [Saransh Dhiman](https://github.com/Saransh-27)
+- [Priyanshi Shrotriya](https://github.com/PriyanshiShrotriya)
 - Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
