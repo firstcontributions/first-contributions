@@ -9,7 +9,8 @@
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [Mollyb333]
 -[Alan]
-- [Anita Demo 814]
+- [Deepika](https://github.com/deepika-rattewal
+[Anita Demo 814]
 - [Sophia]
 [Rohit Patil](https://github.com/JediScout10)
 -[Akshat Parashar](https://github.com/akshatparashar)
