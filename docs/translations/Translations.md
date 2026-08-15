@@ -11,6 +11,7 @@
 | <img alt="ଓଡିଆ" title="ଓଡିଆ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">                                                                                                                                                       | [ଓଡିଆ](README.od.md)                                                  |
 | <img alt="छत्तीसगढ़ी" title="छत्तीसगढ़ी" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">                                                                                                                                           | [छत्तीसगढ़ी](README.hne.md)                                           |
 | <img alt="ਪੰਜਾਬੀ" title="ਪੰਜਾਬੀ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">                                                                                                                                                    | [ਪੰਜਾਬੀ](README.pb.md)      
+| <img alt="অসমীয়া" title="অসমীয়া" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [অসমীয়া](README.as.md) |
 | <img alt="کٲشُر" title="کٲشُر" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">                                                                                                                                                   | [کٲشُر](README.ks.md) |
 | <img alt="বাংলা" title="বাংলা" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> <img alt="বাংলা" title="বাংলা" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bd.svg" width="22">                             | [বাংলা](README.bn.md)                                                 |
 | <img alt="தமிழ்" title="தமிழ்" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> <img alt="தமிழ்" title="தமிழ்" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22">                             | [தமிழ்](README.ta.md)                                                 |
@@ -86,5 +87,3 @@
 | <img alt="Kurdî" title="Kurdî (Kurdish)" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22"> | [Kurdî](README.kr.md) |
 | <img alt="Javanese" title="Javanese" src="https://flagcdn.com/id.svg" width="22"> | [Javanese](README.jv.md) |
 | <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22"> | [Монгол хэл](README.mn.md) |
-
-| <img alt="অসমীয়া" title="অসমীয়া" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [অসমীয়া](README.as.md) |
