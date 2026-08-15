@@ -4473,3 +4473,5 @@ Raphael Karani
 - [Ankana Ghosh](https://github.com/ankanaghosh2001)
 - [Varun Kakaraddi](https://github.com/JodVarun)
 - [Rutuja Wadgaonkar](https://github.com/wadgaonkarrutuja43-bot)
+
+- [C Yond](Veni, vidi, abii)
