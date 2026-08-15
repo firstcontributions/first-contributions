@@ -47,6 +47,7 @@ Hiroyuki19830823
 - [Tanmay Dixit](https://github.com/tdixit547)
 - [Tanmay Dixit BT2024016](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
+- [Akash Dey](https://github.com/akash123-dot)
 - Awwab Ghole BT2024033 (https://github.com/Awwab157)
 - Aprajita Agarwal BT2024258
 - Dinesh BT2024199 (a+b)^3 = a^3 + b^3 + 3ab(a+b)
