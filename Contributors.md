@@ -83,6 +83,7 @@ Varshith IMT2024044
 - Naitik
 - Krititka
 - Karst
+- [FAIZAL S A](https://github.com/Safaizal)
 -Harsha BT2024148
 - mohammedfarhanBT2024140
 - mannerohithsaiBT2024144(https://github.com/Rohithmanne13)
