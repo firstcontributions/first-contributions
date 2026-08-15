@@ -32,6 +32,7 @@ Hiroyuki19830823
 - [Liam Wallant] (https://github.com/LiamWallant)
 - [Luther]
 - [Ishan Pathak](https://github.com/theishanpathak)
+- [Taha Khouildi]
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - Ricardo Sastre (https://github.com/ricsas)
 - Oscar Heslop (https://github.com/OscarHeslop)
