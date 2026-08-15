@@ -1,6 +1,7 @@
 # Contributors
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
+- [Vikka]
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 - [amdeldacc]
 - [Moin Qureshi] (https://github.com/Moin928)
