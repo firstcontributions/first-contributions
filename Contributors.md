@@ -5,6 +5,7 @@
 - [amdeldacc]
 - [Moin Qureshi] (https://github.com/Moin928)
 - [Krish](https://github.com/kaptankrrish)
+- [Nofal Kachhot] (https://github.com/codewithnofal)
 - [Mollyb333]
 -[Alan]
 - [Anita Demo 814]
