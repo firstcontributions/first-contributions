@@ -86,6 +86,7 @@ Varshith IMT2024044
 - Naitik
 - Krititka
 - Karst
+-
 - [FAIZAL S A](https://github.com/Safaizal)
 -Harsha BT2024148
 - mohammedfarhanBT2024140
@@ -3105,6 +3106,7 @@ Amna Naeem
 - [Radwa Fakhruddin](https://github.com/radwakhan)
 - [YGSMT](https://github.com/YGSMT)
 - [Sukanthan](https://github.com/Sukanthan06)
+- sarthak gupta
 - [Khizra Hassan](https://github.com/hassankhizra97-crypto)
 - [Anamitra Bakshi](https://github.com/anamitra-tech)
 - [Surbhi Suman](https://github.com/surbhimgr)
