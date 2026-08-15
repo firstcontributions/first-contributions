@@ -59,6 +59,7 @@ Hiroyuki19830823
 - [Anurag](https://github.com/Invito101)
 - [Saransh Dhiman](https://github.com/Saransh-27)
 - [Priyanshi Shrotriya](https://github.com/PriyanshiShrotriya)
+- Abdullah Amin (https://github.com/algo-abdullah)
 - Hayden Vidotto :3
 - Rayyan Tayyab
 - k2p2
