@@ -3427,6 +3427,7 @@ Amna Naeem
 - [ajayrajr05](https://github.com/ajayrajr05)
 - [世昌](:github.com/Cheng0710868)
 - [南明远夏](https://github.com/FarSummer)
+- [Vinicius](https://github.com/Viniciusdlm)
   Gayathri Kakumanu
 - [Hafeez Ur Rehman](https://github.com/Hafeezurrehman-hub)
 - [Kian Emami](https://github.com/kianemami1394)
