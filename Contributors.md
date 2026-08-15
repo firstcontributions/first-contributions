@@ -9,7 +9,8 @@
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [Mollyb333]
 -[Alan]
-- [Anita Demo 814]
+- [Deepika](https://github.com/deepika-rattewal
+[Anita Demo 814]
 - [Sophia]
 [Rohit Patil](https://github.com/JediScout10)
 -[Akshat Parashar](https://github.com/akshatparashar)
@@ -25,6 +26,8 @@
 - [Meher](https://github.com/Meher38)
 - [Pranjal Mahajan](https://github.com/Pranjal-mahajan113) — [LinkedIn](https://www.linkedin.com/in/pranjal-mahajan-21a7ba361)
 - [Radha_Adepu](https://github.com/radharani53) 
+- [Prasanna U Mesta](https://github.com/prasanm1423)
+- [Radha_Adepu](https://github.com/radharani53) :)
 - [Anagha Shetty](https://github.com/anaghashetty23)
 - [Aqsa Jamali](https://github.com/AqsaAliRazaJamali)
 - Ran Wang https://github.com/ranw27798-ux
@@ -4466,3 +4469,4 @@ Raphael Karani
 - [paulaquev-cyber](https://github.com/paulaquev-cyber)
 - [Ankana Ghosh](https://github.com/ankanaghosh2001)
 - [Varun Kakaraddi](https://github.com/JodVarun)
+- [Rutuja Wadgaonkar](https://github.com/wadgaonkarrutuja43-bot)
