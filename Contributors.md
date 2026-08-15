@@ -1,10 +1,11 @@
 # Contributors
-- [Krishna Kant Garhe](https://github.com/Immanueal1)
+- [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 - [amdeldacc]
 - [Moin Qureshi] (https://github.com/Moin928)
 - [Krish](https://github.com/kaptankrrish)
+- [Nofal Kachhot] (https://github.com/codewithnofal)
 - [Mollyb333]
 -[Alan]
 - [Anita Demo 814]
@@ -83,6 +84,7 @@ Varshith IMT2024044
 - Naitik
 - Krititka
 - Karst
+- [FAIZAL S A](https://github.com/Safaizal)
 -Harsha BT2024148
 - mohammedfarhanBT2024140
 - mannerohithsaiBT2024144(https://github.com/Rohithmanne13)
@@ -419,6 +421,7 @@ nathan practice here
 - [Lorenzo Aserio](https://github.com/laserio)
 - [Marcia Cristina](https://github.com/clibosque-star)
 - cocodrilo-bit
+- [Nabil Kamran](https://github.com/kamranNabil/)
 - [Abhinash Kumar Singh](https://github.com/abhinash2006)
 - [Kashish](https://github.com/Kashish1074)
 - [babysatochan72](https://github.com/babysatochan72-create)
@@ -1038,6 +1041,7 @@ niceshowmini
 - [HUALAW](https://github.com/HUALAW-max/first-contributions.git)
 - [Hemanth kumar](https://github.com/hemanthshashidhar)
 - [Afeefa CS](https://github.com/csafeefa-alt)
+- [Aman Umrao]
 - [Adwaith S Dileep](https://github.com/adwaiithh)
 - [Hassan Mallah](https://github.com/HassanMallah)
 - [Jaimz](https://github.com/jaimzh)
@@ -4445,3 +4449,7 @@ Raphael Karani
 - [Ashutosh Dubey](https://github.com/AshutoshDubey007)
 - [Jerrin T Joby](https://github.com/JerrinTJoby)
 - [Vikas Kumar](https://github.com/vikaskumarbaghel07)
+- [RestuSec](https://github.com/RestuSec)
+- [Sumit sharma] (https://github.com/sumitsharma777-Eng) 
+
+- [Ryan Li](https://github.com/goodluck-ry)
