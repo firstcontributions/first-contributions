@@ -418,6 +418,7 @@ nathan practice here
 - [Lorenzo Aserio](https://github.com/laserio)
 - [Marcia Cristina](https://github.com/clibosque-star)
 - cocodrilo-bit
+- [Nabil Kamran](https://github.com/kamranNabil/)
 - [Abhinash Kumar Singh](https://github.com/abhinash2006)
 - [Kashish](https://github.com/Kashish1074)
 - [babysatochan72](https://github.com/babysatochan72-create)
