@@ -2335,6 +2335,93 @@ def test_pc_suite() -> None:
     assert sh.index("build_pc_suite.py") < sh.index("build_dashboard_hub.py")
 
 
+def test_estrus_label_audit() -> None:
+    """발정 라벨 감사기 — **누수를 실제로 잡는가, 깨끗한 걸 통과시키는가**.
+
+    이 도구의 유일한 임무는 "피처로 써도 되나" 에 답하는 것이다. 누수를
+    놓치면 0.642 를 폐기한 결정이 무의미해지고, 깨끗한 걸 걸면 쓸 수 있는
+    데이터를 버린다. 그래서 양방향으로 건다.
+    """
+    import json
+    import re
+    import tempfile
+    import estrus_label_audit as ela
+
+    def write(dirpath, name, boxes, created="2022-11-30 10:54:10"):
+        d = {"INFO": {"CREATE_DATE_TIME": created},
+             "IMAGE": {"FARMID": "pigfarmT"},
+             "ANNOTATION_INFO": boxes}
+        json.dump(d, open(os.path.join(dirpath, name + ".json"), "w",
+                          encoding="utf-8"), ensure_ascii=False)
+
+    def box(estrus, injection=True):
+        b = {"CATEGORY_NAME": "pig", "ACTION_NAME": "lying", "ESTRUS": estrus}
+        if injection:
+            b["INJECTION"] = "Y"
+        return b
+
+    # -- 누수판: 채널이 라벨을 결정하고, 프레임 안에서 안 갈린다 ----------
+    with tempfile.TemporaryDirectory() as td:
+        for i in range(20):
+            ch = 1 if i < 10 else 9
+            e = "Y" if ch == 1 else "N"
+            write(td, f"pigfarmT_ch{ch}_2022071510_025_{i:05d}",
+                  [box(e), box(e), box(e)])
+        r = ela.run(td)
+        p = r["bbox"]["L2_channel_predict"]
+        assert p["leaky"], p
+        assert p["acc"] > 0.99, p
+        assert r["bbox"]["L4_frame"]["share_mixed"] == 0.0
+        v = r["verdict"]
+        assert v["color"] == "적색", v
+        assert v["checks"]["L2 완전 분리"] is False
+        assert v["checks"]["L4 프레임 일관성"] is False
+        # 확인 불가는 통과가 아니다 — None 으로 남아야 한다
+        assert v["checks"]["L5 주석자 맹검"] is None
+
+    # -- 깨끗한 판: 채널과 라벨이 무관하고 프레임 안에서 갈린다 ----------
+    with tempfile.TemporaryDirectory() as td:
+        for i in range(40):
+            # 세 번째 상자를 i%2 로 정하면 ch(=1+i%4) 와 붙어 버린다 —
+            # 실제로 그렇게 짰다가 '깨끗한 판' 이 누수로 걸렸다.
+            # 채널과 독립인 (i//4)%2 로 정한다.
+            ch = 1 + (i % 4)
+            write(td, f"pigfarmT_ch{ch}_2022071510_025_{i:05d}",
+                  [box("Y"), box("N"), box("Y" if (i // 4) % 2 else "N")])
+        r = ela.run(td)
+        assert not r["bbox"]["L2_channel_predict"]["leaky"], \
+            r["bbox"]["L2_channel_predict"]
+        assert r["bbox"]["L4_frame"]["share_mixed"] == 1.0
+        assert not r["bbox"]["L1_missing"]["leaky"]
+        v = r["verdict"]
+        # 실측 셋은 통과하지만 L3·L5·VULVA 가 확인 불가라 **청색이 아니다**
+        assert v["checks"]["L2 완전 분리"] is True
+        assert v["checks"]["L4 프레임 일관성"] is True
+        assert v["color"] == "회색", v
+
+    # -- L1: 필드 유무가 라벨을 담고 있으면 걸려야 한다 -------------------
+    with tempfile.TemporaryDirectory() as td:
+        for i in range(40):
+            ch = 1 + (i % 4)
+            e = "Y" if i % 2 else "N"
+            # 발정일 때만 INJECTION 블록이 있다 → 결측이 곧 라벨
+            write(td, f"pigfarmT_ch{ch}_2022071510_025_{i:05d}",
+                  [box(e, injection=(e == "Y")),
+                   box("N" if e == "Y" else "Y", injection=(e != "Y"))])
+        r = ela.run(td)
+        assert r["bbox"]["L1_missing"]["leaky"], r["bbox"]["L1_missing"]
+        assert r["verdict"]["color"] == "적색"
+
+    # -- 저장된 집계에 원자료 파일명이 새면 안 된다 -----------------------
+    p = os.path.join(ROOT, "data", "estrus_label_audit.json")
+    if os.path.exists(p):
+        blob = open(p, encoding="utf-8").read()
+        assert not re.search(r"pigfarm\w+_ch\d", blob), "파일명 노출"
+        saved = json.loads(blob)
+        # 실측 판정은 적색이었다 — 이게 바뀌면 근거가 바뀐 것이다
+        assert saved["verdict"]["color"] == "적색", saved["verdict"]
+
+
 def test_path_predict() -> None:
     """로그 → 경로 → 예측.
 
@@ -3387,7 +3474,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

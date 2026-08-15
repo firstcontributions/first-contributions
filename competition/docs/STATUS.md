@@ -20,7 +20,7 @@ CCTV 발정 탐지에서 출발했지만, 국내 실측을 재 보니 손실이 
 
 ## 2. 지금 서 있는 자리
 
-**규모** 모듈 66개 · 대시보드 뷰 22개 · 테스트 69개(전부 통과)
+**규모** 모듈 67개 · 대시보드 뷰 22개 · 테스트 70개(전부 통과)
 자체완결 HTML(외부 연결 0) · `python competition/tests/smoke_test.py`
 
 ### 손에 쥔 데이터
@@ -327,7 +327,7 @@ A-2 는 성공하면 발표에서 가장 강한 문장이 된다 — **"발정�
 |---|---|---|
 | **P1** | **A-1 개체 예측 수축** — 부정 결과 중 확실히 고쳐지는 하나 | 30분 |
 | **P1** | **A-3 검출력 분석** — 재발 예측 '안 된다' 에 처방을 붙인다 | 1시간 |
-| **P1** | **A-2 외음부 라벨 확인** — 성립하면 발표 최강 문장 | 30분+α |
+| ⬜ P1 | ~~A-2 외음부 라벨 확인~~ → **감사 회색으로 중단.** VULVA 가 있는 환경에서 `estrus_label_audit --vulva` 재실행이 조건 | — |
 | P2 | `synth_farm` → `run_farm` ③ 배선 | 2시간 |
 | P2 | 다음 사건 D-day 를 `breeding_ledger` 개체 행에 얹기 | 2시간 |
 | P3 | `barn_watch` 전이 타임라인을 화면으로(미리 구운 시나리오) | 반나절 |
@@ -371,7 +371,7 @@ A-2 는 성공하면 발표에서 가장 강한 문장이 된다 — **"발정�
 
 ```bash
 cd /path/to/first-contributions
-python competition/tests/smoke_test.py              # 69/69
+python competition/tests/smoke_test.py              # 70/70
 
 python competition/src/run_farm.py --sows 300       # 설계~손익 6단계
 python competition/src/farm_gap.py --program --sows 300   # 가정 vs 실측
