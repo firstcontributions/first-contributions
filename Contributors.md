@@ -2654,6 +2654,7 @@ Amna Naeem
 - [SatyamCode12](https://github.com/SatyamCode12)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - [Satyendra Kumar](https://github.com/thesatyendrakumar)
+- [Patrik Ferreira](https://github.com/94patrikferreira-byte)
 - [Saumya Bhagat](https://github.com/saumyaaa4)
 - [Saurabh Salve](https://github.com/SAURABHSALVE)
 - [Saurav Sharma](https://github.com/saurav0369)
