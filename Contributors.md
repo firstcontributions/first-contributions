@@ -42,6 +42,7 @@ Hiroyuki19830823
 - [Luther]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
+- [Taha Khouildi]
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - Ricardo Sastre (https://github.com/ricsas)
 - Oscar Heslop (https://github.com/OscarHeslop)
