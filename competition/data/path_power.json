@@ -1,0 +1,49 @@
+{
+ "base_rate": 0.8187,
+ "n": 2906,
+ "n_test": 872,
+ "seeds": 20,
+ "target": 0.8,
+ "null_auc_mean": 0.491,
+ "null_auc_p95": 0.52,
+ "curve": {
+  "3.0": {
+   "auc_mean": 0.491,
+   "power_auc": 0.05,
+   "power_hard": 0.25
+  },
+  "5.0": {
+   "auc_mean": 0.492,
+   "power_auc": 0.15,
+   "power_hard": 0.1
+  },
+  "8.0": {
+   "auc_mean": 0.498,
+   "power_auc": 0.25,
+   "power_hard": 0.15
+  },
+  "12.0": {
+   "auc_mean": 0.538,
+   "power_auc": 0.7,
+   "power_hard": 0.25
+  },
+  "18.0": {
+   "auc_mean": 0.579,
+   "power_auc": 0.9,
+   "power_hard": 0.2
+  },
+  "25.0": {
+   "auc_mean": 0.637,
+   "power_auc": 0.95,
+   "power_hard": 0.35
+  }
+ },
+ "detectable_pp": 18.0,
+ "measured_gap_pp": 2.97,
+ "at_measured": {
+  "auc_mean": 0.492,
+  "power_auc": 0.05,
+  "power_hard": 0.25
+ },
+ "n_multiple_needed": 36.7
+}

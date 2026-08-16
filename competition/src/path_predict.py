@@ -158,6 +158,65 @@ def transitions(ev: pd.DataFrame) -> pd.DataFrame:
     return agg.sort_values("n", ascending=False), d
 
 
+def _shrunk(tr: pd.DataFrame) -> tuple:
+    """개체 추정치를 농장값 쪽으로 **신뢰도만큼** 당긴다(empirical Bayes).
+
+    B2(개체 과거 중앙값)가 B1(농장 중앙값)에 졌다. 원인은 개체가 다르지
+    않아서가 아니라 **개체당 관측이 적어 추정치가 시끄러워서**다. 재 보면
+    개체 간 관측 분산 중 진짜 몫이 이유→발정확인 40% · 교배→분만 19% 뿐이다.
+
+        관측 분산 = 진짜 개체 차이 + 표본 오차
+        w_i = 진짜 / (진짜 + 그 개체의 표준오차²)
+        추정 = 농장값 + w_i × (개체값 − 농장값)
+
+    기록이 많은 개체는 자기 값을 쓰고 적은 개체는 농장값 쪽으로 당겨진다.
+    `farm_monthly_panel.shrink` 가 계절 손실에서 쓴 것과 같은 식이다.
+
+    **"구조상 B1 보다 나빠질 수 없다" 고 예측했는데 틀렸다.** 수축이 보장하는
+    것은 **같은 계열**(평균을 전체 평균 쪽으로) 안에서의 개선이지, 다른
+    추정량(중앙값)을 이기는 게 아니다. WEI 는 오른쪽으로 치우쳐 있어 중앙값이
+    평균보다 낫고, 그 이점이 개체 정보의 이점보다 크다 — `family_check` 가
+    이걸 수치로 남긴다.
+    """
+    out, spread, fam = {}, {}, {"B1_mean": 0.0, "B3_mean_centred": 0.0}
+    for (f, t), g in tr.groupby(["from", "to"]):
+        per = g.groupby("animal_id")["days"]
+        m, n = per.mean(), per.size()
+        # 개체 내 분산은 **전체에서 모아** 쓴다 — 1건짜리 개체는 자기 분산이
+        # 없고, 개체마다 따로 재면 그 값 자체가 또 시끄럽다
+        within = float(per.var(ddof=1).mean())
+        if not np.isfinite(within) or within <= 0:
+            within = float(g["days"].var(ddof=1) or 0.0)
+        se2 = within / n.clip(lower=1)
+        obs = float(m.var(ddof=1)) if len(m) > 1 else 0.0
+        true = max(0.0, obs - float(se2.mean()))
+        grand = float(g["days"].median())
+        # **분모가 0 이면 0/0 이 된다.** 교배→재발정처럼 간격이 전부 21일로
+        # 같으면 진짜 분산도 오차도 0 이라 w 가 NaN 이 되고, 예측 전체가
+        # NaN 으로 번진다(실제로 그렇게 났다). 변동이 없으면 농장값이 곧
+        # 정답이므로 w=0 이 맞다.
+        den = true + se2
+        w = (true / den).where(den > 0, 0.0)
+        est = grand + w * (m - grand)
+        for aid, v in est.items():
+            out[(aid, f, t)] = float(v)
+        # 같은 계열 대조 — 평균을 전체 평균 쪽으로 수축한 것 vs 전체 평균.
+        # 여기서 수축이 이겨야 이론이 성립한 것이고, 그래도 중앙값 기준선을
+        # 못 넘으면 그건 계열의 문제지 수축의 문제가 아니다.
+        gm = float(g["days"].mean())
+        fam["_mean"] = fam.get("_mean", {})
+        fam["_mean"][(f, t)] = gm
+        fam.setdefault("_shrunk_mean", {})
+        for aid, v in (gm + w * (m - gm)).items():
+            fam["_shrunk_mean"][(aid, f, t)] = float(v)
+        spread[f"{f}→{t}"] = {
+            "n_animals": int(len(m)), "var_obs": round(obs, 3),
+            "var_err": round(float(se2.mean()), 3), "var_true": round(true, 3),
+            "true_share": round(true / obs, 3) if obs > 0 else 0.0,
+            "w_median": round(float(w.median()), 3)}
+    return out, spread, fam
+
+
 def predict_days(pairs: pd.DataFrame) -> dict:
     """다음 사건까지 며칠인가 — 표준 캘린더 대비.
 
@@ -179,6 +238,7 @@ def predict_days(pairs: pd.DataFrame) -> dict:
     med = tr.groupby(["from", "to"])["days"].median().to_dict()
     per = tr.groupby(["animal_id", "from", "to"])["days"].median().to_dict()
     n_per = tr.groupby(["animal_id", "from", "to"])["days"].size().to_dict()
+    sh, spread, fam = _shrunk(tr)
 
     def b0(r):
         return B0_DAYS[(r["from"], r["to"])]
@@ -191,9 +251,13 @@ def predict_days(pairs: pd.DataFrame) -> dict:
         # 그 개체 기록이 1건뿐이면 개체 평균이 아니라 그날의 사고다
         return per[k] if n_per.get(k, 0) >= 2 else b1(r)
 
+    def b3(r):
+        # 수축된 개체값. 없으면 농장값으로 물러선다
+        return sh.get((r["animal_id"], r["from"], r["to"]), b1(r))
+
     res = {}
     for name, fn in (("B0 표준 캘린더", b0), ("B1 농장 중앙값", b1),
-                     ("B2 개체 과거", b2)):
+                     ("B2 개체 과거", b2), ("B3 개체 수축", b3)):
         p = te.apply(fn, axis=1).to_numpy(float)
         e = te["days"].to_numpy(float) - p
         res[name] = {"mae": round(float(np.mean(np.abs(e))), 3),
@@ -201,7 +265,19 @@ def predict_days(pairs: pd.DataFrame) -> dict:
     base = res["B0 표준 캘린더"]["mae"]
     for k in res:
         res[k]["gain_vs_B0"] = round((base - res[k]["mae"]) / max(1e-9, base), 4)
+    # 계열 대조 — 수축이 **평균 계열 안에서는** 이기는지 확인한다
+    fm, fs = fam.get("_mean", {}), fam.get("_shrunk_mean", {})
+    y = te["days"].to_numpy(float)
+    p_mean = np.array([fm.get((f, t), b0({"from": f, "to": t}))
+                       for f, t in zip(te["from"], te["to"])], float)
+    p_shm = np.array([fs.get((a, f, t), fm.get((f, t), 0.0))
+                      for a, f, t in zip(te["animal_id"], te["from"], te["to"])],
+                     float)
     out["scores"] = res
+    out["family_check"] = {
+        "B1_mean": round(float(np.mean(np.abs(y - p_mean))), 4),
+        "B3_mean_centred": round(float(np.mean(np.abs(y - p_shm))), 4)}
+    out["shrink"] = spread
     out["by_transition"] = {
         f"{f}→{t}": {"n": int(len(g)),
                      "mae_B0": round(float(np.mean(np.abs(
@@ -275,6 +351,120 @@ def predict_outcome(cycles: pd.DataFrame) -> dict:
     out["group_split"] = run(d[~d["sow_id"].isin(hold)],
                              d[d["sow_id"].isin(hold)], "개체 단위 분할")
     return out
+
+
+# -- 검출력 ---------------------------------------------------------------
+# 실측 계절 손실. farm_monthly_panel 이 낸 값을 그대로 받아 온다 —
+# 여기서 새로 적으면 두 문서가 다른 수를 말한다.
+def _measured_gap_pp() -> float:
+    p = os.path.join(ROOT, "data", "farm_monthly_panel.json")
+    if os.path.exists(p):
+        return abs(float(json.load(open(p, encoding="utf-8"))
+                         ["overall"]["summer_minus_winter"]))
+    return 2.97
+
+
+POWER_DELTAS = (0.03, 0.05, 0.08, 0.12, 0.18, 0.25)
+POWER_SEEDS = 20
+POWER_TARGET = 0.80        # 이 확률로 잡히면 '검출 가능' 으로 본다
+SUMMER_MONTHS = (7, 8, 9)  # 교배월 기준 — farm_monthly_panel 과 같은 구간
+
+
+def power(cycles: pd.DataFrame, deltas=POWER_DELTAS, seeds: int = POWER_SEEDS,
+          quiet: bool = True) -> dict:
+    """**"안 된다" 를 "얼마여야 되는가" 로 바꾼다.**
+
+    분만 vs 재발이 기준선 미달로 나왔는데, 그게 *신호가 없어서*인지 *표본이
+    모자라서*인지 *지표가 못 봐서*인지를 안 갈랐다. 셋은 처방이 다르다.
+
+    계절 효과를 δ 만큼 **교배월에 심어 놓고**(여름 7·8·9월) 같은 파이프라인이
+    잡아내는지 센다. 가상의 위험인자를 새로 만들면 δ 를 실측 −2.97%p 와
+    견줄 수 없다.
+
+    **하드 라벨과 확률을 둘 다 잰다.** 처음엔 Macro-F1 로만 쟀는데 δ 를 25%p
+    까지 키워도 검출력이 안 올랐다 — 분만율이 82% 라 확률이 밀려도 부분군의
+    다수 클래스가 안 뒤집혀 예측이 계속 전부 '분만' 이었기 때문이다.
+    **지표가 눈이 먼 것이지 신호가 없던 게 아니다.** 그래서 AUC 를 함께 낸다.
+
+    검출 기준은 δ=0 을 같은 횟수만큼 돌려 만든 **귀무 분포의 95분위**다.
+    고정 문턱(예: AUC 0.55)을 쓰면 표본 크기에 따라 느슨해지거나 빡빡해진다.
+    """
+    from sklearn.ensemble import HistGradientBoostingClassifier
+    from sklearn.metrics import roc_auc_score
+
+    base = _outcome_frame(cycles).dropna(subset=["wei"]).reset_index(drop=True)
+    feats = ["parity", "month", "wei", "est_gap", "prior_returns", "prior_cycles"]
+    if len(base) < MIN_OBS * 4:
+        return {"skipped": f"표본 {len(base)} 로는 검출력을 내지 않는다"}
+    p_base = float(base["y"].mean())
+    cut = pd.Series(base["service"]).quantile(CUT_Q)
+    is_summer = base["month"].isin(SUMMER_MONTHS).to_numpy()
+    w = float(is_summer.mean())
+
+    def one(delta: float, seed: int):
+        rng = np.random.default_rng(seed)
+        # 여름만 δ 만큼 낮추고, 전체 분만율이 흔들리지 않게 겨울을 올려 보정
+        p = np.where(is_summer, p_base - delta * (1 - w), p_base + delta * w)
+        d = base.copy()
+        d["y"] = (rng.random(len(d)) < np.clip(p, 0.01, 0.99)).astype(int)
+        # y 를 다시 만들었으니 **y 에서 파생된 피처도 다시 만든다.**
+        # 안 하면 옛 결과에서 나온 prior_returns 가 남아 오염된다.
+        d["prior_returns"] = (d.sort_values(["sow_id", "service"])
+                              .groupby("sow_id")["y"]
+                              .apply(lambda s: (1 - s).shift(1).cumsum())
+                              .reset_index(level=0, drop=True)
+                              .reindex(d.index).fillna(0))
+        tr, te = d[d["service"] <= cut], d[d["service"] > cut]
+        if len(te) < MIN_OBS or tr["y"].nunique() < 2 or te["y"].nunique() < 2:
+            return None
+        m = HistGradientBoostingClassifier(max_iter=200, max_depth=3,
+                                           learning_rate=0.06,
+                                           random_state=seed)
+        m.fit(tr[feats], tr["y"])
+        prob = m.predict_proba(te[feats])[:, 1]
+        maj = int(tr["y"].mode().iloc[0])
+        got = ml_core.score(te["y"], m.predict(te[feats]))
+        ref = ml_core.score(te["y"], np.full(len(te), maj))
+        return {"auc": float(roc_auc_score(te["y"], prob)),
+                "verdict": ml_core.report("power", got, ref,
+                                          quiet=True)["verdict"]}
+
+    def sweep(delta):
+        rs = [one(delta, s) for s in range(seeds)]
+        rs = [r for r in rs if r]
+        return ([r["auc"] for r in rs],
+                sum(r["verdict"] == "개선" for r in rs) / max(1, len(rs)))
+
+    null_auc, _ = sweep(0.0)
+    thr = float(np.quantile(null_auc, 0.95)) if null_auc else 0.5
+
+    curve = {}
+    for dl in deltas:
+        aucs, hard = sweep(dl)
+        curve[round(dl * 100, 1)] = {
+            "auc_mean": round(float(np.mean(aucs)), 3),
+            "power_auc": round(float(np.mean([a > thr for a in aucs])), 3),
+            "power_hard": round(hard, 3)}
+    detect = next((k for k in sorted(curve)
+                   if curve[k]["power_auc"] >= POWER_TARGET), None)
+
+    gap = _measured_gap_pp()
+    aucs, hard = sweep(gap / 100.0)
+    at_measured = {"auc_mean": round(float(np.mean(aucs)), 3),
+                   "power_auc": round(float(np.mean([a > thr for a in aucs])), 3),
+                   "power_hard": round(hard, 3)}
+    # 검정력은 효과 × √n 로 커지므로, 실측 크기를 잡으려면 표본이 (한계/실측)² 배
+    need = round((detect / gap) ** 2, 1) if (detect and at_measured
+                                             ["power_auc"] < POWER_TARGET) else None
+
+    return {"base_rate": round(p_base, 4), "n": int(len(base)),
+            "n_test": int((base["service"] > cut).sum()),
+            "seeds": seeds, "target": POWER_TARGET,
+            "null_auc_mean": round(float(np.mean(null_auc)), 3),
+            "null_auc_p95": round(thr, 3),
+            "curve": curve, "detectable_pp": detect,
+            "measured_gap_pp": gap, "at_measured": at_measured,
+            "n_multiple_needed": need}
 
 
 def recovery(ev: pd.DataFrame, cycles: pd.DataFrame, params) -> dict:
@@ -383,6 +573,19 @@ def _print(r: dict) -> None:
             mark = "  ←기준선" if k.startswith("B0") else ""
             print(f"    {k:<18}{v['mae']:>9.2f}{v['hit']:>10.1%}"
                   f"{v['gain_vs_B0']:>+9.1%}{mark}")
+        fc = d.get("family_check") or {}
+        if fc:
+            win = "이긴다" if fc["B3_mean_centred"] < fc["B1_mean"] else "진다"
+            print(f"    계열 대조 — 평균 계열 안에서 수축이 {win}: "
+                  f"{fc['B1_mean']:.4f} → {fc['B3_mean_centred']:.4f}")
+            print(f"    그래도 **중앙값 기준선(B1)은 못 넘는다** — WEI 가 오른쪽으로"
+                  f" 치우쳐 중앙값이 평균보다 낫기 때문이다")
+        sp = d.get("shrink") or {}
+        if sp:
+            print(f"\n    개체 정보가 얼마나 진짜인가 (관측 = 진짜 + 오차)")
+            for k, v in sp.items():
+                print(f"      {k:<16}진짜몫 {v['true_share']:>5.0%} · "
+                      f"가중 중앙 {v['w_median']:.2f} · 개체 {v['n_animals']}")
         print(f"\n    전이별 (B0 표준 → B1 농장값)")
         for k, v in d["by_transition"].items():
             print(f"      {k:<20}n {v['n']:>5}   {v['mae_B0']:>6.2f} → "
@@ -406,13 +609,55 @@ def _print(r: dict) -> None:
               f"현장에서도 그 모돈의 과거는 알고 예측한다)")
 
 
+def _print_power(r: dict) -> None:
+    print("=" * 78)
+    print("  검출력 — '안 된다' 가 아니라 '얼마여야 되는가'")
+    print("=" * 78)
+    if r.get("skipped"):
+        print(f"  건너뜀 — {r['skipped']}")
+        return
+    print(f"\n  사이클 {r['n']:,} · 평가 {r['n_test']:,} · 분만율 "
+          f"{r['base_rate']:.1%} · 시드 {r['seeds']}")
+    print(f"  귀무(δ=0) AUC 평균 {r['null_auc_mean']} · 95분위 문턱 "
+          f"{r['null_auc_p95']} ← 이걸 넘어야 잡은 것")
+    print(f"\n  {'δ(%p)':>7}{'AUC':>8}{'검출력(AUC)':>13}{'검출력(하드라벨)':>17}")
+    for k, v in r["curve"].items():
+        print(f"  {k:>7}{v['auc_mean']:>8.3f}{v['power_auc']:>13.0%}"
+              f"{v['power_hard']:>17.0%}")
+    m = r["at_measured"]
+    print(f"\n  실측 계절 손실 {r['measured_gap_pp']}%p → AUC {m['auc_mean']} · "
+          f"검출력 {m['power_auc']:.0%}")
+    if r["detectable_pp"]:
+        print(f"  검출 한계 **{r['detectable_pp']}%p** (검출력 "
+              f"{r['target']:.0%} 기준)")
+    if r["n_multiple_needed"]:
+        print(f"  실측 크기를 잡으려면 표본이 **{r['n_multiple_needed']}배** "
+              f"필요하다 (≈ {int(r['n'] * r['n_multiple_needed']):,} 사이클)")
+    print(f"\n  ※ 하드라벨 검출력이 δ 를 키워도 안 오르는 것에 주목. 분만율이 "
+          f"{r['base_rate']:.0%} 라\n    확률이 밀려도 부분군의 다수 클래스가 "
+          f"안 뒤집혀 예측이 계속 '분만' 이다.\n    **지표가 눈이 먼 것이지 "
+          f"신호가 없던 게 아니다.**")
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="path_predict")
     ap.add_argument("--sows", type=int, default=300)
     ap.add_argument("--years", type=float, default=3.0)
     ap.add_argument("--seed", type=int, default=0)
+    ap.add_argument("--power", action="store_true",
+                    help="검출력 분석 — 계절 효과가 몇 %%p 여야 잡히는가")
     ap.add_argument("--out", default=None)
     a = ap.parse_args(argv)
+    if a.power:
+        cyc = sf.generate(n_sows=a.sows, years=a.years, seed=a.seed,
+                          params=sf.Params())
+        pw = power(cyc)
+        _print_power(pw)
+        if a.out:
+            json.dump(pw, open(a.out, "w", encoding="utf-8"),
+                      ensure_ascii=False, indent=1, default=str)
+            print(f"\n저장: {a.out}")
+        return 0
     r = run(a.sows, a.years, a.seed)
     _print(r)
     if a.out:

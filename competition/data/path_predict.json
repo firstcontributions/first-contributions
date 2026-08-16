@@ -135,6 +135,57 @@
     "mae": 1.15,
     "hit": 0.874,
     "gain_vs_B0": 0.3013
+   },
+   "B3 개체 수축": {
+    "mae": 1.043,
+    "hit": 0.862,
+    "gain_vs_B0": 0.3663
+   }
+  },
+  "family_check": {
+   "B1_mean": 1.0515,
+   "B3_mean_centred": 1.0498
+  },
+  "shrink": {
+   "교배→분만": {
+    "n_animals": 300,
+    "var_obs": 0.381,
+    "var_err": 0.313,
+    "var_true": 0.068,
+    "true_share": 0.179,
+    "w_median": 0.18
+   },
+   "교배→재발정": {
+    "n_animals": 203,
+    "var_obs": 0.0,
+    "var_err": 0.0,
+    "var_true": 0.0,
+    "true_share": 0.0,
+    "w_median": 0.0
+   },
+   "발정확인→교배": {
+    "n_animals": 300,
+    "var_obs": 0.038,
+    "var_err": 0.036,
+    "var_true": 0.003,
+    "true_share": 0.068,
+    "w_median": 0.069
+   },
+   "분만→이유": {
+    "n_animals": 300,
+    "var_obs": 0.572,
+    "var_err": 0.485,
+    "var_true": 0.086,
+    "true_share": 0.151,
+    "w_median": 0.157
+   },
+   "이유→발정확인": {
+    "n_animals": 300,
+    "var_obs": 1.124,
+    "var_err": 0.685,
+    "var_true": 0.439,
+    "true_share": 0.39,
+    "w_median": 0.393
    }
   },
   "by_transition": {

@@ -2501,6 +2501,29 @@ def test_path_predict() -> None:
     want = (1 - one["y"]).shift(1).cumsum().fillna(0).to_numpy()
     assert np.allclose(one["prior_returns"].to_numpy(), want)
 
+    # -- A-1 수축 --------------------------------------------------------
+    # B2 가 B1 에 진 원인은 개체 추정치의 노이즈였다. 수축이 그걸 고치는가.
+    if not d.get("skipped"):
+        sc = d["scores"]
+        assert sc["B3 개체 수축"]["mae"] < sc["B2 개체 과거"]["mae"], sc
+        # **B1 은 못 넘는다.** 넘었다고 쓰면 거짓말이 된다 — 계열이 다르다
+        fc = d["family_check"]
+        assert fc["B3_mean_centred"] < fc["B1_mean"], fc   # 같은 계열에선 이긴다
+        sp = d["shrink"]
+        for k, v in sp.items():
+            # 분산 분해 — 오차가 관측보다 크면 진짜 몫은 **0 으로 자른다**.
+            # 항등식만 걸었다가 그 경우에 실패했다(분만→이유 obs 0.479 <
+            # err 0.532). 분산이 음수일 수는 없으므로 자르는 게 맞다.
+            want = max(0.0, v["var_obs"] - v["var_err"])
+            assert abs(v["var_true"] - want) < 0.02, (k, v)
+            assert 0.0 <= v["true_share"] <= 1.0 and 0.0 <= v["w_median"] <= 1.0
+        # 변동이 전혀 없는 전이(교배→재발정 21일 고정)는 w=0 이어야 한다.
+        # 0/0 을 안 막으면 NaN 이 예측 전체로 번진다 — 실제로 그랬다
+        fixed = sp.get("교배→재발정")
+        if fixed:
+            assert fixed["w_median"] == 0.0, fixed
+        assert all(np.isfinite(v["mae"]) for v in sc.values()), sc
+
     o = pp.predict_outcome(cycles)
     if not o.get("skipped"):
         for key in ("time_split", "group_split"):
@@ -2514,6 +2537,22 @@ def test_path_predict() -> None:
                                     "정확도만 미달(불균형에 가림)")
         # 개체 단위 분할에서는 train/test 개체가 겹치면 안 된다
         assert o["group_split"].get("skipped") or True
+
+    # -- A-3 검출력 ------------------------------------------------------
+    # "안 된다" 가 표본 탓인지 지표 탓인지 신호 탓인지를 가르는 장치다.
+    pw = pp.power(cycles, deltas=(0.05, 0.25), seeds=4)
+    if not pw.get("skipped"):
+        assert 0.4 < pw["null_auc_p95"] < 0.7, pw["null_auc_p95"]
+        c5, c25 = pw["curve"][5.0], pw["curve"][25.0]
+        # 효과를 키우면 **AUC 는 올라야 한다.** 안 오르면 주입이 안 된 것이다
+        assert c25["auc_mean"] > c5["auc_mean"] + 0.05, (c5, c25)
+        # 하드 라벨은 82% 불균형에 가려 안 오른다 — 그게 이 분석의 요점이다
+        assert c25["auc_mean"] > 0.55, c25
+        # 실측 계절 손실은 farm_monthly_panel 에서 받아야 한다
+        import json as _j
+        pj = _j.load(open(os.path.join(ROOT, "data", "farm_monthly_panel.json"),
+                          encoding="utf-8"))
+        assert pw["measured_gap_pp"] == abs(pj["overall"]["summer_minus_winter"])
 
 
 def test_barn_watch() -> None:
