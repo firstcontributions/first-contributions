@@ -3275,6 +3275,7 @@ Amna Naeem
 - Sahana K (sahanakothandapani1)
 - [Ian Sonoda](https://github.com/iansonoda)
 - [Divesh Kumawat](https://github.com/D1v3shh)
+- [nXhermane](https://github.com/nXhermane)
 - [Sakshi](https://github.com/sak08322-crypto)
 - [CaiwenHuang](https://github.com/CaiwenHuang)
 - [Devang Kartik] (https://github.com/aatish-anonymous)
