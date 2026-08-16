@@ -15,6 +15,7 @@
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
 - [Sophia]
+- [Akhtar] (https://github.com/Akhtar-tech786)
 [Rohit Patil](https://github.com/JediScout10)
 -[Akshat Parashar](https://github.com/akshatparashar)
 - [Maicon Vieira](https://github.com/maiconvieira)
