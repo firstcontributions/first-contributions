@@ -5,6 +5,7 @@
 - [Vikka]
 - [Tushar Gupta](https://github.com/tushar-G-8572)
  - [harish](https://github.com/vharish1701-creator/first-contributions.git)
+- [Swanand salwe] (https://github.com/swanand-salwe/first-contributions.git)
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 - [amdeldacc]
 - [Moin Qureshi] (https://github.com/Moin928)
