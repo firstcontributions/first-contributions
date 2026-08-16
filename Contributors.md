@@ -3,6 +3,7 @@
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Anshul Reddy Musku](https://github.com/manshulreddy3-cyber)
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
+- [Aryan Kumar](https://github.com/aryan-hunter/first-contributions.git) 
 - [Vikka]
 - [Tushar Gupta](https://github.com/tushar-G-8572)
  - [harish](https://github.com/vharish1701-creator/first-contributions.git)
