@@ -4494,3 +4494,4 @@ Raphael Karani
 - [Ali](https://github.com/bb4202338-stack)
 - [Théo Simonet](https://github.com/hithubfr)
 - [Arjun Chopra](https://github.com/arjunchopra98762-create)
+- [Tim Schmidt](https://github.com/timschmidt160502-ship-it)
