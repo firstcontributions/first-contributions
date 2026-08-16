@@ -68,6 +68,7 @@ Hiroyuki19830823
 - Abdullah Amin (https://github.com/algo-abdullah)
 - Hayden Vidotto :3
 - Rayyan Tayyab
+- [Akhil Gattu](https://github.com/akhilgattu02)
 - k2p2
 - Shani Tzoref
 - Aditya Nath Dwivedi
