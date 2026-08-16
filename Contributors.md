@@ -3,6 +3,7 @@
 - [Anshul Reddy Musku](https://github.com/manshulreddy3-cyber)
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
 - [Vikka]
+- [Tushar Gupta](https://github.com/tushar-G-8572)
  - [harish](https://github.com/vharish1701-creator/first-contributions.git)
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 - [amdeldacc]
