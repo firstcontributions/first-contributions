@@ -428,6 +428,7 @@ nathan practice here
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
 - [Aavash] (https://github.com/aavashX17)
+- [Sime] (httls://github.com/simon)
 - [Milad Zadeh Soltani](https://github.com/dev-awa)
 - [Vaishnavi S V](https://github.com/vaish-sv22)
 - [Lorenzo Aserio](https://github.com/laserio)
