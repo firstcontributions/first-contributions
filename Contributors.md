@@ -38,6 +38,7 @@ Hiroyuki19830823
 - rishit backend enginner
 - [Liam Wallant] (https://github.com/LiamWallant)
 - [Luther]
+- [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
 - Ricardo Sastre (https://github.com/ricsas)
