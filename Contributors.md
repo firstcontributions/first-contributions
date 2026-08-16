@@ -9,11 +9,13 @@
 - [Moin Qureshi] (https://github.com/Moin928)
 - [Krish](https://github.com/kaptankrrish)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
+- [prakash kumawat](https://github.com/prakashkumawat-dev)
 - [Mollyb333]
 -[Alan]
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
 - [Sophia]
+- [Akhtar Ali] (https://github.com/Akhtar-tech786)
 [Rohit Patil](https://github.com/JediScout10)
 -[Akshat Parashar](https://github.com/akshatparashar)
 - [Maicon Vieira](https://github.com/maiconvieira)
@@ -212,6 +214,7 @@ Varshith IMT2024044
 - [Ranzeus](https://github.com/Ranzeus)
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
 - [Suhasini]
+- [Sajin Prasad](https://github.com/SajinPrasad/)
 - [Alwil17](https://github.com/alwil17)
 - [Jaydyn Davis](https://github.com/jaydaVis04)
 - [Jayaditya Sahu](My second push)
@@ -429,6 +432,7 @@ nathan practice here
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
 - [Aavash] (https://github.com/aavashX17)
+- [Sime] (httls://github.com/simon)
 - [Milad Zadeh Soltani](https://github.com/dev-awa)
 - [Vaishnavi S V](https://github.com/vaish-sv22)
 - [Lorenzo Aserio](https://github.com/laserio)
@@ -4481,3 +4485,4 @@ Raphael Karani
 - [rlaqhsl](https://github.com/rlaqhsl-eng)
 - [mskim51-ai](https://github.com/mskim51-ai)
 - [kactayy](https://github.com/kactayy)
+- [caidongyang123](https://github.com/caidongyang123)
