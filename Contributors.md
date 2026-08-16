@@ -9,6 +9,7 @@
 - [Moin Qureshi] (https://github.com/Moin928)
 - [Krish](https://github.com/kaptankrrish)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
+- [prakash kumawat](https://github.com/prakashkumawat-dev)
 - [Mollyb333]
 -[Alan]
 - [Deepika](https://github.com/deepika-rattewal
