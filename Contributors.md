@@ -50,6 +50,9 @@
 - Ran Wang https://github.com/ranw27798-ux
 -Rishit Raman
 Hiroyuki19830823
+
+
+Shaurya522 from The Dooon School
 - rishit backend enginner
 - Shubh692 from The Doon School
 - [Liam Wallant] (https://github.com/LiamWallant)
