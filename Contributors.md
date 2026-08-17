@@ -168,6 +168,7 @@ Varshith IMT2024044
 - Ankita Gupta
 - HelaElbez
 - DaoMoyo
+- joseph francez
 - first contribution
 - Sherwin Mazarello
 - [Ravi Teja S](https://github.com/Ravi-Teja-S)
