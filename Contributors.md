@@ -1,6 +1,7 @@
 # Contributors
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
+- [Chandrakant Banait] (https://github.com/ChandrakantB)
 - [Anshul Reddy Musku](https://github.com/manshulreddy3-cyber)
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
 - [Aryan Kumar](https://github.com/aryan-hunter/first-contributions.git) 
