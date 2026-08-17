@@ -87,6 +87,7 @@ Shaurya522 from The Dooon School
 - Abdullah Amin (https://github.com/algo-abdullah)
 - Hayden Vidotto :3
 - Rayyan Tayyab
+- little baby
 - [Akhil Gattu](https://github.com/akhilgattu02)
 - k2p2
 - Shani Tzoref
@@ -123,7 +124,7 @@ Varshith IMT2024044
 - Naitik
 - Krititka
 - Karst
--
+- FumoLemon
 - [FAIZAL S A](https://github.com/Safaizal)
 -Harsha BT2024148
 - mohammedfarhanBT2024140
