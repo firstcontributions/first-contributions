@@ -3,6 +3,7 @@
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
 - [Anshul Reddy Musku](https://github.com/manshulreddy3-cyber)
+- [Rohan Majhi](https://github.com/rohann-afk)
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
 - [Aryan Kumar](https://github.com/aryan-hunter/first-contributions.git) 
 - [Vikka]
