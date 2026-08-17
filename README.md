@@ -90,8 +90,7 @@
 
 # First Contributions
 
-This project helps beginners learn Git and make their first contribution. If you are looking to make your first contribution, follow the steps below.
-
+This project helps beginners learn Git collaboration and make their first open-source contribution.
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
