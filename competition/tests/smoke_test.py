@@ -2335,6 +2335,62 @@ def test_pc_suite() -> None:
     assert sh.index("build_pc_suite.py") < sh.index("build_dashboard_hub.py")
 
 
+def test_presentation_cnn_current() -> None:
+    """발표자료가 **더 최신 결과를 안 싣고 있는** 상태를 잡는가.
+
+    슬라이드 8 이 CPU 파이프라인 0.636 을 싣고 슬라이드 12 가 그걸 뒤집는
+    상태로 며칠 갔다. 0.636 은 다른 파이프라인의 정당한 값이라 '틀린 수치'
+    검사로는 안 걸린다 — 그래서 **CNN 값이 실려 있는지**를 따로 본다.
+    """
+    import importlib
+    import json
+    sys.path.insert(0, os.path.join(ROOT, "tools"))
+    cd = importlib.import_module("check_docs")
+
+    m = cd.actual_metrics()
+    j = json.load(open(os.path.join(ROOT, "data", "posture_cnn.json"),
+                       encoding="utf-8"))
+    # 감시값은 JSON 에서 와야 한다 — 문서에 손으로 적은 걸 읽으면 무의미하다
+    assert m["cnn3_acc"] == round(j["cls3"]["acc"], 3)
+    assert m["cnn_lr_restricted"] == round(j["left_right_restricted"]["acc"], 3)
+
+    rep = []
+    cd.check_posture_cnn(rep)
+    assert rep == [], rep
+
+    pres = os.path.join(ROOT, "docs", "PRESENTATION.md")
+    src = open(pres, encoding="utf-8").read()
+    # 실제로 실려 있는가
+    assert f"{m['cnn3_acc']:.3f}" in src, "발표자료에 CNN 3클래스 값이 없다"
+    assert f"{m['cnn_lr_restricted']:.3f}" in src, "좌/우 한정 값이 없다"
+
+    # **잡아야 할 것을 잡는가** — 두 분기 모두
+    import tempfile
+    orig = cd.DOCS
+    try:
+        with tempfile.TemporaryDirectory() as td:
+            bad = os.path.join(td, "PRESENTATION.md")
+            open(bad, "w", encoding="utf-8").write(
+                src.replace(f"{m['cnn3_acc']:.3f}", "0.636"))
+            cd.DOCS = [bad]
+            rep = []
+            cd.check_posture_cnn(rep)
+            assert any("CNN 재측정값" in r for r in rep), rep
+
+            open(bad, "w", encoding="utf-8").write(
+                src.replace('좌/우 횡와는 "bbox 로는" 구분이 안 됩니다',
+                            "좌/우 횡와는 원리상 구분이 안 됩니다"))
+            rep = []
+            cd.check_posture_cnn(rep)
+            assert any("원리상" in r for r in rep), rep
+    finally:
+        cd.DOCS = orig
+
+    # 옛 주장을 **인용해서 고치는** 줄은 통과시켜야 한다(슬라이드 12·STATUS ⑦)
+    st = open(os.path.join(ROOT, "docs", "STATUS.md"), encoding="utf-8").read()
+    assert "원리상" in st, "고친 내역이 사라졌다 — 스스로 잡은 오류는 남긴다"
+
+
 def test_estrus_label_audit() -> None:
     """발정 라벨 감사기 — **누수를 실제로 잡는가, 깨끗한 걸 통과시키는가**.
 
@@ -3536,7 +3592,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

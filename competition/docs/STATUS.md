@@ -20,7 +20,7 @@ CCTV 발정 탐지에서 출발했지만, 국내 실측을 재 보니 손실이 
 
 ## 2. 지금 서 있는 자리
 
-**규모** 모듈 67개 · 대시보드 뷰 22개 · 테스트 70개(전부 통과)
+**규모** 모듈 67개 · 대시보드 뷰 22개 · 테스트 71개(전부 통과)
 자체완결 HTML(외부 연결 0) · `python competition/tests/smoke_test.py`
 
 ### 손에 쥔 데이터
@@ -413,7 +413,7 @@ A-2 는 성공하면 발표에서 가장 강한 문장이 된다 — **"발정�
 
 ```bash
 cd /path/to/first-contributions
-python competition/tests/smoke_test.py              # 70/70
+python competition/tests/smoke_test.py              # 71/71
 
 python competition/src/run_farm.py --sows 300       # 설계~손익 6단계
 python competition/src/farm_gap.py --program --sows 300   # 가정 vs 실측

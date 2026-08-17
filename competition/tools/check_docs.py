@@ -63,6 +63,19 @@ def actual_metrics() -> dict:
         m["posture3_geom_acc"] = round(geom["cls3"]["acc_w"], 3)
         m["posture5_ceiling"] = round(r["ceiling"]["ceiling"], 3)
         m["posture3_baseline"] = round(r["baseline"]["cls3"]["acc_w"], 3)
+    # 캐글 GPU CNN 결과. **이게 감시 밖에 있어서 발표자료가 표류했다** —
+    # 슬라이드 8 이 CPU 파이프라인 0.636 을 싣고 슬라이드 12 가 그걸 뒤집는
+    # 상태로 며칠 갔다. 옛 값 0.636 은 여전히 정당한 값(다른 파이프라인)이라
+    # check_metrics 로는 못 잡는다. 그래서 **CNN 값이 실려 있는지**를 본다.
+    p = os.path.join(COMP, "data", "posture_cnn.json")
+    if os.path.exists(p):
+        r = json.load(open(p, encoding="utf-8"))
+        for key, src in (("cnn3_acc", ("cls3", "acc")), ("cnn3_mf1", ("cls3", "mf1")),
+                         ("cnn5_acc", ("cls5", "acc")),
+                         ("cnn_lr_restricted", ("left_right_restricted", "acc"))):
+            blk, fld = src
+            if blk in r and fld in r[blk]:
+                m[key] = round(float(r[blk][fld]), 3)
     p = os.path.join(COMP, "data", "polygon_shape_eval.json")
     if os.path.exists(p):
         r = json.load(open(p, encoding="utf-8"))
@@ -265,6 +278,45 @@ def check_season(report: list) -> None:
                 report.append(f"{name}  {label} 재계산값 '{s}' 가 문서에 없다")
 
 
+def check_posture_cnn(report: list) -> None:
+    """자세 CNN 결과가 **발표자료에 반영돼 있는가**.
+
+    옛 값(0.636)은 CPU 파이프라인의 정당한 값이라 '틀린 수치' 로는 못 잡는다.
+    잡아야 하는 건 **더 최신 결과가 있는데 안 실린 상태**다. 그래서 자세를
+    수치로 인용하는 문서에 CNN 값이 있는지를 본다.
+
+    그리고 "원리상 구분 불가" 는 CNN 좌/우 0.699 로 뒤집힌 주장이다.
+    주장으로 남아 있으면 잡는다 — 오류를 설명하는 줄은 통과시킨다.
+    """
+    m = actual_metrics()
+    if "cnn3_acc" not in m:
+        return
+    want = f"{m['cnn3_acc']:.3f}"
+    # 옛 주장을 **인용해서 고치는** 줄은 남겨 둬야 한다 — 스스로 잡은 오류를
+    # 싣는 게 이 프로젝트의 방식이라 그 문장을 지우면 안 된다. check_survival
+    # 에서 슬라이드 12 를 오탐으로 잡았던 것과 같은 종류다.
+    EXCUSE = ("틀렸", "처음엔", "잘못", "옛 ", "뒤집", "폐기", "재계산",
+              "아니라", "고쳤", "써 왔는데", "라고 써")
+    for path in DOCS:
+        if not os.path.exists(path):
+            continue
+        t = open(path, encoding="utf-8").read()
+        name = os.path.basename(path)
+        if "자세" not in t or "0.636" not in t:
+            continue
+        if want not in t:
+            report.append(
+                f"{name}  자세 3클래스에 CNN 재측정값 {want} 가 없다 "
+                f"(0.636 은 CPU 파이프라인 값 — 더 최신 결과가 안 실렸다)")
+        for ln, line in enumerate(t.splitlines(), 1):
+            if any(x in line for x in EXCUSE):
+                continue
+            if "원리상" in line and ("좌" in line or "구분" in line):
+                report.append(
+                    f"{name}:{ln}  좌/우를 '원리상 구분 불가' 로 주장하고 있다 "
+                    f"— CNN 한정 정확도 {m.get('cnn_lr_restricted')} 로 뒤집혔다")
+
+
 def check_links(report: list) -> None:
     """문서가 가리키는 파일이 실제로 있는지."""
     for path in DOCS:
@@ -402,6 +454,7 @@ def main() -> int:
     check_gap_figures(report)
     check_survival(report)
     check_season(report)
+    check_posture_cnn(report)
     check_view_list(report)
     check_negative_results(report)
     check_links(report)
