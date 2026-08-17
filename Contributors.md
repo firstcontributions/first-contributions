@@ -288,6 +288,8 @@ Varshith IMT2024044
 - [Yashwanth Reddy Pidela] (https://github.com/TheOrangeCarXX)
 - [Eugenio Coimbra](https://github.com/nennno)
 - [lukedryan] (https://github.com/lukedryan)
+- [michael](https://github.com/Mike336-cloud)
+- [Aditya Vatsa] (https://github.com/VatsAditya48)
 - [Aditya Vatsa] (https://github.com/VatsAditya48) 
 - [saiyarram]
 -Rohit Antony
