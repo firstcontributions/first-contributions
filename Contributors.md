@@ -4544,7 +4544,7 @@ Raphael Karani
 - [Jahirul Islam](https://github.com/superSimpleJahir)
 - [Anmol Dwivedi](https://github.com/anmoldwivedi89)
 
-- [Topo2273](https://github.com/Topo2273)
+- [Topo2273](https://github.com/Topo227
 
-[Nikhil Verma] (https://github.com/nikhil2005verma/kale)
+[nikhil2005verma]
 
