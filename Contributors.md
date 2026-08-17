@@ -2303,6 +2303,7 @@ Amna Naeem
 - [Nasser Buhamad](https://github.com/arabgb)
 - [Nathan Kutete](https://github.com/nathankuts)
 - [Nathaniel Marin](https://github.com/HorrySheet11)
+- [Sampriti Gopisetti] (https://github.com/sampriti-gopisetti)
 - [Natpu Enean](https://github.com/NatpuEnean)
 - [Naveen Attri](https://github.com/naveen-attri)
 - [Joseph Jonathan Fernandes](https://github.com/JosephJonathanFernandes)
