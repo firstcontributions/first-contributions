@@ -4400,6 +4400,9 @@ Raphael Karani
 - [Davi Maceno](https://github.com/DAVI2027508)
 - [Caleb Faulks](https://github.com/calebfaulks)
 - [ssup1024-tech](https://github.com/ssup1024-tech)
+
+- [JakobiZ](https://github.com/JakobiZ)
+
 - [agenciaklyp](https://github.com/agenciaklyp)
 - [Yerassyl Kaiyrzhan](https://github.com/yerakairzhan)
 - [Mahesh Epili](https://github.com/maheshepili)
