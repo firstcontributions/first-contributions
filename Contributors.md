@@ -1,11 +1,11 @@
-# Contributors
+-ansh from the doon school 
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
 - [Anshul Reddy Musku](https://github.com/manshulreddy3-cyber)
 - [Rohan Majhi](https://github.com/rohann-afk)
-- [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
+- [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431) 
 - [Aryan Kumar](https://github.com/aryan-hunter/first-contributions.git) 
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
@@ -4505,7 +4505,7 @@ Raphael Karani
 - [Ankana Ghosh](https://github.com/ankanaghosh2001)
 - [Varun Kakaraddi](https://github.com/JodVarun)
 - [Rutuja Wadgaonkar](https://github.com/wadgaonkarrutuja43-bot)
-
+ 
 - [C Yond](Veni, vidi, abii)
 - [rlaqhsl](https://github.com/rlaqhsl-eng)
 - [mskim51-ai](https://github.com/mskim51-ai)
