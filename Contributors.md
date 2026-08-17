@@ -15,6 +15,7 @@
 - [JanLancelot] (https://github.com/JanLancelot)
 - [Kamyar Azizi](https://github.com/KamyarAzz)
 - [lukedryan] (https://github.com/lukedryan)
+- [michael](https://github.com/Mike336-cloud)
 - [Aditya Vatsa] (https://github.com/VatsAditya48)
 - [saiyarram]
 - [Sanjana N N] (https://github.com/Sanjana-nn2)
