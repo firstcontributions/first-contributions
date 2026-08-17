@@ -1,4 +1,5 @@
 # Contributors
+- [Rutuja](https://github.com/rutuja2005byte)
 - Vedansh & Yug 
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
