@@ -4534,6 +4534,9 @@ Raphael Karani
 - [bhuddha777](https://github.com/bhuddha777)
 - [Salman Ahmad](https://github.com/AHMMIKUN)
 - [Ishaan Bisht and Shiven]
+
+- [Strucklation](https://github.com/strucklation)
 - [Froid999](https://github.com/Froid999)
 - [Jahirul Islam](https://github.com/superSimpleJahir)
 - [Anmol Dwivedi](https://github.com/anmoldwivedi89)
+
