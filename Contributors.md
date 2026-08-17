@@ -2305,6 +2305,7 @@ Amna Naeem
 - [Newsworld](https://github.com/Newsworld-niu)
 - [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [Nicholas C](https://github.com/KrustKrabPizza42/)
+- [Krish Parmani](https://github.com/krishparmani)
 - [Nicholas Sobchak](https://github.com/NicholasSobchak)
 - [Fucai Xie](https://github.com/fufu1209)
 - [n-noraf](https://github.com/n-noraf)
