@@ -5,6 +5,7 @@
 - [Rutuja](https://github.com/rutuja2005byte)
 - Vedansh & Yug 
 -[ze]
+-[MelA]
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
@@ -4558,6 +4559,5 @@ Raphael Karani
 - [Adithyan H P](https://github.com/adithyanhp)
 - [Adithyan H P](https://github.com/adithyanhp)
 - [MattyGT](https://github.com/MattyGT)
-- [Kirk Yapp]
 - [Mustafa H]
 - [Jerry Burney](https://github.com/burney8-hub)
