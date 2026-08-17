@@ -4559,5 +4559,4 @@ Raphael Karani
 - [Adithyan H P](https://github.com/adithyanhp)
 - [Adithyan H P](https://github.com/adithyanhp)
 - [MattyGT](https://github.com/MattyGT)
-- [Mustafa H]
-- [Jerry Burney](https://github.com/burney8-hub)
+- [AmalW](https://github.com/amalnc)
