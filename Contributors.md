@@ -18,6 +18,7 @@
 - [amdeldacc]
 - [Moin Qureshi] (https://github.com/Moin928)
 - [Ivan Gray] (https://github.com/d0xim)
+- [Divi Jaiwanth] (https://github.com/divijaiwanth)
 - [Krish](https://github.com/kaptankrrish)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
