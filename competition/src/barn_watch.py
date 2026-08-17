@@ -57,10 +57,14 @@ DEFAULT_START = date(2026, 1, 1)
 # 매핑 문제다. 그래서 겸하는 동은 **머무는 일수 비율로 방을 나눈다** —
 # 정상 상태에서 단계별 자리 수는 체류 일수에 비례하므로 유도되는 값이다.
 #
+# 등록 화면이 **육성사를 따로 받으면** 겸용 가정을 쓰면 안 된다. 그때는
+# 비육사가 finisher 만 맡는다 — 안 그러면 grower 방이 두 번 세어진다.
+#
 # 교배사·임신사·후보사는 **번식돈** 자리라 돈군흐름(자돈~비육) 밖이다.
 # 억지로 대응시키면 자돈이 임신사로 가는 그림이 나온다.
 HOUSE_OF = {"분만사": ["farrowing"], "자돈사": ["nursery"],
-            "비육사": ["grower", "finisher"]}
+            "육성사": ["grower"], "비육사": ["grower", "finisher"]}
+HOUSE_OF_SPLIT = {**HOUSE_OF, "비육사": ["finisher"]}
 BREEDING_ONLY = ("교배사", "임신사", "후보사")
 
 
@@ -78,16 +82,64 @@ def _split(n_rooms: int, houses: list, cfg) -> list:
     return [(h, n) for h, n in got.items() if n > 0]
 
 
+def crates_from_setup(setup: dict) -> int:
+    """등록한 분만사의 **방당 분만틀 수**. 없으면 0.
+
+    **총수가 아니다.** pigflow 의 `crate_count` 는 한 배치가 쓰는 분만틀,
+    즉 방 하나의 크기다(AIAO 는 방 하나가 배치 하나를 통째로 받는다).
+    총수를 넣으면 배치가 방 수만큼 부풀어 어느 방에도 안 들어간다.
+
+    방 크기가 제각각이면 **가장 큰 방**을 쓴다. 작은 방은 배치가 안 들어가
+    죽은 자리가 되는데, 그건 `feasibility()` 가 따로 보고한다.
+    """
+    return max((max(1, int(b.get("per") or 1))
+                for b in (setup.get("barns") or [])
+                if b.get("stage") == "분만사"), default=0)
+
+
+def batch_system_from_setup(setup: dict, cfg) -> tuple:
+    """등록한 배치 간격 → pigflow 배치 체계 id.
+
+    이걸 안 맞추면 등록 화면에서 3주를 골라도 시뮬레이터는 주간으로 돌아
+    배치 크기가 3배 어긋난다.
+    """
+    iv = setup.get("interval_days")
+    if not iv:
+        return None, None
+    want = float(iv) / 7.0
+    for b in cfg.batch_systems:
+        if abs(b.interval_weeks - want) < 1e-6:
+            return b.id, None
+    have = " · ".join(f"{b.interval_weeks:g}주" for b in cfg.batch_systems)
+    return None, (f"등록 간격 {iv:g}일에 맞는 배치 체계가 없다 "
+                  f"(가능: {have}) — 기본 {cfg.batch_system_id} 로 돌린다")
+
+
 def rooms_from_setup(setup: dict, cfg) -> tuple:
     """등록 화면 JSON → pigflow 돈방 목록.
 
     돌려주는 둘째 값은 **버리거나 나눈 동**이다. 조용히 처리하면 사용자는
     자기가 등록한 축사가 그대로 반영된 줄 안다. 무엇을 왜 그랬는지 같이 준다.
+
+    ## 분만사는 단위가 다르다
+
+    등록 화면의 '방당 자리' 는 분만사에서 **분만틀 수**(모돈 자리)인데
+    pigflow 의 farrowing 방 수용력은 **포유자돈 두수**다. 그대로 넘기면
+    방이 배치보다 12배쯤 작아 배치가 한 발짝도 못 가고, 그러면 전이가
+    0 회라 집계가 **전부 0 건 = 위반 없음** 으로 보인다. `feasibility()` 를
+    넣게 만든 바로 그 실패라, 여기서 복당 산자수를 곱해 맞춘다.
     """
     rooms, notes = [], []
-    for b in setup.get("barns") or []:
+    # 복당 총산 = 이유두수 ÷ (1 − 포유 폐사)
+    per_litter = (cfg.breeding.weaned_per_litter
+                  / max(1e-9, 1.0 - cfg.flow_stages[0].mortality))
+    barns = setup.get("barns") or []
+    # 육성사를 따로 등록했으면 비육사는 겸용이 아니다
+    table = HOUSE_OF_SPLIT if any(b.get("stage") == "육성사" for b in barns) \
+        else HOUSE_OF
+    for b in barns:
         stage = b.get("stage")
-        houses = HOUSE_OF.get(stage)
+        houses = table.get(stage)
         if not houses:
             notes.append((b.get("name", "?"), stage,
                           "번식돈 자리 — 돈군흐름(자돈~비육) 밖이라 뺀다"
@@ -100,15 +152,23 @@ def rooms_from_setup(setup: dict, cfg) -> tuple:
             notes.append((b.get("name", "?"), stage,
                           "육성·비육을 겸하는 동 → 체류 일수 비율로 "
                           + " · ".join(f"{h} {n}방" for h, n in parts)))
+        # 면적은 등록 화면이 **받으면 그걸 쓰고**, 비었으면 두수 × 그 house 의
+        # 두당 면적으로 역산한다. 역산값은 정의상 법정면적을 딱 맞추므로
+        # 밀사가 절대 안 잡힌다 — 그래서 입력값이 있으면 반드시 그쪽이다.
+        area_in = b.get("area_m2")
         for house, n in parts:
-            # 면적은 등록 화면이 받지 않는다. 두수 × 그 house 의 두당 면적으로
-            # **역산**한다 — 실제 도면이 들어오면 이 값이 그 농장 값으로 바뀐다.
             need = max((s.space_m2_per_head for s in cfg.flow_stages
                         if s.house == house), default=0.4)
+            head = int(round(per * per_litter)) if house == "farrowing" else per
+            if house == "farrowing":
+                notes.append((b.get("name", "?"), stage,
+                              f"분만틀 {per}개 → 포유자돈 {head}두로 환산 "
+                              f"(복당 총산 {per_litter:.1f}두)"))
+            area = float(area_in) if area_in else round(head * need, 1)
             for i in range(n):
                 rooms.append({"room_id": f"{b.get('name', house)}-{house[:2]}{i + 1}",
-                              "house": house, "capacity_head": per,
-                              "area_m2": round(per * need, 1)})
+                              "house": house, "capacity_head": head,
+                              "area_m2": area})
     return rooms, notes
 
 
@@ -467,12 +527,26 @@ def main(argv=None) -> int:
         setup = json.load(open(a.setup, encoding="utf-8"))
         if setup.get("n_sows"):
             a.sows = int(setup["n_sows"])
-        cfg.crate_count = rf.crates_for_sows(a.sows, cfg)
+        # 간격을 먼저 맞춘다 — crate_count 역산이 간격에 딸려 움직인다
+        sid, why = batch_system_from_setup(setup, cfg)
+        if sid:
+            cfg.batch_system_id = sid
+        want = rf.crates_for_sows(a.sows, cfg)
+        # **등록한 분만틀이 이긴다.** 모돈수 역산은 설계값이고 분만틀은
+        # 지어 놓은 것이다. 둘이 다르면 조용히 고르지 않고 둘 다 보여 준다.
+        have = crates_from_setup(setup)
+        cfg.crate_count = have or want
         spec, notes = rooms_from_setup(setup, cfg.merged())
         if spec:
             cfg.rooms = spec
             rooms = build_rooms(cfg.merged(), from_config=True)
-        print(f"등록 JSON: 모돈 {a.sows}두 · 돈방 {len(spec)}개")
+        print(f"등록 JSON: 모돈 {a.sows}두 · 돈방 {len(spec)}개 · "
+              f"배치 {cfg.batch_system_id} · 방당 분만틀 {cfg.crate_count}개")
+        if why:
+            print(f"  · {why}")
+        if have and have != want:
+            print(f"  · 방당 분만틀 등록 {have}개 vs 모돈 {a.sows}두 역산 "
+                  f"{want}개 — **등록값으로 돌린다**")
         for name, stage, why in notes:
             print(f"  · {name}({stage}) — {why}")
         if not spec:

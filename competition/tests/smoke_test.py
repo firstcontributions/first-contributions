@@ -2892,6 +2892,132 @@ def test_farm_setup_view() -> None:
     # 겨울 기준이라 상한이라는 것도 밝혀야 한다
     assert "손실 상한" in html
 
+    # -- 돈사 등록이 **출하까지** 이어지는가 ------------------------------
+    #
+    # 예전 이 화면은 번식사 넷(교배·임신·분만·후보)에서 끝났다. 그러면
+    # 등록만으로는 뒷단 병목이 안 보인다 — batch_flow 가 잡은 육성사 여유
+    # 0일이 화면에 한 번도 안 뜬다.
+    import growth_flow as gf
+    down = bfs.downstream_stages()
+    assert [x["stage"] for x in down] == ["자돈사", "육성사", "비육사"], down
+    for x in down:
+        assert x["stage"] in fr.BARN_STAGES, x
+    # 일수·면적·폐사는 growth_flow 가 원본이어야 한다
+    for name, a0, a1, _w0, _w1, barn, area in gf.STAGES:
+        if area is None:
+            continue
+        got = next(x for x in down if x["stage"] == barn)
+        assert got["days"] == a1 - a0 and got["area"] == area, (barn, got)
+        assert got["mort"] == gf.MORTALITY[name], (barn, got)
+    assert cfg["down"] == down, "화면에 실린 뒷단이 갈렸다"
+
+    # batch_flow 도 같은 일수를 써야 한다. 비육 63일이 박혀 있어서
+    # 105~175일령(70일)과 7일 어긋나 있었다 — 여유가 그만큼 부풀었다
+    import batch_flow as bf2
+    assert bf2.DOWNSTREAM_DAYS == {x["stage"]: x["days"] for x in down}
+
+    # -- 정적 계산이 시뮬레이터 소요보다 작을 수 있다 ---------------------
+    #
+    # 이게 이 화면에서 실제로 난 사고다. 자돈사를 일령 한 구간(46일)으로
+    # 세면 3방인데, 시뮬레이터는 전기·후기로 나눠 방을 따로 써서 4방이
+    # 필요하다. 3방으로 등록하면 화면은 통과시키고 돌리면 적체 55회가 난다.
+    sim = bfs.sim_stages()
+    assert cfg["sim"] == sim, "화면에 실린 흐름 단계가 갈렸다"
+    n_nursery = sum(1 for s in sim if s["stage"] == "자돈사")
+    assert n_nursery > 1, "자돈사가 나뉘지 않으면 이 검사는 의미가 없다"
+    # 큰 쪽으로 짓는다는 문장과 이유가 화면에 있어야 한다
+    assert "둘 중 큰 쪽" in html
+    assert "방을 따로 씁니다" in html
+    # 면적을 자리 수에서 되돌려 채우면 안 된다 — 늘 '적정' 으로 찍힌다
+    assert "과밀로 안 잡히기" in html
+    # 후보사를 표에서 뺀 이유를 밝혀야 한다. 조용히 빼면 통과로 읽힌다
+    assert "후보사는 이 표에 없습니다" in html
+
+
+def test_setup_json_actually_runs() -> None:
+    """등록 화면이 내보낸 JSON 이 **실제로 돌아가는가**.
+
+    등록 화면의 값어치는 폼이 아니라 그다음이다. 내보낸 JSON 을
+    `barn_watch --setup` 이 못 돌리면 이 화면은 종이다. 그리고 못 돌 때의
+    증상이 고약하다 — 배치가 한 발짝도 못 가면 전이가 0 회라 집계가
+    **전부 0 건 = 위반 없음** 으로 보인다.
+
+    실제로 세 군데가 어긋나 있었다:
+      · 분만사 '방당 자리' 는 분만틀(모돈) 수인데 pigflow 는 포유자돈 두수
+      · crate_count 는 총 분만틀이 아니라 **방 하나 크기**
+      · 등록 간격 21일을 안 읽어 시뮬레이터가 주간으로 돌았다
+    """
+    import barn_watch as bw
+    import run_farm as rf
+
+    setup = {
+        "n_sows": 300, "interval_days": 21, "lactation_days": 24,
+        "pre_farrow_days": 7, "washout_days": 7,
+        "barns": [
+            {"name": "1동", "stage": "교배사", "rooms": 1, "per": 72},
+            {"name": "3동", "stage": "분만사", "rooms": 2, "per": 36},
+            {"name": "5동", "stage": "자돈사", "rooms": 4, "per": 396},
+            {"name": "6동", "stage": "육성사", "rooms": 3, "per": 385},
+            {"name": "7동", "stage": "비육사", "rooms": 4, "per": 381},
+        ],
+    }
+    cfg = bw.default_config()
+
+    # 1) 간격이 배치 체계로 이어져야 한다. 안 읽으면 3주를 골라도 주간으로
+    #    돌아 배치 크기가 3배 어긋난다
+    sid, why = bw.batch_system_from_setup(setup, cfg)
+    assert sid and why is None, (sid, why)
+    cfg.batch_system_id = sid
+    assert cfg.batch_system.interval_weeks == 3.0
+    # 맞는 체계가 없으면 조용히 넘어가지 않고 말해야 한다
+    _, why10 = bw.batch_system_from_setup({"interval_days": 10}, cfg)
+    assert why10 and "없다" in why10, why10
+
+    # 2) crate_count 는 **방 하나 크기**다. 총수(2×36=72)를 넣으면 배치가
+    #    방 수만큼 부풀어 어느 방에도 안 들어간다
+    crates = bw.crates_from_setup(setup)
+    assert crates == 36, crates
+    cfg.crate_count = crates
+
+    # 3) 육성사를 따로 등록했으면 비육사를 쪼개면 안 된다 — grower 가 두 번
+    #    세어진다
+    spec, notes = bw.rooms_from_setup(setup, cfg.merged())
+    from collections import Counter
+    houses = Counter(s["house"] for s in spec)
+    assert houses == {"farrowing": 2, "nursery": 4,
+                      "grower": 3, "finisher": 4}, houses
+
+    # 4) 분만사는 단위 환산이 있어야 하고, 그 사실이 보고돼야 한다
+    setup_f = dict(setup, barns=[{"name": "3동", "stage": "분만사",
+                                  "rooms": 2, "per": 36}])
+    fspec, fnotes = bw.rooms_from_setup(setup_f, cfg.merged())
+    assert all(r["capacity_head"] > 36 * 10 for r in fspec), fspec
+    assert any("환산" in n[2] for n in fnotes), fnotes
+
+    # 5) 그래서 **끝까지 돈다.** 전이가 났고, 그 위에서 위반이 0 건이어야
+    #    한다. 전이 0 회의 '위반 0 건' 은 통과가 아니다
+    cfg.rooms = spec
+    r = bw.watch(cfg, days=400, rooms=bw.build_rooms(cfg.merged(), from_config=True))
+    assert not r["blocked"], r["blocked"]
+    assert r["n_steady"] > 0, "전이가 0 회면 검사한 게 없다"
+    bad = sum(v for k, v in r["counts"].items() if k != "유휴")
+    assert bad == 0, r["counts"]
+    assert r["verdict"] == "정상", r["verdict"]
+
+    # 6) 자돈사를 3방으로 줄이면(일령 구간만 보고 센 값) 막혀야 한다 —
+    #    이 검사가 통과하면 위 4방이 우연이라는 뜻이다
+    thin = dict(setup, barns=[b if b["stage"] != "자돈사"
+                              else dict(b, rooms=3) for b in setup["barns"]])
+    cfg2 = bw.default_config()
+    cfg2.batch_system_id = sid
+    cfg2.crate_count = crates
+    cfg2.rooms, _ = bw.rooms_from_setup(thin, cfg2.merged())
+    r2 = bw.watch(cfg2, days=400,
+                  rooms=bw.build_rooms(cfg2.merged(), from_config=True))
+    assert r2["counts"].get("적체", 0) > 0 or r2["blocked"], r2["counts"]
+
+    assert rf is not None
+
 
 def test_farm_diagnosis_view() -> None:
     """20번째 뷰 — 실측 진단이 화면에 올라왔는가.
@@ -3677,7 +3803,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_setup_json_actually_runs, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

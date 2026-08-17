@@ -49,7 +49,14 @@ import pandas as pd
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import breeding_timing as bt  # noqa: E402
+import growth_flow as gf  # noqa: E402
 import repro_calendar as rc  # noqa: E402
+
+# 뒷단 사육일수는 **growth_flow.STAGES 의 구간 폭**이다. 여기 숫자를 따로
+# 적어 두면 두 모듈이 다른 농장을 말한다 — 실제로 비육 63일(적은 값)이
+# 박혀 있어서 105~175일령(70일)과 7일 어긋나 있었고, 그만큼 여유 일수가
+# 부풀려져 있었다(14일 → 7일).
+DOWNSTREAM_DAYS = {b: a1 - a0 for _n, a0, a1, _w0, _w1, b, ar in gf.STAGES if ar}
 
 GESTATION = bt.GESTATION          # 115
 LACTATION = bt.LACTATION          # 28
@@ -197,8 +204,10 @@ def max_lactation(rooms: int, interval_days: float,
 
 
 def downstream(weaned_per_batch: float, interval_days: float,
-               nursery_days: int = 42, grower_days: int = 35,
-               finisher_days: int = 63, washdown: int = WASHDOWN) -> pd.DataFrame:
+               nursery_days: int = DOWNSTREAM_DAYS["자돈사"],
+               grower_days: int = DOWNSTREAM_DAYS["육성사"],
+               finisher_days: int = DOWNSTREAM_DAYS["비육사"],
+               washdown: int = WASHDOWN) -> pd.DataFrame:
     """이후 단계(자돈사·육성사·비육사)의 필요 방·자리 수.
 
     분만사만 AIAO 로 맞추고 뒷단을 안 맞추면 **자돈사 병목**이 난다 — 이유자돈이

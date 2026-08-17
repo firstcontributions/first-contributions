@@ -59,6 +59,7 @@ SEASON = os.path.join(ROOT, "data", "farm_monthly_panel.json")
 # 여기서 새 낱말을 만들면 등록 화면과 코드가 갈라진다.
 import farm_registry as fr                                    # noqa: E402
 import batch_flow as bf                                       # noqa: E402
+import growth_flow as gf                                      # noqa: E402
 
 # 간격 선택지 — batch_flow.compare 와 같은 눈금
 INTERVALS = [("주간", 7), ("10일", 10), ("2주", 14), ("3주", 21),
@@ -80,6 +81,41 @@ PERF = [
     ("npd", "연간 비생산일수(NPD)", "일", "npd", 0, 200),
     ("wean_to_estrus", "재귀발정일", "일", "wean_to_estrus", 3, 30),
 ]
+
+
+def downstream_stages() -> list:
+    """뒷단 3단계 — 사육일수·법정 두당면적·구간 폐사율.
+
+    `growth_flow.STAGES` 가 원본이다. 여기서 일수를 다시 적으면 등록 화면이
+    말하는 농장과 `batch_flow`·`growth_flow` 가 말하는 농장이 갈린다.
+    """
+    out = []
+    for name, a0, a1, _w0, _w1, barn, area in gf.STAGES:
+        if area is None:                      # 포유자돈은 분만사 안이라 뺀다
+            continue
+        out.append({"stage": barn, "label": name, "days": a1 - a0,
+                    "age": [a0, a1], "area": area,
+                    "mort": gf.MORTALITY.get(name, 0.0)})
+    return out
+
+
+def sim_stages() -> list:
+    """시뮬레이터가 실제로 쓰는 흐름 단계 — 방 소요가 여기서 갈린다.
+
+    `growth_flow` 는 자돈사를 **한 구간**(24~70일령)으로 보지만 pigflow 는
+    전기·후기로 나눠 **방을 따로 쓴다**(21일 + 25일). 그러면 배치가 중간에
+    한 번 옮겨 타므로 같은 46일이라도 방이 하나 더 든다. 화면이 이걸 모른 채
+    3방으로 잡으면 등록은 통과하는데 돌리면 적체가 난다 — 실제로 그랬다.
+
+    육성·비육 경계도 다르다(35/70 vs 50/55). 합은 105일로 같으므로 **어느
+    쪽이 틀린 게 아니라 경계 정의가 다른 것**이고, 그래서 둘 다 보여 준다.
+    """
+    from pigflow.config import default_config
+    ko = {"farrowing": "분만사", "nursery": "자돈사",
+          "grower": "육성사", "finisher": "비육사"}
+    return [{"stage": ko[s.house], "id": s.id, "label": s.name_ko,
+             "days": int(s.duration_days)}
+            for s in default_config().merged().flow_stages if s.house in ko]
 
 
 def quantiles() -> dict:
@@ -159,7 +195,8 @@ def build() -> str:
     cfg = {"q": q, "d": d, "intervals": INTERVALS, "routes": routes,
            "perf": [{"key": k, "label": lb, "unit": u, "arg": a,
                      "lo": lo, "hi": hi} for k, lb, u, a, lo, hi in PERF],
-           "season": sn,
+           "season": sn, "down": downstream_stages(), "sim": sim_stages(),
+           "washdown": bf.WASHDOWN, "market_age": gf.MARKET_AGE,
            "cycle_base": d["gestation"] + d["lactation"] + d["wean_to_service"]}
 
     stage_desc = "".join(
@@ -269,22 +306,9 @@ color:var(--accent);text-decoration:none}}
     <div class="hint" id="h_site"></div></div>
 </div></div>
 
-<h2>2. 축사동</h2>
-<div class="h2d">동을 추가하고 용도·방 수·방당 자리·사육 방식을 넣습니다.
-<b>사육 방식만 정하면 발정 판정 경로가 따라 정해집니다.</b></div>
-<div class="card">
-<table><thead><tr><th>동 이름</th><th>용도</th><th>방 수</th>
-<th>방당 자리</th><th>사육 방식</th><th>자리 합</th><th></th></tr></thead>
-<tbody id="barns"></tbody></table>
-<div class="row"><button id="add">+ 동 추가</button>
-<button id="preset">일관농장 기본 구성 넣기</button></div>
-<div class="note">용도별 정의 — 이 어휘는 <code>farm_registry.BARN_STAGES</code>
-와 같습니다. 화면에서 새 낱말을 만들면 코드와 갈라집니다.</div>
-<div style="margin-top:8px">{stage_desc}</div>
-</div>
-
-<h2>3. 운영 방식</h2>
-<div class="h2d">배치 간격이 방 수와 이유일령을 동시에 정합니다.</div>
+<h2>2. 운영 방식</h2>
+<div class="h2d">배치 간격이 방 수와 이유일령을 동시에 정합니다 —
+<b>돈사를 등록하기 전에 먼저 정해야 필요 방 수가 나옵니다.</b></div>
 <div class="card"><div class="grid">
   <div><label>배치 간격</label>
     <select id="f_interval">{_opts([(str(v), t) for t, v in INTERVALS])}</select>
@@ -298,6 +322,33 @@ color:var(--accent);text-decoration:none}}
     <input id="f_wash" type="number" min="0" max="14" value="{d['washout']:.0f}">
     <div class="hint" id="h_wash"></div></div>
 </div></div>
+
+<h2>3. 돈사 등록</h2>
+<div class="h2d">여기가 이 화면의 본론입니다. 동을 추가하고 <b>용도·방 수·방당
+자리·방당 면적·사육 방식</b>을 넣으면, 바로 아래에서 <b>번식사부터 출하까지</b>
+필요 자리·AIAO 방 수·법정 사육밀도를 한꺼번에 대조합니다.
+사육 방식은 발정 판정 경로까지 정합니다.</div>
+<div class="card">
+<table><thead><tr><th>동 이름</th><th>용도</th><th>방 수</th>
+<th>방당 자리</th><th>방당 면적<span class="u"> ㎡</span></th>
+<th>사육 방식</th><th>자리 합</th><th>두당 면적</th><th></th></tr></thead>
+<tbody id="barns"></tbody></table>
+<div class="row"><button id="add">+ 동 추가</button>
+<button class="pri" id="preset">일관농장 기본 구성 넣기</button>
+<span class="hint" id="h_barns" style="margin:0"></span></div>
+<div class="note"><b>면적은 비워도 됩니다</b> — 비우면 밀사 판정만 못 합니다.
+자리 수에서 되돌려 채우지 않습니다. 역산한 면적은 정의상 법정 기준에 딱
+맞아서 <b>어떤 농장도 과밀로 안 잡히기</b> 때문입니다.</div>
+<div class="note" style="margin-top:6px">용도별 정의 — 이 어휘는
+<code>farm_registry.BARN_STAGES</code> 와 같습니다. 화면에서 새 낱말을 만들면
+코드와 갈라집니다. 뒷단 3단계는 <code>growth_flow.STAGES</code> 의 일령
+구간과 1:1 입니다.</div>
+<div style="margin-top:8px">{stage_desc}</div>
+</div>
+<div id="checks"></div>
+<div class="card"><b style="font-size:.9rem">발정 판정 경로</b>
+<div class="h2d" style="margin:4px 0 8px">등록한 사육 방식에서 따라 나옵니다.</div>
+<div id="routes"></div></div>
 
 <h2>4. 성적 — 아는 것만</h2>
 <div class="h2d"><b>비운 칸은 중앙값으로 채우지 않고 진단에서 뺍니다.</b>
@@ -323,10 +374,6 @@ color:var(--accent);text-decoration:none}}
 <code>batch_flow.plan</code> 과 같은 식입니다.</div>
 <div class="card"><div class="kpis" id="kpis"></div>
 <div class="note" id="cyc"></div></div>
-<div id="checks"></div>
-<div class="card"><b style="font-size:.9rem">발정 판정 경로</b>
-<div class="h2d" style="margin:4px 0 8px">등록한 사육 방식에서 따라 나옵니다.</div>
-<div id="routes"></div></div>
 <div id="pos"></div>
 
 <h2>7. 내보내기</h2>
@@ -358,17 +405,63 @@ const el = (t, c) => {{ const e = document.createElement(t); if (c) e.className 
 // 배치 설계는 192자리를 요구한다 — AIAO 는 방 하나가 배치 하나를 통째로
 // 받아야 하므로 방마다 **최대 배치 크기**만큼 있어야 하고, 평균으로 지으면
 // 절반의 배치가 안 들어간다. 그래서 분만사는 배치 설계에서 역산한다.
+//
+// **뒷단(자돈·육성·비육)도 같은 이유로 배치 설계에서 나온다.** 예전 기본
+// 구성은 번식사 넷에서 끝났는데, 그러면 등록만으로는 병목이 안 보인다 —
+// batch_flow 가 잡아낸 육성사 여유 0일이 화면에 한 번도 안 뜨는 것이다.
+//
+// 면적은 **일부러 비워 둔다.** 자리 수 × 법정면적으로 채우면 정의상 늘
+// '적정' 이라 밀사 판정이 무의미해진다.
 function preset(sows) {{
   const cyc = CFG.cycle_base, d = CFG.d;
   const mate = Math.round(sows * (d.wean_to_service + 28) / cyc);
   const gest = Math.round(sows * (d.gestation - 28 - d.pre_farrow) / cyc);
   const p = planOf({{sows: sows}});
-  return [
-    {{name: "1동", stage: "교배사", rooms: 1, per: mate, housing: "stall"}},
-    {{name: "2동", stage: "임신사", rooms: 2, per: Math.ceil(gest / 2), housing: "group"}},
-    {{name: "3동", stage: "분만사", rooms: p.rooms, per: Math.ceil(p.farrow), housing: "crate"}},
-    {{name: "4동", stage: "후보사", rooms: 1, per: Math.max(4, Math.round(sows * 0.05)), housing: "group"}},
+  const out = [
+    {{name: "1동", stage: "교배사", rooms: 1, per: mate, area: null, housing: "stall"}},
+    {{name: "2동", stage: "임신사", rooms: 2, per: Math.ceil(gest / 2), area: null, housing: "group"}},
+    {{name: "3동", stage: "분만사", rooms: p.rooms, per: Math.ceil(p.farrow), area: null, housing: "crate"}},
+    {{name: "4동", stage: "후보사", rooms: 1, per: Math.max(4, Math.round(sows * 0.05)), area: null, housing: "group"}},
   ];
+  // **둘 중 큰 쪽으로 짓는다.** 정적 계산만 따르면 등록은 통과하는데
+  // 돌리면 적체가 난다(자돈사 3방 → 적체 55회). 통과하는 기본 구성을
+  // 주는 게 이 버튼의 존재 이유다.
+  const sim = simRooms(p.iv, p.wash);
+  downPlan(p).forEach((r, i) => out.push({{
+    name: (5 + i) + "동", stage: r.stage,
+    rooms: Math.max(r.minRooms, sim[r.stage] || 0),
+    per: r.perRoom, area: null, housing: "pen"}}));
+  return out;
+}}
+
+// 뒷단 단계별 입식두수·필요 방·여유 — batch_flow.downstream 과 같은 식.
+//   점유 = 사육일수 + 세척 · 최소 방 = ceil(점유 / 간격)
+//   여유 = 방 × 간격 − 점유   (0 이면 세척 당일 바로 넣어야 한다는 뜻)
+// 단계 폐사는 **그 단계 안에서** 나므로 다음 단계 입식은 곱해서 준다.
+//
+// **첫 단계 기간은 포유기간에 딸려 움직인다.** growth_flow 는 28일 이유를
+// 전제로 자돈사를 28~70일령으로 두는데, 21일 이유로 당기면 자돈사가 7일
+// 길어진다 — 출하일령은 그대로이므로 앞에서 던 날이 뒤로 넘어갈 뿐이다.
+function downPlan(p) {{
+  const wPer = num("#p_weaned");
+  // **분만복수를 올림한 뒤에 곱한다.** 안 올리면 35.3복 × 11두 = 388두가
+  // 나오는데 시뮬레이터는 분만틀 36개로 396두를 만들어, 8두 차이로 방이
+  // 안 들어가고 배치가 한 발짝도 못 간다. 분만사 자리를 올림해 잡는 것과
+  // 같은 이유다 — 방은 최대 배치를 받아야 한다.
+  let head = Math.ceil(p.farrow) * (wPer ?? CFG.d.weaned);   // 배치당 이유두수
+  const src = (wPer !== null) ? "입력값" : "설계 가정";
+  return CFG.down.map((s, i) => {{
+    const a0 = (i === 0) ? p.lact : s.age[0];
+    const days = Math.max(1, s.age[1] - a0);
+    const occupy = days + p.wash;
+    const minRooms = Math.max(1, Math.ceil(occupy / p.iv));
+    const perRoom = Math.ceil(head);
+    const row = {{stage: s.stage, label: s.label, age: [a0, s.age[1]], days,
+                 area: s.area, head, perRoom, occupy, minRooms, src,
+                 shift: days - s.days, need: perRoom * minRooms}};
+    head = head * (1 - s.mort);
+    return row;
+  }});
 }}
 
 let barns = [];
@@ -380,23 +473,52 @@ function opts(list, sel) {{
   }}).join("");
 }}
 
+// 법정 두당면적 — growth_flow.STAGES 에서 온다. 번식사는 시행령에 두당
+// 면적 기준이 없어 판정하지 않는다(빈칸으로 둔다).
+const LEGAL = Object.fromEntries(CFG.down.map(s => [s.stage, s.area]));
+
+// 시뮬레이터 방 소요 — 하위 단계마다 방을 따로 쓴다.
+// 자돈사는 전기·후기로 나뉘어 46일 한 구간으로 잡을 때보다 방이 더 든다.
+function simRooms(iv, wash) {{
+  const out = {{}};
+  for (const s of CFG.sim) {{
+    out[s.stage] = (out[s.stage] || 0) + Math.max(1, Math.ceil((s.days + wash) / iv));
+  }}
+  return out;
+}}
+
+function density(b) {{
+  const need = LEGAL[b.stage];
+  if (!need) return {{tag: "", txt: "—"}};
+  if (!b.area) return {{tag: "skip", txt: "면적 미입력"}};
+  const per = b.area / Math.max(1, b.per);
+  const ok = per >= need - 1e-9;
+  return {{tag: ok ? "ok" : "err",
+          txt: `${{per.toFixed(2)}}㎡ / 기준 ${{need}}`,
+          over: ok ? 0 : Math.ceil(b.per - b.area / need)}};
+}}
+
 function drawBarns() {{
   const tb = $("#barns"); tb.innerHTML = "";
   barns.forEach((b, i) => {{
+    const dn = density(b);
     const tr = el("tr");
     tr.innerHTML =
       `<td><input data-i="${{i}}" data-k="name" value="${{b.name}}" style="min-width:74px"></td>` +
       `<td><select data-i="${{i}}" data-k="stage">${{opts(STAGES, b.stage)}}</select></td>` +
-      `<td><input data-i="${{i}}" data-k="rooms" type="number" min="1" max="99" value="${{b.rooms}}" style="width:66px"></td>` +
-      `<td><input data-i="${{i}}" data-k="per" type="number" min="1" max="9999" value="${{b.per}}" style="width:78px"></td>` +
+      `<td><input data-i="${{i}}" data-k="rooms" type="number" min="1" max="99" value="${{b.rooms}}" style="width:64px"></td>` +
+      `<td><input data-i="${{i}}" data-k="per" type="number" min="1" max="9999" value="${{b.per}}" style="width:74px"></td>` +
+      `<td><input data-i="${{i}}" data-k="area" type="number" min="0" step="0.1" value="${{b.area ?? ""}}" placeholder="비움" style="width:74px"></td>` +
       `<td><select data-i="${{i}}" data-k="housing">${{opts(HOUSING, b.housing)}}</select></td>` +
       `<td><b>${{(b.rooms * b.per).toLocaleString()}}</b></td>` +
+      `<td>${{dn.tag ? `<span class="tag ${{dn.tag}}">${{dn.txt}}</span>` : dn.txt}}` +
+      `${{dn.over ? `<div class="hint err">초과 ${{dn.over}}두</div>` : ""}}</td>` +
       `<td><button class="x" data-del="${{i}}">삭제</button></td>`;
     tb.appendChild(tr);
   }});
   if (!barns.length) {{
     const tr = el("tr");
-    tr.innerHTML = '<td colspan="7" style="color:var(--muted);font-size:.82rem">' +
+    tr.innerHTML = '<td colspan="9" style="color:var(--muted);font-size:.82rem">' +
       '등록된 동이 없습니다. “일관농장 기본 구성 넣기” 로 시작해 보세요.</td>';
     tb.appendChild(tr);
   }}
@@ -559,49 +681,142 @@ function render() {{
     `<b>세척을 빼고 세면 방이 모자라 올인/올아웃이 무너집니다</b> — ` +
     `배칭을 하는 의미 자체가 사라집니다.`;
 
-  // -- 검산 ------------------------------------------------------------
-  const rows = [];
-  const need = {{
-    "분만사": Math.ceil(p.farrow) * p.rooms,
-    "교배사": Math.round(p.sows * (CFG.d.wean_to_service + 28) / p.cycle),
-    "임신사": Math.round(p.sows * (CFG.d.gestation - 28 - p.pre) / p.cycle),
-  }};
-  for (const [st, n] of Object.entries(need)) {{
-    const have = capacity(st);
-    const gap = have - n;
-    rows.push({{st, n, have, gap}});
+  // -- 돈사 검사 --------------------------------------------------------
+  // 예전에는 번식사 셋(분만·교배·임신)만 봤다. 그러면 등록만으로는 뒷단
+  // 병목이 안 보인다 — batch_flow 가 잡은 육성사 여유 0일이 화면에 한 번도
+  // 안 뜬다. 그래서 **출하까지** 같은 표에 놓는다.
+  //
+  // 앞단과 뒷단은 세는 방식이 다르다:
+  //   교배사·임신사  연속 흐름 — 자리 = 모돈 × (머무는 일수 / 번식주기)
+  //   분만사·뒷단    AIAO — 방 하나가 배치 하나를 통째로 받는다
+  const dn = downPlan(p);
+  const sim = simRooms(p.iv, p.wash);
+  const rows = [
+    {{st: "교배사", need: Math.round(p.sows * (CFG.d.wean_to_service + 28) / p.cycle),
+      kind: "연속", note: `이유~교배 후 4주`}},
+    {{st: "임신사", need: Math.round(p.sows * (CFG.d.gestation - 28 - p.pre) / p.cycle),
+      kind: "연속", note: `교배 4주~분만 ${{p.pre.toFixed(0)}}일 전`}},
+    {{st: "분만사", need: Math.ceil(p.farrow) * p.rooms, kind: "AIAO",
+      minRooms: p.minRooms, occupy: p.occupy,
+      note: `분만 ${{Math.ceil(p.farrow)}}복 × ${{p.rooms}}방`}},
+  ];
+  for (const r of dn) {{
+    rows.push({{st: r.stage, need: r.need, kind: "AIAO", minRooms: r.minRooms,
+                occupy: r.occupy, perRoom: r.perRoom, days: r.days,
+                note: `${{r.label}} ${{r.age[0]}}~${{r.age[1]}}일령 · ${{r.days}}일 · ` +
+                      `입식 ${{Math.ceil(r.head)}}두` +
+                      (r.shift ? ` <b>(이유 ${{p.lact.toFixed(0)}}일령이라 ` +
+                                 `${{r.shift > 0 ? "+" : ""}}${{r.shift}}일)</b>` : "")}});
   }}
-  const short = rows.filter(r => r.have > 0 && r.gap < 0);
-  const missing = rows.filter(r => r.have === 0);
-  let html = "";
+
+  let html = "", worst = null;
   if (barns.length) {{
-    const cls = short.length ? "card warn" : (missing.length ? "card" : "card good");
-    html += `<div class="${{cls}}"><b style="font-size:.9rem">필요 vs 보유 자리</b><table>` +
-      `<thead><tr><th>용도</th><th>필요</th><th>보유</th><th>차이</th><th>방 수</th></tr></thead><tbody>`;
+    for (const r of rows) {{
+      r.have = capacity(r.st);
+      r.rooms = roomsOf(r.st);
+      r.gap = r.have - r.need;
+      // 여유 일수 — AIAO 단계만. 방 × 간격 − 점유. 0 이면 세척이 끝나는
+      // 그날 바로 넣어야 한다는 뜻이라 하루만 밀려도 앞이 막힌다.
+      r.slack = (r.kind === "AIAO" && r.rooms > 0)
+        ? r.rooms * p.iv - r.occupy : null;
+      // 시뮬레이터는 하위 단계마다 방을 따로 쓴다 — 더 빡빡한 쪽이 기준이다
+      r.sim = sim[r.st] || 0;
+      r.needRooms = Math.max(r.minRooms || 0, r.sim);
+      // 방이 더 들면 자리도 더 든다 — 필요량을 큰 쪽 방 수로 다시 낸다
+      if (r.perRoom && r.needRooms > r.minRooms) r.need = r.perRoom * r.needRooms;
+      r.gap = r.have - r.need;
+      r.bad = r.have > 0 && (r.gap < 0 || (r.needRooms && r.rooms < r.needRooms));
+      if (r.bad && (!worst || r.gap < worst.gap)) worst = r;
+    }}
+    const short = rows.filter(r => r.bad);
+    const tight = rows.filter(r => !r.bad && r.slack !== null && r.slack < 3);
+    const missing = rows.filter(r => r.have === 0);
+    const cls = short.length ? "card warn"
+      : (missing.length ? "card" : (tight.length ? "card" : "card good"));
+    html += `<div class="${{cls}}"><b style="font-size:.9rem">돈사 검사 — ` +
+      `번식사부터 출하까지</b>` +
+      `<div class="h2d" style="margin:4px 0 8px">배치 ${{p.perBatch.toFixed(0)}}두 · ` +
+      `간격 ${{p.iv}}일 · 세척 ${{p.wash.toFixed(0)}}일 기준. 뒷단 필요 자리는 ` +
+      `이유두수 ${{dn.length ? Math.ceil(dn[0].head) : 0}}두(${{dn.length ? dn[0].src : "—"}})에서 ` +
+      `단계 폐사를 빼며 내려갑니다.</div><table>` +
+      `<thead><tr><th>용도</th><th>세는 법</th><th>필요</th><th>보유</th>` +
+      `<th>차이</th><th>방(보유/최소)</th><th>시뮬</th><th>여유</th></tr></thead><tbody>`;
     for (const r of rows) {{
       const tag = r.have === 0 ? '<span class="tag skip">미등록</span>'
-        : (r.gap < 0 ? `<span class="tag err">${{r.gap}}</span>`
-                     : `<span class="tag ok">+${{r.gap}}</span>`);
-      html += `<tr><td>${{r.st}}</td><td>${{r.n.toLocaleString()}}</td>` +
+        : (r.gap < 0 ? `<span class="tag err">${{r.gap.toLocaleString()}}</span>`
+                     : `<span class="tag ok">+${{r.gap.toLocaleString()}}</span>`);
+      const rm = r.needRooms
+        ? `${{r.rooms || "—"}} / ${{r.needRooms}}` + (r.rooms && r.rooms < r.needRooms
+            ? ' <span class="tag err">부족</span>' : "")
+        : (r.rooms || "—");
+      // 시뮬 소요가 정적 계산보다 크면 그 차이가 곧 '돌리면 나는 적체' 다
+      const sm = !r.sim ? "—"
+        : (r.sim > (r.minRooms || 0) ? `<span class="tag">${{r.sim}} ↑</span>` : r.sim);
+      const sl = r.slack === null ? "—"
+        : (r.slack < 0 ? `<span class="tag err">${{r.slack.toFixed(0)}}일</span>`
+          : (r.slack < 3 ? `<span class="tag skip">${{r.slack.toFixed(0)}}일</span>`
+                         : `${{r.slack.toFixed(0)}}일`));
+      html += `<tr><td><b>${{r.st}}</b><div class="hint">${{r.note}}</div></td>` +
+        `<td>${{r.kind}}</td><td>${{r.need.toLocaleString()}}</td>` +
         `<td>${{r.have.toLocaleString()}}</td><td>${{tag}}</td>` +
-        `<td>${{roomsOf(r.st) || "—"}}</td></tr>`;
+        `<td>${{rm}}</td><td>${{sm}}</td><td>${{sl}}</td></tr>`;
     }}
     html += `</tbody></table>`;
-    if (short.length) {{
-      html += `<div class="note"><b>부족분이 곧 병목입니다.</b> ` +
-        `돈방은 돈사를 건너뛰어 쓸 수 없으므로 총량이 맞아도 배분이 틀리면 밀립니다.</div>`;
-    }} else if (missing.length) {{
-      html += `<div class="note">${{missing.map(r => r.st).join("·")}} 이 등록되지 않아 ` +
-        `대조하지 못했습니다.</div>`;
+    // 시뮬 소요가 더 큰 이유는 둘 중 하나다. 뭉뚱그리면 둘 다 틀리게 읽힌다.
+    const up = rows.filter(r => r.sim > (r.minRooms || 0));
+    if (up.length) {{
+      const why = up.map(r => {{
+        const sub = CFG.sim.filter(s => s.stage === r.st);
+        if (sub.length > 1) {{
+          return `<b>${{r.st}}</b> — 전·후기로 나뉘어 방을 따로 씁니다` +
+            `(${{sub.map(s => `${{s.label}} ${{s.days}}일`).join(" + ")}}). ` +
+            `배치가 중간에 한 번 옮겨 타므로 같은 ${{r.days}}일이라도 방이 더 듭니다`;
+        }}
+        return `<b>${{r.st}}</b> — 구간 경계 정의가 다릅니다` +
+          `(시뮬 ${{sub[0].days}}일 vs 일령구간 ${{r.days}}일). ` +
+          `육성·비육 합은 105일로 같고 나누는 지점만 다릅니다`;
+      }}).join("<br>");
+      html += `<div class="note">‘시뮬’ 칸이 더 큰 곳:<br>${{why}}<br>` +
+        `일령 구간으로만 세면 등록은 통과하는데 돌리면 적체가 납니다 — ` +
+        `그래서 <b>필요 방·필요 자리는 둘 중 큰 쪽</b>으로 냅니다.</div>`;
     }}
-    const fRooms = roomsOf("분만사");
-    if (fRooms > 0 && fRooms < p.minRooms) {{
-      html += `<div class="note" style="color:var(--bad)"><b>분만사 방이 ${{fRooms}}개인데 ` +
-        `최소 ${{p.minRooms}}개가 필요합니다.</b> 이 간격으로는 AIAO 가 성립하지 않습니다.</div>`;
+
+    if (short.length) {{
+      html += `<div class="note" style="color:var(--bad)"><b>여기서 흐름이 막힙니다 — ` +
+        `${{short.map(r => r.st).join("·")}}.</b> 돈방은 돈사를 건너뛰어 쓸 수 없으므로 ` +
+        `총 자리가 맞아도 배분이 틀리면 밀립니다. 뒷단이 막히면 앞으로 거슬러 올라가 ` +
+        `분만사까지 멈춥니다.</div>`;
+    }} else if (tight.length) {{
+      html += `<div class="note"><b>${{tight.map(r => r.st).join("·")}} 여유가 ` +
+        `3일 미만입니다.</b> 세척이 끝나는 날 바로 넣어야 한다는 뜻이라 ` +
+        `하루만 밀려도 앞 단계가 막힙니다 — 방 하나를 더 두거나 간격을 넓혀야 합니다.</div>`;
+    }} else if (!missing.length) {{
+      html += `<div class="note" style="color:var(--good)"><b>출하까지 자리가 이어집니다.</b> ` +
+        `이 구성이면 배치가 한 방씩 밟아 나갑니다.</div>`;
+    }}
+    if (missing.length) {{
+      html += `<div class="note">${{missing.map(r => r.st).join("·")}} 이(가) 등록되지 않아 ` +
+        `대조하지 못했습니다 — <b>미등록은 통과가 아닙니다.</b></div>`;
+    }}
+    // 후보사는 표에 없다. 없어서가 아니라 **필요량을 낼 식이 없어서**다.
+    html += `<div class="note">후보사는 이 표에 없습니다 — 필요 자리가 ` +
+      `갱신율·순치기간에 달렸는데 둘 다 안 받고 있어, 넣으면 지어낸 수가 됩니다. ` +
+      `등록만 해 두면 발정 판정 경로에는 반영됩니다.</div>`;
+    // 밀사 — 자리 수가 맞아도 면적이 모자라면 법정 기준 위반이다
+    const dense = barns.map(b => [b, density(b)]).filter(x => x[1].tag === "err");
+    if (dense.length) {{
+      html += `<div class="note" style="color:var(--bad)"><b>사육밀도 초과 ` +
+        `${{dense.length}}동</b> — ${{dense.map(x => `${{x[0].name}}(${{x[1].txt}})`).join(" · ")}}. ` +
+        `자리 수가 맞아도 면적이 모자라면 「축산법 시행령」 기준 위반이고, ` +
+        `밀사는 증체·사료효율을 떨어뜨립니다.</div>`;
     }}
     html += `</div>`;
   }}
   $("#checks").innerHTML = html;
+  $("#h_barns").textContent = barns.length
+    ? `${{barns.length}}동 · 방 ${{barns.reduce((s, b) => s + b.rooms, 0)}}개 · ` +
+      `자리 ${{barns.reduce((s, b) => s + b.rooms * b.per, 0).toLocaleString()}}`
+    : "";
 
   // 포유 상한 — 방 주기에서 이동·세척을 빼고 남는 것
   const fRooms = roomsOf("분만사") || p.rooms;
@@ -678,7 +893,13 @@ function render() {{
       args.push(`--${{f.arg.replace(/_/g, "-")}} ${{v}}`);
     }}
   }}
+  // 등록한 돈사를 **실제로 돌려 보는** 줄을 맨 앞에 둔다. 이 화면의 검사는
+  // 정적 대조라 "자리가 맞는가" 까지고, 배치가 실제로 밟아 나가는지는
+  // 400일 돌려 봐야 안다(무처소·적체·역류는 거기서만 잡힌다).
   $("#out_cmd").value =
+    "# 아래 JSON 을 my_farm.json 으로 저장한 뒤\\n" +
+    "python competition/src/barn_watch.py --setup my_farm.json          # 돈군흐름 검사\\n" +
+    "python competition/src/barn_watch.py --setup my_farm.json --sweep  # 방을 빼며 한계\\n" +
     "python competition/src/run_farm.py " + args.join(" ") + "\\n" +
     `python competition/src/batch_flow.py   # 간격 ${{p.iv}}일 · 배치 ${{p.nb.toFixed(1)}}개\\n` +
     "python competition/src/farm_gap.py --sows " + Math.round(p.sows);
@@ -699,7 +920,14 @@ function snapshot() {{
     interval_days: parseFloat($("#f_interval").value),
     lactation_days: num("#f_lact"), pre_farrow_days: num("#f_pre"),
     washout_days: num("#f_wash"),
-    barns: barns.map(b => ({{...b}})),
+    // area_m2 는 barn_watch.rooms_from_setup 이 읽는 이름이다. 비었으면
+    // 넣지 않는다 — null 을 넣으면 그쪽이 0 으로 읽어 방이 다 탈락한다.
+    barns: barns.map(b => {{
+      const o = {{name: b.name, stage: b.stage, rooms: b.rooms, per: b.per,
+                 housing: b.housing, area: b.area ?? null}};
+      if (b.area) o.area_m2 = b.area;
+      return o;
+    }}),
     performance: perf,
     season: {{summer_farrowing_rate: num("#s_summer"),
               winter_farrowing_rate: num("#s_winter")}},
@@ -726,7 +954,8 @@ function load() {{
   if (s.lactation_days) $("#f_lact").value = s.lactation_days;
   if (s.pre_farrow_days != null) $("#f_pre").value = s.pre_farrow_days;
   if (s.washout_days != null) $("#f_wash").value = s.washout_days;
-  barns = (s.barns || []).map(b => ({{...b}}));
+  barns = (s.barns || []).map(b => ({{
+    ...b, area: (b.area ?? b.area_m2) || null}}));
   for (const f of CFG.perf) {{
     const v = (s.performance || {{}})[f.key];
     if (v != null) $("#p_" + f.key).value = v;
@@ -748,8 +977,21 @@ document.addEventListener("input", e => {{
   const t = e.target;
   if (t.dataset && t.dataset.k !== undefined) {{
     const i = +t.dataset.i, k = t.dataset.k;
-    barns[i][k] = (k === "rooms" || k === "per") ? Math.max(1, +t.value || 1) : t.value;
-    if (k === "rooms" || k === "per") drawBarns();
+    if (k === "rooms" || k === "per") barns[i][k] = Math.max(1, +t.value || 1);
+    // 면적은 **비움을 살려 둔다.** 0 으로 바꾸면 '면적 미입력' 과 '0㎡' 를
+    // 구별할 수 없어져, 안 적은 농장이 전부 밀사로 찍힌다.
+    else if (k === "area") barns[i][k] = t.value === "" ? null : Math.max(0, +t.value || 0);
+    else barns[i][k] = t.value;
+    if (k !== "name") {{
+      // 표를 다시 그리면 커서가 날아간다 — 같은 칸으로 되돌려 준다.
+      const pos = t.selectionStart;
+      drawBarns();
+      const back = document.querySelector(`[data-i="${{i}}"][data-k="${{k}}"]`);
+      if (back) {{
+        back.focus();
+        try {{ back.setSelectionRange(pos, pos); }} catch (e) {{}}
+      }}
+    }}
   }}
   render();
 }});
@@ -767,7 +1009,7 @@ document.addEventListener("click", e => {{
 }});
 $("#add").onclick = () => {{
   barns.push({{name: (barns.length + 1) + "동", stage: STAGES[0], rooms: 1,
-               per: 20, housing: HOUSING[0][0]}});
+               per: 20, area: null, housing: HOUSING[0][0]}});
   drawBarns(); render();
 }};
 $("#preset").onclick = () => {{
