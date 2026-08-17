@@ -1622,6 +1622,7 @@ Amna Naeem
 - [Axsz] (https://github.com/Axsz-lol)
 - [Nathan Donley](https://github.com/N8theGr8est)
 - [Alex](https://github.com/Neznix)
+- [Alexander Burfoot] (https://github.com/AlexanderBurfoot)
 - [Aryaa] (https://github.com/aryaa-05)
 - [Sujal Sevak](https://github.com/sujalsevak)
 - [Knut](https://github.com/PowershellKnut)
@@ -2305,6 +2306,7 @@ Amna Naeem
 - [Newsworld](https://github.com/Newsworld-niu)
 - [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [Nicholas C](https://github.com/KrustKrabPizza42/)
+- [Krish Parmani](https://github.com/krishparmani)
 - [Nicholas Sobchak](https://github.com/NicholasSobchak)
 - [Fucai Xie](https://github.com/fufu1209)
 - [n-noraf](https://github.com/n-noraf)
@@ -4532,4 +4534,9 @@ Raphael Karani
 - [bhuddha777](https://github.com/bhuddha777)
 - [Salman Ahmad](https://github.com/AHMMIKUN)
 - [Ishaan Bisht and Shiven]
+
 - [Strucklation](https://github.com/strucklation)
+- [Froid999](https://github.com/Froid999)
+- [Jahirul Islam](https://github.com/superSimpleJahir)
+- [Anmol Dwivedi](https://github.com/anmoldwivedi89)
+
