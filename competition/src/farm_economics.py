@@ -45,6 +45,17 @@ NON_FEED = {
     "약품·백신": 12000, "노무비": 45000, "수도광열": 15000,
     "감가상각·수선": 35000, "기타(수송·판매)": 18000,
 }
+# **돈사가 정해진 농장에서 한 두를 더 내면 얼마가 남는가**(한계 이익).
+#
+# 총원가에서 빼면 안 된다. 돈사·모돈·인력이 이미 있는 상태에서 빈 분만틀을
+# 채우거나 폐사를 줄여 한 두를 더 내는 것이라, 노무비·감가상각은 그 한 두
+# 때문에 늘지 않는다. 늘어나는 건 그 돼지가 먹는 사료와 약품·수송뿐이다.
+# 총원가로 재면 개선의 값이 40% 가까이 작게 나온다(145,400 vs 240,400원).
+#
+# ⚠️ 이건 **단기 한계 이익**이다. 돈사를 새로 지어 규모를 늘리는 결정에는
+# 쓰면 안 된다 — 거기서는 감가상각·노무비가 같이 늘어난다.
+VARIABLE_KEYS = ("약품·백신", "기타(수송·판매)")
+
 SOW_COST_PER_YEAR = 900_000     # 모돈 1두 유지비(사료·상각·후보돈 상각 포함)
 DRESSING_RATE = 0.76            # 지육률
 PORK_PRICE = 5200               # 지육 단가(원/kg) — 시세 변동 큼
@@ -92,6 +103,22 @@ def revenue_per_pig(market_kg: float = gf.MARKET_WEIGHT,
     carcass = market_kg * dressing
     return {"live_kg": market_kg, "carcass_kg": round(carcass, 1),
             "price_per_kg": price, "revenue": int(round(carcass * price))}
+
+
+def margin_per_pig(price: int = PORK_PRICE) -> dict:
+    """출하 **한 두를 더** 냈을 때 남는 돈(한계 이익).
+
+    돈사·모돈·인력이 이미 있는 농장에서 빈 분만틀을 채우거나 폐사를 줄여
+    얻는 한 두다. 그 한 두 때문에 늘어나는 비용만 뺀다 — 사료와 약품·수송.
+    """
+    rev = revenue_per_pig(price=price)
+    feed = int(feed_plan().attrs["feed_cost"])
+    other = sum(NON_FEED[k] for k in VARIABLE_KEYS)
+    return {"revenue": rev["revenue"], "feed": feed, "other_variable": other,
+            "variable_cost": feed + other,
+            "margin": rev["revenue"] - feed - other,
+            "note": "한계 이익 — 돈사·모돈·인력이 이미 있을 때. "
+                    "증축 판단에는 쓰지 않는다(고정비가 같이 는다)."}
 
 
 def per_sow_year(psy: float, post_wean_survival: float,

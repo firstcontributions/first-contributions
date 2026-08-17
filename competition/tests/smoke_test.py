@@ -2996,6 +2996,86 @@ def test_capacity_from_rooms() -> None:
     assert z["n_sows"] == 0 and z["binding"] is None, z
 
 
+def test_throughput_ceiling() -> None:
+    """**이 돈사의 연간 최대 출하두수**, 그리고 거기까지 가는 길 셋.
+
+    한 줄 항등식이다:
+        연간 출하 = 분만틀 × 채움률 × 복당 이유두수 × 육성률 × 연간 배치수
+
+    가장 위험한 실패는 **방이 못 받는 생산량을 상한이라고 부르는 것**이다.
+    설계 목표 12두를 그냥 상한으로 쓰면 자돈사 396자리에 분만틀 36개인
+    농장이 432두를 "낼 수 있다" 고 나온다 — 36두가 갈 곳이 없다.
+    """
+    import batch_flow as bf
+    import farm_economics as fe
+
+    barns = [{"stage": "교배사", "rooms": 1, "per": 72},
+             {"stage": "임신사", "rooms": 2, "per": 82},
+             {"stage": "분만사", "rooms": 2, "per": 36},
+             {"stage": "자돈사", "rooms": 4, "per": 396},
+             {"stage": "육성사", "rooms": 3, "per": 385},
+             {"stage": "비육사", "rooms": 4, "per": 381}]
+    cap = bf.capacity_from_rooms(barns, 21, lactation=24, weaned_per_crate=11.0)
+
+    # 1) 방이 복당 이유두수 상한을 정한다. 396자리 ÷ 36틀 = 11.0두
+    assert cap["weaned_ceiling"] == 11.0, cap["weaned_ceiling"]
+    t = bf.throughput(cap)
+    assert t["weaned_room_bound"] and t["top_weaned"] == 11.0, t
+    # 방이 넘치면 안 된다 — 상한 배치가 자돈사 한 방에 들어가야 한다
+    assert t["crates"] * t["top_weaned"] <= 396 + 1e-9
+
+    # 2) 성적을 안 넣으면 격차를 지어내지 않는다. '지금' 이 곧 상한이다
+    assert t["now_year"] == t["ceiling_year"] and t["gap_year"] == 0, t
+    assert all(w["at_target"] for w in t["ways"]), t["ways"]
+
+    # 3) 항등식이 실제로 성립하는가 — 곱한 값과 같아야 한다.
+    #    batches_per_year 는 **표시용으로 소수 1자리 반올림**된 값이라
+    #    그걸로 되짚으면 7두쯤 어긋난다. 검산에는 365÷간격을 쓴다.
+    per_year = 365.0 / cap["interval_days"]
+    got = (t["crates"] * t["factors"]["fill"] * t["factors"]["weaned"]
+           * t["factors"]["survival"] * per_year)
+    assert abs(got - t["now_year"]) < 1, (got, t["now_year"])
+
+    # 4) 나쁜 성적을 넣으면 길 셋이 다 열린다
+    r = bf.throughput(cap, farrow_rate=0.74, weaned_per_litter=10.0,
+                      grow_survival=0.86)
+    assert 0 < r["achieved"] < 1 and r["gap_year"] > 0, r
+    assert all(w["gain"] > 0 for w in r["ways"]), r["ways"]
+    # **합치지 않는다.** 곱해지므로 개별 합은 총 격차와 다르다
+    assert r["sum_of_ways"] != r["gap_year"], (r["sum_of_ways"], r["gap_year"])
+    assert "합산해" in r["sum_note"]
+
+    # 5) 각 몫은 **그것 하나만** 올렸을 때의 값이다 — 직접 다시 계산해 대조
+    for w in r["ways"]:
+        f = dict(r["factors"])
+        f[w["key"]] = (1.0 if w["key"] == "fill"
+                       else (r["top_weaned"] if w["key"] == "weaned"
+                             else bf.CEILING["survival"]))
+        alone = (r["crates"] * f["fill"] * f["weaned"] * f["survival"]
+                 * per_year)
+        assert abs((alone - r["now_year"]) - w["gain"]) < 1, (w, alone)
+
+    # 6) 분만율이 설계 기준을 넘어도 채움률은 1 을 못 넘는다 — 틀이 더 생기지
+    #    않으므로. 안 막으면 없는 생산량이 나온다
+    hi = bf.throughput(cap, farrow_rate=0.95)
+    assert hi["factors"]["fill"] == 1.0 and hi["now_year"] <= hi["ceiling_year"]
+
+    # 7) 뒷단을 넓히면 상한이 올라가야 한다 — 방이 상한을 정한다는 주장의 검증
+    wide = [dict(b, per=b["per"] * 2) if b["stage"] in bf.DOWNSTREAM_DAYS else b
+            for b in barns]
+    w2 = bf.throughput(bf.capacity_from_rooms(wide, 21, lactation=24,
+                                              weaned_per_crate=11.0))
+    assert w2["ceiling_year"] > t["ceiling_year"], (w2, t)
+    # 다만 설계 목표 12두를 넘지는 않는다 — 방이 넉넉해도 돼지가 더 낳지 않는다
+    assert w2["top_weaned"] == bf.CEILING["weaned"], w2["top_weaned"]
+
+    # 8) 원/년은 **한계 이익**이어야 한다. 총원가로 재면 개선의 값이 작게 나온다
+    m = fe.margin_per_pig()
+    assert m["margin"] > fe.revenue_per_pig()["revenue"] - \
+        fe.cost_per_pig()["total"], m
+    assert "증축 판단에는 쓰지 않는다" in m["note"]
+
+
 def test_setup_screen_matches_module() -> None:
     """등록 화면의 역산 JS 가 `batch_flow` 와 **같은 두수**를 내는가.
 
@@ -3070,10 +3150,24 @@ def test_setup_screen_matches_module() -> None:
                 " CFG.d.washout, {}, w); }", [barns, iv, lact, 11.0])
             py = bf.capacity_from_rooms(barns, iv, lactation=lact,
                                         weaned_per_crate=11.0)
-            for k in ("n_sows", "binding", "crates", "flows"):
+            for k in ("n_sows", "binding", "crates", "flows",
+                      "weaned_ceiling"):
                 assert js[k] == py[k], (k, iv, js[k], py[k])
             assert [r["sows"] for r in js["rows"]] == \
                    [r["sows"] for r in py["rows"]], (iv, js["rows"])
+
+            # 생산량 상한도 같아야 한다 — 성적을 넣은 경우와 안 넣은 경우 둘 다
+            for fr, wl, gs in ((None, None, None), (0.74, 10.0, 0.86)):
+                jt = pg.evaluate(
+                    "([c, fr, wl, gs]) => throughput(c, fr, wl, gs)",
+                    [js, fr, wl, gs])
+                pt = bf.throughput(py, farrow_rate=fr, weaned_per_litter=wl,
+                                   grow_survival=gs)
+                for k in ("now_year", "ceiling_year", "gap_year", "achieved",
+                          "top_weaned", "weaned_room_bound", "sum_of_ways"):
+                    assert jt[k] == pt[k], (k, iv, fr, jt[k], pt[k])
+                assert [w["gain"] for w in jt["ways"]] == \
+                       [w["gain"] for w in pt["ways"]], (iv, fr, jt["ways"])
         br.close()
         assert not errs, errs
 
@@ -3947,7 +4041,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_capacity_from_rooms, test_setup_screen_matches_module, test_setup_json_actually_runs, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_capacity_from_rooms, test_throughput_ceiling, test_setup_screen_matches_module, test_setup_json_actually_runs, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

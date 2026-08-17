@@ -255,6 +255,9 @@ def capacity_from_rooms(barns: list, interval_days: float,
         rows.append({"stage": st, "kind": "AIAO", "rooms": h["rooms"],
                      "need_rooms": need, "per": h["per"],
                      "crates": int(h["per"] // per_crate) if ok else 0,
+                     # 이 단계 입식두수 ÷ 이유두수. 방이 허용하는 복당
+                     # 이유두수를 되풀 때 쓴다.
+                     "sigma": per_crate / max(1e-9, weaned_per_crate),
                      "why": None if ok else f"방 {h['rooms']}개 < 필요 {need}개"})
 
     # 번식 축사 — 연속 흐름이라 방 수가 아니라 자리 총합이 제약이다.
@@ -290,8 +293,17 @@ def capacity_from_rooms(barns: list, interval_days: float,
         crates = min((r["crates"] for r in rows if r.get("crates")), default=0)
     else:
         binding, n_sows, crates = None, 0, 0
+    # **방이 복당 이유두수의 상한도 정한다.** 자돈사 396자리에 분만틀 36개면
+    # 복당 11.0두까지다 — 설계 목표 12.0 을 그냥 상한으로 쓰면 방이 넘치는
+    # 생산량을 "낼 수 있다" 고 말하게 된다. 그건 지어 놓은 것을 무시한 수다.
+    # 방 하나가 배치 하나를 받으므로  분만틀 × 복당이유 × σ ≤ 방당 자리.
+    caps = [r["per"] / (crates * r["sigma"])
+            for r in rows if r.get("sigma") and crates]
+    weaned_ceiling = round(min(caps), 2) if caps else None
+
     return {
         "interval_days": iv, "lactation": int(lactation),
+        "weaned_ceiling": weaned_ceiling,
         "rows": rows, "blocked": blocked, "binding": binding,
         "n_sows": n_sows, "crates": crates,
         "weaned_per_crate": float(weaned_per_crate),
@@ -299,6 +311,97 @@ def capacity_from_rooms(barns: list, interval_days: float,
                                   weaned_per_crate=weaned_per_crate)
                  if crates else None),
         "flows": not blocked,
+    }
+
+
+# 돈사가 낼 수 있는 최대치를 정하는 목표값. **성적이 아니라 설계 기준이다.**
+#
+# 복당 이유두수만은 **방이 다시 깎는다.** 자돈사 396자리에 분만틀 36개면
+# 복당 11.0두까지고, 12.0 을 그냥 상한으로 쓰면 방이 넘치는 생산량을 "낼 수
+# 있다" 고 말하게 된다 — 지어 놓은 것을 무시한 수다.
+CEILING = {"fill": 1.0, "weaned": WEANED_PER_CRATE, "survival": GROW_SURVIVAL}
+
+
+def throughput(cap: dict, farrow_rate: float | None = None,
+               weaned_per_litter: float | None = None,
+               grow_survival: float | None = None) -> dict:
+    """**이 돈사의 연간 최대 출하두수**, 그리고 지금 성적으로 실제 나오는 값.
+
+    한 줄 항등식이다. 곱하는 넷 말고는 아무것도 안 들어간다:
+
+        연간 출하 = 분만틀 × 채움률 × 복당 이유두수 × 육성률 × 연간 배치수
+
+    분만틀과 연간 배치수는 **지어 놓은 것**이라 성적으로 못 바꾼다
+    (`capacity_from_rooms` 가 병목에서 정한 값이다). 나머지 셋이 농장이
+    움직일 수 있는 자리이고, 그래서 **상한까지 가는 길이 정확히 셋**이다.
+
+    채움률은 분만율에서 나온다. 배치당 교배두수는 설계로 고정돼 있으므로
+    분만율이 설계 기준(하위10분위 82%)보다 낮으면 그만큼 분만틀이 빈다.
+    82% 를 넘겨도 채움률은 1 을 넘지 않는다 — 틀이 더 생기지는 않는다.
+
+    ## 항을 더하지 않는다
+
+    넷이 **곱해지므로** 개별 몫의 합은 총 격차와 같지 않다. "셋 합쳐서
+    +N두" 라는 문장을 만들지 않는다 — `psy_priority` 가 지키는 규율과
+    같다. 각 몫은 **그것 하나만 목표로 올렸을 때**의 값이다.
+    """
+    crates = int(cap.get("crates") or 0)
+    per_year = 365.0 / float(cap.get("interval_days") or 1)
+    fr = FARROW_RATE_P10 if farrow_rate is None else float(farrow_rate)
+    wl = (cap.get("weaned_per_crate") or WEANED_PER_CRATE
+          if weaned_per_litter is None else float(weaned_per_litter))
+    gs = GROW_SURVIVAL if grow_survival is None else float(grow_survival)
+    fill = min(1.0, fr / FARROW_RATE_P10)
+
+    # 복당 이유두수 상한은 **설계 목표와 방 중 작은 쪽**이다
+    room_cap = cap.get("weaned_ceiling")
+    top_weaned = (min(CEILING["weaned"], float(room_cap))
+                  if room_cap else CEILING["weaned"])
+    room_bound = bool(room_cap) and float(room_cap) < CEILING["weaned"]
+
+    def out(f, w, s):
+        return crates * f * w * s * per_year
+
+    now = out(fill, wl, gs)
+    top = out(CEILING["fill"], top_weaned, CEILING["survival"])
+
+    # 상한까지 가는 길 셋. **하나씩만** 올린다 — 합치지 않는다.
+    ways = [
+        {"key": "fill", "name": "빈 분만틀 채우기", "unit": "%",
+         "now": round(fill * 100, 1), "target": 100.0,
+         "how": f"분만율 {fr * 100:.1f}% → {FARROW_RATE_P10 * 100:.0f}% "
+                f"(설계 기준). 발정 탐지·적기 교배",
+         "gain": out(CEILING["fill"], wl, gs) - now},
+        {"key": "weaned", "name": "복당 이유두수", "unit": "두",
+         "now": round(wl, 1), "target": round(top_weaned, 1),
+         "how": ("포유 폐사 감소 · 포유능력 · 양자보내기"
+                 + (f" — 방이 {top_weaned:.1f}두에서 막는다"
+                    f"(목표 {CEILING['weaned']:.0f}두)" if room_bound else "")),
+         "gain": out(fill, top_weaned, gs) - now},
+        {"key": "survival", "name": "이유후 육성률", "unit": "%",
+         "now": round(gs * 100, 1), "target": CEILING["survival"] * 100,
+         "how": "AIAO · 밀도 · 환경 — 자돈사 이행항체 최저점 구간",
+         "gain": out(fill, wl, CEILING["survival"]) - now},
+    ]
+    for w in ways:
+        w["gain"] = int(round(max(0.0, w["gain"])))
+        w["at_target"] = w["now"] >= w["target"] - 1e-9
+
+    return {
+        "crates": crates, "batches_per_year": round(per_year, 1),
+        "binding": cap.get("binding"), "flows": bool(cap.get("flows")),
+        "factors": {"fill": round(fill, 4), "weaned": wl, "survival": gs},
+        "top_weaned": round(top_weaned, 2), "weaned_room_bound": room_bound,
+        "now_year": int(round(now)), "ceiling_year": int(round(top)),
+        "gap_year": int(round(top - now)),
+        "achieved": round(now / top, 3) if top else None,
+        "ways": ways,
+        # 개별 몫의 합과 총 격차를 **나란히** 둔다. 합을 주장하지 않는다.
+        "sum_of_ways": sum(w["gain"] for w in ways),
+        "sum_note": ("네 항이 곱해지므로 개별 몫의 합은 총 격차와 같지 않다. "
+                     "합산해 '셋 합쳐서 +N두' 라고 쓰지 않는다."),
+        "fixed_note": ("분만틀과 연간 배치수는 지어 놓은 것이라 성적으로 "
+                       "못 바꾼다. 그 위를 넘으려면 돈사를 늘려야 한다."),
     }
 
 
@@ -598,7 +701,10 @@ def main() -> int:
             {"stage": "자돈사", "rooms": 4, "per": 396},
             {"stage": "육성사", "rooms": 3, "per": 385},
             {"stage": "비육사", "rooms": 4, "per": 381}]
-    cap = capacity_from_rooms(demo, iv, lactation=24)
+    # 이 구성은 등록 화면 기본 구성이고, 그 화면은 방을 복당 11.0두로
+    # 짓는다. 기본값 12.0(설계 목표)으로 되읽으면 같은 돈사가 더 작게
+    # 나온다 — 방향에 따라 크기가 달라지면 안 된다.
+    cap = capacity_from_rooms(demo, iv, lactation=24, weaned_per_crate=11.0)
     print(f"  {'용도':<6}{'방':>4}{'필요방':>6}{'방당':>7}{'지지 모돈':>9}")
     for r in cap["rows"]:
         need = r["need_rooms"] if r["need_rooms"] is not None else "—"
@@ -609,6 +715,24 @@ def main() -> int:
           f"(병목: {cap['binding']})")
     print("  ※ 두수 자체보다 **병목의 이름**이 답이다. 돈방은 돈사를 건너뛰어")
     print("    쓸 수 없어서, 총량이 커도 한 곳이 막히면 거기서 끝난다.")
+
+    print("\n=== 이 돈사의 연간 최대 출하두수 ===")
+    print("  연간 출하 = 분만틀 × 채움률 × 복당 이유두수 × 육성률 × 연간 배치수")
+    tp = throughput(cap, farrow_rate=0.74, weaned_per_litter=10.0,
+                    grow_survival=0.86)
+    print(f"  상한 {tp['ceiling_year']:,}두/년 "
+          f"(분만틀 {tp['crates']} × 배치 {tp['batches_per_year']}회)")
+    print(f"  지금 {tp['now_year']:,}두/년 — 상한의 {tp['achieved']:.0%} "
+          f"· 남은 몫 {tp['gap_year']:,}두")
+    if tp["weaned_room_bound"]:
+        print(f"  ※ 복당 이유두수 상한이 목표 {CEILING['weaned']:.0f}두가 아니라 "
+              f"{tp['top_weaned']}두다 — **방이 먼저 막는다**")
+    for w in sorted(tp["ways"], key=lambda x: -x["gain"]):
+        print(f"    {w['name']:<12}{w['now']}{w['unit']} → "
+              f"{w['target']}{w['unit']}   +{w['gain']:,}두/년")
+    print(f"  [합치지 않는다] 개별 합 {tp['sum_of_ways']:,}두 vs "
+          f"총 격차 {tp['gap_year']:,}두 — {tp['sum_note']}")
+    print(f"  {tp['fixed_note']}")
 
     print("\n=== 모돈군을 배치에 배정 (300두) ===")
     herd = generate_demo(300, iv, today=today)

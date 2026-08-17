@@ -61,6 +61,7 @@ import farm_registry as fr                                    # noqa: E402
 import batch_flow as bf                                       # noqa: E402
 import growth_flow as gf                                      # noqa: E402
 import repro_calendar as rc                                   # noqa: E402
+import farm_economics as fe                                   # noqa: E402
 
 # 간격 선택지 — batch_flow.compare 와 같은 눈금
 INTERVALS = [("주간", 7), ("10일", 10), ("2주", 14), ("3주", 21),
@@ -211,6 +212,12 @@ def build() -> str:
                    "service_hold": bf.SERVICE_HOLD_DAYS,
                    "washdown": bf.WASHDOWN, "move_in": bf.MOVE_IN,
                    "down_days": bf.DOWNSTREAM_DAYS,
+                   "grow_survival": bf.GROW_SURVIVAL,
+                   "ceiling": bf.CEILING,
+                   # 한 두를 더 냈을 때 남는 돈. **총원가가 아니라 한계 이익**
+                   # 이다 — 돈사·모돈·인력이 이미 있는 상태에서 빈 틀을
+                   # 채우는 것이라 노무비·감가상각은 안 늘어난다.
+                   "margin": fe.margin_per_pig()["margin"],
                    "mort": {b: gf.MORTALITY[n]
                             for n, _a0, _a1, _w0, _w1, b, a in gf.STAGES if a}},
            "cycle_base": d["gestation"] + d["lactation"] + d["wean_to_service"]}
@@ -369,6 +376,7 @@ color:var(--accent);text-decoration:none}}
 <div style="margin-top:8px">{stage_desc}</div>
 </div>
 <div id="cap"></div>
+<div id="top"></div>
 <div id="checks"></div>
 <div class="card"><b style="font-size:.9rem">발정 판정 경로</b>
 <div class="h2d" style="margin:4px 0 8px">등록한 사육 방식에서 따라 나옵니다.</div>
@@ -377,7 +385,15 @@ color:var(--accent);text-decoration:none}}
 <h2>4. 성적 — 아는 것만</h2>
 <div class="h2d"><b>비운 칸은 중앙값으로 채우지 않고 진단에서 뺍니다.</b>
 중앙값을 넣으면 그 항목의 격차가 늘 0 으로 찍힙니다 — 실제로 겪은 버그입니다.</div>
-<div class="card"><div class="grid" id="perf"></div></div>
+<div class="card"><div class="grid" id="perf"></div>
+<div class="grid" style="margin-top:13px">
+  <div><label>이유후 육성률 <span class="u">% · 모르면 비움</span></label>
+    <input id="p_survival" type="number" step="0.1" min="50" max="100" placeholder="">
+    <div class="hint" id="h_survival"></div></div>
+</div>
+<div class="note"><b>육성률은 <code>run_farm</code> 인자가 아닙니다</b> —
+생산량 상한 계산과 JSON 내보내기에만 씁니다. 명령줄에는 넣지 않습니다.</div>
+</div>
 
 <h2>5. 여름 손실 — 우리 규모로</h2>
 <div class="h2d">국내 67농장 실측에서 여름 교배분 분만율이 겨울보다
@@ -613,6 +629,7 @@ function capacityFromRooms(iv, lact, pre, wash, extra, wPer) {{
     const ok = h.rooms >= need;
     rows.push({{stage: st, kind: "AIAO", rooms: h.rooms, need_rooms: need,
                per: h.per, crates: ok ? Math.floor(h.per / perCrate) : 0,
+               sigma: perCrate / Math.max(1e-9, wPer),
                why: ok ? null : `방 ${{h.rooms}}개 < 필요 ${{need}}개`}});
   }}
 
@@ -643,8 +660,65 @@ function capacityFromRooms(iv, lact, pre, wash, extra, wPer) {{
     binding = b.stage; n_sows = b.sows;
     crates = Math.min(...rows.filter(r => r.crates).map(r => r.crates));
   }}
-  return {{rows, blocked, binding, n_sows, crates,
+  // **방이 복당 이유두수의 상한도 정한다.** 방 하나가 배치 하나를 받으므로
+  // 분만틀 × 복당이유 × σ ≤ 방당 자리. 설계 목표 12두를 그냥 상한으로 쓰면
+  // 방이 넘치는 생산량을 "낼 수 있다" 고 말하게 된다.
+  const caps = rows.filter(r => r.sigma && crates)
+                   .map(r => r.per / (crates * r.sigma));
+  return {{rows, blocked, binding, n_sows, crates, interval_days: iv,
+          weaned_per_crate: wPer,
+          weaned_ceiling: caps.length ? +Math.min(...caps).toFixed(2) : null,
           flows: blocked.length === 0}};
+}}
+
+// batch_flow.throughput 을 그대로 옮긴 것이다. 한 줄 항등식이고, 곱하는
+// 넷 말고는 아무것도 안 들어간다:
+//   연간 출하 = 분만틀 × 채움률 × 복당 이유두수 × 육성률 × 연간 배치수
+// 앞의 둘은 **지어 놓은 것**이라 성적으로 못 바꾼다. 나머지 셋이 길이다.
+function throughput(cap, fr, wl, gs) {{
+  const C = CFG.cap, T = C.ceiling;
+  const crates = cap.crates || 0;
+  const perYear = 365 / (cap.interval_days || 1);
+  fr = (fr === null || fr === undefined) ? C.farrow_rate : fr;
+  wl = (wl === null || wl === undefined)
+    ? (cap.weaned_per_crate || C.weaned_per_crate) : wl;
+  gs = (gs === null || gs === undefined) ? C.grow_survival : gs;
+  const fill = Math.min(1, fr / C.farrow_rate);
+  // 복당 이유두수 상한은 **설계 목표와 방 중 작은 쪽**이다
+  const roomCap = cap.weaned_ceiling;
+  const topW = roomCap ? Math.min(T.weaned, roomCap) : T.weaned;
+  const roomBound = !!roomCap && roomCap < T.weaned;
+  const out = (f, w, s) => crates * f * w * s * perYear;
+  const now = out(fill, wl, gs), top = out(T.fill, topW, T.survival);
+
+  const ways = [
+    {{key: "fill", name: "빈 분만틀 채우기", unit: "%",
+     now: +(fill * 100).toFixed(1), target: 100,
+     how: `분만율 ${{(fr * 100).toFixed(1)}}% → ${{(C.farrow_rate * 100).toFixed(0)}}% ` +
+          `(설계 기준). 발정 탐지·적기 교배`,
+     gain: out(T.fill, wl, gs) - now}},
+    {{key: "weaned", name: "복당 이유두수", unit: "두",
+     now: +wl.toFixed(1), target: +topW.toFixed(1),
+     how: "포유 폐사 감소 · 포유능력 · 양자보내기" + (roomBound
+       ? ` — 방이 ${{topW.toFixed(1)}}두에서 막습니다(목표 ${{T.weaned}}두)` : ""),
+     gain: out(fill, topW, gs) - now}},
+    {{key: "survival", name: "이유후 육성률", unit: "%",
+     now: +(gs * 100).toFixed(1), target: T.survival * 100,
+     how: "AIAO · 밀도 · 환경 — 자돈사 이행항체 최저점 구간",
+     gain: out(fill, wl, T.survival) - now}},
+  ];
+  for (const w of ways) {{
+    w.gain = rnd(Math.max(0, w.gain));
+    w.at_target = w.now >= w.target - 1e-9;
+  }}
+  return {{crates, batches_per_year: +perYear.toFixed(1),
+          binding: cap.binding, flows: cap.flows,
+          factors: {{fill: +fill.toFixed(4), weaned: wl, survival: gs}},
+          top_weaned: +topW.toFixed(2), weaned_room_bound: roomBound,
+          now_year: rnd(now), ceiling_year: rnd(top),
+          gap_year: rnd(top - now),
+          achieved: top ? +(now / top).toFixed(3) : null, ways,
+          sum_of_ways: ways.reduce((a, w) => a + w.gain, 0)}};
 }}
 
 function capacity(stage) {{
@@ -846,23 +920,97 @@ function renderCap(cap) {{
   box.innerHTML = h;
 }}
 
+// 생산량 상한과 거기까지 가는 길. **두수를 크게 쓰고 끝내지 않는다** —
+// 상한은 지어 놓은 것이 정하고, 농장이 움직일 수 있는 건 셋뿐이다.
+function renderTop(cap) {{
+  const box = $("#top");
+  if (!cap || !barns.length || !cap.flows || !cap.crates) {{
+    box.innerHTML = ""; return;
+  }}
+  const t = throughput(cap, num("#p_farrowing_rate") === null ? null
+                              : num("#p_farrowing_rate") / 100,
+                       num("#p_weaned"),
+                       num("#p_survival") === null ? null
+                              : num("#p_survival") / 100);
+  const given = (num("#p_farrowing_rate") !== null || num("#p_weaned") !== null
+                 || num("#p_survival") !== null);
+  const won = g => (g * CFG.cap.margin / 1e4);
+  const pct = Math.round(t.achieved * 100);
+
+  let h = `<div class="card"><b style="font-size:.9rem">이 돈사의 연간 최대 ` +
+    `출하두수</b><div class="h2d" style="margin:4px 0 8px">` +
+    `연간 출하 = <b>분만틀 × 채움률 × 복당 이유두수 × 육성률 × 연간 배치수</b>. ` +
+    `앞의 둘은 지어 놓은 것이라 성적으로 못 바꿉니다 — 나머지 셋이 길입니다.</div>`;
+
+  h += `<div class="kpis">` +
+    kpi(`${{t.ceiling_year.toLocaleString()}}두`, "연간 상한",
+        `분만틀 ${{t.crates}} × 배치 ${{t.batches_per_year}}회/년`) +
+    kpi(`${{t.now_year.toLocaleString()}}두`, given ? "지금 성적으로" : "설계 기준으로",
+        given ? `상한의 ${{pct}}%` : "성적을 넣으면 우리 값으로 바뀝니다") +
+    kpi(`${{t.gap_year.toLocaleString()}}두`, "상한까지 남은 몫",
+        `연 ${{won(t.gap_year).toLocaleString(undefined, {{maximumFractionDigits: 0}})}}만원`) +
+    `</div>`;
+
+  // 달성률 막대 — 상한은 물리량이라 100% 가 진짜 끝이다
+  h += `<div class="strip" style="height:30px"><div class="band" ` +
+    `style="left:0;width:100%"></div><div class="band2" ` +
+    `style="left:0;width:${{Math.max(0, Math.min(100, pct))}}%;` +
+    `background:color-mix(in srgb,var(--good) 55%,var(--surface2))"></div>` +
+    `<div class="lb" style="left:${{Math.max(6, Math.min(96, pct))}}%">` +
+    `달성 ${{pct}}%</div><div class="lb" style="left:98%">상한</div></div>`;
+
+  h += `<table style="margin-top:16px"><thead><tr><th>상한까지 가는 길</th>` +
+    `<th>지금</th><th>설계 기준</th><th>이것만 올리면</th><th>원/년</th>` +
+    `</tr></thead><tbody>`;
+  for (const w of [...t.ways].sort((a, b) => b.gain - a.gain)) {{
+    h += `<tr><td><b>${{w.name}}</b><div class="hint">${{w.how}}</div></td>` +
+      `<td>${{w.now}}${{w.unit}}</td><td>${{w.target}}${{w.unit}}</td>` +
+      `<td>${{w.at_target ? '<span class="tag ok">도달</span>'
+        : `<b>+${{w.gain.toLocaleString()}}두</b>`}}</td>` +
+      `<td>${{w.at_target ? "—" : won(w.gain).toLocaleString(undefined,
+        {{maximumFractionDigits: 0}}) + "만원"}}</td></tr>`;
+  }}
+  h += `</tbody></table>`;
+
+  if (!given) {{
+    h += `<div class="note" style="color:var(--warn)"><b>성적을 하나도 안 ` +
+      `넣어서 ‘지금’ 은 우리 농장 값이 아닙니다</b> — 설계 기준으로 돌린 것이라 ` +
+      `상한과 같게 나옵니다. 4번에 분만율·이유두수·육성률을 넣으면 ` +
+      `우리 격차로 바뀝니다.</div>`;
+  }}
+  // **합치지 않는다.** 네 항이 곱해지므로 개별 몫의 합 ≠ 총 격차다.
+  h += `<div class="note"><b>세 몫을 더하지 마세요.</b> 항이 곱해지므로 ` +
+    `개별 합 ${{t.sum_of_ways.toLocaleString()}}두 ≠ 총 격차 ` +
+    `${{t.gap_year.toLocaleString()}}두 입니다. 각 몫은 <b>그것 하나만</b> ` +
+    `설계 기준까지 올렸을 때의 값입니다.</div>`;
+  h += `<div class="note">상한을 더 올리려면 성적이 아니라 <b>돈사</b>를 ` +
+    `늘려야 합니다 — 지금 상한을 붙잡고 있는 건 <b>${{t.binding}}</b> 입니다. ` +
+    `원/년은 <b>한계 이익 ${{CFG.cap.margin.toLocaleString()}}원/두</b> 기준이라 ` +
+    `사료·약품·수송만 뺐습니다. 돈사를 새로 짓는 판단에는 쓸 수 없습니다 ` +
+    `(감가상각·노무비가 같이 늡니다).</div></div>`;
+  box.innerHTML = h;
+}}
+
 function render() {{
   // 역산 모드는 모돈수를 **묻지 않고 낸다.** 그래서 planOf 보다 먼저 돈다.
   const dir = $("#f_dir").value;
+  // 생산량 상한은 **두 모드 모두** 낸다 — 등록한 돈사가 무엇을 낼 수 있는지는
+  // 어느 방향으로 들어왔든 알아야 하는 값이다.
   let cap = null;
-  if (dir === "reverse") {{
+  if (barns.length) {{
     const iv = parseFloat($("#f_interval").value);
     const wash = num("#f_wash") ?? CFG.d.washout;
     cap = capacityFromRooms(iv, num("#f_lact") ?? CFG.d.lactation,
                    num("#f_pre") ?? CFG.d.pre_farrow, wash, simRooms(iv, wash),
                    num("#p_weaned") ?? CFG.d.weaned);
-    if (cap.n_sows > 0) $("#f_sows").value = cap.n_sows;
   }}
+  if (dir === "reverse" && cap && cap.n_sows > 0) $("#f_sows").value = cap.n_sows;
   $("#f_sows").disabled = (dir === "reverse");
   $("#h_dir").textContent = dir === "reverse"
     ? "상시모돈수는 등록한 방에서 나옵니다 — 직접 못 고칩니다"
     : "상시모돈수에서 필요한 돈사를 역산합니다";
-  renderCap(cap);
+  renderCap(dir === "reverse" ? cap : null);
+  renderTop(cap);
 
   const p = planOf();
   $("#kpis").innerHTML =
@@ -1126,6 +1274,7 @@ function snapshot() {{
       return o;
     }}),
     performance: perf,
+    growth: {{survival: num("#p_survival")}},
     season: {{summer_farrowing_rate: num("#s_summer"),
               winter_farrowing_rate: num("#s_winter")}},
     note: "비어 있는 성적은 진단에서 제외한다. 중앙값을 대입하지 않는다."
@@ -1158,6 +1307,8 @@ function load() {{
     const v = (s.performance || {{}})[f.key];
     if (v != null) $("#p_" + f.key).value = v;
   }}
+  const gw = (s.growth || {{}}).survival;
+  if (gw != null) $("#p_survival").value = gw;
   const sz = s.season || {{}};
   if (sz.summer_farrowing_rate != null) $("#s_summer").value = sz.summer_farrowing_rate;
   if (sz.winter_farrowing_rate != null) $("#s_winter").value = sz.winter_farrowing_rate;
