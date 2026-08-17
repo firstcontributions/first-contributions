@@ -4532,3 +4532,4 @@ Raphael Karani
 - [bhuddha777](https://github.com/bhuddha777)
 - [Salman Ahmad](https://github.com/AHMMIKUN)
 - [Ishaan Bisht and Shiven]
+- [Strucklation](https://github.com/strucklation)
