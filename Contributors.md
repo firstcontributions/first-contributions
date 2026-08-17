@@ -50,6 +50,7 @@
 -Rishit Raman
 Hiroyuki19830823
 - rishit backend enginner
+- Shubh692 from The Doon School
 - [Liam Wallant] (https://github.com/LiamWallant)
 - [Luther]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
