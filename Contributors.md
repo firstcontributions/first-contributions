@@ -3,6 +3,7 @@
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
 - [Sheldonzk](https://github.com/Sheldonzk)
 - [Rutuja](https://github.com/rutuja2005byte)
+- [Dhairya Surana](https://github.com/dhairyasurana007)
 - Vedansh & Yug 
 -[ze]
 - [Zaid Hussain] (https://github.com/zaidbscs)
