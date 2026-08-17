@@ -182,6 +182,16 @@ def audit_vulva(vulva_dir: str, bbox: pd.DataFrame | None = None) -> dict:
         return out
     d[lab] = d[lab].astype(str).str.upper().str[:1]
     out["estrus"] = {str(k): int(v) for k, v in d[lab].value_counts().items()}
+    # **대조군이 있는가.** 라벨이 한 값뿐이면 이 디렉터리는 '발정만 모은 목록'
+    # 이고, 그러면 **파일의 존재 자체가 라벨**이다. 무엇을 피처로 넣든 그
+    # 사실을 못 넘는다 — 다른 검사를 보기 전에 여기서 끝난다.
+    out["single_class"] = int(d[lab].nunique()) < 2
+    out["n_animals"] = int(d["v_ANIMAL_ID"].nunique()) if "v_ANIMAL_ID" in d else None
+    out["n_dates"] = (int(d["v_DATE"].astype(str).str[:8].nunique())
+                      if "v_DATE" in d else None)
+    # 후보 피처 = 식별자·라벨을 뺀 나머지. 0 개면 애초에 쓸 게 없다
+    ident = {lab, "v_DATE", "v_FARM_NAME", "v_ANIMAL_ID"}
+    out["descriptive_fields"] = [c for c in cols if c not in ident]
     # 후보 피처 = ESTRUS 를 뺀 나머지 VULVA 필드
     cand = [c for c in cols if c != lab and d[c].nunique(dropna=False) > 1]
     out["candidates"] = cand
@@ -206,6 +216,12 @@ def verdict(bb: dict, vv: dict | None) -> dict:
     checks["L5 주석자 맹검"] = None     # 가이드에 명시 없음 — 추정하지 않는다
     if vv is None or vv.get("error"):
         checks["VULVA 감사"] = None
+    elif vv.get("single_class"):
+        # 라벨이 한 값뿐 = 대조군 없음 = 파일 존재가 곧 라벨
+        checks["VULVA 대조군"] = False
+    elif not vv.get("descriptive_fields"):
+        # 상태를 기술하는 필드가 없으면 피처로 쓸 것이 없다
+        checks["VULVA 후보 피처"] = False
     else:
         leaky = any(v.get("leaky") for v in (vv.get("L1_missing") or {}).values())
         checks["VULVA 감사"] = not leaky
@@ -264,8 +280,15 @@ def _print(r: dict) -> None:
         print(f"     {vv['error']}")
     else:
         print(f"     레코드 {vv['n']:,} · 필드 {vv['fields']}")
+        print(f"     개체 {vv.get('n_animals')} · 날짜 {vv.get('n_dates')} · "
+              f"ESTRUS {vv.get('estrus')}")
         print(f"     ESTRUS 필드가 같은 레코드에 있나: "
               f"{'예' if vv['has_estrus_field'] else '아니오'}")
+        print(f"     외음부 **상태를 기술하는** 필드: "
+              f"{vv.get('descriptive_fields') or '없음 — 식별자와 ESTRUS 뿐'}")
+        if vv.get("single_class"):
+            print(f"     ❌ **라벨이 한 값뿐이다 — 대조군이 0건.** 이 디렉터리는")
+            print(f"        '발정만 모은 목록' 이고, 파일의 존재 자체가 라벨이다.")
         for c, s in (vv.get("L1_missing") or {}).items():
             print(f"       {c:<24}결측만으로 {s['acc']:.4f} "
                   f"(다수 {s['majority']:.4f})  {_flag(not s['leaky'])}")

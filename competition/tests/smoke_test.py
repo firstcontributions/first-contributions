@@ -2412,6 +2412,29 @@ def test_estrus_label_audit() -> None:
         assert r["bbox"]["L1_missing"]["leaky"], r["bbox"]["L1_missing"]
         assert r["verdict"]["color"] == "적색"
 
+    # -- VULVA: 라벨이 한 값뿐이면 그 자체로 적색이어야 한다 ---------------
+    #    실측이 그랬다 — 22,497건 전부 "Y", 대조군 0건. 그러면 무엇을 피처로
+    #    넣든 '파일이 있으면 발정' 을 못 넘는다.
+    with tempfile.TemporaryDirectory() as td:
+        for i in range(30):
+            json.dump({"VULVA": {"DATE": f"2022110{i % 8}_090000",
+                                 "FARM_NAME": "pigfarmT",
+                                 "ANIMAL_ID": f"1-{i % 6}", "ESTRUS": "Y"}},
+                      open(os.path.join(td, f"v{i}.json"), "w",
+                           encoding="utf-8"), ensure_ascii=False)
+        vv = ela.audit_vulva(td)
+        assert vv["single_class"] is True, vv
+        # 상태를 기술하는 필드가 하나도 없다 — 식별자와 ESTRUS 뿐
+        assert vv["descriptive_fields"] == [], vv["descriptive_fields"]
+        assert vv["n_animals"] == 6 and vv["n_dates"] == 8, vv
+        with tempfile.TemporaryDirectory() as bd:
+            for i in range(6):
+                write(bd, f"pigfarmT_ch{1 + i % 3}_2022071510_025_{i:05d}",
+                      [box("Y"), box("N")])
+            v = ela.verdict(ela.audit_bbox(bd), vv)
+        assert v["checks"].get("VULVA 대조군") is False, v
+        assert v["color"] == "적색", v
+
     # -- 저장된 집계에 원자료 파일명이 새면 안 된다 -----------------------
     p = os.path.join(ROOT, "data", "estrus_label_audit.json")
     if os.path.exists(p):

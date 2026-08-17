@@ -111,7 +111,47 @@
    }
   }
  },
- "vulva": null,
+ "vulva": {
+  "n": 22497,
+  "fields": [
+   "v_DATE",
+   "v_FARM_NAME",
+   "v_ANIMAL_ID",
+   "v_ESTRUS"
+  ],
+  "has_estrus_field": true,
+  "estrus": {
+   "Y": 22497
+  },
+  "single_class": true,
+  "n_animals": 175,
+  "n_dates": 7,
+  "descriptive_fields": [],
+  "candidates": [
+   "v_DATE",
+   "v_ANIMAL_ID"
+  ],
+  "L1_missing": {
+   "v_DATE": {
+    "acc": 1.0,
+    "majority": 1.0,
+    "gain": 0.0,
+    "leaky": false
+   },
+   "v_ANIMAL_ID": {
+    "acc": 1.0,
+    "majority": 1.0,
+    "gain": 0.0,
+    "leaky": false
+   }
+  },
+  "L2_separation": {
+   "v_DATE": {
+    "note": "라벨이 한 종류뿐이라 분리를 볼 수 없다",
+    "n": 22497
+   }
+  }
+ },
  "verdict": {
   "checks": {
    "L2 완전 분리": false,
@@ -119,7 +159,7 @@
    "L4 프레임 일관성": false,
    "L3 주석 순서": null,
    "L5 주석자 맹검": null,
-   "VULVA 감사": null
+   "VULVA 대조군": false
   },
   "color": "적색"
  }
