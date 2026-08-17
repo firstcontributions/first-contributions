@@ -50,7 +50,7 @@
 -Rishit Raman
 Hiroyuki19830823
 
-Shubh Agrawal 692 from The Doon School
+
 Shaurya522 from The Dooon School
 - rishit backend enginner
 - [Liam Wallant] (https://github.com/LiamWallant)
