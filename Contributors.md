@@ -16,6 +16,7 @@
 - [Aryan Kumar](https://github.com/aryan-hunter/first-contributions.git) 
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
+- [Mario Tafoya](https://github.com/mtafoya-web)
 - [Tushar Gupta](https://github.com/tushar-G-8572)
  - [harish](https://github.com/vharish1701-creator/first-contributions.git)
 - [Swanand salwe] (https://github.com/swanand-salwe/first-contributions.git)
