@@ -32,6 +32,7 @@ OUT = os.path.join(ROOT, "dashboard", "farm_diagnosis.html")
 PANEL_JSON = os.path.join(ROOT, "data", "farm_panel.json")
 MONTHLY_JSON = os.path.join(ROOT, "data", "farm_monthly.json")
 MONTHLY_PANEL_JSON = os.path.join(ROOT, "data", "farm_monthly_panel.json")
+PRIORITY_JSON = os.path.join(ROOT, "data", "psy_priority.json")
 
 # 예시 농장 — 실측 하위권 근처로 잡아 격차가 보이게 한다. **실제 농장이
 # 아니다.** 사용자가 자기 값을 넣으면 이 자리가 그 농장으로 바뀐다.
@@ -175,8 +176,13 @@ def collect() -> dict:
     panel = json.load(open(PANEL_JSON, encoding="utf-8"))
     monthly = json.load(open(MONTHLY_JSON, encoding="utf-8"))
     panel_month = json.load(open(MONTHLY_PANEL_JSON, encoding="utf-8"))
-    return {"stats": st, "diag": diag, "prog": prog,
-            "panel": panel, "monthly": monthly, "panel_month": panel_month}
+    # 우선순위표는 **계산하지 않고 읽는다.** 이 파일은 렌더링만 한다.
+    import psy_priority as pp
+    prio = (json.load(open(PRIORITY_JSON, encoding="utf-8"))
+            if os.path.exists(PRIORITY_JSON)
+            else pp.build(dict(DEMO_FARM), DEMO_SOWS))
+    return {"stats": st, "diag": diag, "prog": prog, "panel": panel,
+            "monthly": monthly, "panel_month": panel_month, "prio": prio}
 
 
 # -- 패널 ------------------------------------------------------------------
@@ -215,7 +221,57 @@ def panel2(d: dict) -> str:
         note = ('<div class="sub2">' + " · ".join(r["name_ko"] for r in skipped)
                 + ' 은 NPD 를 통해 간접 작용해 정의로 환산되지 않는다 — '
                   '거리만 보고하고 <b>없는 인과를 지어내지 않는다</b>.</div>')
-    return "".join(out) + note
+    return "".join(out) + note + panel2b(d)
+
+
+def panel2b(d: dict) -> str:
+    """우선순위표 — 회수 항목에 **방어·계절을 같은 자에 얹는다**.
+
+    회수량 큰 순으로만 세우면 횡단면 비교(B)가 농장 내 변화(A)처럼 읽힌다.
+    그래서 등급을 **색이 아니라 문자로** 단다 — 색만 쓰면 인쇄·흑백에서
+    사라진다. 축이 다른 항목(방어·계절)은 막대를 점선으로 그려 구분한다.
+    """
+    p = d["prio"]
+    vmax = max([abs(x["won_year"] or 0) for x in p["rows"]], default=1.0)
+    out = ['<table class="prio"><thead><tr><th>순</th><th>항목</th>'
+           '<th>회수량</th><th>원/년</th><th>등급</th><th>표적</th></tr>'
+           '</thead><tbody>']
+    n = 0
+    for x in p["rows"]:
+        other = x["axis"] != "회수"
+        if other:
+            no = "—"
+        else:
+            n += 1
+            no = str(n)
+        psy = f'{x["psy"]:+.2f}두' if x["psy"] is not None else "—"
+        wn = x["won_year"] or 0
+        money = f'{wn / 10_000:,.0f}만원'
+        if x.get("won_p90"):
+            money += f' <span class="p90">~{x["won_p90"] / 10_000:,.0f}</span>'
+        w = min(100.0, abs(wn) / max(1e-9, vmax) * 100.0)
+        cls = " alt" if other else ""
+        bar = f'<div class="pb{cls}" style="width:{w:.1f}%"></div>'
+        note = (f'<div class="sub2">{esc(x["note"])}</div>'
+                if x.get("note") else "")
+        out.append(
+            f'<tr class="{"alt" if other else ""}"><td>{no}</td>'
+            f'<td><b>{esc(x["name"])}</b>{bar}</td><td>{psy}</td>'
+            f'<td>{money}</td><td><span class="grade">{x["grade"]}</span></td>'
+            f'<td class="tg">{esc(x["target"])}{note}</td></tr>')
+    out.append("</tbody></table>")
+
+    ax = " · ".join(f'<b>{k}</b> {esc(v)}' for k, v in p["axes"].items())
+    gr = " · ".join(f'<b>{k}</b> {esc(nm)}' for k, (nm, _) in p["grades"].items())
+    foot = p["footer"].splitlines()
+    out.append(
+        f'<div class="key"><b>축이 둘이다.</b> {ax}<br>'
+        f'<b>근거 등급</b> — {gr}. 등급을 안 달면 <b>횡단면 비교(B)가 농장 내 '
+        f'변화(A)처럼</b> 읽힌다.<br>'
+        f'개별 회수량 합 {p["sum_of_parts"]}두 vs 총 격차 '
+        f'{abs(p["psy_gap"]):.2f}두 — {esc(p["sum_note"])}<br>'
+        f'<b>{esc(foot[0])}</b> {esc(foot[1]) if len(foot) > 1 else ""}</div>')
+    return "".join(out)
 
 
 def panel3(d: dict) -> str:
@@ -339,7 +395,9 @@ def build(d: dict) -> str:
         ("2", "격차를 두수로, 두수를 돈으로", "계산",
          "PSY 항등식으로 분해 · 금액은 farm_economics 단가 가정",
          "각 지표를 <b>하나만</b> 중앙값으로 되돌렸을 때의 PSY 변화. "
-         "지표끼리 맞물려 있어 개별 회수량의 합은 전체와 다르다.", panel2(d)),
+         "지표끼리 맞물려 있어 개별 회수량의 합은 전체와 다르다. "
+         "아래 표는 여기에 <b>하락 방어·여름 손실</b>을 같은 자에 얹은 것 — "
+         "다만 <b>축이 다르다</b>.", panel2(d)),
         ("3", "하락은 사양이 아니라 발정·교배 관리에서 온다", "실측",
          f"같은 농장 전년 대비 {pv['n_pairs']}쌍 · {pv['n_farms']}농장",
          "횡단면 상관은 시설 좋은 농장이 다 좋을 뿐일 수 있다. "

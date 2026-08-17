@@ -20,7 +20,7 @@ CCTV 발정 탐지에서 출발했지만, 국내 실측을 재 보니 손실이 
 
 ## 2. 지금 서 있는 자리
 
-**규모** 모듈 67개 · 대시보드 뷰 22개 · 테스트 71개(전부 통과)
+**규모** 모듈 68개 · 대시보드 뷰 22개 · 테스트 72개(전부 통과)
 자체완결 HTML(외부 연결 0) · `python competition/tests/smoke_test.py`
 
 ### 손에 쥔 데이터
@@ -274,6 +274,43 @@ vs 보유 자리·포유 상한·발정 판정 경로·466농장 분포 위치�
 - `path_predict` 되찾기를 중앙값으로 재다가 멀쩡한 복원을 실패로 찍었다 —
   날짜가 일 단위라 6.9 같은 소수 중앙값은 나올 수 없다
 
+### 처방 순서 — 위 발견들의 **배열** (새 발견 아님)
+
+`psy_priority.py`. 새 데이터도 새 산식도 없다. `farm_gap`·`farm_panel`·
+`farm_monthly_panel` 의 출력을 읽어 정렬·병치·표시만 한다. 그래서 발견
+번호를 새로 주지 않는다.
+
+예시 농장(NPD 62 · 이유 10.0) · 300두 · PSY 21.67 vs 중앙 농장 25.34:
+
+| 순 | 항목 | 회수량 | 원/년 | 등급 | 표적 |
+|---|---|---|---|---|---|
+| 1 | 이유두수(복당) | +2.17두 | 8,140만원 | **B** | 중앙 11.0 (내 값 10.0) |
+| 2 | 비생산일수(NPD) | +1.36두 | 5,102만원 | **B** | 중앙 43.0 (내 값 62.0) |
+| — | 하락 방어 | — | 2,976만원 | **A** | 농장-연의 33% 가 2.4두 이상 하락 |
+| — | 여름 손실(선별) | — | 733 ~ 3,172만원 | **C** | 농장별 −4.4 ~ +13.0%p · 67농장 |
+
+**축이 둘이다.** 1·2 는 *올리기*(현재 → 중앙값, 결정론적 차분)이고, 하락
+방어는 *안 떨어지기*(하락폭 × 발생빈도, **기댓값**)다. 성격이 다른데도 금액이
+같은 급이라는 게 이 표의 요지다. 여름은 *손실 상한*이라 또 다른 축이다.
+
+**근거 등급을 안 달면 횡단면(B)이 농장 내 변화(A)처럼 읽힌다.**
+
+| 등급 | 뜻 | 해당 |
+|---|---|---|
+| **A** | 농장 내 변화 — 농장 고유 조건이 통제됨 | 발견 ④ |
+| **B** | 농장 간 횡단면 — 교란 가능 | 발견 ② · `farm_gap` 격차 |
+| **C** | 부분모집단 측정 | 발견 ③′ (연간 성적과 무관, ρ −0.149) |
+
+**합치지 않는다.** 개별 회수량 합 3.53두 vs 총 격차 3.66두 — 지표가 항등식에서
+곱해지므로 같지 않다. **"합쳐서 +N두" 라는 문장을 만들지 않는다.**
+
+> 이 표는 격차의 분해이지 개입 효과의 추정이 아니다.
+> 실농장 개입 실험은 수행하지 않았다.
+
+문형도 고정했다 — "NPD 를 줄이면 PSY 가 오른다" 가 아니라
+**"중앙 농장과의 격차 중 NPD 가 1.36두를 설명한다"**. 20번째 뷰 패널 2 에
+같은 표를 얹었고, 등급은 **색이 아니라 문자로** 단다(인쇄·흑백에서 색은 사라진다).
+
 ---
 
 ## 3. 구멍 — 솔직하게
@@ -413,7 +450,7 @@ A-2 는 성공하면 발표에서 가장 강한 문장이 된다 — **"발정�
 
 ```bash
 cd /path/to/first-contributions
-python competition/tests/smoke_test.py              # 71/71
+python competition/tests/smoke_test.py              # 72/72
 
 python competition/src/run_farm.py --sows 300       # 설계~손익 6단계
 python competition/src/farm_gap.py --program --sows 300   # 가정 vs 실측
@@ -421,6 +458,7 @@ python competition/src/farm_panel.py --sows 300     # 연도별 변화·하락 �
 python competition/src/farm_monthly_panel.py --audit    # 월별 원자료 감사
 python competition/src/farm_monthly_panel.py --season   # 농장별 계절 손실 → 원/년
 python competition/src/farm_monthly_panel.py --model    # lag 기준선 · 114일 검증
+python competition/src/psy_priority.py --sows 300       # 회수 우선순위(배열)
 python competition/src/barn_watch.py --sows 300 --sweep # 배치 전이마다 돈사 검사
 python competition/src/path_predict.py --years 3       # 로그 → 경로 → 예측
 python competition/src/path_predict.py --power         # 검출력 — 몇 %p 여야 잡히나

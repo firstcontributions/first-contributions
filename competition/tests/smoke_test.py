@@ -2335,6 +2335,91 @@ def test_pc_suite() -> None:
     assert sh.index("build_pc_suite.py") < sh.index("build_dashboard_hub.py")
 
 
+def test_psy_priority() -> None:
+    """우선순위표 — **배열 작업이다. 수치가 바뀌면 잘못 만든 것이다.**
+
+    검사의 요점 셋. 값이 원본 모듈과 같은가, 등급·축이 비지 않는가,
+    그리고 **합산 문장을 만들지 않는가**.
+    """
+    import json
+    import farm_gap as fg
+    import psy_priority as pp
+
+    r = pp.build(dict(pp.DEMO_FARM), pp.DEMO_SOWS)
+
+    # 1) 값은 farm_gap 이 낸 것 그대로여야 한다 — 여기서 다시 계산하면 갈린다
+    diag = fg.diagnose(dict(pp.DEMO_FARM), n_sows=pp.DEMO_SOWS)
+    assert r["psy"] == diag["psy"] and r["psy_gap"] == diag["psy_gap"]
+    won = {w["metric"]: w["won_year"] for w in diag["won_per_year"]}
+    by_metric = {q["metric"]: q for q in diag["rows"]}
+    for x in r["rows"]:
+        if x["axis"] != "회수":
+            continue
+        # 회수 축에는 farm_gap 이 실제로 낸 지표만 올 수 있다. 방어·계절을
+        # 여기에 밀어 넣으면 축이 섞이므로 **이름부터 막는다** — 안 막으면
+        # 다음 줄이 StopIteration 으로 죽어 무엇이 틀렸는지 안 보인다.
+        assert x["metric"] in by_metric, f"회수 축에 없는 지표: {x['metric']}"
+        src = by_metric[x["metric"]]
+        assert x["psy"] == src["psy_recover"], (x, src)
+        assert x["won_year"] == won[x["metric"]], x
+
+    # 2) 회수 항목은 회수량 내림차순
+    rec = [x["psy"] for x in r["rows"] if x["axis"] == "회수"]
+    assert rec == sorted(rec, reverse=True), rec
+    assert len(rec) >= 2, rec
+
+    # 3) **등급 열이 비면 안 된다.** 안 달면 횡단면(B)이 농장 내 변화(A)로 읽힌다
+    for x in r["rows"]:
+        assert x["grade"] in pp.GRADE, x
+        assert x["axis"] in pp.AXIS, x
+        assert x["target"], x
+    grades = {x["grade"] for x in r["rows"]}
+    assert {"A", "B", "C"} <= grades, grades
+
+    # 4) 축이 다른 항목은 회수량을 비워야 한다 — 같은 칸에 넣으면 합쳐 읽힌다
+    for x in r["rows"]:
+        if x["axis"] != "회수":
+            assert x["psy"] is None, x
+
+    # 5) **합산 문장을 만들지 않는다.** sum 은 참고로만 두고 총합 주장 금지
+    assert "sum_of_parts" in r and r["sum_note"]
+    blob = json.dumps(r, ensure_ascii=False)
+    # **금지 문구를 담은 주의문 자체는 검사에서 뺀다.** 안 빼면 "합산해
+    # '총 +N두' 라고 쓰지 않는다" 라는 경고문이 위반으로 잡힌다.
+    body = blob.replace(r["sum_note"], "").replace(r["footer"], "")
+    assert "총 +" not in body and "합쳐서" not in body
+
+    # 6) 환산 계수는 **단일 출처**여야 한다
+    import farm_economics as fe
+    lev = fe.levers(n_sows=pp.DEMO_SOWS)
+    psy1 = int(lev.loc[lev["lever"] == "PSY +1두", "연간효과"].iloc[0])
+    top = next(x for x in r["rows"] if x["axis"] == "회수")
+    # 회수량 1두당 금액이 지렛대와 같은 급인지(정확히 같진 않다 — 비선형)
+    assert 0.8 < (top["won_year"] / top["psy"]) / psy1 < 1.25, top
+
+    # 7) 방어·계절은 원본 JSON 에서 와야 한다
+    dn = json.load(open(os.path.join(ROOT, "data", "farm_panel.json"),
+                        encoding="utf-8"))["downside"]
+    d = next(x for x in r["rows"] if x["metric"] == "downside")
+    assert d["won_year"] == dn["expected_won_year"], (d, dn)
+    sn = json.load(open(os.path.join(ROOT, "data", "farm_monthly_panel.json"),
+                        encoding="utf-8"))
+    s = next(x for x in r["rows"] if x["metric"] == "season")
+    assert s["won_year"] == round(sn["money"]["won_ref"]["median"]), s
+    # 여름은 **분포로** 내야 한다 — 전체 평균 하나면 발견 ③′ 를 버리는 것
+    assert "~" in s["target"] and s.get("won_p90"), s
+
+    # 8) 모돈 두수가 다르면 방어 기댓값도 따라 환산돼야 한다
+    r2 = pp.build(dict(pp.DEMO_FARM), 600)
+    d2 = next(x for x in r2["rows"] if x["metric"] == "downside")
+    assert abs(d2["won_year"] - d["won_year"] * 2) <= 2, (d, d2)
+
+    # 9) 문장 규율 — 개입 효과·도달 가능성을 주장하지 않는다
+    for bad in ("줄이면", "달성 가능", "오른다", "개선하면"):
+        assert bad not in blob, bad
+    assert "개입 효과의 추정이 아니다" in r["footer"]
+
+
 def test_presentation_cnn_current() -> None:
     """발표자료가 **더 최신 결과를 안 싣고 있는** 상태를 잡는가.
 
@@ -3592,7 +3677,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]
