@@ -1,4 +1,4 @@
-# Contributors
+Naman Jalan from The Doon School# Contributors
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
