@@ -29,6 +29,7 @@
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
 - [Mollyb333]
+-[Safwan Toofan] (https://github.com/SaffuSafwan)
 -[Alan]
 - [Vyrnexis] (https://github.com/Vyrnexis)
 - [Deepika](https://github.com/deepika-rattewal
