@@ -1,10 +1,15 @@
 # Contributors
+- [Rutuja](https://github.com/rutuja2005byte)
+- Vedansh & Yug 
+- [Zaid Hussain] (https://github.com/zaidbscs)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
 - [Anshul Reddy Musku](https://github.com/manshulreddy3-cyber)
+- [Rohan Majhi](https://github.com/rohann-afk)
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
 - [Aryan Kumar](https://github.com/aryan-hunter/first-contributions.git) 
+- [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
 - [Tushar Gupta](https://github.com/tushar-G-8572)
  - [harish](https://github.com/vharish1701-creator/first-contributions.git)
@@ -46,7 +51,11 @@
 - Ran Wang https://github.com/ranw27798-ux
 -Rishit Raman
 Hiroyuki19830823
+
+
+Shaurya522 from The Dooon School
 - rishit backend enginner
+- Shubh692 from The Doon School
 - [Liam Wallant] (https://github.com/LiamWallant)
 - [Luther]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
@@ -86,6 +95,9 @@ Hiroyuki19830823
 - AyushPatel - BT2024171 (https://github.com/Ayush1patel)
 - Hardh S Kava
 - suhith reddy bt2024066
+ - Vihan bhardwaj from the doon school
+-  Yash Agarwal from the doon school
+ - yohan from the doon school 
 - Hemakshi Jadeja - BT2024002 (https://github.com/hemakshijadeja)
 - [Aryan_Malik_BT2024006](https://github.com/AryanOg0209)
 - [FaNeLeBe](https://github.com/FacuLedesmaBertalot)
@@ -167,6 +179,7 @@ Varshith IMT2024044
 - Ankita Gupta
 - HelaElbez
 - DaoMoyo
+- joseph francez
 - first contribution
 - Sherwin Mazarello
 - [Ravi Teja S](https://github.com/Ravi-Teja-S)
@@ -333,6 +346,7 @@ Ridwan Umar- [Nico]
 - [Anchal Kashyap](https://github.com/anchal284)
 - [Syeda Sumayya](https://github.com/syedasumayya)
 - [Yutubdua7](https://github.com/yutubdua7-sys)
+- [Salwa Jabeen](https://www.github.com/salwa-gitt)
 - [Azan khan](https://github.com/Azankham)
 - [Praveen Thanvi](https://github.com/pthanvi10)
 - [Yashraj Pal](https://github.com/yashraj013)
@@ -4515,3 +4529,4 @@ Raphael Karani
 - [SATHIYA-26](https://github.com/SATHIYA-26)
 - [bhuddha777](https://github.com/bhuddha777)
 - [Salman Ahmad](https://github.com/AHMMIKUN)
+- [Ishaan Bisht and Shiven]
