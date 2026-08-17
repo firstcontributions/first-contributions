@@ -1,4 +1,6 @@
 # Contributors
+Yashvardhan Maskara from The Doon School
+Aarush Aggarwal from The Doon School
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
