@@ -133,6 +133,7 @@ FARROW_RATE_AVG = 0.88        # 성적 추정용(평균)
 GILT_SHARE = 0.20             # 교배 배치 중 후보돈 비율(순종 종돈장은 0.30)
 GILT_PIPELINE_WEEKS = 7       # 후보돈 준비 주기(순치~초교배 대기)
 WEANED_PER_CRATE = 12.0       # 분만틀당 이유두수 목표
+SOW_TURNOVER = 2.3            # 모돈 연간 회전율(복/두/년)
 GROW_SURVIVAL = 0.95          # 이유~출하 육성률
 MARKET_WEIGHT_KG = 110.0
 
@@ -143,7 +144,7 @@ MARKET_AGE_LIMIT = 180
 
 
 def plan_from_crates(n_crates: int, interval_days: float,
-                     turnover: float = 2.3,
+                     turnover: float = SOW_TURNOVER,
                      farrow_rate: float = FARROW_RATE_P10,
                      gilt_share: float = GILT_SHARE,
                      weaned_per_crate: float = WEANED_PER_CRATE) -> dict:
@@ -175,6 +176,129 @@ def plan_from_crates(n_crates: int, interval_days: float,
         "liveweight_kg": round(marketed * MARKET_WEIGHT_KG),
         "batches_per_year": round(52.0 / iv_weeks, 1),
         "farrow_rate_used": farrow_rate,
+    }
+
+
+# 연속 흐름 축사의 점유 구간 — 번식주기에서 차지하는 몫으로 자리를 센다.
+# 교배사는 이유~교배 후 4주(임신 확인까지), 임신사는 그 뒤 분만 이동 전까지.
+SERVICE_HOLD_DAYS = 28
+
+
+def capacity_from_rooms(barns: list, interval_days: float,
+                        lactation: int = LACTATION,
+                        pre_farrow: int = MOVE_IN,
+                        washdown: int = WASHDOWN,
+                        extra_rooms: dict | None = None,
+                        weaned_per_crate: float = WEANED_PER_CRATE) -> dict:
+    """**지어 놓은 방 → 넣을 수 있는 개체 수.** `plan()` 의 반대 방향이다.
+
+    기존 농장은 모돈 두수를 정하고 짓는 게 아니라 **이미 지어진 돈사에 두수를
+    맞춘다.** 그런데 이 프로젝트의 모든 계산은 모돈수에서 출발했다 — 등록
+    화면도 "300두면 이렇게 지으세요" 까지였다. 실제로 필요한 답은 반대다:
+    "내 돈사는 몇 두를 받을 수 있는가, 그리고 **무엇이 그걸 정하는가**."
+
+    돈사마다 지지할 수 있는 규모를 따로 내고 **가장 작은 것**을 취한다.
+    돈방은 돈사를 건너뛰어 쓸 수 없으므로 총량이 커도 한 곳이 막히면 거기서
+    끝난다. 그래서 이 함수의 값어치는 두수 자체가 아니라 **병목의 이름**이다.
+
+    두 가지 제약을 따로 본다. 섞으면 처방이 갈린다:
+      · 자리 부족   방은 충분한데 방이 작다 → 두수를 줄이거나 방을 넓힌다
+      · 방 수 부족  자리는 남는데 회전이 안 된다 → 방을 늘리거나 간격을 넓힌다
+
+    `extra_rooms` 는 호출자가 더 아는 방 소요를 얹는 자리다(시뮬레이터는
+    자돈사를 전·후기로 나눠 방을 하나 더 쓴다 — 일령 구간만으로는 안 보인다).
+
+    `weaned_per_crate` 는 **방을 지을 때 쓴 값과 같아야 한다.** 기본값 12.0 은
+    설계 *목표*고, 실제 모델값은 11.0 이다. 목표로 기존 농장을 되읽으면
+    자돈사 396자리가 33분만틀로 보이는데 지을 때는 36으로 잡았다 — 같은
+    돈사가 방향에 따라 다른 크기로 나온다.
+    """
+    iv = float(interval_days)
+    extra = extra_rooms or {}
+    cycle = GESTATION + int(lactation) + rc.WEI_BY_PARITY["sow"]
+
+    have: dict = {}
+    for b in barns:
+        st = b.get("stage")
+        r = max(1, int(b.get("rooms") or 1))
+        p = max(1, int(b.get("per") or 1))
+        d = have.setdefault(st, {"rooms": 0, "per": 0, "places": 0})
+        d["rooms"] += r
+        d["per"] = max(d["per"], p)      # 배치는 **한 방**에 들어간다
+        d["places"] += r * p
+
+    rows = []
+
+    # 분만사 — 배치 하나가 방 하나. 방당 분만틀이 곧 배치 크기다.
+    f = have.get("분만사")
+    if f:
+        need = int(np.ceil((pre_farrow + int(lactation) + washdown) / iv))
+        need = max(need, int(extra.get("분만사", 0)))
+        rows.append({"stage": "분만사", "kind": "AIAO", "rooms": f["rooms"],
+                     "need_rooms": need, "per": f["per"],
+                     "crates": f["per"] if f["rooms"] >= need else 0,
+                     "why": None if f["rooms"] >= need
+                            else f"방 {f['rooms']}개 < 필요 {need}개"})
+
+    # 뒷단 — 단계 폐사를 빼며 내려가므로 분만틀당 두수가 단계마다 다르다
+    head = float(weaned_per_crate)
+    for st, days in DOWNSTREAM_DAYS.items():
+        h = have.get(st)
+        per_crate = head
+        head *= 1.0 - gf.MORTALITY.get(
+            next(n for n, *_r in gf.STAGES if _r[4] == st), 0.0)
+        if not h:
+            continue
+        need = int(np.ceil((days + washdown) / iv))
+        need = max(need, int(extra.get(st, 0)))
+        ok = h["rooms"] >= need
+        rows.append({"stage": st, "kind": "AIAO", "rooms": h["rooms"],
+                     "need_rooms": need, "per": h["per"],
+                     "crates": int(h["per"] // per_crate) if ok else 0,
+                     "why": None if ok else f"방 {h['rooms']}개 < 필요 {need}개"})
+
+    # 번식 축사 — 연속 흐름이라 방 수가 아니라 자리 총합이 제약이다.
+    # 지지 모돈 = 자리 × 번식주기 ÷ 그 축사에 머무는 일수.
+    for st, hold in (("교배사", rc.WEI_BY_PARITY["sow"] + SERVICE_HOLD_DAYS),
+                     ("임신사", GESTATION - SERVICE_HOLD_DAYS - pre_farrow)):
+        h = have.get(st)
+        if not h or hold <= 0:
+            continue
+        rows.append({"stage": st, "kind": "연속", "rooms": h["rooms"],
+                     "need_rooms": None, "per": h["places"],
+                     "sows": int(h["places"] * cycle / hold), "why": None})
+
+    # 분만틀 → 모돈으로 환산해 한 자에 올린다. 여기서 비교가 성립한다.
+    for r in rows:
+        if "sows" not in r:
+            r["sows"] = (plan_from_crates(
+                r["crates"], iv,
+                weaned_per_crate=weaned_per_crate)["herd_size"]
+                if r["crates"] > 0 else 0)
+
+    live = [r for r in rows if r["sows"] > 0]
+    blocked = [r for r in rows if r["why"]]
+    # **막힌 돈사가 병목이다.** 막힌 곳은 지지 두수가 0 이라 live 에서 빠지는데,
+    # 그러면 그다음으로 작은 돈사가 병목으로 뽑힌다 — 방이 모자란 자돈사를
+    # 놔두고 "육성사가 병목, 312두" 라고 말하게 된다. 그건 틀린 처방이다.
+    # 회전이 안 되는 건 두수를 줄여서 풀리는 문제가 아니다.
+    if blocked:
+        binding, n_sows, crates = blocked[0]["stage"], 0, 0
+    elif live:
+        b = min(live, key=lambda r: r["sows"])
+        binding, n_sows = b["stage"], b["sows"]
+        crates = min((r["crates"] for r in rows if r.get("crates")), default=0)
+    else:
+        binding, n_sows, crates = None, 0, 0
+    return {
+        "interval_days": iv, "lactation": int(lactation),
+        "rows": rows, "blocked": blocked, "binding": binding,
+        "n_sows": n_sows, "crates": crates,
+        "weaned_per_crate": float(weaned_per_crate),
+        "plan": (plan_from_crates(crates, iv,
+                                  weaned_per_crate=weaned_per_crate)
+                 if crates else None),
+        "flows": not blocked,
     }
 
 
@@ -466,6 +590,25 @@ def main() -> int:
               f"{r['places_total']:>7} {r['slack_days']:>4.0f}일")
     print("  ※ 분만사만 AIAO 로 맞추고 뒷단을 안 맞추면 이유자돈이 다 안 들어가")
     print("    밀사가 된다. 배치 설계는 출하까지 이어져야 한다.")
+
+    print("\n=== 반대 방향 — 지어 놓은 방이 받을 수 있는 두수 ===")
+    demo = [{"stage": "교배사", "rooms": 1, "per": 72},
+            {"stage": "임신사", "rooms": 2, "per": 82},
+            {"stage": "분만사", "rooms": 2, "per": 36},
+            {"stage": "자돈사", "rooms": 4, "per": 396},
+            {"stage": "육성사", "rooms": 3, "per": 385},
+            {"stage": "비육사", "rooms": 4, "per": 381}]
+    cap = capacity_from_rooms(demo, iv, lactation=24)
+    print(f"  {'용도':<6}{'방':>4}{'필요방':>6}{'방당':>7}{'지지 모돈':>9}")
+    for r in cap["rows"]:
+        need = r["need_rooms"] if r["need_rooms"] is not None else "—"
+        mark = "  ← 병목" if r["stage"] == cap["binding"] else ""
+        print(f"  {r['stage']:<6}{r['rooms']:>4}{str(need):>6}"
+              f"{r['per']:>7}{r['sows']:>9}{mark}")
+    print(f"  → 이 돈사가 받는 규모 **모돈 {cap['n_sows']}두** "
+          f"(병목: {cap['binding']})")
+    print("  ※ 두수 자체보다 **병목의 이름**이 답이다. 돈방은 돈사를 건너뛰어")
+    print("    쓸 수 없어서, 총량이 커도 한 곳이 막히면 거기서 끝난다.")
 
     print("\n=== 모돈군을 배치에 배정 (300두) ===")
     herd = generate_demo(300, iv, today=today)

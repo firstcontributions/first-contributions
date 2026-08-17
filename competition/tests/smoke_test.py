@@ -2934,6 +2934,150 @@ def test_farm_setup_view() -> None:
     assert "후보사는 이 표에 없습니다" in html
 
 
+def test_capacity_from_rooms() -> None:
+    """**지어 놓은 방 → 넣을 수 있는 두수.** 설계의 반대 방향.
+
+    이 함수의 값어치는 두수가 아니라 **병목의 이름**이다. 두수만 맞고 병목을
+    엉뚱하게 짚으면 처방이 통째로 틀린다 — 그래서 병목을 먼저 본다.
+    """
+    import batch_flow as bf
+
+    ok = [{"stage": "교배사", "rooms": 1, "per": 72},
+          {"stage": "임신사", "rooms": 2, "per": 82},
+          {"stage": "분만사", "rooms": 2, "per": 36},
+          {"stage": "자돈사", "rooms": 4, "per": 396},
+          {"stage": "육성사", "rooms": 3, "per": 385},
+          {"stage": "비육사", "rooms": 4, "per": 381}]
+    r = bf.capacity_from_rooms(ok, 21, lactation=24, weaned_per_crate=11.0)
+    assert r["flows"] and r["n_sows"] > 0, r
+    assert r["binding"] in {b["stage"] for b in ok}, r["binding"]
+    # 병목은 **가장 작게 지지하는 돈사**여야 한다
+    live = [x for x in r["rows"] if x["sows"] > 0]
+    assert r["n_sows"] == min(x["sows"] for x in live), r["rows"]
+
+    # 1) 설계와 역산이 서로를 되찾는가. 분만틀에서 지은 농장을 되읽으면
+    #    같은 분만틀이 나와야 한다 — 안 그러면 같은 돈사가 방향에 따라 다른
+    #    크기로 나온다(실제로 12.0 목표로 되읽어 33 vs 36 이 나왔다)
+    for crates, iv in ((36, 21), (20, 14), (12, 7)):
+        p = bf.plan_from_crates(crates, iv, weaned_per_crate=11.0)
+        rooms = -(-(bf.MOVE_IN + 24 + bf.WASHDOWN) // iv)
+        head = 11.0 * crates
+        built = [{"stage": "분만사", "rooms": rooms, "per": crates}]
+        for st, days in bf.DOWNSTREAM_DAYS.items():
+            built.append({"stage": st, "rooms": -(-(days + bf.WASHDOWN) // iv),
+                          "per": -(-head // 1)})
+        back = bf.capacity_from_rooms(built, iv, lactation=24,
+                                      weaned_per_crate=11.0)
+        assert back["crates"] == crates, (crates, iv, back["crates"])
+        assert back["n_sows"] == p["herd_size"], (crates, iv, back["n_sows"])
+
+    # 2) **막힌 돈사가 병목이다.** 막힌 곳은 지지 두수 0 이라 그냥 두면 그다음
+    #    으로 작은 돈사가 병목으로 뽑힌다 — 방이 모자란 자돈사를 놔두고
+    #    "육성사가 병목" 이라고 말하게 되고, 두수를 줄여도 안 풀린다
+    thin = [b if b["stage"] != "자돈사" else dict(b, rooms=1) for b in ok]
+    t = bf.capacity_from_rooms(thin, 21, lactation=24, weaned_per_crate=11.0)
+    assert not t["flows"] and t["binding"] == "자돈사", t
+    assert t["n_sows"] == 0 and t["crates"] == 0, t
+    assert any("방" in x["why"] for x in t["blocked"]), t["blocked"]
+
+    # 3) 방을 넓히면 그 돈사는 병목에서 빠져야 한다 — 붙잡고 있던 게 맞다면
+    wide = [b if b["stage"] != r["binding"]
+            else dict(b, per=b["per"] * 3, rooms=b["rooms"] + 2) for b in ok]
+    w = bf.capacity_from_rooms(wide, 21, lactation=24, weaned_per_crate=11.0)
+    assert w["binding"] != r["binding"] and w["n_sows"] > r["n_sows"], (r, w)
+
+    # 4) 시뮬레이터 방 소요를 얹으면 더 빡빡해진다(자돈사 전·후기 분리)
+    e = bf.capacity_from_rooms(ok, 21, lactation=24, weaned_per_crate=11.0,
+                               extra_rooms={"자돈사": 9})
+    assert not e["flows"] and e["binding"] == "자돈사", e
+
+    # 5) 등록이 없으면 두수를 지어내지 않는다
+    z = bf.capacity_from_rooms([], 21)
+    assert z["n_sows"] == 0 and z["binding"] is None, z
+
+
+def test_setup_screen_matches_module() -> None:
+    """등록 화면의 역산 JS 가 `batch_flow` 와 **같은 두수**를 내는가.
+
+    화면이 계산을 다시 구현하면 언젠가 갈린다. 이 프로젝트는 그걸 여러 번
+    겪었다(여름 손실 계수·뒷단 사육일수). 그런데 이건 파이썬으로 못 읽는
+    JS 라서, **브라우저에서 두 결과를 직접 대조**한다.
+
+    playwright 가 없으면 상수 대조까지만 하고 넘어간다 — requirements 에
+    없는 의존이라 없다고 실패시키면 안 된다. 대신 **건너뛴 사실을 찍는다.**
+    """
+    import json
+    import re
+    import batch_flow as bf
+    import build_farm_setup as bfs
+
+    html = bfs.build()
+    cm = re.search(r"^const CFG = (\{.*?\});$", html, re.M | re.S)
+    assert cm, "CFG 를 찾지 못했다"
+    cap = json.loads(cm.group(1))["cap"]
+
+    # 상수는 batch_flow 것이어야 한다. 화면이 따로 적으면 거기서 갈린다
+    assert cap["farrow_rate"] == bf.FARROW_RATE_P10
+    assert cap["gilt_share"] == bf.GILT_SHARE
+    assert cap["gilt_weeks"] == bf.GILT_PIPELINE_WEEKS
+    assert cap["weaned_per_crate"] == bf.WEANED_PER_CRATE
+    assert cap["turnover"] == bf.SOW_TURNOVER
+    assert cap["gestation"] == bf.GESTATION
+    assert cap["service_hold"] == bf.SERVICE_HOLD_DAYS
+    assert cap["down_days"] == bf.DOWNSTREAM_DAYS
+
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("      (playwright 없음 — 상수 대조만 하고 JS 대조는 건너뜀)")
+        return
+    exe = "/opt/pw-browsers/chromium-1194/chrome-linux/chrome"
+    if not os.path.exists(exe):
+        print("      (chromium 없음 — JS 대조는 건너뜀)")
+        return
+
+    cases = [
+        ([{"stage": "교배사", "rooms": 1, "per": 72},
+          {"stage": "임신사", "rooms": 2, "per": 82},
+          {"stage": "분만사", "rooms": 2, "per": 36},
+          {"stage": "자돈사", "rooms": 4, "per": 396},
+          {"stage": "육성사", "rooms": 3, "per": 385},
+          {"stage": "비육사", "rooms": 4, "per": 381}], 21, 24),
+        # 자돈사 방 부족 — 막힌 곳이 병목으로 잡혀야 한다
+        ([{"stage": "분만사", "rooms": 2, "per": 36},
+          {"stage": "자돈사", "rooms": 2, "per": 396},
+          {"stage": "육성사", "rooms": 3, "per": 385},
+          {"stage": "비육사", "rooms": 4, "per": 381}], 21, 24),
+        # 5주 간격 — 반올림이 갈리기 쉬운 자리
+        ([{"stage": "분만사", "rooms": 2, "per": 50},
+          {"stage": "자돈사", "rooms": 2, "per": 600},
+          {"stage": "육성사", "rooms": 2, "per": 580},
+          {"stage": "비육사", "rooms": 3, "per": 570}], 35, 28),
+    ]
+    url = "file://" + os.path.join(ROOT, "dashboard", "farm_setup.html")
+    open(os.path.join(ROOT, "dashboard", "farm_setup.html"),
+         "w", encoding="utf-8").write(html)
+    with sync_playwright() as pw:
+        br = pw.chromium.launch(executable_path=exe)
+        pg = br.new_page()
+        errs = []
+        pg.on("pageerror", lambda e: errs.append(str(e)))
+        pg.goto(url)
+        for barns, iv, lact in cases:
+            js = pg.evaluate(
+                "([bs, iv, lact, w]) => { barns = bs.map(b => ({...b}));"
+                " return capacityFromRooms(iv, lact, CFG.d.pre_farrow,"
+                " CFG.d.washout, {}, w); }", [barns, iv, lact, 11.0])
+            py = bf.capacity_from_rooms(barns, iv, lactation=lact,
+                                        weaned_per_crate=11.0)
+            for k in ("n_sows", "binding", "crates", "flows"):
+                assert js[k] == py[k], (k, iv, js[k], py[k])
+            assert [r["sows"] for r in js["rows"]] == \
+                   [r["sows"] for r in py["rows"]], (iv, js["rows"])
+        br.close()
+        assert not errs, errs
+
+
 def test_setup_json_actually_runs() -> None:
     """등록 화면이 내보낸 JSON 이 **실제로 돌아가는가**.
 
@@ -3803,7 +3947,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_setup_json_actually_runs, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_capacity_from_rooms, test_setup_screen_matches_module, test_setup_json_actually_runs, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

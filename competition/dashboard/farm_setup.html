@@ -86,9 +86,16 @@ color:var(--accent);text-decoration:none}
 넣는 즉시 배치 설계·필요 돈방·포유 상한·발정 판정 경로를 되짚어 줍니다.
 입력은 <b>이 브라우저에만</b> 저장되고 어디로도 전송되지 않습니다.</div>
 
-<h2>1. 규모</h2>
-<div class="h2d">상시모돈수와 농장 형태가 아래 계산의 출발점입니다.</div>
+<h2>1. 규모 — 어느 쪽에서 시작합니까</h2>
+<div class="h2d"><b>이미 지어진 농장이면 아래를 ‘돈사 → 두수’ 로 바꾸세요.</b>
+그러면 상시모돈수를 묻지 않고, 등록한 방이 <b>몇 두를 받을 수 있는지</b>와
+<b>무엇이 그걸 정하는지</b>를 대신 냅니다.</div>
 <div class="card"><div class="grid">
+  <div><label>계산 방향</label>
+    <select id="f_dir">
+      <option value="design">두수 → 돈사 (새로 설계)</option>
+      <option value="reverse">돈사 → 두수 (이미 지어진 농장)</option>
+    </select><div class="hint" id="h_dir"></div></div>
   <div><label>농장 이름 <span class="u">(로컬 표시용)</span></label>
     <input id="f_name" placeholder="예: 행복농장"><div class="hint">저장되지 않고 화면에만 씁니다</div></div>
   <div><label>상시 모돈수 <span class="u">두</span></label>
@@ -139,6 +146,7 @@ color:var(--accent);text-decoration:none}
 구간과 1:1 입니다.</div>
 <div style="margin-top:8px"><div class="bnrow"><b>교배사</b><span class="cnt">이유~교배·임신 초기(스톨). 발정 확인과 교배가 일어나는 곳</span></div><div class="bnrow"><b>임신사</b><span class="cnt">임신 중기~후기. 군사 또는 스톨</span></div><div class="bnrow"><b>분만사</b><span class="cnt">분만 전 7일~이유(분만틀)</span></div><div class="bnrow"><b>후보사</b><span class="cnt">후보돈 순치·초교배 대기</span></div><div class="bnrow"><b>자돈사</b><span class="cnt">이유자돈 28~70일령 (법정 0.30㎡)</span></div><div class="bnrow"><b>육성사</b><span class="cnt">육성돈 70~105일령 (법정 0.45㎡)</span></div><div class="bnrow"><b>비육사</b><span class="cnt">비육돈 105일령~출하 (법정 0.80㎡). 육성을 겸하는 농장도 많다</span></div></div>
 </div>
+<div id="cap"></div>
 <div id="checks"></div>
 <div class="card"><b style="font-size:.9rem">발정 판정 경로</b>
 <div class="h2d" style="margin:4px 0 8px">등록한 사육 방식에서 따라 나옵니다.</div>
@@ -185,7 +193,7 @@ color:var(--accent);text-decoration:none}
 </div>
 </div>
 <script>
-const CFG = {"q": {"psy": {"p10": 19.77, "p25": 21.9, "p50": 24.1, "p75": 26.1, "p90": 27.93}, "farrowing_rate": {"p10": 66.51, "p25": 74.9, "p50": 82.0, "p75": 87.0, "p90": 90.4}, "weaned": {"p10": 9.0, "p25": 10.0, "p50": 11.0, "p75": 11.0, "p90": 12.0}, "npd": {"p10": 28.37, "p25": 34.1, "p50": 43.0, "p75": 57.73, "p90": 73.66}, "wean_to_estrus": {"p10": 5.4, "p25": 5.8, "p50": 6.9, "p75": 8.4, "p90": 10.7}}, "d": {"gestation": 114.0, "lactation": 24.0, "wean_to_service": 7.0, "pre_farrow": 7.0, "washout": 7.0, "farrowing_rate": 82.0, "weaned": 11.0}, "intervals": [["주간", 7], ["10일", 10], ["2주", 14], ["3주", 21], ["4주", 28], ["5주", 35]], "routes": {"stall": {"label": "스톨(개별)", "module": "stall_estrus", "signal": "자세·전환·부동자세", "note": "자리가 곧 개체 ID — 추적 불필요, 활동량 신호 없음"}, "group": {"label": "군사(합사)", "module": "motion_tracker + temporal_features", "signal": "활동량·시간 윈도우", "note": "활동량을 쓸 수 있으나 개체 추적 필요"}, "crate": {"label": "분만틀", "module": "-", "signal": "-", "note": "번식 판정 대상 아님(분만·포유 관리)"}, "pen": {"label": "일반 돈방", "module": "-", "signal": "-", "note": "비번식(자돈·비육)"}}, "perf": [{"key": "farrowing_rate", "label": "분만율", "unit": "%", "arg": "farrowing_rate", "lo": 40, "hi": 100}, {"key": "weaned", "label": "복당 이유두수", "unit": "두", "arg": "weaned", "lo": 5, "hi": 18}, {"key": "npd", "label": "연간 비생산일수(NPD)", "unit": "일", "arg": "npd", "lo": 0, "hi": 200}, {"key": "wean_to_estrus", "label": "재귀발정일", "unit": "일", "arg": "wean_to_estrus", "lo": 3, "hi": 30}], "season": {"loss": {"p10": -4.42, "p25": -0.12, "median": 2.7, "p75": 7.65, "p90": 13.03}, "shrunk": {"p10": -0.5, "p25": 1.05, "median": 3.51, "p75": 5.71, "p90": 7.84}, "n_farms": 67, "per_sow_won": 125044, "ref_sows": 300, "share": 0.25, "overall_summer": 81.13, "overall_winter": 84.1, "gap": -2.97, "true_share": 0.406, "acc_1st": 0.0802, "acc_summer": 0.4145, "acc_winter": 0.3343, "rho_psy": -0.149, "rho_sows": -0.163, "implantation": [7, 21]}, "down": [{"stage": "자돈사", "label": "이유자돈", "days": 42, "age": [28, 70], "area": 0.3, "mort": 0.03}, {"stage": "육성사", "label": "육성돈", "days": 35, "age": [70, 105], "area": 0.45, "mort": 0.01}, {"stage": "비육사", "label": "비육돈", "days": 70, "age": [105, 175], "area": 0.8, "mort": 0.01}], "sim": [{"stage": "분만사", "id": "SUCKLING", "label": "포유자돈", "days": 24}, {"stage": "자돈사", "id": "NURSERY_1", "label": "이유자돈(전기)", "days": 21}, {"stage": "자돈사", "id": "NURSERY_2", "label": "이유자돈(후기)", "days": 25}, {"stage": "육성사", "id": "GROWER", "label": "육성돈", "days": 50}, {"stage": "비육사", "id": "FINISHER", "label": "비육돈", "days": 55}], "washdown": 7, "market_age": 175, "cycle_base": 145.0};
+const CFG = {"q": {"psy": {"p10": 19.77, "p25": 21.9, "p50": 24.1, "p75": 26.1, "p90": 27.93}, "farrowing_rate": {"p10": 66.51, "p25": 74.9, "p50": 82.0, "p75": 87.0, "p90": 90.4}, "weaned": {"p10": 9.0, "p25": 10.0, "p50": 11.0, "p75": 11.0, "p90": 12.0}, "npd": {"p10": 28.37, "p25": 34.1, "p50": 43.0, "p75": 57.73, "p90": 73.66}, "wean_to_estrus": {"p10": 5.4, "p25": 5.8, "p50": 6.9, "p75": 8.4, "p90": 10.7}}, "d": {"gestation": 114.0, "lactation": 24.0, "wean_to_service": 7.0, "pre_farrow": 7.0, "washout": 7.0, "farrowing_rate": 82.0, "weaned": 11.0}, "intervals": [["주간", 7], ["10일", 10], ["2주", 14], ["3주", 21], ["4주", 28], ["5주", 35]], "routes": {"stall": {"label": "스톨(개별)", "module": "stall_estrus", "signal": "자세·전환·부동자세", "note": "자리가 곧 개체 ID — 추적 불필요, 활동량 신호 없음"}, "group": {"label": "군사(합사)", "module": "motion_tracker + temporal_features", "signal": "활동량·시간 윈도우", "note": "활동량을 쓸 수 있으나 개체 추적 필요"}, "crate": {"label": "분만틀", "module": "-", "signal": "-", "note": "번식 판정 대상 아님(분만·포유 관리)"}, "pen": {"label": "일반 돈방", "module": "-", "signal": "-", "note": "비번식(자돈·비육)"}}, "perf": [{"key": "farrowing_rate", "label": "분만율", "unit": "%", "arg": "farrowing_rate", "lo": 40, "hi": 100}, {"key": "weaned", "label": "복당 이유두수", "unit": "두", "arg": "weaned", "lo": 5, "hi": 18}, {"key": "npd", "label": "연간 비생산일수(NPD)", "unit": "일", "arg": "npd", "lo": 0, "hi": 200}, {"key": "wean_to_estrus", "label": "재귀발정일", "unit": "일", "arg": "wean_to_estrus", "lo": 3, "hi": 30}], "season": {"loss": {"p10": -4.42, "p25": -0.12, "median": 2.7, "p75": 7.65, "p90": 13.03}, "shrunk": {"p10": -0.5, "p25": 1.05, "median": 3.51, "p75": 5.71, "p90": 7.84}, "n_farms": 67, "per_sow_won": 125044, "ref_sows": 300, "share": 0.25, "overall_summer": 81.13, "overall_winter": 84.1, "gap": -2.97, "true_share": 0.406, "acc_1st": 0.0802, "acc_summer": 0.4145, "acc_winter": 0.3343, "rho_psy": -0.149, "rho_sows": -0.163, "implantation": [7, 21]}, "down": [{"stage": "자돈사", "label": "이유자돈", "days": 42, "age": [28, 70], "area": 0.3, "mort": 0.03}, {"stage": "육성사", "label": "육성돈", "days": 35, "age": [70, 105], "area": 0.45, "mort": 0.01}, {"stage": "비육사", "label": "비육돈", "days": 70, "age": [105, 175], "area": 0.8, "mort": 0.01}], "sim": [{"stage": "분만사", "id": "SUCKLING", "label": "포유자돈", "days": 24}, {"stage": "자돈사", "id": "NURSERY_1", "label": "이유자돈(전기)", "days": 21}, {"stage": "자돈사", "id": "NURSERY_2", "label": "이유자돈(후기)", "days": 25}, {"stage": "육성사", "id": "GROWER", "label": "육성돈", "days": 50}, {"stage": "비육사", "id": "FINISHER", "label": "비육돈", "days": 55}], "washdown": 7, "market_age": 175, "cap": {"farrow_rate": 0.82, "gilt_share": 0.2, "gilt_weeks": 7, "weaned_per_crate": 12.0, "turnover": 2.3, "gestation": 115, "wei": 5.0, "service_hold": 28, "washdown": 7, "move_in": 7, "down_days": {"자돈사": 42, "육성사": 35, "비육사": 70}, "mort": {"자돈사": 0.03, "육성사": 0.01, "비육사": 0.01}}, "cycle_base": 145.0};
 const STAGES = ["교배사", "임신사", "분만사", "후보사", "자돈사", "육성사", "비육사"];
 const HOUSING = [["stall", "스톨(개별)"], ["group", "군사(합사)"], ["crate", "분만틀"], ["pen", "일반 돈방"]];
 const KEY = "yangdon.farm.setup.v1";
@@ -319,6 +327,103 @@ function drawBarns() {
 }
 
 function num(id) { const v = parseFloat($(id).value); return isFinite(v) ? v : null; }
+
+// ── 역산: 지어 놓은 방 → 넣을 수 있는 개체 수 ─────────────────────────
+//
+// batch_flow.capacity_from_rooms 를 그대로 옮긴 것이다. 상수는 CFG.cap 으로
+// 파이썬에서 받아오고, 테스트가 브라우저에서 두 결과를 직접 대조한다 —
+// 화면과 모듈이 다른 두수를 말하면 그 자리에서 깨진다.
+
+// 파이썬 round() 는 .5 에서 짝수로 간다(JS Math.round 는 위로). 두 결과를
+// 대조하는 함수라 이 차이를 그냥 두면 안 된다.
+function rnd(x) {
+  const f = Math.floor(x);
+  if (Math.abs(x - f - 0.5) > 1e-9) return Math.round(x);
+  return (f % 2 === 0) ? f : f + 1;
+}
+
+function planFromCrates(n, iv, wPer) {
+  const C = CFG.cap, w = iv / 7;
+  wPer = wPer || C.weaned_per_crate;
+  const services = Math.ceil(n / Math.max(0.05, C.farrow_rate));
+  const gilts = Math.ceil(services * C.gilt_share);
+  const breeding = n * (52 / w) / Math.max(0.1, C.turnover);
+  return {services, gilts, breeding: rnd(breeding),
+          herd: rnd(breeding + gilts * C.gilt_weeks),
+          weaned: n * wPer};
+}
+
+// wPer 는 **방을 지을 때 쓴 값과 같아야 한다.** batch_flow 기본값 12.0 은
+// 설계 *목표*고 모델값은 11.0 이다. 목표로 되읽으면 396자리 자돈사가
+// 33분만틀로 보이는데 지을 때는 36으로 잡았다 — 같은 돈사가 방향에 따라
+// 다른 크기로 나온다.
+function capacityFromRooms(iv, lact, pre, wash, extra, wPer) {
+  const C = CFG.cap;
+  extra = extra || {};
+  wPer = wPer || C.weaned_per_crate;
+  const cycle = C.gestation + Math.round(lact) + C.wei;
+
+  const have = {};
+  for (const b of barns) {
+    const d = have[b.stage] || (have[b.stage] = {rooms: 0, per: 0, places: 0});
+    d.rooms += b.rooms;
+    d.per = Math.max(d.per, b.per);        // 배치는 **한 방**에 들어간다
+    d.places += b.rooms * b.per;
+  }
+
+  const rows = [];
+  const f = have["분만사"];
+  if (f) {
+    const need = Math.max(Math.ceil((pre + Math.round(lact) + wash) / iv),
+                          extra["분만사"] || 0);
+    rows.push({stage: "분만사", kind: "AIAO", rooms: f.rooms, need_rooms: need,
+               per: f.per, crates: f.rooms >= need ? f.per : 0,
+               why: f.rooms >= need ? null : `방 ${f.rooms}개 < 필요 ${need}개`});
+  }
+
+  // 뒷단 — 단계 폐사를 빼며 내려가므로 분만틀당 두수가 단계마다 다르다
+  let head = wPer;
+  for (const [st, days] of Object.entries(C.down_days)) {
+    const h = have[st], perCrate = head;
+    head *= 1 - (C.mort[st] || 0);
+    if (!h) continue;
+    const need = Math.max(Math.ceil((days + wash) / iv), extra[st] || 0);
+    const ok = h.rooms >= need;
+    rows.push({stage: st, kind: "AIAO", rooms: h.rooms, need_rooms: need,
+               per: h.per, crates: ok ? Math.floor(h.per / perCrate) : 0,
+               why: ok ? null : `방 ${h.rooms}개 < 필요 ${need}개`});
+  }
+
+  // 번식 축사 — 연속 흐름이라 방 수가 아니라 자리 총합이 제약이다
+  for (const [st, hold] of [["교배사", C.wei + C.service_hold],
+                            ["임신사", C.gestation - C.service_hold - pre]]) {
+    const h = have[st];
+    if (!h || hold <= 0) continue;
+    rows.push({stage: st, kind: "연속", rooms: h.rooms, need_rooms: null,
+               per: h.places, sows: Math.floor(h.places * cycle / hold),
+               why: null});
+  }
+
+  for (const r of rows) {
+    if (r.sows === undefined) {
+      r.sows = r.crates > 0 ? planFromCrates(r.crates, iv, wPer).herd : 0;
+    }
+  }
+  const live = rows.filter(r => r.sows > 0);
+  const blocked = rows.filter(r => r.why);
+  // **막힌 돈사가 병목이다.** 막힌 곳은 지지 두수 0 이라 live 에서 빠지는데,
+  // 그러면 그다음으로 작은 돈사가 병목으로 뽑혀 틀린 처방이 나간다.
+  let binding = null, n_sows = 0, crates = 0;
+  if (blocked.length) {
+    binding = blocked[0].stage;
+  } else if (live.length) {
+    const b = live.reduce((a, x) => x.sows < a.sows ? x : a);
+    binding = b.stage; n_sows = b.sows;
+    crates = Math.min(...rows.filter(r => r.crates).map(r => r.crates));
+  }
+  return {rows, blocked, binding, n_sows, crates,
+          flows: blocked.length === 0};
+}
 
 function capacity(stage) {
   return barns.filter(b => b.stage === stage)
@@ -461,7 +566,82 @@ function renderSeason(p) {
   box.innerHTML = `<div class="card">` + head + body + `</div>`;
 }
 
+// 역산 결과 카드. **두수 하나만 크게 쓰지 않는다** — 이 계산의 답은
+// 두수가 아니라 병목의 이름이다. 두수만 보면 "그럼 300두 키우면 되겠네"
+// 로 끝나고, 정작 무엇을 고쳐야 하는지는 안 남는다.
+function renderCap(cap) {
+  const box = $("#cap");
+  if (!cap) { box.innerHTML = ""; return; }
+  if (!barns.length) {
+    box.innerHTML = `<div class="card"><div class="hint">돈사를 등록하면 ` +
+      `받을 수 있는 두수가 여기 나옵니다.</div></div>`;
+    return;
+  }
+  const cls = cap.flows ? (cap.n_sows > 0 ? "card good" : "card") : "card warn";
+  let h = `<div class="${cls}"><b style="font-size:.9rem">이 돈사가 받는 규모` +
+    `</b><div class="h2d" style="margin:4px 0 8px">돈사마다 지지할 수 있는 ` +
+    `규모를 따로 내고 <b>가장 작은 것</b>을 취합니다. 돈방은 돈사를 건너뛰어 ` +
+    `쓸 수 없어서, 총량이 커도 한 곳이 막히면 거기서 끝납니다.</div>`;
+
+  if (!cap.flows) {
+    h += `<div class="note" style="color:var(--bad)"><b>두수를 말하기 전에 ` +
+      `막힌 곳이 있습니다 — ${cap.blocked.map(r => `${r.stage}(${r.why})`)
+        .join(" · ")}.</b> 자리가 남아도 회전이 안 되면 배치가 밀립니다. ` +
+      `<b>두수를 줄여도 안 풀립니다</b> — 방을 늘리거나 간격을 넓혀야 합니다.</div>`;
+  } else {
+    h += `<div class="kpis">` +
+      kpi(`${cap.n_sows.toLocaleString()}두`, "받을 수 있는 상시모돈",
+          `병목: ${cap.binding}`) +
+      kpi(`${cap.crates}`, "배치당 분만틀", "방 하나가 배치 하나") +
+      kpi(`${Math.round(planFromCrates(cap.crates,
+            parseFloat($("#f_interval").value),
+            num("#p_weaned") ?? CFG.d.weaned).weaned).toLocaleString()}두`,
+          "배치당 이유",
+          `복당 ${(num("#p_weaned") ?? CFG.d.weaned).toFixed(1)}두 · ` +
+          `${num("#p_weaned") !== null ? "입력값" : "설계 가정"}`) +
+      `</div>`;
+  }
+
+  h += `<table><thead><tr><th>용도</th><th>세는 법</th><th>방</th>` +
+    `<th>필요 방</th><th>방당/자리</th><th>지지 모돈</th></tr></thead><tbody>`;
+  for (const r of cap.rows) {
+    const isBind = r.stage === cap.binding;
+    h += `<tr><td>${isBind ? `<b>${r.stage}</b> ` +
+        `<span class="tag err">병목</span>` : r.stage}</td>` +
+      `<td>${r.kind}</td><td>${r.rooms}</td>` +
+      `<td>${r.need_rooms === null ? "—" : (r.why
+        ? `<span class="tag err">${r.need_rooms}</span>` : r.need_rooms)}</td>` +
+      `<td>${r.per.toLocaleString()}</td>` +
+      `<td>${r.sows ? r.sows.toLocaleString() + "두" : "—"}</td></tr>`;
+  }
+  h += `</tbody></table>`;
+  h += `<div class="note"><b>답은 두수가 아니라 병목의 이름입니다.</b> ` +
+    `${cap.binding ? `${cap.binding} 를 넓히기 전까지는 다른 돈사를 키워도 ` +
+      `두수가 안 늘어납니다.` : ""} 지지 모돈은 ` +
+    `<code>batch_flow.capacity_from_rooms</code> 와 같은 식이고, 분만틀 → ` +
+    `모돈 환산은 존 카 모델(분만율 하위10분위 ${(CFG.cap.farrow_rate * 100)
+      .toFixed(0)}% · 회전율 ${CFG.cap.turnover})입니다.</div></div>`;
+  box.innerHTML = h;
+}
+
 function render() {
+  // 역산 모드는 모돈수를 **묻지 않고 낸다.** 그래서 planOf 보다 먼저 돈다.
+  const dir = $("#f_dir").value;
+  let cap = null;
+  if (dir === "reverse") {
+    const iv = parseFloat($("#f_interval").value);
+    const wash = num("#f_wash") ?? CFG.d.washout;
+    cap = capacityFromRooms(iv, num("#f_lact") ?? CFG.d.lactation,
+                   num("#f_pre") ?? CFG.d.pre_farrow, wash, simRooms(iv, wash),
+                   num("#p_weaned") ?? CFG.d.weaned);
+    if (cap.n_sows > 0) $("#f_sows").value = cap.n_sows;
+  }
+  $("#f_sows").disabled = (dir === "reverse");
+  $("#h_dir").textContent = dir === "reverse"
+    ? "상시모돈수는 등록한 방에서 나옵니다 — 직접 못 고칩니다"
+    : "상시모돈수에서 필요한 돈사를 역산합니다";
+  renderCap(cap);
+
   const p = planOf();
   $("#kpis").innerHTML =
     kpi(p.nb.toFixed(1), "배치 수", `번식주기 ${p.cycle.toFixed(0)}일 ÷ ${p.iv}일`) +
@@ -708,6 +888,7 @@ function snapshot() {
     perf[f.key] = (v !== null && v >= f.lo && v <= f.hi) ? v : null;
   }
   return {
+    direction: $("#f_dir").value,
     name: $("#f_name").value || null,
     n_sows: num("#f_sows"), n_gilts: num("#f_gilts"),
     site_type: $("#f_site").value,
@@ -740,6 +921,7 @@ function load() {
   let s = null;
   try { s = JSON.parse(localStorage.getItem(KEY) || "null"); } catch (e) {}
   if (!s) return false;
+  if (s.direction) $("#f_dir").value = s.direction;
   $("#f_name").value = s.name || "";
   if (s.n_sows) $("#f_sows").value = s.n_sows;
   if (s.n_gilts != null) $("#f_gilts").value = s.n_gilts;
