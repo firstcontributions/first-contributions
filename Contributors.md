@@ -4533,4 +4533,3 @@ Raphael Karani
 - [Salman Ahmad](https://github.com/AHMMIKUN)
 - [Ishaan Bisht and Shiven]
 - [Froid999](https://github.com/Froid999)
-- [Jahirul Islam](https://github.com/superSimpleJahir)
