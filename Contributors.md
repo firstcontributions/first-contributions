@@ -1,4 +1,5 @@
 # Contributors
+- [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
 - [Sheldonzk](https://github.com/Sheldonzk)
