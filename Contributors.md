@@ -4568,3 +4568,5 @@ Raphael Karani
 - [sainathG](https://github.com/sainath341)
 
 [Abdul Nabi](https://github.com/abdulnabii)
+
+[Abdul Nabi - Full Stack & AI Engineer](https://www.aiwithab.site)
