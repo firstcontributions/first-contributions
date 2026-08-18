@@ -8,6 +8,7 @@
 - Vedansh & Yug 
 -[ze]
 - [Zaid Hussain] (https://github.com/zaidbscs)
+- [Michael Clay] (https://github.com/ClayMichael2004)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
