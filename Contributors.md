@@ -14,6 +14,7 @@
 -[ze]
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Michael Clay] (https://github.com/ClayMichael2004)
+- [nick]
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
@@ -2297,6 +2298,7 @@ Amna Naeem
 - [Muhammad Habiibullah](https://github.com/habiibullahm)
 - [Muhammad Imran Butt](https://github.com/imranbuttcodes)
 - [Soumyajit Roy](https://github.com/Roy221RS)
+- [slimy](https://github.com/gleizorbruno-coder)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
@@ -4613,3 +4615,4 @@ Raphael Karani
 - [MOuayed](https://github.com/mouayed)
 - [Qamro](https://github.com/qamro)
 - [Mohammedashiq12](https://github.com/Mohammedashiq12)
+-Sealborg
