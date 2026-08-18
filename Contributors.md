@@ -31,6 +31,7 @@
 - [Ivan Gray] (https://github.com/d0xim)
 - [Divi Jaiwanth] (https://github.com/divijaiwanth)
 - [Krish](https://github.com/kaptankrrish)
+- [Julia Paquet](https://github.com/Juliapp02)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
 - [Mollyb333]
