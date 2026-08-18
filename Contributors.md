@@ -4587,3 +4587,4 @@ Raphael Karani
 - [yu27un](https://github.com/yu27un)
 - [Aniket Chaudhary](https://github.com/aniketch07)
 - [ellipswoo-oss](https://github.com/ellipswoo-oss)
+- [joaogil91-oss](https://github.com/joaogil91-oss)
