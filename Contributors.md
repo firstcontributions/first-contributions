@@ -115,6 +115,7 @@ Shaurya522 from The Dooon School
 - [FaNeLeBe](https://github.com/FacuLedesmaBertalot)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
+- Leonardo Fernandes
 - Stella Sinlao
 - Pranav Goyal BT2024086
 - Karan Mansuria BT2024104 
