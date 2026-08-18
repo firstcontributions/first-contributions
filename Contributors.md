@@ -2417,6 +2417,7 @@ Amna Naeem
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [jmiller913](https://github.com/jmiller913)
 - [OCM](https://github.com/NF6124034)
+- [Krish Tanna](https://github.com/KrishTanna28)
 - [OSoufian](https://github.com/OSoufian)
 - [Olamilekan](https://github.com/kilan080)
 - [Olapu Ajay](https://github.com/olapuajay)
