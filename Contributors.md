@@ -1,6 +1,5 @@
 # Contributors
 <<<<<<< HEAD
-- [Dmitry Mizurev](https://github.com/mizurev)
 =======
 - [musicalpike](https://github.com/musicalpike)
 - [Tiago Mallmann](https://github.com/tmallmann)
@@ -61,6 +60,7 @@
 - [Aman Raj](https://github.com/aman-raj-071)
 -[Akshat Parashar](https://github.com/akshatparashar)
 - [Maicon Vieira](https://github.com/maiconvieira)
+- [Dmitry Mizurev](https://github.com/mizurev)
 - [isarebolo12](https://github.com/isarebolo12)
 - [Dhanush](https://github.com/dhanush080607)
 - [Kamal-Assudani](https://github.com/Kamal-Assudani)
