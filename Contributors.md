@@ -4475,6 +4475,7 @@ Raphael Karani
 - [Santosh Reddy - BT2024012](https://github.com/SantoshReddy0603)
 - [Rudra Hardik Shroff](https://github.com/rudra-shroff06)
 - [kritika](https://github.com/Kxor8)
+- Ajay Javali
 - [Yashkumar](https://github.com/yash110905)
 - [Gular Mammadova](https://github.com/gularmammadof)
 - [Jaideep krishna A](https://github.com/jaideepkrishna2008-ui)
