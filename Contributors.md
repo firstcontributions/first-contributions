@@ -4599,4 +4599,5 @@ Raphael Karani
 - [Bhargav Gembali](https://github.com/BhargavGembali)
 - [yundron-beep](https://github.com/yundron-beep)
 - [Luis Mejia](https://github.com/mejialuis28)
+- [MOuayed](https://github.com/mouayed)
 - [Qamro](https://github.com/qamro)
