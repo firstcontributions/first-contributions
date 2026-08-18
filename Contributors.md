@@ -400,8 +400,6 @@ Ridwan Umar- [Nico]
 - [Silenty Ocean](https://github.com/SilentyOcean)
 - [alllex47](https://github.com/alllex47)
 - [Eric G] (https://github.com/Eric-G173)
-- [Dinesh Kumar Sahu](https://github.com/kumarsahudinesh52-byte)
-- [Anvay D](https://github.com/Anvay-D)
 - [MaxDeveloper42](https://github.com/maxDeveloper42)
 - [Azlan Ainto](https://github.com/Azlan-Ainto)
 - [Troy C](https://github.com/ArT-BrC)
