@@ -11,6 +11,7 @@
 - [Dhairya Surana](https://github.com/dhairyasurana007)
 - Vedansh & Yug 
 -[z]
+- [Florin Craciunoiu](https://github.com/fcraciunoiu)
 -[ze]
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Michael Clay] (https://github.com/ClayMichael2004)
@@ -32,6 +33,7 @@
 - [Swanand salwe] (https://github.com/swanand-salwe/first-contributions.git)
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 - [amdeldacc]
+- 
 - [Moin Qureshi] (https://github.com/Moin928)
 - [mouayed](https://github.com/mouayed23)
 - [Ivan Gray] (https://github.com/d0xim)
