@@ -69,6 +69,22 @@ This removes `my-new-branch` if it has already been merged.
 git branch -D my-new-branch
 ```
 Use this with caution! It deletes the branch even if it has unmerged changes.
+### List all branches
+```sh
+git branch
+```
+This lists all the branches in your repository.
+
+### Show current branch
+
+View Only the Name of the Current Active Branch
+```sh
+git branch --show-current
+```
+### Delete merged branches
+```sh
+git branch --merged | grep -v '\* main' | xargs git branch -d
+```
 
 ## Additional Resources
 - [Git Branching Guide (Atlassian)](https://www.atlassian.com/git/tutorials/using-branches)
