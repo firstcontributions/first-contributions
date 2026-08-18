@@ -1,4 +1,5 @@
 # Contributors
+- [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
 - [Sheldonzk](https://github.com/Sheldonzk)
@@ -29,6 +30,7 @@
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
 - [Mollyb333]
+- [AmnaNoorr] (https://github.com/AmnaNoorr/)
 -[Alan]
 - [Vyrnexis] (https://github.com/Vyrnexis)
 - [Deepika](https://github.com/deepika-rattewal
@@ -300,6 +302,7 @@ Varshith IMT2024044
 - [BrindaP]
 Ridwan Umar- [Nico]
 -[Tom Stanly]
+- [Danish Basha] (https://github.com/DanishBasha)
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
 - [Samuel Gutierrez](https://github.com/SamuelCosmo)
@@ -507,6 +510,7 @@ nathan practice here
 - [mikel-btw](https://github.com/mikel-btw)
 - rishi
 - [Tejika Singh](https://github.com/TejikaSingh02)
+- [Jeevan M](https://github.com/ItsjeevanM)
 - [Jaideep](https://github.com/jaysinghrajpurohit913-stack)
 - [Ankita Priyadarshini Pallai](https://github.com/AnkitaPriyadarshini-repos)
 - [Monil Chourasiya](https://github.com/Tryhardmonkey)
@@ -4572,3 +4576,4 @@ Raphael Karani
 
 [Abdul Nabi - Full Stack & AI Engineer](https://www.aiwithab.site)
 - Balaganesh [balaganesh-007](https://github.com/balaganesh-007)
+- [yu27un](https://github.com/yu27un)
