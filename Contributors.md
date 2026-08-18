@@ -39,6 +39,9 @@
 [Anita Demo 814]
 - [Sophia]
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
+[Evan 0818]
+- [Zilo]
+- [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
 - [Aman Raj](https://github.com/aman-raj-071)
 -[Akshat Parashar](https://github.com/akshatparashar)
