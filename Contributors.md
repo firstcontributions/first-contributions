@@ -47,6 +47,7 @@
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
 - [Sophia]
+-[nikhil](https://github.com/nikhilkyumar)
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
 [Evan 0818]
 - [Rishita Gupta] (https://github.com/rishitahub)
