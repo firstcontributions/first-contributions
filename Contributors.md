@@ -2522,7 +2522,7 @@ Amna Naeem
 - [Rafael Rodrigues](https://github.com/rafaelrodrigues-dev)
 - [Rafael Veloso](https://github.com/Rafaellinos)
 - [Rafeek Hanna](https://github.com/iRAFEEK)
-- [Rafi&#39;i M](https://github.com/maul-PG)
+- [Rafi'i M](https://github.com/maul-PG)
 - [Raheem Fatai Olalekan](https://github.com/Adebayorr)
 - [Rahul Jhamb](https://github.com/itzRJ)
 - [Rahul Keswani](https://github.com/rahulkeswani010)
@@ -2875,7 +2875,7 @@ Amna Naeem
 - [Tushar Rampurkar](https://github.com/Gitnerd77)
 - [Tushar](https://github.com/tusharynayaka)
 - [Tyler McDaniel](https://github.com/02ez)
-- [Tyler O&#39;Farrell](https://github.com/tyler3650)
+- [Tyler O'Farrell](https://github.com/tyler3650)
 - [U Shivakumar](https://github.com/Shivakumarsullagaddi)
 - [Uditadas10](https://github.com/Uditadas10)
 - [Udochukwu Anigbogu](https://github.com/Bubbles80)
@@ -2952,7 +2952,7 @@ Amna Naeem
 - [Waltteri Riihimäki](https://github.com/waltterir)
 - [Wang](https://github.com/xjtu-wang)
 - [Waqar Wani](https://github.com/Waqar-Wani)
-- [We&#39;re doing okay](https://github.com/wmhxb)
+- [We're doing okay](https://github.com/wmhxb)
 - [Wendy Abstone](https://github.com/wendyabstone)
 - [Andrew Snook](https://github.com/acsnook94)
 - [Whrisper](https://github.com/SChrisper)
@@ -3083,7 +3083,7 @@ Amna Naeem
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
 - [Rajiv Ranjan Sahu](https://github.com/rajivranjan7)
 - chandu bollu
-- [`Hojiakbarxon Olimxo'jayev`](https://github.com/Hojiakbarxon)
+- `[Hojiakbarxon Olimxo'jayev](https://github.com/Hojiakbarxon)`
 - [Vinayak Saxena](https://github.com/arkhamKnight78)
 - [Deepanshu Kumar Jha](https://github.com/CppCracker11)
 - [East Schriner] (https://github.com/eastschriner)
@@ -4542,5 +4542,8 @@ Raphael Karani
 - [Froid999](https://github.com/Froid999)
 - [Jahirul Islam](https://github.com/superSimpleJahir)
 - [Anmol Dwivedi](https://github.com/anmoldwivedi89)
+- [Nightshadow-NS](https://github.com/Nightshadow-NS)
+
+
 
 - [Topo2273](https://github.com/Topo2273)
