@@ -1,6 +1,7 @@
 # Contributors
 - [musicalpike](https://github.com/musicalpike)
 - [Tiago Mallmann](https://github.com/tmallmann)
+- [Rinku Diwakar](https://github.com/rinkudiwakar)
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
 - [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
