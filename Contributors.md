@@ -58,6 +58,7 @@
 - Ran Wang https://github.com/ranw27798-ux
 -Rishit Raman
 Hiroyuki19830823
+- [Dev Shah] (https://github.com/djs525)
 
 
 Shaurya522 from The Dooon School
