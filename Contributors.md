@@ -4623,4 +4623,5 @@ Raphael Karani
 -Sealborg
 - [Levy](https://github.com/LevyMitsugui)
 - [Mohd Nazam](https://github.com/mohdnazam123)
+- [Lucas Souza](https://github.com/lucassouzaalff-lang)
   
