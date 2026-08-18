@@ -1,4 +1,5 @@
 # Contributors
+- [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
 - [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
@@ -6,8 +7,10 @@
 - [Rutuja](https://github.com/rutuja2005byte)
 - [Dhairya Surana](https://github.com/dhairyasurana007)
 - Vedansh & Yug 
+-[z]
 -[ze]
 - [Zaid Hussain] (https://github.com/zaidbscs)
+- [Michael Clay] (https://github.com/ClayMichael2004)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
@@ -37,6 +40,9 @@
 [Anita Demo 814]
 - [Sophia]
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
+[Evan 0818]
+- [Zilo]
+- [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
 - [Aman Raj](https://github.com/aman-raj-071)
 -[Akshat Parashar](https://github.com/akshatparashar)
@@ -61,7 +67,7 @@
 -Rishit Raman
 Hiroyuki19830823
 - [Dev Shah] (https://github.com/djs525)
-
+-[Bavan_Balaji A] (https://github.com/bavanbalaji007)
 
 Shaurya522 from The Dooon School
 - rishit backend enginner
@@ -114,7 +120,9 @@ Shaurya522 from The Dooon School
 - [FaNeLeBe](https://github.com/FacuLedesmaBertalot)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
+- Leonardo Fernandes
 - Stella Sinlao
+- [Kevin Khachariya](https://github.com/KevinKhachariya)
 - Pranav Goyal BT2024086
 - Karan Mansuria BT2024104 
 - Parth Sutaria BT20240:wq28
@@ -302,6 +310,7 @@ Varshith IMT2024044
 - [BrindaP]
 Ridwan Umar- [Nico]
 -[Tom Stanly]
+- [Danish Basha] (https://github.com/DanishBasha)
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
 - [Samuel Gutierrez](https://github.com/SamuelCosmo)
@@ -4082,7 +4091,7 @@ hey yo!
 - [macsius](https://github.com/macsius)
 - [Savneel Prasad](https://gihub.com/savneel-prasad)
 - [zinedineejey-art](https://github.com/zinedineejey-art)
-
+- [Chí Trung](https://github.com/chitrung252)
 - [Madire Shiva Reddy BT2024218](https://github.com/Shiva0025)
 
 - [AzyzHm](https://github.com/AzyzHm)
@@ -4570,9 +4579,10 @@ Raphael Karani
 - [dindonaute-stack](https://github.com/dindonaute-stack)
 - [ArnobTK](https://github.com/ArnobTK)
 - [sainathG](https://github.com/sainath341)
-
-[Abdul Nabi](https://github.com/abdulnabii)
-
-[Abdul Nabi - Full Stack & AI Engineer](https://www.aiwithab.site)
+- [Abdul Nabi](https://github.com/abdulnabii)
+- [Abdul Nabi - Full Stack & AI Engineer](https://www.aiwithab.site)
+- Balaganesh [balaganesh-007](https://github.com/balaganesh-007)
 - [yu27un](https://github.com/yu27un)
 - [Sokny](https://github.com/NorySokny)
+- [Aniket Chaudhary](https://github.com/aniketch07)
+- [ellipswoo-oss](https://github.com/ellipswoo-oss)
