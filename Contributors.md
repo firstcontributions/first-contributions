@@ -11,7 +11,6 @@
 - Vedansh & Yug 
 -[z]
 -[ze]
-- [cafeteratransparente]
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
