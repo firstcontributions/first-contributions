@@ -300,6 +300,7 @@ Varshith IMT2024044
 - [BrindaP]
 Ridwan Umar- [Nico]
 -[Tom Stanly]
+- [Danish Basha] (https://github.com/DanishBasha)
 - [Lyrisink] (https://github.com/Lyrisink)
 - [Pooja Tiwari](https://github.com/pooja-dev42)
 - [Samuel Gutierrez](https://github.com/SamuelCosmo)
