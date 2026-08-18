@@ -3257,6 +3257,92 @@ def test_setup_json_actually_runs() -> None:
     assert rf is not None
 
 
+def test_run_farm_from_setup() -> None:
+    """등록 화면 JSON 이 `run_farm` ①②③ 를 전부 끌고 가는가.
+
+    마지막까지 남아 있던 구멍이다. ③ 개체 배치가 `demo_farm` 이라 **두수에
+    맞춰 방을 지어 냈고**, 그래서 "자리가 모자란다" 는 사실이 절대 안 보였다.
+    등록 농장에서 가장 알고 싶은 게 그건데도.
+
+    더 나쁜 건 섞임이었다. ③ 만 사용자 농장이고 ①② 은 모돈 역산으로 만든
+    딴 농장이면, 한 화면에 두 농장이 나란히 찍힌다.
+    """
+    import farm_registry as fr
+    import run_farm as rf
+
+    setup = {
+        "name": "테스트농장", "n_sows": 300, "interval_days": 21,
+        "lactation_days": 24, "pre_farrow_days": 7, "washout_days": 7,
+        "barns": [
+            {"name": "1동", "stage": "교배사", "rooms": 1, "per": 72,
+             "housing": "stall"},
+            {"name": "2동", "stage": "임신사", "rooms": 2, "per": 82,
+             "housing": "group"},
+            {"name": "3동", "stage": "분만사", "rooms": 2, "per": 36,
+             "housing": "crate"},
+            {"name": "4동", "stage": "후보사", "rooms": 1, "per": 15,
+             "housing": "group"},
+            {"name": "5동", "stage": "자돈사", "rooms": 4, "per": 396,
+             "housing": "pen"},
+            {"name": "6동", "stage": "육성사", "rooms": 3, "per": 385,
+             "housing": "pen"},
+            {"name": "7동", "stage": "비육사", "rooms": 4, "per": 381,
+             "housing": "pen"},
+        ],
+    }
+
+    # 1) 비율은 한 곳에서만 나온다. demo_farm 과 등록 농장이 다른 비율을 쓰면
+    #    같은 두수가 다르게 배치된다
+    want = fr.stage_counts(300)
+    assert sum(want.values()) == 300, want
+    demo = fr.demo_farm(300).occupancy().groupby("stage")["n"].sum().to_dict()
+    assert {k: int(v) for k, v in demo.items()} == want, (demo, want)
+
+    # 2) 등록 도면으로 지으면 **등록한 방만** 쓴다. 뒷단은 개체 배치 대상이
+    #    아니므로 빠진다 — 그건 돈군흐름 쪽이다
+    farm, notes = fr.farm_from_setup(setup)
+    assert not notes, notes
+    assert set(b["stage"] for b in farm.barns.values()) == set(want), farm.barns
+    got = farm.occupancy().groupby("stage")["n"].sum().to_dict()
+    assert {k: int(v) for k, v in got.items()} == want, (got, want)
+    assert farm.name == "테스트농장"
+    # 스톨은 자리 번호가 있어야 한다 — 자리가 곧 개체 ID 다
+    t = farm.table()
+    stall = t[t["housing"] == "stall"]
+    assert len(stall) and stall["slot"].map(lambda x: str(x).isdigit()).all()
+
+    # 3) **방을 만들어 내지 않는다.** 자리가 모자라면 못 넣은 두수를 보고한다
+    thin = dict(setup, barns=[
+        b if b["stage"] != "임신사" else dict(b, per=40)
+        for b in setup["barns"] if b["stage"] != "후보사"])
+    f2, n2 = fr.farm_from_setup(thin)
+    by = {x[0]: x for x in n2}
+    assert "임신사" in by and by["임신사"][2] == 80, n2
+    assert "후보사" in by and "등록된 동이 없다" in by["후보사"][3], n2
+    assert len(f2._where) < 300, len(f2._where)
+
+    # 4) 끝까지 돈다 — ①②③ 가 전부 등록 농장이어야 한다
+    r = rf.run(300, days=200, setup=setup, verbose=False)
+    assert r["sources"]["crates"].startswith("등록 분만사"), r["sources"]
+    assert r["sources"]["system"] == "등록 간격", r["sources"]
+    assert r["sources"]["rooms"].startswith("등록 "), r["sources"]
+    assert r["system"] == "B3W", r["system"]
+    assert r["placed"] == 300 and not r["place_short"], r["place_short"]
+
+    # 5) 분만틀이 받는 규모와 **다른 돈사가 받는 규모**는 다르다. 분만틀만
+    #    보고 341두라고 하면 임신사 자리가 295두인 걸 놓친다
+    cap = r["capacity"]
+    assert cap["binding"] == "임신사" and cap["flows"], cap["binding"]
+    assert cap["n_sows"] < r["plan"]["sow_inventory"], (cap, r["plan"])
+
+    # 6) 등록이 없으면 예전 그대로다 — 배선이 기존 경로를 안 건드려야 한다
+    base = rf.run(300, days=200, verbose=False)
+    assert base["sources"] == {"crates": "모돈 역산", "system": "인자",
+                               "rooms": "소요량대로 생성"}, base["sources"]
+    assert base["placed"] == 300 and not base["place_short"]
+    assert base["system"] == "WEEKLY" and "capacity" not in base
+
+
 def test_farm_diagnosis_view() -> None:
     """20번째 뷰 — 실측 진단이 화면에 올라왔는가.
 
@@ -4041,7 +4127,7 @@ def main() -> int:
              test_posture_crop_feats, test_posture_crossview, test_posture_report,
              test_dashboard_builders, test_farm_economics,
              test_pigflow_package, test_check_download,
-             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_capacity_from_rooms, test_throughput_ceiling, test_setup_screen_matches_module, test_setup_json_actually_runs, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
+             test_finetune_polygon, test_fetch_622, test_korean_farm_stats, test_farm_monthly, test_synth_farm, test_farm_panel, test_farm_monthly_panel, test_farm_monthly_model, test_psy_priority, test_presentation_cnn_current, test_estrus_label_audit, test_path_predict, test_barn_watch, test_farm_setup_view, test_capacity_from_rooms, test_throughput_ceiling, test_setup_screen_matches_module, test_setup_json_actually_runs, test_run_farm_from_setup, test_farm_diagnosis_view, test_pc_suite, test_ml_core, test_kaggle_notebooks, test_farm_gap, test_run_farm_end_to_end, test_docs_consistent,
              test_image_name_collision,
              test_real_622_schema,
              test_fetch_622_doctor]

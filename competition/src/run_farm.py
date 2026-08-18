@@ -46,7 +46,7 @@ REQUIRED = [
     ("배치 간격", "권장", "주간/2주/3주/4주/5주 중 무엇으로 운영하는가",
      "주간(WEEKLY)"),
     ("보유 돈방 목록", "권장", "돈사별 방 개수·면적·수용두수 → 부족분 진단",
-     "소요량대로 지은 것으로 가정(부족 0)"),
+     "소요량대로 지은 것으로 가정 — 그래서 부족이 절대 안 보인다"),
     ("번식 성적", "권장", "PSY·NPD·분만율·복당이유두수·재귀발정일",
      "국내 466농장 실측 중앙값"),
     ("사료·단가", "선택", "단계별 FCR·사료단가·지육단가 → 손익 정확도",
@@ -113,7 +113,8 @@ def _npd_floor(b) -> float:
 
 
 def run(n_sows: int, system: str = "WEEKLY", days: int = 400,
-        farm_metrics: dict | None = None, verbose: bool = True) -> dict:
+        farm_metrics: dict | None = None, verbose: bool = True,
+        setup: dict | None = None) -> dict:
     from datetime import date
 
     import breeding_ledger as bl
@@ -125,13 +126,37 @@ def run(n_sows: int, system: str = "WEEKLY", days: int = 400,
     from pigflow.config import default_config
     from pigflow.simulator import Simulator, build_rooms
 
+    import barn_watch as bw
+
     out: dict = {"n_sows": n_sows, "system": system}
     p = lambda *a: print(*a) if verbose else None                # noqa: E731
 
-    # 1) 설계 — 두수에서 분만틀을 역산해 pigflow 로 넘긴다
+    # 1) 설계 — 두수에서 분만틀을 역산해 pigflow 로 넘긴다.
+    #
+    # **등록 농장이 있으면 그쪽이 이긴다.** 분만틀과 배치 간격은 지어 놓은
+    # 물리량이고, 모돈 두수 역산은 그게 없을 때의 대체값이다. 여기서 역산을
+    # 고집하면 ③ 만 사용자 농장이고 ①②는 딴 농장이 되어, 한 화면에 두
+    # 농장이 섞인다. 배선은 barn_watch 가 쓰는 함수를 그대로 쓴다.
     cfg = default_config()
     cfg.batch_system_id = system
+    wiring = {"crates": "모돈 역산", "system": "인자",
+              "rooms": "소요량대로 생성"}
+    if setup:
+        if setup.get("n_sows"):
+            n_sows = int(setup["n_sows"])
+            out["n_sows"] = n_sows
+        sid, why = bw.batch_system_from_setup(setup, cfg)
+        if sid:
+            cfg.batch_system_id = system = sid
+            wiring["system"] = "등록 간격"
+        out["system"] = system
+        out["setup_note"] = why
     cfg.crate_count = crates_for_sows(n_sows, cfg)
+    if setup:
+        have = bw.crates_from_setup(setup)
+        if have:
+            wiring["crates"] = f"등록 분만사(역산값 {cfg.crate_count})"
+            cfg.crate_count = have
     plan = calc.plan(cfg)
     out["plan"] = plan
     p("=" * 76)
@@ -144,8 +169,34 @@ def run(n_sows: int, system: str = "WEEKLY", days: int = 400,
       f"이유 {plan['weaned_per_batch']:.0f}두 · 출하 {plan['shipped_per_batch']:.0f}두")
     p(f"   번식주기 {plan['cycle_days']}일 · 출하일령 {plan['market_age_days']}일")
 
-    # 2) 돈방 소요 + 흐름 시뮬레이션
-    rooms = build_rooms(cfg)
+    # 분만틀이 받는 규모와 **다른 돈사가 받는 규모**는 다르다. 분만틀만 보고
+    # 341두라고 하면 임신사 자리가 295두인 걸 놓친다 — 돈방은 돈사를 건너뛰어
+    # 쓸 수 없으므로 가장 작은 쪽이 실제 규모다.
+    if setup and (setup.get("barns") or []):
+        import batch_flow as bf
+        cap = bf.capacity_from_rooms(
+            setup["barns"], cfg.batch_system.interval_days,
+            lactation=int(cfg.breeding.lactation_days),
+            weaned_per_crate=float(cfg.breeding.weaned_per_litter))
+        out["capacity"] = cap
+        if not cap["flows"]:
+            p(f"   ⚠ 등록한 방으로는 흐름이 안 돈다 — "
+              + " · ".join(f"{r['stage']}({r['why']})" for r in cap["blocked"]))
+        elif cap["n_sows"]:
+            p(f"   등록 돈사가 받는 규모 {cap['n_sows']}두 (병목 {cap['binding']})"
+              + (f" — 분만틀 기준 {plan['sow_inventory']:.0f}두와 다르다. "
+                 f"작은 쪽이 실제다."
+                 if abs(cap["n_sows"] - plan["sow_inventory"]) >= 5 else ""))
+
+    # 2) 돈방 소요 + 흐름 시뮬레이션 — 등록한 방이 있으면 그 방으로 돌린다
+    room_notes = []
+    if setup:
+        spec, room_notes = bw.rooms_from_setup(setup, cfg.merged())
+        if spec:
+            cfg.rooms = spec
+            wiring["rooms"] = f"등록 {len(spec)}방"
+    rooms = (build_rooms(cfg.merged(), from_config=True)
+             if setup and cfg.rooms else build_rooms(cfg))
     sim = Simulator(cfg, date(2026, 1, 1), rooms=rooms).run(days)
     s = validate.summarize(sim.findings)
     k = report.kpi_report(sim)
@@ -172,14 +223,34 @@ def run(n_sows: int, system: str = "WEEKLY", days: int = 400,
     p(f"     번식돈 {breeding_only:.0f}두만으로 세면 PSY {psy_breeding:.2f} — "
       f"⑤의 실측 비교는 이쪽 기준이다.")
 
-    # 3) 개체 배치 — 실제 도면이 없으면 비율로 만든다
-    farm = fr.demo_farm(n_sows)
+    # 3) 개체 배치 — 등록 도면이 있으면 **그 방에** 넣는다.
+    #
+    # demo_farm 은 두수에 맞춰 방을 지어 내므로 늘 딱 들어맞는다. 그래서
+    # "자리가 모자란다" 는 사실이 절대 안 보인다 — 등록 농장에서는 그게
+    # 가장 알고 싶은 것인데도. farm_from_setup 은 방을 만들지 않고 못 넣은
+    # 두수를 돌려준다.
+    place_notes = []
+    if setup and (setup.get("barns") or []):
+        farm, place_notes = fr.farm_from_setup(setup, n_sows)
+        head = f"③ 개체 배치 (등록 도면 · {farm.name})"
+    else:
+        farm = fr.demo_farm(n_sows)
+        head = "③ 개체 배치 (도면 미입력 → 번식주기 비율로 생성)"
     occ = farm.occupancy()
+    want = fr.stage_counts(n_sows)
     out["placed"] = len(farm._where)
-    p(f"\n③ 개체 배치 (도면 미입력 → 번식주기 비율로 생성)")
+    out["place_short"] = [{"stage": st, "want": w, "got": g, "why": why}
+                          for st, w, g, why in place_notes]
+    p(f"\n{head}")
     p("   " + " · ".join(
         f"{st} {int(v)}두" for st, v in occ.groupby("stage")["n"].sum().items()))
-    p(f"   돈방 {len(farm.pens)}개 · 배치 {len(farm._where)}두")
+    p(f"   돈방 {len(farm.pens)}개 · 배치 {len(farm._where)}두 "
+      f"(소요 {sum(want.values())}두)")
+    for st, w, g, why in place_notes:
+        p(f"   ⚠ {st} {w}두 중 {g}두만 넣었다 — {why}")
+    if place_notes:
+        p("     자리가 모자라면 두수를 줄이거나 방을 늘려야 한다. "
+          "여기서 방을 만들어 내지 않는다.")
 
     # 4) 사육 단계 흐름
     tl = gf.batch_timeline("2026-08-10", int(plan["weaned_per_batch"]))
@@ -231,12 +302,21 @@ def run(n_sows: int, system: str = "WEEKLY", days: int = 400,
     out["breakeven"] = be
     p(f"   손익분기 지육단가 {be:,}원/kg (가정 시세 {fe.PORK_PRICE:,}원)")
 
+    out["sources"] = wiring
     if verbose:
-        _provenance()
+        p(f"\n⑦ 이 계산이 쓴 것")
+        p(f"   분만틀 {cfg.crate_count}개 ← {wiring['crates']}")
+        p(f"   배치   {system} ← {wiring['system']}")
+        p(f"   돈방   {len(rooms)}개 ← {wiring['rooms']}")
+        for name, stage, why in room_notes:
+            p(f"     · {name}({stage}) — {why}")
+        if out.get("setup_note"):
+            p(f"     · {out['setup_note']}")
+        _provenance(bool(setup))
     return out
 
 
-def _provenance() -> None:
+def _provenance(from_setup: bool = False) -> None:
     print("\n" + "-" * 76)
     print("  이 결과의 출처 — 무엇이 실측이고 무엇이 가정인가")
     print("-" * 76)
@@ -244,10 +324,15 @@ def _provenance() -> None:
           "케글 자세 0.636 / 탐지 mAP50 0.659")
     print("  계산  돈방 소요 · 배치 흐름 · 생산비 — 위 값에서 산식으로 나온다")
     print("  가정  사료 FCR·단가 = 관행 초기값 · 이유후 육성률 86%")
-    print("  유도  ③ 개체 배치는 **번식주기 비율로 만든 것**이고 실제 이력이 아니다"
-          "\n        (난수가 아니다 — 같은 입력이면 여섯 단계가 늘 같은 값을 낸다)")
-    print("\n  → 실제 농장 값을 넣으면 ①②④⑤⑥ 이 그 농장 계산으로 바뀐다.")
-    print("     `--data` 로 필요한 자료 목록을 볼 수 있다.")
+    if from_setup:
+        print("  등록  ①②③ 은 **등록한 돈사**로 돌렸다 — 분만틀·배치 간격·방 목록")
+        print("  유도  ③ 의 단계별 두수는 여전히 번식주기 비율이다. 방은 실제고"
+              "\n        두수는 유도값이라, 개체 이력이 들어오면 그쪽으로 바뀐다")
+    else:
+        print("  유도  ③ 개체 배치는 **번식주기 비율로 만든 것**이고 실제 이력이 아니다"
+              "\n        (난수가 아니다 — 같은 입력이면 여섯 단계가 늘 같은 값을 낸다)")
+        print("\n  → 실제 농장 값을 넣으면 ①②④⑤⑥ 이 그 농장 계산으로 바뀐다.")
+        print("     등록 화면 JSON 은 `--setup my_farm.json` 으로 넣는다.")
 
 
 def print_requirements() -> None:
@@ -263,6 +348,8 @@ def print_requirements() -> None:
     print("\n  필수는 **모돈 두수 하나**다. 나머지는 없으면 국내 실측 중앙값이나")
     print("  관행값으로 채우고, 무엇이 대체됐는지 결과 끝에 항상 표시한다.")
     print("\n  농장 값을 넣는 곳:")
+    print("    돈사 전체     등록 화면(dashboard/farm_setup.html) → JSON → --setup")
+    print("                  ①분만틀 ②방 목록 ③개체 배치가 그 농장으로 바뀐다")
     print("    돈방·배치     competition/pigflow/example_farm.yaml 를 복사해 수정")
     print("    번식 성적     run_farm.py --npd 62 --weaned 10 --farrowing-rate 74")
     print("    사료·단가     src/farm_economics.py 의 FEED / NON_FEED / PORK_PRICE")
@@ -278,6 +365,7 @@ def main(argv=None) -> int:
     ap.add_argument("--weaned", type=float, help="복당 이유두수")
     ap.add_argument("--farrowing-rate", type=float, help="분만율(%%)")
     ap.add_argument("--wean-to-estrus", type=float, help="재귀발정일")
+    ap.add_argument("--setup", help="등록 화면이 내보낸 JSON")
     ap.add_argument("--data", action="store_true", help="필요한 자료만 출력")
     a = ap.parse_args(argv)
     if a.data:
@@ -287,7 +375,19 @@ def main(argv=None) -> int:
                             ("farrowing_rate", a.farrowing_rate),
                             ("wean_to_estrus", a.wean_to_estrus))
           if v is not None}
-    run(a.sows, a.system, a.days, fm or None)
+    setup = None
+    if a.setup:
+        import json
+        setup = json.load(open(a.setup, encoding="utf-8"))
+        # 등록 JSON 의 성적도 **비운 것은 비운 채로** 받는다. 중앙값으로
+        # 채우면 그 지표의 격차가 늘 0 으로 찍힌다 — 등록 화면과 같은 규칙.
+        for k, v in (setup.get("performance") or {}).items():
+            if v is not None:
+                fm.setdefault(k, v)
+        gw = (setup.get("growth") or {}).get("survival")
+        if gw is not None:
+            fm.setdefault("survival", gw)
+    run(a.sows, a.system, a.days, fm or None, setup=setup)
     return 0
 
 

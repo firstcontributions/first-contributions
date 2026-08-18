@@ -1015,6 +1015,7 @@ function render() {
     "# 아래 JSON 을 my_farm.json 으로 저장한 뒤\n" +
     "python competition/src/barn_watch.py --setup my_farm.json          # 돈군흐름 검사\n" +
     "python competition/src/barn_watch.py --setup my_farm.json --sweep  # 방을 빼며 한계\n" +
+    "python competition/src/run_farm.py --setup my_farm.json  # 여섯 단계 전체\n" +
     "python competition/src/run_farm.py " + args.join(" ") + "\n" +
     `python competition/src/batch_flow.py   # 간격 ${p.iv}일 · 배치 ${p.nb.toFixed(1)}개\n` +
     "python competition/src/farm_gap.py --sows " + Math.round(p.sows);

@@ -248,6 +248,96 @@ class Farm:
 
 
 # --------------------------------------------------------------------------
+# 번식주기 상수 — pigflow 기본값과 같은 값을 쓴다. 여기서 새로 적으면
+# 같은 농장에 대해 두 모듈이 다른 배치를 만든다.
+W2S, GEST, LACT = 7, 114, 24      # 이유~교배 · 임신 · 포유
+CONFIRM = 28                      # 임신확인(재발정 확인)까지
+PRE_FARROW = 7                    # 분만사 사전 이동
+GILT_SHARE = 0.05                 # 후보사는 주기 밖 — 관행값
+
+
+def stage_counts(n_sows: int) -> dict:
+    """상시모돈 → 번식 축사별 두수. **비율은 유도되는 값이지 고르는 값이 아니다.**
+
+    정상 상태에서
+
+        단계별 두수 = 총두수 × (그 단계에 머무는 일수 ÷ 번식주기)
+
+    이다. 처음에 25/55/15/5 로 눈대중해 적었다가 주기 일수로 검산하니 분만사가
+    45두 vs 64두로 19두 어긋났고, pigflow 가 같은 농장에 대해 낸 분만틀 수와도
+    맞지 않았다. 기본값 기준으로 교배사 24.1% · 임신사 54.5% · 분만사 21.4%.
+    """
+    n = max(1, int(n_sows))
+    cycle = W2S + GEST + LACT
+    seg = {"교배사": W2S + CONFIRM,
+           "임신사": GEST - CONFIRM - PRE_FARROW,
+           "분만사": PRE_FARROW + LACT}
+    n_gilt = max(1, round(n * GILT_SHARE))
+    body = n - n_gilt
+    mate = max(1, round(body * seg["교배사"] / cycle))
+    gest = max(1, round(body * seg["임신사"] / cycle))
+    return {"교배사": mate, "임신사": gest,
+            "분만사": max(1, body - mate - gest), "후보사": n_gilt}
+
+
+# 자리 번호가 있는 사육 방식 — 스톨·분만틀은 몇 번 자리인지가 관리 단위다
+NUMBERED = ("stall", "crate")
+
+
+def farm_from_setup(setup: dict, n_sows: int | None = None) -> tuple:
+    """등록 화면 JSON → `Farm`. **방을 만들어 내지 않는다.**
+
+    `demo_farm` 은 두수에 맞춰 방을 지어 내므로 늘 딱 들어맞는다 — 그래서
+    "자리가 모자란다" 는 사실이 절대 안 보인다. 이 함수는 반대로 **등록한
+    방만** 쓰고, 못 넣은 두수를 둘째 값으로 돌려준다. 조용히 넘기면 사용자는
+    자기 농장이 그대로 반영된 줄 안다.
+
+    두수 유도는 `stage_counts` 와 같은 식이다. 뒷단(자돈·육성·비육)은 개체
+    단위로 관리하지 않으므로 여기서 놓지 않는다 — 그건 돈군흐름 쪽이다.
+    """
+    barns = setup.get("barns") or []
+    n = int(n_sows or setup.get("n_sows") or 0)
+    want = stage_counts(n)
+    f = Farm(setup.get("name") or "내 농장")
+
+    by_stage: dict = {}
+    for b in barns:
+        st = b.get("stage")
+        if st not in want:                 # 뒷단은 개체 배치 대상이 아니다
+            continue
+        bid = str(b.get("name") or st)
+        housing = b.get("housing") or "group"
+        rooms = max(1, int(b.get("rooms") or 1))
+        per = max(1, int(b.get("per") or 1))
+        f.add_barn(bid, st, f"등록 {rooms}방 × {per}자리")
+        pens = []
+        for i in range(1, rooms + 1):
+            pen = f"{i}방"
+            f.add_pen(bid, pen, housing, per)
+            pens.append(pen)
+        by_stage.setdefault(st, []).append((bid, pens, per, housing))
+
+    idx, notes = 0, []
+    for st, need in want.items():
+        got = by_stage.get(st)
+        if not got:
+            notes.append((st, need, 0, "등록된 동이 없다"))
+            continue
+        done = 0
+        for bid, pens, per, housing in got:
+            for pen in pens:
+                for slot in range(1, per + 1):
+                    if done >= need:
+                        break
+                    f.place(f"{2000 + idx}", bid, pen,
+                            slot if housing in NUMBERED else None)
+                    idx += 1
+                    done += 1
+        if done < need:
+            notes.append((st, need, done, f"자리 {need - done}두분 부족"))
+    return f, notes
+
+
 def demo_farm(n_sows: int = 68) -> Farm:
     """전형적인 일관농장 구조 — 교배사(스톨)·임신사(군사)·분만사·후보사.
 
@@ -275,21 +365,11 @@ def demo_farm(n_sows: int = 68) -> Farm:
       .add_barn("3동", "분만사", "분만 7일 전 이동")
       .add_barn("4동", "후보사", "순치 중인 후보돈"))
 
-    n = max(1, int(n_sows))
-    # 번식주기에서 유도. pigflow 기본값과 같은 상수를 쓴다.
-    W2S, GEST, LACT = 7, 114, 24          # 이유~교배 · 임신 · 포유
-    CONFIRM = 28                          # 임신확인(재발정 확인)까지
-    PRE_FARROW = 7                        # 분만사 사전 이동
-    cycle = W2S + GEST + LACT
-    seg = {"mate": W2S + CONFIRM,
-           "gest": GEST - CONFIRM - PRE_FARROW,
-           "farrow": PRE_FARROW + LACT}
-    # 후보사는 주기 밖이다. 연간 도태·갱신율에서 나오지만 여기서는 관행값 5%.
-    n_gilt = max(1, round(n * 0.05))
-    body = n - n_gilt
-    n_mate = max(1, round(body * seg["mate"] / cycle))
-    n_gest = max(1, round(body * seg["gest"] / cycle))
-    n_farrow = max(1, body - n_mate - n_gest)
+    # 비율 유도는 stage_counts 하나로 모았다 — 등록 농장(farm_from_setup)과
+    # 시연 농장이 다른 비율을 쓰면 같은 두수가 다르게 배치된다.
+    want = stage_counts(n_sows)
+    n_mate, n_gest = want["교배사"], want["임신사"]
+    n_farrow, n_gilt = want["분만사"], want["후보사"]
 
     # 교배사: 스톨 열당 12자리
     STALL_PER_COL = 12
