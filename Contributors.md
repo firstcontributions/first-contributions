@@ -1,6 +1,4 @@
 # Contributors
-<<<<<<< HEAD
-=======
 - [musicalpike](https://github.com/musicalpike)
 - [Tiago Mallmann](https://github.com/tmallmann)
 - [Rinku Diwakar](https://github.com/rinkudiwakar)
@@ -8,7 +6,6 @@
 - [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
->>>>>>> d2b50ff460b10fec71d128a1a4caa6a910dcf51c
 - [Sheldonzk](https://github.com/Sheldonzk)
 - [Rutuja](https://github.com/rutuja2005byte)
 - [Dhairya Surana](https://github.com/dhairyasurana007)
@@ -4594,10 +4591,3 @@ Raphael Karani
 - [Jahirul Islam](https://github.com/superSimpleJahir)
 - [Anmol Dwivedi](https://github.com/anmoldwivedi89)
 - [Nightshadow-NS](https://github.com/Nightshadow-NS)
-
-<<<<<<< HEAD
-- [Topo2273](https://github.com/Topo2273)
-=======
-- [Topo2273](https://github.com/Topo2273)
-- [Dmitry Mizurev](https://github.com/mizurev)
->>>>>>> d2b50ff460b10fec71d128a1a4caa6a910dcf51c
