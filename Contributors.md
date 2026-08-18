@@ -1,4 +1,5 @@
 # Contributors
+- [musicalpike](https://github.com/musicalpike)
 - [Tiago Mallmann](https://github.com/tmallmann)
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
 - [Mandar Vade](https://github.com/MandarVade)
