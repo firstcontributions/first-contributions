@@ -775,6 +775,7 @@ Syed Omer
 - [Mohammed Yehaya](https://github.com/mohammedyehaya2003)
 - [Ait oubelli Ghilas] (https://github.com/ghilasaitoubelli-ui)
 - [Vaishnav Aron](https://github.com/VaishnavAron/contributions.git)
+- [Rickie](https://github.com/transformerrickie)
 - [dounoy](https://github.com/dounoy)
 - [Rohit Sharma](https://github.com/rohit357)
 - [Bhavin Shankur](https://github.com/exobhavinss-sketch)
