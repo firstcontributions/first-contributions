@@ -27,7 +27,9 @@ DOCS = [os.path.join(COMP, "README.md"),
         os.path.join(COMP, "docs", "PRESENTATION.md"),
         # 현황 브리핑도 모듈·뷰·테스트 수를 인용한다. 검사 대상에 안 넣으면
         # 다른 대화로 퍼 나른 뒤에 조용히 낡는다.
-        os.path.join(COMP, "docs", "STATUS.md")]
+        os.path.join(COMP, "docs", "STATUS.md"),
+        # 기능 목록도 모듈·뷰·테스트 수와 실측 성능을 인용한다.
+        os.path.join(COMP, "docs", "CAPABILITIES.md")]
 
 
 # -- 실제값 수집 -----------------------------------------------------------

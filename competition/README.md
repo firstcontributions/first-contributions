@@ -28,6 +28,7 @@ CCTV → [탐지] → [추적/활동] → [행동·자세] → [발정 판정] �
   10GB 원천과 CPU 14시간을 쓰지 않아도 된다는 결론을 라벨 8MB 로 냈다
 
 부정 결과를 뒤에 숨기지 않는 이유는 [`docs/STATUS.md`](docs/STATUS.md)에 적었다.
+**지금 실제로 되는 일과 안 되는 일**은 [`docs/CAPABILITIES.md`](docs/CAPABILITIES.md)에 근거·등급과 함께 모아 뒀다.
 **수치의 정본은 그 문서다** — 여기 숫자와 갈리면 그쪽이 맞다.
 
 ---
@@ -364,7 +365,8 @@ competition/
   README.md
   build_all.sh              # 전체 대시보드 생성
   requirements.txt
-  docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md · PRESENTATION.md · STATUS.md · ML.md
+  docs/  AIHUB.md · EDINBURGH.md · SCHEMA.md · PRESENTATION.md · STATUS.md ·
+         CAPABILITIES.md · ML.md
   src/   (92개) 관찰·판정·진단·예측 + 대시보드 생성 스크립트 20개
     ── 인식   posture_crossview.py  view_align.py  motion_tracker.py  iou_tracker.py
     ── 번식   breeding_timing.py  repro_calendar.py  pregnancy_check.py
