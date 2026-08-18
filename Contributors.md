@@ -29,6 +29,7 @@
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 - [amdeldacc]
 - [Moin Qureshi] (https://github.com/Moin928)
+- [mouayed](https://github.com/mouayed23)
 - [Ivan Gray] (https://github.com/d0xim)
 - [Divi Jaiwanth] (https://github.com/divijaiwanth)
 - [Krish](https://github.com/kaptankrrish)
