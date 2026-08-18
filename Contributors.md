@@ -2409,6 +2409,7 @@ Amna Naeem
 - [Noah Kim](https://github.com/gratisreise)
 - [BokkieNZ](https://github.com/BokkieNZ)
 - [Noah Schroeder](https://github.com/nrschroeder)
+- [Krish Tanna](https://github.com/KrishTanna28)
 - [Aditya Priyadarshi](https://github.com/PhaNtoM-GHosT-11101)
 - [Simon Waberski](https://github.com/waberskisimon)
 - [HothoLina](https://github.com/HothoLina)
