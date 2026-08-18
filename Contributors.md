@@ -41,6 +41,7 @@
 - [Sophia]
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
 [Evan 0818]
+- [Rishita Gupta] (https://github.com/rishitahub)
 - [Zilo]
 - [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
