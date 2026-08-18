@@ -17,6 +17,7 @@
 - [Ayush]
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [fichil](https://github.com/fichil)
+- [barrynp] (https://github.com/barrynp)
 - [Jay Adesara](https://github.com/JayAdesara-07)
 - [Khuram Shahzad](https://github.com/khuram354)
 - [Javeria Razzaq](https://github.com/javeria222)
