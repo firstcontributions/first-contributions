@@ -4589,4 +4589,5 @@ Raphael Karani
 - [Aniket Chaudhary](https://github.com/aniketch07)
 - [ellipswoo-oss](https://github.com/ellipswoo-oss)
 - [Dhriti](https://github.com/Dhriti2513)
-- [Bhargav](https://github.com/BhargavGembali)
+- [morning-verlu](https://github.com/morning-verlu)
+- [Bhargav Gembali](https://github.com/BhargavGembali)
