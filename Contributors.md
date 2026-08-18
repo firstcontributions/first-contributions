@@ -4572,6 +4572,7 @@ Raphael Karani
 - [Froid999](https://github.com/Froid999)
 - [Jahirul Islam](https://github.com/superSimpleJahir)
 - [Anmol Dwivedi](https://github.com/anmoldwivedi89)
+- [Nightshadow-NS](https://github.com/Nightshadow-NS)
 
 - [Topo2273](https://github.com/Topo2273)
 - [Aniess Kumar](https://github.com/Aniess-Kumar)
