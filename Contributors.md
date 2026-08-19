@@ -2861,6 +2861,7 @@ Amna Naeem
 - [Sushmitha](https://github.com/Sushmigit)
 - [Sutej Mandadi](https://github.com/sutejmandadi)
 - [SutripatNew](https://github.com/SutripatNew)
+- [Suyo](https://github.com/Suyoag)
 - [Swan Htet Aung](https://github.com/haoz20)
 - [Swapna S](https://github.com/swapcodes)
 - [hwl-0710](https://github.com/hwl-0710)
