@@ -4643,3 +4643,4 @@ Raphael Karani
 - [uuyhoa](https://github.com/uuyhoa)
 - [buxianzaowu-sketch](https://github.com/buxianzaowu-sketch)
 - [Haseeb Mirza] (https://github.com/haseebmirza)
+- [Jinwoo Park] (https://github.com/jxpark24)
