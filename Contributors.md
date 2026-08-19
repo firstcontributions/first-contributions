@@ -4598,7 +4598,7 @@ Raphael Karani
 - [Anmol Dwivedi](https://github.com/anmoldwivedi89)
 - [Nightshadow-NS](https://github.com/Nightshadow-NS)
 - [PereCord](https://github.com/PeregrinusCordis)
-
+- [Colex who want to contrib](https://github.com/skrillex8)
 - [Topo2273](https://github.com/Topo2273)
 - [Aniess Kumar](https://github.com/Aniess-Kumar)
 - [Narmadhadevi D](https://github.com/narma-dha)
