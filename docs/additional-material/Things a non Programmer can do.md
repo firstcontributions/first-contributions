@@ -158,4 +158,12 @@ The best teacher is the one who can explain complex stuff with simple examples. 
 
 23. **Grant Writing & Fundraising**
 - Apply for open-source grants (GitHub Sponsors, NLnet).  
-- Draft **case studies** showcasing project impact.  
+- Draft **case studies** showcasing project impact.
+
+24. **Join a Governance or Steering Commitee**
+- Many projects have community-elected boards, technical steering committees, or working groups that don't require writing code — just     good judgment and community trust. 
+- Volunteering for these roles helps keep the project's decision-making transparent and functional.
+
+25. **Write or maintain community health files**
+- CODE_OF_CONDUCT.md, CONTRIBUTING.md, GOVERNANCE.md, and issue/PR templates are often outdated or missing entirely.
+- Drafting or refreshing these lowers the barrier for the next wave of contributors.

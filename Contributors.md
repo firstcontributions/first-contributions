@@ -49,6 +49,7 @@
 - [Julia Paquet](https://github.com/Juliapp02)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
+- [Ayush](https://github.com/Ayush74510)
 - [Mollyb333]
 - [AmnaNoorr] (https://github.com/AmnaNoorr/)
 -[Alan]
