@@ -1,4 +1,5 @@
 # Contributors
+- [Sekhar Parida](https://github.com/Sekhar03)
 - [Mohammad](https://github.com/Mohammad-Almostafa)
 - [musicalpike](https://github.com/musicalpike)
 - [Dmitry Mizurev](https://github.com/mizurev)
