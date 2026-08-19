@@ -4,6 +4,7 @@
 - [musicalpike](https://github.com/musicalpike)
 - [Dmitry Mizurev](https://github.com/mizurev)
 - [Tiago Mallmann](https://github.com/tmallmann)
+- [Ramcharan_40](https://github.com/Ramcharan-40/first-contributions.git)
 - [Rinku Diwakar](https://github.com/rinkudiwakar)
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
 - [Mandar Vade](https://github.com/MandarVade)
@@ -24,6 +25,7 @@
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [nick]
+- [Sharawey74](https://github.com/Sharawey74)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
@@ -1950,6 +1952,7 @@ Amna Naeem
 - [Petros] [just for fun hehe]
 - Aakash Gupta
 - [Madhan Kumaar](https://github.com/Madhan3009)
+- [Mashhood K](https://github.com/mashhoodx)
 - Aanya
 - [Minglang Chen](https://github.com/langchengit)
 - [Donny Guo](https://github.com/Donny-Guo)
@@ -2037,6 +2040,7 @@ Amna Naeem
 - [Yogesh HN](https://github.com/YogeshHN)
 - [Gaumtes Jain](https://github.com/Tecnic-debug)
 - [Shkvarkin Arseniy][https://github.com/GlisteningIngyno]
+- [Pawan Singh]()
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [Gaurav kumar ](https://github.com/gauravbuildz)
 - [Gargi kalia](https://github.com/Kaliagargi)
@@ -4665,5 +4669,4 @@ Raphael Karani
 - [sinvegur](https://github.com/sinvegur)
 - [yixbannzm](https://github.com/yixbannzm)
 - [Soumyajit Ghosh](https://github.com/somuai)
-⁠- [Shashank](https://github.com/shashankshet555-prog)
 
