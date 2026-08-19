@@ -1952,6 +1952,7 @@ Amna Naeem
 - [Petros] [just for fun hehe]
 - Aakash Gupta
 - [Madhan Kumaar](https://github.com/Madhan3009)
+- [Mashhood K](https://github.com/mashhoodx)
 - Aanya
 - [Minglang Chen](https://github.com/langchengit)
 - [Donny Guo](https://github.com/Donny-Guo)
