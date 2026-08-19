@@ -18,6 +18,7 @@
 - [Rutuja](https://github.com/rutuja2005byte)
 - [Dhairya Surana](https://github.com/dhairyasurana007)
 - [celestial-sky](https://github.com/celestial-sky)
+- [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
 - Vedansh & Yug 
 -[z]
 - [Florin Craciunoiu](https://github.com/fcraciunoiu)
