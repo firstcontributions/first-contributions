@@ -4,6 +4,7 @@
 - [musicalpike](https://github.com/musicalpike)
 - [Dmitry Mizurev](https://github.com/mizurev)
 - [Tiago Mallmann](https://github.com/tmallmann)
+- [VIGNESH_CJ](https://github.com/VIGNESH-CJ/first-contributions.git)
 - [Ramcharan_40](https://github.com/Ramcharan-40/first-contributions.git)
 - [Rinku Diwakar](https://github.com/rinkudiwakar)
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
