@@ -1063,6 +1063,7 @@ niceshowmini
 - [Manya Parikh](https://github.com/Manya2302)
 - [Dhanuja Isuru](https://github.com/Dhanujaisuru)
 - [Shubham Rathod](https://github.com/Rathodshubham0)
+- Jeffrey Liao
 - [Lavkesh Sharma]
 - Hrugveda Mane
 - [TionEleven](https://github.com/shen825)
