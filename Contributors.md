@@ -4676,6 +4676,6 @@ Raphael Karani
 - [sinvegur](https://github.com/sinvegur)
 - [yixbannzm](https://github.com/yixbannzm)
 - [Soumyajit Ghosh](https://github.com/somuai)
-
+- [Fermin Rivero](https://github.com/ferminriv20) 
 - [Michel363601](https://github.com/Michel363601)
 - [bhdsousa-cmd](https://github.com/bhdsousa-cmd)
