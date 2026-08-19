@@ -774,6 +774,7 @@ nathan practice here
 - [Aditya Vikram Singh](https://github.com/Adizz20)
 - [Rajkishor kumar](https://github.com/Raj24-dev)
 - [Param Sharma](https://github.com/Param141)
+- [Samuel Ragland K](https://github.com/raglandsam)
 - [Elamaran](https://github.com/elamaran25)
 Syed Omer
 - [Sounak Sarkar](https://github.com/NetRunnerXD)
