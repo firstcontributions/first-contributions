@@ -304,6 +304,7 @@ Varshith IMT2024044
 - [AlexMnrs](https://github.com/AlexMnrs)
 - [Harshith Raj Varanasi](BT2024177)
 - [fichil](https://github.com/fichil)
+- [barrynp] (https://github.com/barrynp)
 - [Jay Adesara](https://github.com/JayAdesara-07)
 - [Khuram Shahzad](https://github.com/khuram354)
 - [Yankyai Kanwai]
