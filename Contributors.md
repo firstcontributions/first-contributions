@@ -4688,3 +4688,4 @@ Raphael Karani
 - [bhdsousa-cmd](https://github.com/bhdsousa-cmd)
 - [wukaui](https://github.com/wukaui)
 - [knishka](https://github.com/Knishkaa/first-contributions.git)
+- [cxy](https://github.com/cxy-lab)
