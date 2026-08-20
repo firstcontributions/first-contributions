@@ -692,6 +692,7 @@ nathan practice here
 - [Rushi Rane](https://github.com/RushiRane2006)
 - [Atharv Rawat](https://github.com/atharvesting)
 - [Vlad](https://github.com/ah0R-59V0gEOWrFv)
+- [SocialPandaX](https://github.com/SocialPandaX)
 - [Jasminder Singh](https://github.com/Jasminder-Singh)
 - [Mahima](https://github.com/mahima44-svg)
   -[Aditi Mahajan](https://github.com/adi1233883)
