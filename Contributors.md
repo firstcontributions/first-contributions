@@ -7,6 +7,7 @@
 - [Sekhar Parida](https://github.com/Sekhar03)
 -[K M Hamsini] (https://github.com/hamsinidas456-source/first-contributions.git)
 - [Mohammad](https://github.com/Mohammad-Almostafa)
+- [Sameer](https://github.com/Sameer0726152)
 - [musicalpike](https://github.com/musicalpike)
 - [Dmitry Mizurev](https://github.com/mizurev)
 - [Tiago Mallmann](https://github.com/tmallmann)
