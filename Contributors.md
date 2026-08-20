@@ -134,6 +134,7 @@ Shaurya522 from The Dooon School
 - [Vedant021004](https://github.com/Vedant021004)
 - [Pulkit Pandey](https://github.com/COolAlien35)
 - [Vedant Kapil](https://github.com/Vedant021004)
+- [Sharad Mohandule](https://github.com/SharadCodes15)
 - [Aditya Mittal](https://github.com/Adityamtl)
 - [Thapan Komaravelly](https://github.com/SapphireGaze21)
 - [Anurag](https://github.com/Invito101)
