@@ -4712,3 +4712,4 @@ Raphael Karani
 - [Ali Haider](https://github.com/alihaiderengineer)
 - [Satvik](https://github.com/satvikmudgal)
 - [brunawild](https://github.com/brunawild)
+- [Adriana Pereira](https://github.com/adrispereira)
