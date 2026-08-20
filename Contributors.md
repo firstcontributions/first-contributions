@@ -4700,3 +4700,4 @@ Raphael Karani
 - [cxy](https://github.com/cxy1224747043-lab)- [Soumyajit Ghosh Portfolio](https://somu-ai.vercel.app)
 - [Xavier12a](https://github.com/Xavier12a)
 - [Sardor Abdusamatov](https://github.com/sardor-abdusamatov)
+- [Ali Haider](https://github.com/alihaiderengineer)
