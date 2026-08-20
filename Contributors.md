@@ -108,6 +108,7 @@ Shaurya522 from The Dooon School
 - [Ishan Pathak](https://github.com/theishanpathak)
 - [Taha Khouildi]
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
+- [F11Fii](https://github.com/F11Fii)
 - Ricardo Sastre (https://github.com/ricsas)
 - Oscar Heslop (https://github.com/OscarHeslop)
 - Lisath Wijekoon (https://github.com/LisWije)
