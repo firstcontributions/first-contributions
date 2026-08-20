@@ -1,6 +1,8 @@
+
 # Contributors
 - Matthew Kirk
 - 姜志福
+
 - [Sekhar Parida](https://github.com/Sekhar03)
 - [Mohammad](https://github.com/Mohammad-Almostafa)
 - [musicalpike](https://github.com/musicalpike)
@@ -34,6 +36,7 @@
 - [Onkar Raskar] 
 - [Sharawey74](https://github.com/Sharawey74)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
+- [Manuel Míguez](https://github.com/manumiguez2603)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
 - [afjskldj](https://github.com/)
