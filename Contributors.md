@@ -166,6 +166,7 @@ Varshith IMT2024044
 - BT2024088
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - advi7
+- [Jeya prathap](https://github.com/Jeyaprathap2002/)
 - Shive S Bhat BT2024067
 - [Naman_Jindal_BT2024203](https://github.com/LEGEND-Droit-7)
 - Yashaswini
