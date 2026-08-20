@@ -167,3 +167,63 @@ The best teacher is the one who can explain complex stuff with simple examples. 
 25. **Write or maintain community health files**
 - CODE_OF_CONDUCT.md, CONTRIBUTING.md, GOVERNANCE.md, and issue/PR templates are often outdated or missing entirely.
 - Drafting or refreshing these lowers the barrier for the next wave of contributors.
+
+26. **Improve CI/CD**
+- Fix failing GitHub Actions workflows.
+- Improve build pipelines.
+- Add automated checks for formatting, linting, security, and tests.
+- Reduce unnecessarily slow CI jobs.
+
+27.** Security contributions 🔐**
+- Report vulnerabilities responsibly.
+- Audit dependencies for known vulnerabilities.
+- Improve security documentation.
+- Add security-focused tests.
+- Help maintain a SECURITY.md policy.
+
+28. **Dependency maintenance**
+- Update outdated dependencies.
+- Replace deprecated libraries/APIs.
+- Test compatibility with newer dependency versions.
+- Remove unnecessary dependencies.
+
+29. **Performance optimization**
+- Identify slow functions or memory-heavy operations.
+- Benchmark before and after changes.
+- Optimize database queries, algorithms, build times, or memory usage.
+
+30. **Improve developer experience**
+- Improve installation/setup scripts.
+- Create Docker/Dev Container configurations.
+- Improve development tooling.
+- Make the project easier for first-time contributors to run locally.
+
+31. **Add type hints / static analysis**
+- Add Python type hints.
+- Improve TypeScript types.
+- Configure tools such as mypy, Ruff, ESLint, Clippy, etc.
+- Fix static-analysis warnings.
+
+32. **Improve error messages**
+- Find confusing or misleading errors.
+- Make errors actionable.
+- Add links to relevant documentation where appropriate.
+
+33. **Reproduce and investigate user issues**
+- Reproduce issues reported by users.
+- Create minimal reproduction cases.
+- Attach logs/environment information.
+- Narrow down the likely source of the problem.
+
+34. **Improve project metadata**
+- Keep README information current.
+- Add missing badges.
+- Maintain pyproject.toml, package.json, etc.
+- Improve package descriptions and installation instructions.
+
+35. **Release engineering**
+- Help prepare release notes.
+- Test release candidates.
+- Verify packages/artifacts.
+- Check changelogs and migration guides.
+- Report regressions between releases.
