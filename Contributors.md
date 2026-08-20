@@ -73,6 +73,7 @@
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
 - [Sophia]
+- Dhruv Shetty
 -[nikhil](https://github.com/nikhilkyumar)
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
 [Evan 0818]
