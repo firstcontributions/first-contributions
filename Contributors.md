@@ -66,6 +66,7 @@
 - [Krish](https://github.com/kaptankrrish)
 - [Julia Paquet](https://github.com/Juliapp02)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
+- [Olena Pometnova](https://github.com/Pometnova)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
 - [Mollyb333]
 - [AmnaNoorr] (https://github.com/AmnaNoorr/)
