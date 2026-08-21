@@ -24,6 +24,7 @@
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Ashank](https://github.com/Ashank001/)
 - [Adri Katyayan](https://github.com/ad-kat/)
+- [Vlad Samsonov](https://github.com/tritich-vas)
 - [saswat kumar panda](https://github.com/saswat9658)
 - [Swagat Samal] (https://github.com/Swagat-Samal)
 - [Anmol Kumar](https://github.com/Anmol-001)
