@@ -506,6 +506,7 @@ Ridwan Umar- [Nico]
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
 - [Naga Rutwik] (https://github.com/nrmalapaka) 
+- [Misono Mika](https://github.com/cnn-1701)
 - [Talluri Subhash] (https://github.com/Subhash-2005)
 -[Sahil pandey](https://github.com/sahilpandey217)
 - [Jothi Prakasam R](https://github.com/jothiprakasam)
