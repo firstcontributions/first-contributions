@@ -5,6 +5,7 @@
 - 姜志福
 - Ionut Sabie
 - Brandon Latimer
+- [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
 - [Sekhar Parida](https://github.com/Sekhar03)
 - [Natasha Gicheha](https://github.com/NatashaGicheha-1)
@@ -2360,6 +2361,7 @@ Amna Naeem
 - [Muhammad Imran Butt](https://github.com/imranbuttcodes)
 - [Soumyajit Roy](https://github.com/Roy221RS)
 - [slimy](https://github.com/gleizorbruno-coder)
+- [wzlcarrot](https://github.com/wzlcarrot)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
@@ -4725,3 +4727,5 @@ Raphael Karani
 - [bharathbalaji07](https://github.com/bharathbalaji07)
 - [gabrielesiqueiralima-ui](https://github.com/gabrielesiqueiralima-ui)
 - [jonh-silva] (https://github.com/jonavale1079-star)
+- [Sapna700]
+
