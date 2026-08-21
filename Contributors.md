@@ -28,6 +28,7 @@
 - [Rutuja](https://github.com/rutuja2005byte)
 - [Dhairya Surana](https://github.com/dhairyasurana007)
 - [Krishna Patel](https://github.com/krishna2601/)
+- [Kevin Yang](https://github.com/kyang510)
 - [celestial-sky](https://github.com/celestial-sky)
 - Abishek N
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
