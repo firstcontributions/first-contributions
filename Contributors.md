@@ -36,6 +36,7 @@
 -[z]
 - [Florin Craciunoiu](https://github.com/fcraciunoiu)
 -[ze]
+- [Ninad]
 - [Zaid Hussain] (https://github.com/zaidbscs)
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [nick]
