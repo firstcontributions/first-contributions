@@ -4,6 +4,7 @@
 - Matthew Kirk
 - 姜志福
 - Ionut Sabie
+- Brandon Latimer
 - [Sekhar Parida](https://github.com/Sekhar03)
 -[K M Hamsini] (https://github.com/hamsinidas456-source/first-contributions.git)
 - [Mohammad](https://github.com/Mohammad-Almostafa)
