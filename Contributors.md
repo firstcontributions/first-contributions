@@ -4732,4 +4732,5 @@ Raphael Karani
 - [gabrielesiqueiralima-ui](https://github.com/gabrielesiqueiralima-ui)
 - [jonh-silva] (https://github.com/jonavale1079-star)
 - [Sapna700]
+- [Harsh Yuvraj](https://github.com/harsh-yuvraj20)
 
