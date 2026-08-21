@@ -34,6 +34,7 @@
 - [Krishna Patel](https://github.com/krishna2601/)
 - [Kevin Yang](https://github.com/kyang510)
 - [celestial-sky](https://github.com/celestial-sky)
+- [RobertoDev2025](https://github.com/RobertoDev2025)
 - Abishek N
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
 - Vedansh & Yug 
