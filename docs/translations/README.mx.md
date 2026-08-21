@@ -29,7 +29,7 @@ Ahora clona este repositorio en tu equipo. Ve a tu cuenta de Github, y da clic e
 
 Abre tu consola o terminal y ejecuta el siguiente comando:
 
-```
+```bash
 git clone "la url del repositorio que copiaste"
 ```
 
@@ -38,7 +38,7 @@ Donde "la url del repositorio que copiaste" (sin las comillas dobles) es la *url
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Seeción de Github para copiar repositorio, con la pestaña de SSH mostrándose y al lado un icono para copiar el URL al portapapeles" />
 
 Por ejemplo:
-```
+```bash
 git clone https://github.com/usuarioGitHub/first-contributions.git
 ```
 Donde `usuarioGitHub` es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
@@ -47,20 +47,32 @@ Donde `usuarioGitHub` es tu usuario de GitHub. Aquí estás copiando los conteni
 
 Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya).
 
-```
+```bash
 cd first-contributions
 ```
 
 Ahora crea una rama (*branch*) usando el comando  `git switch`:
-```
+```bash
 git switch -c <añade tu nombre>
 ```
 
 Por ejemplo:
-```
+```bash
 git switch -c add-juan-perez
 ```
 (El nombre de la rama no tiene porqué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
+
+<details>
+    <summary><strong>Si obtienes algún error al usar <code>git switch</code>, haz clic aquí:</strong></summary>
+
+    Si aparece el mensaje de error "Git: `switch` is not a git command. See `git --help`", es probable que estés usando una versión antigua de Git.
+
+    En ese caso, intenta usar `git checkout` en su lugar:
+
+    ```bash
+    git checkout -b tu-nueva-rama
+    ```
+</details>
 
 ## Haz los cambios necesarios y guarda (*Commit*) esos cambios
 
@@ -72,12 +84,12 @@ Si vas al directorio del proyecto y ejecutas el comando `git status`, podrás ve
 
 Agrega esos cambios a la rama (*branch*) que creaste antes usando el comando `git add`:
 
-```
+```bash
 git add Contributors.md
 ```
 
 Ahora puedes hacer un *commit* sobre estos cambios ejecutando el comando `git commit`:
-```
+```bash
 git commit -m "Add <nombre> to Contributors list"
 ```
 reemplazando `<nombre>` con tu nombre.
@@ -86,7 +98,7 @@ reemplazando `<nombre>` con tu nombre.
 ## Carga (*Push*) tus cambios a GitHub
 
 Mandar un *push* de tus cambios usando el comando `git push`:
-```
+```bash
 git push origin <nombre-rama>
 ```
 Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
