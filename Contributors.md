@@ -2,6 +2,7 @@
 # Contributors
 
 - Matthew Kirk
+- [Oliver](https://github.com/GustavoOMendonca)
 - 姜志福
 - Ionut Sabie
 - Brandon Latimer
