@@ -2304,6 +2304,7 @@ Amna Naeem
 - [Linda Marika](https://github.com/LindaMarika)
 - [Kumaran N](https://github.com/Kumaran-NK)
 - [Lissie](https://github.com/liszooning)
+- [Likhitha](https://github.com/likhitha763)
 - [LisaM516](https://github.com/LisaM516)
 - [LiuSam](https://www.youtube.com/CommitKU)
 - [Lohith Arcot](https://github.com/LohithArcot)
