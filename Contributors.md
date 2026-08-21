@@ -2360,6 +2360,7 @@ Amna Naeem
 - [Muhammad Imran Butt](https://github.com/imranbuttcodes)
 - [Soumyajit Roy](https://github.com/Roy221RS)
 - [slimy](https://github.com/gleizorbruno-coder)
+- [wzlcarrot](https://github.com/wzlcarrot)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
