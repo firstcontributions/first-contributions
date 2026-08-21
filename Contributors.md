@@ -6,6 +6,7 @@
 - 姜志福
 - Ionut Sabie
 - Brandon Latimer
+- hadi-rashidi
 - [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
 - [Sekhar Parida](https://github.com/Sekhar03)
