@@ -7,6 +7,7 @@
 - Brandon Latimer
 - [Tushar](https://github.com/tusharr135)
 - [Sekhar Parida](https://github.com/Sekhar03)
+- Shivam Poswal(https://github.com/sfizz20)
 -[K M Hamsini] (https://github.com/hamsinidas456-source/first-contributions.git)
 - [Sameer](https://github.com/Sameer0726152)
 - [musicalpike](https://github.com/musicalpike)
