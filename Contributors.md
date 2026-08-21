@@ -78,6 +78,7 @@
 - [mouayed](https://github.com/mouayed23)
 - [Ivan Gray] (https://github.com/d0xim)
 - [Divi Jaiwanth] (https://github.com/divijaiwanth)
+- [Shivam Gautama](https://github.com/gautama-28)
 - [Krish](https://github.com/kaptankrrish)
 - [Rahul Shastri](http://github.com/RahulShastri003)
 - [Julia Paquet](https://github.com/Juliapp02)
