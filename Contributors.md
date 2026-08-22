@@ -1,8 +1,8 @@
 
 # Contributors
-
 - Matthew Kirk
 - [Oliver](https://github.com/GustavoOMendonca)
+AMULYA KRUPA (https://github.com/amulyakrupa)
 - 姜志福
 - Ionut Sabie
 - Brandon Latimer
