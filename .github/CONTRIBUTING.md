@@ -12,6 +12,8 @@ Go through the contribution guidelines in the repository (generally Contributing
 
 It's best to use them as a tool for learning and not to do your work for you.
 
+我在这里随便加了一行字，作为第一个提交的分支修改的内容。
+
 - It's best to write comments yourself. If you're copy-pasting what an LLM generated, maintainers are communicating with LLMs.
 - Test things yourself, verify details yourself. LLMs make mistakes all the time. You don't have to parrot those mistakes.
 - Push changes you understand. You should be able to explain yourself why you made a choice.
