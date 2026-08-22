@@ -97,6 +97,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - [Vyrnexis] (https://github.com/Vyrnexis)
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
+- [RFangelo]
 - [Sophia]
 - Dhruv Shetty
 -[nikhil](https://github.com/nikhilkyumar)
