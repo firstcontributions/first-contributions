@@ -5,6 +5,7 @@
 AMULYA KRUPA (https://github.com/amulyakrupa)
 - 姜志福
 - Ionut Sabie
+- Neeraj Kumar
 - Brandon Latimer
 - hadi-rashidi
 - [ShaneD711](https://github.com/ShaneD711)
