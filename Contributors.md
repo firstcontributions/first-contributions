@@ -28,6 +28,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - [Vlad Samsonov](https://github.com/tritich-vas)
 - [saswat kumar panda](https://github.com/saswat9658)
 - [Swagat Samal] (https://github.com/Swagat-Samal)
+- [Salih Mert Çetin](https://github.com/DonatusBarlas)
 - [Anmol Kumar](https://github.com/Anmol-001)
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
 - [Sheldonzk](https://github.com/Sheldonzk)
@@ -278,6 +279,7 @@ Suraj Kumar i am not gonna provide any link
 - Aditya Bhat BT2024035
 - [Siddharth Brijesh Tripathi IMT2024011](https://github.com/sidtricoder)
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
+[P Revanth Kumar](https://github.com/REVANTH-KUMAR-PEDADA)
 - Aryan Sharma BT2024212
 - Shashank Peddi BT2024210
 - Penumarti Hanish BT2024190
@@ -4749,3 +4751,5 @@ Raphael Karani
 - [yekuang](https://github.com/yekuang749)
 - [seiya203](https://github.com/seiya203)
 - anvi 
+
+[Mohammad Javad Dianat](https://github.com/dianatofficial)
