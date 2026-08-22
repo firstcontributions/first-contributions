@@ -8,6 +8,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - Neeraj Kumar
 - Brandon Latimer
 - hadi-rashidi
+- [itssubs](https://github.com/itssubs)
 - [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
 - [Sekhar Parida](https://github.com/Sekhar03)
