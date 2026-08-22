@@ -301,6 +301,7 @@ Suraj Kumar i am not gonna provide any link
 -  Talluri Kartheek BT2024108 
 -Paulo Ferreira123454645345
 - [Hellen Araújo](https://github.com/hellenilda)
+- [Smit Mistry](https://github.com/spm18-hash)
 - Rohit Negi
 - Srikar BT2024081
 - MUZHAIB_MANZOOR_BT2024129
