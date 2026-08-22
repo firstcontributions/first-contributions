@@ -134,6 +134,7 @@ Shaurya522 from The Dooon School
 - [Liam Wallant] (https://github.com/LiamWallant)
 - [HieuVu](https://github.com/HTrungVuADC)
 - [Luther]
+- [Sorin]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
 - [Taha Khouildi]
