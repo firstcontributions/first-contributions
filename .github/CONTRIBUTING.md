@@ -4,7 +4,7 @@ We appreciate your thought to contribute to open source. :heart:
 
 As this might be a starting point for people looking to contribute to open source projects in general. We'll include some general guidelines here.
 
-It's best to think less in terms of what you can do to contribute and more in terms of what maintainers of the project want. Look for issues that maintainers have labeled as https://github.com/firstcontributions/first-contributions/labels/help%20wanted https://github.com/firstcontributions/first-contributions/labels/good%20first%20issue. This means that maintainers of that project have looked at that issue and would like someone to address it.
+It's best to think less in terms of what you can do to contribute and more in terms of what maintainers of the project want. Look for issues that maintainers have labeled as https://github.com/firstcontributions/first-contributions/labels/help%20wanted https://github.com/firstcontributions/first-contributions/labels/good%20first%20issue. This means that maintainers of that project have looked at that issue and would like someone to address it. lovnexora
 
 Go through the contribution guidelines in the repository (generally Contributing.md). Pay attention to the details in there. It's very important.
 
