@@ -2,9 +2,12 @@
 # Contributors
 
 - Matthew Kirk
+- [Oliver](https://github.com/GustavoOMendonca)
 - 姜志福
 - Ionut Sabie
 - Brandon Latimer
+- hadi-rashidi
+- [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
 - [Sekhar Parida](https://github.com/Sekhar03)
 - [Natasha Gicheha](https://github.com/NatashaGicheha-1)
@@ -21,6 +24,8 @@
 - [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Ashank](https://github.com/Ashank001/)
+- [Adri Katyayan](https://github.com/ad-kat/)
+- [Vlad Samsonov](https://github.com/tritich-vas)
 - [saswat kumar panda](https://github.com/saswat9658)
 - [Swagat Samal] (https://github.com/Swagat-Samal)
 - [Anmol Kumar](https://github.com/Anmol-001)
@@ -32,6 +37,7 @@
 - [Krishna Patel](https://github.com/krishna2601/)
 - [Kevin Yang](https://github.com/kyang510)
 - [celestial-sky](https://github.com/celestial-sky)
+- [RobertoDev2025](https://github.com/RobertoDev2025)
 - Abishek N
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
 - Vedansh & Yug 
@@ -58,6 +64,7 @@
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
 - [Elijah](https://github.com/ElijahAvril)
+- [Oscar] (https://github.com/oscarsandgren)
 - [Chuihao Zeng](https://github.com/zch)
 - [Andrew Bailey]
 - [Mario Tafoya](https://github.com/mtafoya-web)
@@ -72,7 +79,9 @@
 - [mouayed](https://github.com/mouayed23)
 - [Ivan Gray] (https://github.com/d0xim)
 - [Divi Jaiwanth] (https://github.com/divijaiwanth)
+- [Shivam Gautama](https://github.com/gautama-28)
 - [Krish](https://github.com/kaptankrrish)
+- [Rahul Shastri](http://github.com/RahulShastri003)
 - [Julia Paquet](https://github.com/Juliapp02)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
@@ -116,7 +125,7 @@
 Hiroyuki19830823
 - [Dev Shah] (https://github.com/djs525)
 -[Bavan_Balaji A] (https://github.com/bavanbalaji007)
-
+Saurav kumar(https://github.com/saurav7557)
 Shaurya522 from The Dooon School
 - rishit backend enginner
 - Shubh692 from The Doon School
@@ -189,6 +198,7 @@ Varshith IMT2024044
 - [Jeya prathap](https://github.com/Jeyaprathap2002/)
 - Shive S Bhat BT2024067
 - [Naman_Jindal_BT2024203](https://github.com/LEGEND-Droit-7)
+- [Saad Raja](https://github.com/saadraj4)
 - Yashaswini
 - Mohammed Ayaan
 - Naitik
@@ -200,6 +210,7 @@ Varshith IMT2024044
 -Harsha BT2024148
 - mohammedfarhanBT2024140
 - mannerohithsaiBT2024144(https://github.com/Rohithmanne13)
+Suraj Kumar i am not gonna provide any link
 - [HemanthReddyThummala](https://github.com/HemanthReddyThummala)
 [K Siddhartha Reddy](https://github.com/SiddharthaReddy018)
 - Pradyumna BT2024157
@@ -496,6 +507,7 @@ Ridwan Umar- [Nico]
  - [Rene Paul](https://github.com/rene-pau)
 -[Barry J]
 - [Naga Rutwik] (https://github.com/nrmalapaka) 
+- [Misono Mika](https://github.com/cnn-1701)
 - [Talluri Subhash] (https://github.com/Subhash-2005)
 -[Sahil pandey](https://github.com/sahilpandey217)
 - [Jothi Prakasam R](https://github.com/jothiprakasam)
@@ -874,6 +886,7 @@ Syed Omer
 - [Ritesh Raj]
 -[Water bender]
 - [Khan-Fazal-sys](https://github.com/Khan-Fazal-sys)
+- [Yuxuan Tian](https://github.com/neptuneo2)
 - [wangshibo](https://github.com/shibowang1)
 -[Harvey Lloyd-Smith] (HL-Smith)
 -[Maryam Tahir](https://github.com/maryamtahir9)
@@ -996,6 +1009,7 @@ kalyani
 - [Ankit] (https://github.com/rathaur-ankit)
 - [milk-the-cat] (https://github.com/milk-the-cat)
 - [benjaminbii] (https://github.com/benjaminbii)
+- [parvthummar] (https://github.com/parvthummar)
 - [Aaditya rai] (https://github.com/aadityarai-bot)
 - [Aryan Kapoor](https://github.com/Keninjavelas)
 - [zyx18298126158-netizen](https://github.com/zyx18298126158-netizen)
@@ -2360,6 +2374,7 @@ Amna Naeem
 - [Muhammad Imran Butt](https://github.com/imranbuttcodes)
 - [Soumyajit Roy](https://github.com/Roy221RS)
 - [slimy](https://github.com/gleizorbruno-coder)
+- [wzlcarrot](https://github.com/wzlcarrot)
 - [Muhammed Shareef](https://github.com/shareefmx)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
@@ -4724,4 +4739,10 @@ Raphael Karani
 - [soo1109oos](https://github.com/soo1109oos)
 - [bharathbalaji07](https://github.com/bharathbalaji07)
 - [gabrielesiqueiralima-ui](https://github.com/gabrielesiqueiralima-ui)
+- [jonh-silva] (https://github.com/jonavale1079-star)
+- [Sapna700]
+- [Harsh Yuvraj](https://github.com/harsh-yuvraj20)
+- [Dhitee Shah](https://github.com/dtnotdt)
+- [Celio Guedes](https://github.com/celioguedes-spec)
+- [yekuang](https://github.com/yekuang749)
 - [seiya203](https://github.com/seiya203)
