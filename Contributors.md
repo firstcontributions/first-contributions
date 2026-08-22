@@ -8,6 +8,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - Neeraj Kumar
 - Brandon Latimer
 - hadi-rashidi
+- [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
 - [itssubs](https://github.com/itssubs)
 - [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
@@ -4765,4 +4766,3 @@ Raphael Karani
 [Mohammad Javad Dianat](https://github.com/dianatofficial)
 - [Leonardo Binetti](https://github.com/leobinetti2012-wq)
 - [a7hu-15](https://github.com/a7hu-15)
-- [chiruu-git](https://github.com/chiruu-git)
