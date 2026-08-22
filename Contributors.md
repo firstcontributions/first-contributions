@@ -64,6 +64,7 @@
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
 - [Elijah](https://github.com/ElijahAvril)
+- [Oscar] (https://github.com/oscarsandgren)
 - [Chuihao Zeng](https://github.com/zch)
 - [Andrew Bailey]
 - [Mario Tafoya](https://github.com/mtafoya-web)
