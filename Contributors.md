@@ -5,8 +5,11 @@
 AMULYA KRUPA (https://github.com/amulyakrupa)
 - 姜志福
 - Ionut Sabie
+- Neeraj Kumar
 - Brandon Latimer
 - hadi-rashidi
+- [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
+- [itssubs](https://github.com/itssubs)
 - [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
 - [Sekhar Parida](https://github.com/Sekhar03)
@@ -17,6 +20,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - [musicalpike](https://github.com/musicalpike)
 - [Dmitry Mizurev](https://github.com/mizurev)
 - [Tiago Mallmann](https://github.com/tmallmann)
+- [Durvesh Danve](https://github.com/DurvAcee)
 - [VIGNESH_CJ](https://github.com/VIGNESH-CJ/first-contributions.git)
 - [Ramcharan_40](https://github.com/Ramcharan-40/first-contributions.git)
 - [Rinku Diwakar](https://github.com/rinkudiwakar)
@@ -26,6 +30,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - [Ashank](https://github.com/Ashank001/)
 - [Adri Katyayan](https://github.com/ad-kat/)
 - [Vlad Samsonov](https://github.com/tritich-vas)
+- [vartika](https://github.com/vartika2494)
 - [saswat kumar panda](https://github.com/saswat9658)
 - [Swagat Samal] (https://github.com/Swagat-Samal)
 - [Salih Mert Çetin](https://github.com/DonatusBarlas)
@@ -93,6 +98,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - [Vyrnexis] (https://github.com/Vyrnexis)
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
+- [RFangelo]
 - [Sophia]
 - Dhruv Shetty
 -[nikhil](https://github.com/nikhilkyumar)
@@ -301,6 +307,7 @@ Suraj Kumar i am not gonna provide any link
 -  Talluri Kartheek BT2024108 
 -Paulo Ferreira123454645345
 - [Hellen Araújo](https://github.com/hellenilda)
+- [Smit Mistry](https://github.com/spm18-hash)
 - Rohit Negi
 - Srikar BT2024081
 - MUZHAIB_MANZOOR_BT2024129
@@ -1318,6 +1325,7 @@ niceshowmini
 - IMT2024055
 - [Dalila Mendonça](https://github.com/dalila-mendonca)
 - [Snehan S](https://github.com/snehanofficial)
+- [MissBombastic](https://github.com/MissBombastic)
 - Tanvi
 - [Thejas Shetty](https://github.com/thejasshetty05)
 - [Vedant S. Kadam](https://github.com/vedant331)
@@ -4291,6 +4299,7 @@ Nici30067
 - [Nylog](https://github.com/Nylog)
 - [Manas Sharma](https://github.com/ManasDevHub00)
 - [332Gabriel](https://github.com/332Gabriel)
+- [Lance](https://github.com/BossmanCom)
 - [Henry Deng](https://github.com/HenryDDD123)
 - yuyu945
 - [Otavio Lopes](https://github.com/taviolopes2023-arch)
@@ -4751,7 +4760,10 @@ Raphael Karani
 - [Celio Guedes](https://github.com/celioguedes-spec)
 - [yekuang](https://github.com/yekuang749)
 - [seiya203](https://github.com/seiya203)
+- [shashi](https://github.com/Shashi-chintalapalli)
 - anvi 
-
-[Mohammad Javad Dianat](https://github.com/dianatofficial)
--[Anuradha Paswan](https://github.com/anuradhapaswan1)
+- [Aman Agrawal](https://github.com/amanagrawal02)
+- [Mohammad Javad Dianat](https://github.com/dianatofficial)
+- [Anuradha Paswan](https://github.com/anuradhapaswan1)
+- [Leonardo Binetti](https://github.com/leobinetti2012-wq)
+- [a7hu-15](https://github.com/a7hu-15)
