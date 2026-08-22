@@ -4724,3 +4724,4 @@ Raphael Karani
 - [soo1109oos](https://github.com/soo1109oos)
 - [bharathbalaji07](https://github.com/bharathbalaji07)
 - [gabrielesiqueiralima-ui](https://github.com/gabrielesiqueiralima-ui)
+- [seiya203](https://github.com/seiya203)
