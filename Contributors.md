@@ -4783,3 +4783,4 @@ Raphael Karani
 - [tokpo1994-bot](https://github.com/tokpo1994-bot)
 - [NOOBE666] (https://github.com/NOOBE666)
 - [cessarlugo](https://github.com/cessarlugo)
+- [Kendson Cristo](https://github.com/kendsoncristo)
