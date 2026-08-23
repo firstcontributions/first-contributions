@@ -1538,6 +1538,7 @@ niceshowmini
 - [Kuldeep Rajput](https://github.com/kuldeeprajput-dev)
 - [Anchi Kansal](https://github.com/anchi204)
 - [WangX0111](https://github.com/WangX0111)
+- [Davi Severiano](https://github.com/Davi-UnB)
 - [DSVNS Srinidhi](https://github.com/davulurisrinidhi1)
 - [Meera Liz Joy](http://github.com/MeeraLizJoy)
 - [hazelr125](https://github.com/hazelr125)
