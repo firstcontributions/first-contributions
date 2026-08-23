@@ -97,6 +97,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
 - [Mollyb333]
+-[Safwan Toofan] (https://github.com/SaffuSafwan)
 - [AmnaNoorr] (https://github.com/AmnaNoorr/)
 -[Alan]
 - [Vyrnexis] (https://github.com/Vyrnexis)
