@@ -1,5 +1,6 @@
 
 # Contributors
+- Sujeet Gupta
 - Matthew Kirk
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
