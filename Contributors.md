@@ -581,6 +581,7 @@ nathan practice here
 - [Rihan R. Chougule](https://github.com/RihanC)
 - [jershon](https://github.com/jershonjefray-tech)
 - [ZihaoYang](https://github.com/yangzihao2005)
+- [Nurana Aliyeva](https://github.com/Nurana100)
 - [Joselyne Dusabemungu](https://github.com/joselynedusabemungu)
 - [Shindy Yuliyatini](https://github.com/shindyyuliyatini)
 - [KingPlein] (https://github.com/KingPlein)
