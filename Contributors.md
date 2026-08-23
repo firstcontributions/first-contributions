@@ -12,6 +12,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - Brandon Latimer
 - hadi-rashidi
 - [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
+- [strange757](https://github.com/strange757)
 - [itssubs](https://github.com/itssubs)
 - [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
