@@ -18,6 +18,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 - Neeraj Kumar
 - Brandon Latimer
 - hadi-rashidi
+- [Chaitanya Bhopi](https://github.com/ChaitanyaBhopi)
 - [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
 - [strange757](https://github.com/strange757)
 - [itssubs](https://github.com/itssubs)
