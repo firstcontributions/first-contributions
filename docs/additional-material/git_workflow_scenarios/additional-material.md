@@ -50,3 +50,6 @@ This document explains what a .gitignore file does, why to use it and how to cre
 
 ### [Storing Credentials](storing-credentials.md)
 This document explains how to store your credentials for repositories. This can be a security concern, so please follow the security policies of your place of work/study.
+
+### [Viewing Logs](viewing-logs.md)
+This document provides information about how to view logs of the commits made in the repository.
