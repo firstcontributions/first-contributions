@@ -4822,3 +4822,4 @@ Harsh Mehta
 - [GM](https://github.com/gmserviciosaempresas-source)
 - [joaoCosta-CA](https://github.com/joaoCosta-CA)
 - [99opdevs](https://github.com/99opdevs)
+- [Rufino Morales](https://github.com/Rufinomorales1914)
