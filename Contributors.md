@@ -1,6 +1,7 @@
 
 # Contributors
 - Matthew Kirk
+- [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Oliver](https://github.com/GustavoOMendonca)
 AMULYA KRUPA (https://github.com/amulyakrupa)
 - [rokuroo171](https://github.com/rokuroo171)
