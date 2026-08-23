@@ -1,6 +1,7 @@
 
 # Contributors
 - Matthew Kirk
+- [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Oliver](https://github.com/GustavoOMendonca)
 AMULYA KRUPA (https://github.com/amulyakrupa)
@@ -115,6 +116,7 @@ AMULYA KRUPA (https://github.com/amulyakrupa)
 [Evan 0818]
 - [Rishita Gupta] (https://github.com/rishitahub)
 - [Zilo]
+-[Aloka] (https://github.com/aloka-pa)
 - [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
 - [Aman Raj](https://github.com/aman-raj-071)
@@ -4799,3 +4801,4 @@ vamshi kumar
 - [jaswanthmajeti](https://github.com/jaswanthmajeti)
 Harsh Mehta
 - [Harsh Test changes](https://github.com/HarshMehta753)
+- [knshri40-arch](https://github.com/knshri40-arch)
