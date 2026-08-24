@@ -144,6 +144,7 @@
 - [Kamal-Assudani](https://github.com/Kamal-Assudani)
 - [Muhammad08-dot](https://github.com/Muhammad08-dot)
 - [BP5751](https://github.com/BP5751)
+- [ehero](https://github.com/kdclll)
 - [Kunjesh](https://github.com/KunjeshM24)
 - [Hossein P.™](https://GitHub.com/HP2000C)
 - [Jacky](https://github.com/jackyzpanda)
