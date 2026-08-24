@@ -5,6 +5,7 @@
 - Sujeet Gupta
 - Matthew Kirk
 - [Ashin Aji](https://github.com/ashinaji002)
+- [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Oliver](https://github.com/GustavoOMendonca)
