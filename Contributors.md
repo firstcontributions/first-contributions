@@ -305,6 +305,7 @@ Suraj Kumar i am not gonna provide any link
 - Ankita Gupta
 - HelaElbez
 - DaoMoyo
+- Heart-ws
 - joseph francez
 - first contribution
 - Sherwin Mazarello
@@ -342,6 +343,7 @@ Suraj Kumar i am not gonna provide any link
 - MUZHAIB_MANZOOR_BT2024129
 - [Boyina Saketh](https://github.com/Alex240424)
 - Saketh Kumar Reddy Chagari BT2024183
+-[Heart-ws](https://github.com/Heart-ws)
 - [Harshavardhan Reddy_BT2024064](https://github.com/HarshaVPolar)
 - Pennam Nikhil
 - [BADRU NDAWULA](https://github.com/PrinceBadru)
