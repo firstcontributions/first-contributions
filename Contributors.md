@@ -498,6 +498,7 @@ Ridwan Umar- [Nico]
 -[Tanmay Joshi](https://github.com/tanmayjoshi01)
 - [Pratham Jain](https://github.com/prathamnjain1)
 - [Aditya Agarwal (Adii)](https://github.com/adityaagarwal2303-pixel)
+- devarasetty dinakar sasank
 - oussema tayechi
 - [Silenty Ocean](https://github.com/SilentyOcean)
 - [alllex47](https://github.com/alllex47)
