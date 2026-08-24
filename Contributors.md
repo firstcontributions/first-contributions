@@ -6,8 +6,9 @@
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Oliver](https://github.com/GustavoOMendonca)
-AMULYA KRUPA (https://github.com/amulyakrupa)
--[Om Parab](https://github.com/omparab0510)
+- [Owenb135 - A young Devolper](https://github.com/Owenb135)
+- [AMULYA KRUPA](https://github.com/amulyakrupa)
+- [Om Parab](https://github.com/omparab0510)
 - [rokuroo171](https://github.com/rokuroo171)
 - Mohamed Aradaib
 - 姜志福
