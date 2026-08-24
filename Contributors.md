@@ -4853,3 +4853,4 @@ Harsh Mehta
 - [Gökçen Çiftci](https://github.com/gokcenciftci) - [Website](http://gokcenciftci.me)
 - [Shrey](https://github.com/soyasticks)
 - [leoalqualo-dev](https://github.com/leoalqualo-dev)
+- [Dev-Rhuan](https://github.com/Dev-Rhuan)
