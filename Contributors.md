@@ -319,6 +319,7 @@ Suraj Kumar i am not gonna provide any link
 - joseph francez
 - first contribution
 - Sherwin Mazarello
+- [Gokul Sami](https://github.com/Gokul-sami)
 - [Ravi Teja S](https://github.com/Ravi-Teja-S)
 - Kartik
 - Kkshiteej Tiwari BT2024154
