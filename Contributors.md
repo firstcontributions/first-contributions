@@ -20,6 +20,7 @@
 - Sandy Enriquez
 - Neeraj Kumar
 - Brandon Latimer
+- Rohitha S G
 - hadi-rashidi
 - [Chaitanya Bhopi](https://github.com/ChaitanyaBhopi)
 - [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
