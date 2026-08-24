@@ -244,7 +244,7 @@ Varshith IMT2024044
 - Yashaswini
 - Mohammed Ayaan
 - Naitik
-- Harsha 
+- Harsha T
 - Krititka
 - [XianingY](https://github.com/XianingY)
 - Karst
