@@ -1,6 +1,5 @@
 # Contributors
-
-- [pangeran-droid](https://github.com/pangeran-droid)
+- [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
 - [Muhammad Ibtisam Adnan](https://github.com/ibtisam345)
 - Sujeet Gupta
