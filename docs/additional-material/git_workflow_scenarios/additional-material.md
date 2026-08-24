@@ -53,3 +53,12 @@ This document explains how to store your credentials for repositories. This can 
 
 ### [Viewing Logs](viewing-logs.md)
 This document provides information about how to view logs of the commits made in the repository.
+
+## [Git stash](git-stash.md)
+This document provides information about how to stash commits.
+
+## [Git rebase](git-rebase.md)
+This document provides information about how to rebase commits.
+
+### [Cherry-picking a commit](cherry-picking-a-commit.md)
+This document provides information about how to cherry-pick a commit.
