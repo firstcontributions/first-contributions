@@ -4851,3 +4851,4 @@ Harsh Mehta
 - [Melanie Mayr-Kress](https://github.com/MelanieKress)
 - [Gökçen Çiftci](https://github.com/gokcenciftci) - [Website](http://gokcenciftci.me)
 - [Shrey](https://github.com/soyasticks)
+- [leoalqualo-dev](https://github.com/leoalqualo-dev)
