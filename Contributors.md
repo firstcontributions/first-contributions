@@ -4,6 +4,7 @@
 - [Muhammad Ibtisam Adnan](https://github.com/ibtisam345)
 - Sujeet Gupta
 - Matthew Kirk
+- [Ashin Aji](https://github.com/ashinaji002)
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Oliver](https://github.com/GustavoOMendonca)
