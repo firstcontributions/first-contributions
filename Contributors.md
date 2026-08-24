@@ -4843,3 +4843,4 @@ Harsh Mehta
 - [Rufino Morales](https://github.com/Rufinomorales1914)
 - [Chinmay Shinde](https://github.com/CSV0ID)
 - [Suyash Sharma](https://github.com/SuyashSharma365)
+- [Melanie Mayr-Kress](https://github.com/MelanieKress)
