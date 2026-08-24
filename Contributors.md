@@ -456,6 +456,7 @@ Ridwan Umar- [Nico]
 - [taehunkang36](https://github.com/taehunkang36)
 - [Evan Williams] (https://github.com/EvanInTech)
 - [Muhammad Zeeshan](https://github.com/zeeshanxbuilds)
+- [Aashni Joshi] (https://github.com/aashnijoshi)
 - [pritam jadhav] (https://github.com/priiiiitam)
 - [dioppylsci] (https://github.com/Scorpion160)
 - [Abhinav] (https://github.com/Abhi00728)
