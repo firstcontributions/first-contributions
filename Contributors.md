@@ -20,6 +20,7 @@
 - [balaji_r](https://github.com/balaji-in-git-hub)
 - Sandy Enriquez
 - Neeraj Kumar
+- Rahul Kumar Raj(NIT'S)
 - Brandon Latimer
 - Rohitha S G
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
