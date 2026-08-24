@@ -22,6 +22,7 @@
 - Neeraj Kumar
 - Brandon Latimer
 - Rohitha S G
+- [Gabriel Piangers] (https://github.com/gabriel-piangers)
 - hadi-rashidi
 - [Chaitanya Bhopi](https://github.com/ChaitanyaBhopi)
 - [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
