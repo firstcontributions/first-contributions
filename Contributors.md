@@ -1,5 +1,6 @@
 # Contributors
 -[Md Mufti habib](https://github.com/muftihabib)
+- [Daniel Capelo](https://github.com/dankpelo)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 -[Sourav Kumar](https://github.com/souravkumar-dev)
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
