@@ -16,6 +16,7 @@
 - [AMULYA KRUPA](https://github.com/amulyakrupa)
 - [Om Parab](https://github.com/omparab0510)
 - [rokuroo171](https://github.com/rokuroo171)
+- [aketada0729](https://github.com/aketada0729)
 - Mohamed Aradaib
 - 姜志福
 - Sabik Kundu (https://github.com/Sabik-kundu)
