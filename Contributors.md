@@ -32,6 +32,7 @@
 - Rahul Kumar Raj(NIT'S)
 - Brandon Latimer
 - Rohitha S G
+- Khushi Kumari
 - Supilath
 - [brownsugaryuki-byte](https://github.com/brownsugaryuki-byte)
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
