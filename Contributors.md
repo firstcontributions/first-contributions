@@ -4,6 +4,7 @@
 - [raghav](https://github.com/raghavvag)
 - [James Kim](https://github.com/jykim11)
 - [Jeevan H R](https://github.com/jeevanchiru17)
+- [Mariya Anjum](https://github.com/MariyaAnjum937)
 -[nikolaikoenig] (https://github.com/nikolai-koenig)
 - [Harry-GNS](https://github.com/Harry-GNS)
 - [Ritesh Murmu](https://github.com/Ritesh-cloud)
