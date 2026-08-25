@@ -60,5 +60,17 @@ This document provides information about how to stash commits.
 ## [Git rebase](git-rebase.md)
 This document provides information about how to rebase commits.
 
-### [Cherry-picking a commit](cherry-picking-a-commit.md)
+## [Cherry-picking a commit](cherry-picking-a-commit.md)
 This document provides information about how to cherry-pick a commit.
+
+## [Git Reset vs Revert vs Restore](git-reset-vs-revert-vs-restore.md)
+This document provides information about how to use git reset, revert, and restore commands.
+
+## [Git bisect](git-bisect.md)
+This document provides information about how to use git bisect command.
+
+## [Git Reflog](git-reflog.md)
+This document provides information about how to use git reflog command.
+
+## [Git Worktree](git-worktree.md)
+This document provides information about how to use git worktree command.
