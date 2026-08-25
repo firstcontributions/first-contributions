@@ -12,6 +12,7 @@
 - Sujeet Gupta
 - Millebisous
 - Matthew Kirk
+- [Sagnik Saha](https://github.com/Sagnik143)
 - Julia Nogueira
 - [Rafael Pioto](https://github.com/piotogomes)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
