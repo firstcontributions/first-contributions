@@ -161,6 +161,7 @@
 [Evan 0818]
 - [Rishita Gupta] (https://github.com/rishitahub)
 - [Zilo]
+- [Nikhil Hore](https://github.com/nikhilhore)
 - [viu]
 -[Aloka] (https://github.com/aloka-pa)
 - [awlu] (https://github.com/awlu9547)
