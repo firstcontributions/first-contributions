@@ -585,6 +585,7 @@ Ridwan Umar- [Nico]
 - [JC Abucay](https://github.com/abukix) 
 - [Mahi](https://github.com/mahi-prakash)
 - [Isha](https://github.com/ishacm)
+- [Abhilakshya Gusain](https://github.com/The-Shade)
 - [Dhyan Patel](https://github.com/dhyanspatel49)
 - [Ryan Williams](https://github.com/ryanwilliamske)
 -[Saikrishna Penta](https://github.com/Sai13122005)
@@ -4869,6 +4870,7 @@ Raphael Karani
 - [Elotech25](https://github.com/Elotech25)
 - [gabrielesiqueiralima-ui](https://github.com/gabrielesiqueiralima-ui)
 - [jonh-silva] (https://github.com/jonavale1079-star)
+- [Srinath] (https://github.com/Srinath318)
 - [Kashyaphc](https://github.com/Kashyaphc)
 - [Sapna700]
 - [Harsh Yuvraj](https://github.com/harsh-yuvraj20)
@@ -4936,3 +4938,4 @@ Bobby Green
 - [Richard](https://github.com/lamepic)
 - [dedada04-cloud](https://github.com/dedada04-cloud)
 - [Victor F](https://github.com/Mydalovka0)
+- [nolhanbsn-create](https://github.com/nolhanbsn-create)
