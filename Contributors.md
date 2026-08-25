@@ -16,6 +16,7 @@
 - [Sagnik Saha](https://github.com/Sagnik143)
 - Julia Nogueira
 - [Rafael Pioto](https://github.com/piotogomes)
+- [Atharva Gaur](https://github.com/Atharvagaur)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
 - [Ashin Aji](https://github.com/ashinaji002)
 - [Srijan Sarkar](https://github.com/Srijansarkar17)
