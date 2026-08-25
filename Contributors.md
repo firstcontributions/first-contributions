@@ -12,6 +12,7 @@
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
+- [<GitHub hamano>](https://github.com/<GitHub toshikazu-hamano>)
 - [Oliver](https://github.com/GustavoOMendonca)
 - Sandeep Kumar
 - [Owenb135 - A young Devolper](https://github.com/Owenb135)
