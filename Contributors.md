@@ -1,4 +1,5 @@
 # Contributors
+- [Wai Yan Min (Wei Yan Min)] -- (https://github.com/weiyanmin/)
 -[Sourav Kumar](https://github.com/souravkumar-dev)
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
