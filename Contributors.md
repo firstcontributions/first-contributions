@@ -3001,6 +3001,7 @@ andrewcodess
 - [SungHo.You](https://github.com/hahaysh)
 - [Suraj](https://github.com/surajrastogi1)
 - [Survivor1007](https://github.com/Survivor1007)
+- [tat-saitou](https://github.com/tat-saitou)
 - [AdityaA2](https://github.com/AdityaA2)
 - [Surya](https://github.com/GSuryaP)
 - [Sushka_s_makom](https://github.com/Sushka_s_makom)
