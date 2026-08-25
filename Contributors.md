@@ -285,6 +285,7 @@ Varshith IMT2024044
 - Krititka
 - [XianingY](https://github.com/XianingY)
 - Karst
+- Pinaki Das
 - FumoLemon
 - [FAIZAL S A](https://github.com/Safaizal)
 -Harsha BT2024148
