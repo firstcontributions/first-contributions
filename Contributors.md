@@ -9,6 +9,7 @@
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Oliver](https://github.com/GustavoOMendonca)
+- Sandeep Kumar
 - [Owenb135 - A young Devolper](https://github.com/Owenb135)
 - [AMULYA KRUPA](https://github.com/amulyakrupa)
 - [Om Parab](https://github.com/omparab0510)
