@@ -101,6 +101,7 @@
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [nick]
 - [Nandini Bansal]
+- [Natasha Ringane] (https://github.com/natasha-snow)
 - [Onkar Raskar] 
 - [Sharawey74](https://github.com/Sharawey74)
 - [Kanishka Chauhan](https://github.com/kanishkachauhan241)
