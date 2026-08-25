@@ -3,6 +3,7 @@
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
 - [Muhammad Ibtisam Adnan](https://github.com/ibtisam345)
+- [mid7i](https://github.com/mid7i)
 - Sujeet Gupta
 - Millebisous
 - Matthew Kirk
