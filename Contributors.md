@@ -26,6 +26,7 @@
 - Rahul Kumar Raj(NIT'S)
 - Brandon Latimer
 - Rohitha S G
+- Supilath
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
 - hadi-rashidi
 - [Chaitanya Bhopi](https://github.com/ChaitanyaBhopi)
