@@ -4932,3 +4932,4 @@ Bobby Green
 - [razak31rl-ops](https://github.com/razak31rl-ops)
 - [Nieams](https://github.com/Nieams)
 - [Nugget](https://github.com/TheNuggetXYZ)
+- [Richard](https://github.com/lamepic)
