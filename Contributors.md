@@ -2690,6 +2690,7 @@ andrewcodess
 - [Praveer Ranjan Singh](https://github.com/PRAVEERRANJANSINGH)
 - [Kevin R](https://github.com/kevrozario)
 - [Pravin I](https://github.com/motoe-pi)
+- boots-dev
 - [Prem Shenoy](https://github.com/prs241)
 - [Prince Makhansa](https://github.com/PrinceMakhansa)
 - [Prince](https://github.com/Prnc5804)
