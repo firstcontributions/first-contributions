@@ -69,6 +69,7 @@
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
 - [Sheldonzk](https://github.com/Sheldonzk)
 - [kdtian01](https://github.com/kdtian01/)
+- [miyudachs](https://github.com/miyudachs)
 - [Rutuja](https://github.com/rutuja2005byte)
 - [Kirti Patil](https://github.com/kirti7617)
 - [Dhairya Surana](https://github.com/dhairyasurana007)
