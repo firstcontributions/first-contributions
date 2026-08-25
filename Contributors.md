@@ -6,6 +6,7 @@
 - Sujeet Gupta
 - Millebisous
 - Matthew Kirk
+- [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
 - [Ashin Aji](https://github.com/ashinaji002)
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [ashxris](https://github.com/ashxris)
