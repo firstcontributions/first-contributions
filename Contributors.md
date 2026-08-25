@@ -16,7 +16,6 @@
 - [AMULYA KRUPA](https://github.com/amulyakrupa)
 - [Om Parab](https://github.com/omparab0510)
 - [rokuroo171](https://github.com/rokuroo171)
-- [aketada0729](https://github.com/aketada0729)
 - Mohamed Aradaib
 - 姜志福
 - Sabik Kundu (https://github.com/Sabik-kundu)
@@ -4880,3 +4879,4 @@ Harsh Mehta
 - [Gabriel Cazalá](https://github.com/gabrielcazala-stack)
 Bobby Green
 - [darovio95-cmyk](https://github.com/darovio95-cmyk)
+- [aketada0729](https://github.com/aketada0729)
