@@ -3903,6 +3903,7 @@ andrewcodess
 - [aliaudi12345-dot](https://github.com/aliaudi12345-dot)
 - [yun](https://github.com/sener7106)
 - [gviedma1964](https://github.com/gviedma1964)
+- [Sofia Sabarini] (https://github.com/SofiaSbr)
 - [incncart-cell](https://github.com/incncart-cell)
 - [Sudipto Biswas](https://github.com/dipto0079)
 - [wahaj khan](https://github.com/wahaj-kh)
