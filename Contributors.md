@@ -4,6 +4,7 @@
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
 - [Muhammad Ibtisam Adnan](https://github.com/ibtisam345)
 - Sujeet Gupta
+- Millebisous
 - Matthew Kirk
 - [Ashin Aji](https://github.com/ashinaji002)
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
