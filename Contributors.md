@@ -24,6 +24,7 @@
 - [YUSUKE-de](https://github.com/YUSUKE-de)
 - Mohamed Aradaib
 - 姜志福
+- Qsir-Q (https://github.com/Qsir-Q)
 - Sabik Kundu (https://github.com/Sabik-kundu)
 - Ionut Sabie
 - Kezia 
