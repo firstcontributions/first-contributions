@@ -4,6 +4,7 @@
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
 - [Muhammad Ibtisam Adnan](https://github.com/ibtisam345)
 - Sujeet Gupta
+- Millebisous
 - Matthew Kirk
 - [Ashin Aji](https://github.com/ashinaji002)
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
@@ -4873,3 +4874,4 @@ Harsh Mehta
 - [Nico Paguntalan](https://github.com/nicocastropaguntalan)
 - [Aaqibhafeez khan](https://github.com/aaqib-hafeez-khan-in)
 
+- [Gabriel Cazalá](https://github.com/gabrielcazala-stack)
