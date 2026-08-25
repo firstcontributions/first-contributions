@@ -1,5 +1,5 @@
 # Contributors
--[Md Mufti habib](https://github.com/muftihabib)
+- [Md Mufti habib](https://github.com/muftihabib)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 -[Sourav Kumar](https://github.com/souravkumar-dev)
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
