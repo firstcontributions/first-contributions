@@ -27,6 +27,7 @@
 - Rahul Kumar Raj(NIT'S)
 - Brandon Latimer
 - Rohitha S G
+- Supilath
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
 - hadi-rashidi
 - [Chaitanya Bhopi](https://github.com/ChaitanyaBhopi)
@@ -4876,3 +4877,4 @@ Harsh Mehta
 
 - [Gabriel Cazalá](https://github.com/gabrielcazala-stack)
 Bobby Green
+- [darovio95-cmyk](https://github.com/darovio95-cmyk)
