@@ -116,7 +116,7 @@
 - [Manuel Míguez](https://github.com/manumiguez2603)
 - [Krishna Kant Garhe | Immanueal](https://github.com/Immanueal1)
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
-- Vaidehi Jella(https://github.com/VaidehiJella)
+- [Vaidehi Jella](https://github.com/VaidehiJella)
 - [afjskldj](https://github.com/)
 - [Ume333](https://github.com/Ume333)
 - [Lavneet Hora](https://github.com/lavneethora)
