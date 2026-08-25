@@ -585,6 +585,7 @@ Ridwan Umar- [Nico]
 - [JC Abucay](https://github.com/abukix) 
 - [Mahi](https://github.com/mahi-prakash)
 - [Isha](https://github.com/ishacm)
+- [Abhilakshya Gusain](https://github.com/The-Shade)
 - [Dhyan Patel](https://github.com/dhyanspatel49)
 - [Ryan Williams](https://github.com/ryanwilliamske)
 -[Saikrishna Penta](https://github.com/Sai13122005)
