@@ -434,6 +434,7 @@ Suraj Kumar i am not gonna provide any link
 - [Harshith Raj Varanasi](BT2024177)
 - [fichil](https://github.com/fichil)
 - [barrynp] (https://github.com/barrynp)
+- [surajit giri] (https://github.com/surajitgiri)
 - [Jay Adesara](https://github.com/JayAdesara-07)
 - [Khuram Shahzad](https://github.com/khuram354)
 - [Yankyai Kanwai]
