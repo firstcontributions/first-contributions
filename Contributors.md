@@ -8,6 +8,7 @@
 - [Muhammad Ibtisam Adnan](https://github.com/ibtisam345)
 - [Asra Fatma](https://github.com/asrafatma)
 - [Xtroon - Ome Tiwari](https://github.com/xtroon)
+* [Meenakshi M](https://github.com/meenakshim7)
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Sujeet Gupta
 - Millebisous
