@@ -11,6 +11,7 @@
 - Matthew Kirk
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
 - [Ashin Aji](https://github.com/ashinaji002)
+- [Srijan Sarkar](https://github.com/Srijansarkar17)
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
