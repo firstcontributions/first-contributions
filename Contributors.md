@@ -34,6 +34,7 @@
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [ashxris](https://github.com/ashxris)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
+- [Rishav](https://github.com/rishav-netizen)
 - [<GitHub hamano>](https://github.com/<GitHub toshikazu-hamano>)
 - [Oliver](https://github.com/GustavoOMendonca)
 - Sandeep Kumar
