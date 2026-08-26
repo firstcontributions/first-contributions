@@ -10,6 +10,7 @@
 - [Xtroon - Ome Tiwari](https://github.com/xtroon)
 * [Meenakshi M](https://github.com/meenakshim7)
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
+- Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
 - Millebisous
 - Matthew Kirk
