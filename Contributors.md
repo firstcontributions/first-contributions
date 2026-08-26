@@ -266,6 +266,7 @@ Shaurya522 from The Dooon School
 - [FaNeLeBe](https://github.com/FacuLedesmaBertalot)
 - Gourav Nayak BT2024213 (https://github.com/GouravN97)
 - Jeff Gray
+-38411-blip
 - Leonardo Fernandes
 - Stella Sinlao
 - [Kevin Khachariya](https://github.com/KevinKhachariya)
@@ -2997,6 +2998,7 @@ andrewcodess
 - [Skroxos](https://github.com/Skroxos)
 - [Slimzeo Cloud](https://github.com/Slimzeo)
 - [Smesi36](https://github.com/smesi36)
+- [Serhan Mert Ozel](https://github.com/serhanmertozel)
 - [Snehabharathi-06](https://github.com/Snehabharathi-06)
 - [Snehakandala0101](https://github.com/Snehakandala0101)
 - [SOKOUDJOU-LEOPOLD](https://github.com/SOKOUDJOU-LEOPOLD)
