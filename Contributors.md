@@ -500,6 +500,7 @@ Ridwan Umar- [Nico]
 - [Jyatin Singh](https://github.com/Jyatin)
 - [rickylinn](https://github.com/rickylinn)
 - [Abhinav Gupta](https://github.com/Abhinav201310)
+- [Praveen PR](https://github.com/ElementZ76)
 - [Abhinav Bhatpude](https://github.com/abhinav05-bhatpude)
 - [Rishabh Jaiswal] (https://github.com/rishabhjaiswal)
 - [Suhani] (https://github.com/suhanemathur)
