@@ -55,6 +55,7 @@
 - Khushi Kumari
 - Supilath
 - Sam C
+- [Nicholas T. Limberti](https://github.com/nlimberti)
 - [brownsugaryuki-byte](https://github.com/brownsugaryuki-byte)
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
 - [Vape](https://github.com/vapr-dev)
