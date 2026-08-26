@@ -4961,4 +4961,5 @@ Bobby Green
 - atharvaaa
 - [Suntee87](https://github.com/Suntee87)
 - [Nagaraj Nadig](https://github.com/nagacle-boop)
+- [Nakul Gupta](https://github.com/guppy404)
 - [Keshav Kansara](https://github.com/manches3003)
