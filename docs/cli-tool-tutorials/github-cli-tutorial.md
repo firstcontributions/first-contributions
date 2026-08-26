@@ -55,10 +55,10 @@ Add those changes to the branch you just created using the `git add` command:
 `git add Contributors.md`
 
 Now commit those changes using the `git commit` command:
-`git commit -m "Add your-name to Contributors list`
+`git commit -m "Add your-name to Contributors list"`
 replacing `your-name` with your name.
 
-# Push changes to github
+# Push changes to GitHub
 
 Push your changes using the command `git push`:
 
@@ -74,7 +74,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
 </details>

@@ -68,7 +68,7 @@ git push origin -u your-branch-name
 - ### Помилка автентифікації
     <pre>remote: Підтримка автентифікації за допомогою пароля була припинена 13 серпня 2021 року. Замість цього використовуйте особистий токен доступу.
     remote: Будь ласка, перегляньте https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ для отримання більш докладної інформації.
-    fatal: Автентифікація завершилася помилкою для 'https://github.com/<your-username>/first-contributions.git/'</pre>
+    fatal: Автентифікація завершилася помилкою для 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
     Перейдіть до [посібника GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) щодо створення та налаштування SSH-ключа для вашого облікового запису.
 
 </details>
