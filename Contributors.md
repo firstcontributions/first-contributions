@@ -1,5 +1,4 @@
 # Contributors
-# ROHIT
 - [Rohit More](https://github.com/rohitmore2020)
 - [BetoDev89](https://github.com/BetoDev89)
 -[Md Mufti habib](https://github.com/muftihabib)
