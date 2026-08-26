@@ -54,6 +54,7 @@
 - Supilath
 - Sam C
 - [brownsugaryuki-byte](https://github.com/brownsugaryuki-byte)
+- [Enky](https://github.com/Enky-yy)
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
 - [Vape](https://github.com/vapr-dev)
 - hadi-rashidi
