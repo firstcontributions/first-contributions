@@ -1,6 +1,9 @@
 # Contributors
+- [Shree Kudande](https://github.com/ShreeKudande)
 - [Rohit More](https://github.com/rohitmore2020)
+- [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [BetoDev89](https://github.com/BetoDev89)
+- [cmshanss](https://github.com/cmshanss)
 -[Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
 - [Wai Yan Min](https://github.com/weiyanmin/)
@@ -20,6 +23,7 @@
 - Sumit Maji (https://github.com/Sumit-Maji07)
 - [Sagnik Saha](https://github.com/Sagnik143)
 - Julia Nogueira
+- [Utkarsh Arya](https://github.com/Utkarsh3725)
 - [Rafael Pioto](https://github.com/piotogomes)
 - [Atharva Gaur](https://github.com/Atharvagaur)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
@@ -36,6 +40,7 @@
 - [Aime Lihono](https://github.com/AimeLih)
 - [Om Parab](https://github.com/omparab0510)
 - [rokuroo171](https://github.com/rokuroo171)
+- [Zhiang](https://github.com/Zmyssb-index)
 - [YUSUKE-de](https://github.com/YUSUKE-de)
 - Mohamed Aradaib
 - [John Lyu](https://github.com/Darth-S1d1ous)
@@ -53,6 +58,7 @@
 - Khushi Kumari
 - Supilath
 - Sam C
+- [Nicholas T. Limberti](https://github.com/nlimberti)
 - [brownsugaryuki-byte](https://github.com/brownsugaryuki-byte)
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
 - [Vape](https://github.com/vapr-dev)
