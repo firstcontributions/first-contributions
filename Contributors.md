@@ -3,8 +3,7 @@
 -[Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
 - [Wai Yan Min](https://github.com/weiyanmin/)
-- [Nagaraj Nadig](https://github.com/nagacle-boop)
--[Sourav Kumar](https://github.com/souravkumar-dev)
+- [Sourav Kumar](https://github.com/souravkumar-dev)
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
 - [Muhammad Ibtisam Adnan](https://github.com/ibtisam345)
@@ -4958,3 +4957,4 @@ Bobby Green
 - [Yajneshx94](https://github.com/yajneshx94)
 - atharvaaa
 - [Suntee87](https://github.com/Suntee87)
+- [Nagaraj Nadig](https://github.com/nagacle-boop)
