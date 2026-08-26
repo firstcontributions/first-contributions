@@ -23,6 +23,7 @@
 - Sumit Maji (https://github.com/Sumit-Maji07)
 - [Sagnik Saha](https://github.com/Sagnik143)
 - Julia Nogueira
+- [Utkarsh Arya](https://github.com/Utkarsh3725)
 - [Rafael Pioto](https://github.com/piotogomes)
 - [Atharva Gaur](https://github.com/Atharvagaur)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
