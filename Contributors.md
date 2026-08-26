@@ -34,6 +34,7 @@
 - [rokuroo171](https://github.com/rokuroo171)
 - [YUSUKE-de](https://github.com/YUSUKE-de)
 - Mohamed Aradaib
+- [John Lyu](https://github.com/Darth-S1d1ous)
 - 姜志福
 - Qsir-Q (https://github.com/Qsir-Q)
 - Sabik Kundu (https://github.com/Sabik-kundu)
