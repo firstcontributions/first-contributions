@@ -17,6 +17,7 @@
 - Sahil S
 - Millebisous
 - Matthew Kirk
+- Sumit Maji (https://github.com/Sumit-Maji07)
 - [Sagnik Saha](https://github.com/Sagnik143)
 - Julia Nogueira
 - [Rafael Pioto](https://github.com/piotogomes)
