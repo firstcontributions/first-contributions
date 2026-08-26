@@ -4947,3 +4947,4 @@ Bobby Green
 - [vedasm](https://github.com/vedasm)
 - [Trịnh Bảo Long](https://github.com/Gonztbl)
 - [twobasis2-commits](https://github.com/twobasis2-commits)
+- [Harsh Kumar](https://github.com/Harsh-0524)
