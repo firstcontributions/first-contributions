@@ -74,3 +74,12 @@ This document provides information about how to use git reflog command.
 
 ## [Git Worktree](git-worktree.md)
 This document provides information about how to use git worktree command.
+
+## [Git Submodules](git-submodules.md)
+This document provides information about how to use git submodules command.
+
+## [Git Sparse-checkout](git-sparse-checkout.md)
+This document provides information about how to use git sparse-checkout command.
+
+## [Git Partial Clone](git-partial-clone.md)
+This document provides information about how to use git partial clone command.
