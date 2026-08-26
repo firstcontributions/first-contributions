@@ -12,6 +12,7 @@
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
+- Sahil S
 - Millebisous
 - Matthew Kirk
 - [Sagnik Saha](https://github.com/Sagnik143)
