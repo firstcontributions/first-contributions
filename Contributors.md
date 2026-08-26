@@ -3,6 +3,7 @@
 -[Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
 - [Wai Yan Min](https://github.com/weiyanmin/)
+
 -[Sourav Kumar](https://github.com/souravkumar-dev)
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
@@ -622,6 +623,7 @@ Ridwan Umar- [Nico]
 - [Hamayl Zahid](https://github.com/hamaylzahid)
 -[Abel Jacob](github.com/Abel-Jacob)
 - [Sitesh Gupta](https://github.com/Siteshcodes)
+- Vachana
 - [Steven Kang](https://github.com/stevenhanwen)
 - [Daniel Shapiro](https://github.com/DanielS-CodeDev)
 - [Amar Kumar Thakur](https://github.com/supercell02)
