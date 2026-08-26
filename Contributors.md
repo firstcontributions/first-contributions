@@ -4916,6 +4916,7 @@ Harsh Mehta
 - [99opdevs](https://github.com/99opdevs)
 - [Rufino Morales](https://github.com/Rufinomorales1914)
 - [Chinmay Shinde](https://github.com/CSV0ID)
+- [Thogn Huynh] (https://github.com/fatal113)
 - [Suyash Sharma](https://github.com/SuyashSharma365)
 - [Melanie Mayr-Kress](https://github.com/MelanieKress)
 - [Gökçen Çiftci](https://github.com/gokcenciftci) - [Website](http://gokcenciftci.me)
