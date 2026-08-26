@@ -4370,6 +4370,7 @@ hey yo!
 Nici30067
 - [Priyanka Saxena](https://github.com/Priyanka-cmd23)
 - [natanaelcalebe](https://github.com/oncompanny-web)
+- [Saurabh Joshi](https://github.com/saurabh-itg)
 - [fadymas](https://github.com/fadymas)
 - [Wagner](https://github.com/wfsantos19772-lgtm)
 - [Selva](https://github.com/selva1192023-droid)
@@ -4948,3 +4949,4 @@ Bobby Green
 - [Trịnh Bảo Long](https://github.com/Gonztbl)
 - [twobasis2-commits](https://github.com/twobasis2-commits)
 - [021ash](https://github.com/021ash)
+- [Harsh Kumar](https://github.com/Harsh-0524)
