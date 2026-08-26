@@ -68,6 +68,7 @@
 - [subber] (https://github.com/randomwebxcp-spec)
 - [Natasha Gicheha](https://github.com/NatashaGicheha-1)
 - [Ramazan Vanlioglu (https://github.com/ramazanVanlioglu)]
+- [yanxiaozhi](https://github.com/666-yanzhi)
 - [Assembly Dev](https://github.com/Zoetje3443)
 - Shivam Poswal(https://github.com/sfizz20)
 -[K M Hamsini] (https://github.com/hamsinidas456-source/first-contributions.git)
