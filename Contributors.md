@@ -4992,6 +4992,3 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Keryle Fondji](https://github.com/kerylefondji)
 - [Roy Arrunategui](https://github.com/roy33988)
 - [Esteban Flores](https://github.com/ebansito456-glitch)
-- - [Esteban Flores](https://github.com/ebansito456-glitch)
-
-- [Esteban Flores](https://github.com/ebansito456-glitch)
