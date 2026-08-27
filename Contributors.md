@@ -5041,3 +5041,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Kusumitha Korrapati](https://github.com/kusumitha-korrapati)
 - [Drew Ramos](https://github.com/drewsElearning)
 - mnmangan
+- [Oscar Delossantos](https://github.com/Teknoman7)
