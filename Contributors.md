@@ -13,6 +13,7 @@
 - [cmshanss](https://github.com/cmshanss)
 - [Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
+- [Keisha Rai] (https://github.com/keisha-droid)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 - [Miler](https://github.com/ohmiler)
 - [Sourav Kumar](https://github.com/souravkumar-dev)
