@@ -83,3 +83,4 @@ This document provides information about how to use git sparse-checkout command.
 
 ## [Git Partial Clone](git-partial-clone.md)
 This document provides information about how to use git partial clone command.
+

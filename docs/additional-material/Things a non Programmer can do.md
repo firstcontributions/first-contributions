@@ -13,7 +13,7 @@ For example, the PostgreSQL project has no fewer than 12 user-oriented lists and
 I suggest you follow the main user-oriented list and the core developer list in which to start listening.
 
 2. **Follow a blog**: Blogs maintained by core developers often give information about what's coming up in future releases,
-and what it's taken to get there. A planet site aggregates news and blog entries from many sources related to the project.
+and what it's taken to get  -c there. A planet site aggregates news and blog entries from many sources related to the project.
 If there is a planet site, like planet.gnome.org or planet.mysql.com, start there. Just search Google for "planet <projectname>."
 
 3. **Join an IRC channel**: Many open source projects have dedicated Internet relay chat (IRC) channels where developers and users hang out to discuss problems and development.
