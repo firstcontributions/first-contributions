@@ -14,7 +14,6 @@
 - [BetoDev89](https://github.com/BetoDev89)
 - [cmshanss](https://github.com/cmshanss)
 - [Md Mufti habib](https://github.com/muftihabib)
-- [Santiago Vasco Lasso](https://github.com/Vazkoo)
 - [Daniel Capelo](https://github.com/dankpelo)
 - [Keisha Rai] (https://github.com/keisha-droid)
 - [Wai Yan Min](https://github.com/weiyanmin/)
