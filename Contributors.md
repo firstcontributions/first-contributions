@@ -78,6 +78,7 @@
 - [lwcoded](https://github.com/lwcoded)
 - Rohitha S G
 - [Alejandro Botero](https://github.com/BoteroAlejandro11)
+- [Santiago Sanchez] (https://github.com/SsanchezGiraldo)
 - Khushi Kumari
 - Supilath
 - Sam C
