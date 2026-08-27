@@ -29,6 +29,7 @@
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
+- Laurent-G1tHub
 - Joel Mastrian
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
@@ -202,7 +203,6 @@
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
 - [RFangelo]
-- [Sophia]
 - Dhruv Shetty
 -[nikhil](https://github.com/nikhilkyumar)
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
@@ -5040,3 +5040,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Suma Surpur](https://github.com/SumaS23)
 - [Kusumitha Korrapati](https://github.com/kusumitha-korrapati)
 - [Drew Ramos](https://github.com/drewsElearning)
+- mnmangan
