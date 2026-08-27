@@ -401,6 +401,7 @@ Suraj Kumar i am not gonna provide any link
 - Rafael Morales Sánchez
 - Dhanush BT2024169
 - Savani Vedant Vijay BT2024191
+- Angad Bajwa
 - Gagan Syam Reddy BT2024032
 - Sankalp Gadamsetty BT2024182
 - M Sai Ranga Reddy BT2024185
