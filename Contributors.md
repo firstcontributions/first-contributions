@@ -1,10 +1,11 @@
 ﻿# Contributors
+- [Wick](https://github.com/vick42uho)
 - [Shree Kudande](https://github.com/ShreeKudande)
 - [Rohit More](https://github.com/rohitmore2020)
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [BetoDev89](https://github.com/BetoDev89)
 - [cmshanss](https://github.com/cmshanss)
--[Md Mufti habib](https://github.com/muftihabib)
+- [Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 - [Miler](https://github.com/ohmiler)
