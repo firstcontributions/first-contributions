@@ -1,5 +1,5 @@
 ^o6o# Contributors
-- [lupi Andres Mendoza] vamoo (https://github.com/LUPASOS)
+- [lupi Andres Mendoza](https://github.com/LUPASOS)
 - [ralf-meca](https://github.com/ralf-meca)
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
