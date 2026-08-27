@@ -5030,7 +5030,8 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Elvin](https://github.com/ElvinGts)
 - [Ismail](https://github.com/Ismaeel029)
 - [Anuj Mhatre](https://github.com/a18-n03)
-- [Priyangshu Mandal](https://github.com/Priyangshu-Mandal)- [Anu Mhatre](https://github.com/anu-mhatre-1812)
+- [Priyangshu Mandal](https://github.com/Priyangshu-Mandal)-
+- [Anu Mhatre](https://github.com/anu-mhatre-1812)
 - [lhixboi](https://github.com/lhixboi)
 - [Berkay Şahin](https://github.com/berkaysahin-dev) - Tech & Product Developer
 - [Juan Guevara Bustamante](https://github.com/Juan-GuevaraBusta)
