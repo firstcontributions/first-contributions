@@ -4501,6 +4501,7 @@ Nici30067
 - [Supti Das Medha](https://github.com/Supti-Das-Medha)
 - [Michael_Tucker](https://github.com/micheal-tucker)
 - [Gaurav Giri Goswami](https://github.com/gaurav-goswamii)
+- [Julien Roussel](https://github.com/JRG22)
 - [Ayushman Bhardwaj](https://github.com/Ayushman-00)
 - [jinseo-ai](https://github.com/jinseo-ai)
 | Satya Bhargav Teki | [@satyabhargavteki25-sudo](https://github.com/satyabhargavteki25-sudo) | My first ECE contribution! |
