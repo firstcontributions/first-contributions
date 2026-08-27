@@ -1,19 +1,27 @@
-name: Auto-merge PRs
+name: Auto-merge PR
+
 on:
   pull_request_target:
     types: [opened, synchronize]
     paths:
       - 'Contributors.md' # <- only run if only contributors file changed
-    
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-      issues: write
-      
     steps:
+      # Check out the repository code
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 2
+
       - name: Check if PR only modifies Contributors.md and number of changes
         id: is_only_contributors_file_changed
         uses: actions/github-script@v8
@@ -24,21 +32,15 @@ jobs:
               repo: context.repo.repo,
               pull_number: context.issue.number
             });
-
             const filenames = files.map(f => f.filename);
             const isOnlyContributors = filenames.length === 1 && filenames[0] === 'Contributors.md';
-
             const { additions, deletions } = context.payload.pull_request;
             const isLinesChangedUnderThreshod = (additions < 5 && deletions < 4);
-
             core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshod);
             core.setOutput('filenames', filenames.join(', '));
-
             const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshod)
-
             // set true if multiple changed if only isOnlyContributors 
             core.setOutput('isMultipleLineChanged', moreLineChanged)
-
             // is multiple file changed
             core.setOutput('isMultipleFilesChanged', !isOnlyContributors)
             
@@ -57,19 +59,16 @@ jobs:
             const { owner, repo } = context.repo;
             const pr = context.payload.pull_request;
             const username = pr.user.login;
-
             try {
-            // Attempt to merge the pull request using the squash method
-             const response = await github.rest.pulls.merge({
+            // Attempt to merge the pull request using the squash method 
+            const response = await github.rest.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: pr.number,
-               merge_method: "squash"
-             })
-
-            // Check if the merge was successful by checking the status code of the response
-             if (response.status === 200) {
-
+              pull_number: pr.number, 
+              merge_method: "squash"
+            })
+            // Check if the merge was successful by checking the status code of the response 
+            if (response.status === 200) {
                 const celebrationGifs = [
                   'https://c.tenor.com/ZCq4SwgCfxAAAAAC/snoopy-peanuts.gif',
                   'https://c.tenor.com/Z0ojZS2kpO0AAAAC/milk-and-mocha-happy.gif',
@@ -84,9 +83,7 @@ jobs:
                   'https://media1.giphy.com/media/LZElUsjl1Bu6c/giphy.gif',
                   'https://media1.giphy.com/media/gHnwTttExPf4nwOWm7/giphy.gif',
                 ]
-
                 const getRandomGif = () => celebrationGifs[Math.floor(Math.random() * celebrationGifs.length)]
-
                 // social media links
                 const web_url = 'https://firstcontributions.github.io';
                 const codeContributionsLink = 'https://github.com/roshanjossey/code-contributions'
@@ -105,8 +102,6 @@ jobs:
                 const dev_logo = "https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg";
                 const hackernews_logo = "https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg";
                 const bluesky_logo = "https://edent.github.io/SuperTinyIcons/images/svg/bluesky.svg";
-
-
                 const getMergeMessage = (username) => {
                   const greeting = `Hello @${username}, congratulations! You've successfully submitted a pull request. 🎉`;
                   const starRepoMessage = `If you liked the tutorial, please star this repo by clicking the star button on the top right of this page. <img alt="star screenshot" title="star button" src="https://firstcontributions.github.io/assets/star.png">`;
@@ -115,13 +110,10 @@ jobs:
                   const feedbackMessage = `We'd love to hear your thoughts about this project. Let us know how we can improve by commenting or opening an issue here.`;
                   
                   const gif = `![celebration gif](${getRandomGif()})`;
-
                   return `${greeting}\n\n${starRepoMessage}\n\n${nextSteps}\n\n${feedbackMessage}\n\n${gif}`;
                 }
-
                 // Generate the merge message using the getMergeMessage function
                 const message = getMergeMessage(context.payload.pull_request.user.login);
-
                 // post a comment
                 await github.rest.issues.createComment({
                   owner: context.repo.owner,
@@ -129,47 +121,35 @@ jobs:
                   issue_number: context.issue.number,
                   body: message
                 })
-
-             } else {
-              
+             } else {                            
               // Post a comment on the pull request using the createComment method
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: pr.number,
-                body: "Something went wrong while attempting to merge this pull request. Please check the GitHub Actions log for more information."
+                body: "Something went wrong while attempting to merge this pull request. Please check the GitHub Actions log for more information." 
                })
-            }
-             } catch (error) {
-
+            } 
+            } catch (error) {
               let errMsg = "";
               console.error("Error merging pull request:", error.message);
-
               // Handle specific error cases based on status code
               if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
-
-              //  errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
-              //  Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
-              
-              errMsg =  `### 🛠️ Merge Conflict\nHi @${username}, another contributor edited the file at the same time! Follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) to resolve the conflict.`
-
+                errMsg =  `### 🛠️ Merge Conflict\nHi @${username}, another contributor edited the file at the same time! Follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) to resolve the conflict.`
               } else if (error.status === 409) {
                 console.error("The pull request has conflicts with the target branch. Resolve the conflicts before merging.");
                 errMsg = "The pull request has conflicts with the target branch. Resolve the conflicts before merging.";
-
               } else {
                 console.error("Something went wrong while merging the pull request.");
                 errMsg = "Something went wrong while merging the pull request.";
               }
-
               // Post a comment on the pull request using the createComment method
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: pr.number,
-                body: errMsg
+                body: errMsg 
                })
-
               // Set GitHub Action as failed
               core.setFailed(error.message);
             }
@@ -191,63 +171,46 @@ jobs:
             const { owner, repo } = context.repo;
             const pr = context.payload.pull_request;
             const username = pr.user.login;
-
             let body;
             let labels = [];
             let isReviewRequired = false;
-
-
             if(isMultipleFilesChanged){
               // Get files from env (safe from injection)
               const filesString = process.env.RAW_FILES || "";
-
               // Format file list
               const fileList = filesString
                 .split(', ')
                 .filter(f => f.trim() !== "")
                 .map(file => `- ${file}`)
                 .join('\n');
-
               body = `### 🌟 Hello @${username}! \n\nThank you for this contribution. Since this PR modifies files beyond the tutorial (\`Contributors.md\`), I've flagged this for a **manual review** by our maintainers. \n\nThe following files were changed:\n\n${fileList} \n\nWe appreciate you helping improve the project!`;
               labels = ['👩‍💻 waiting for review'];
-            
             } else if (!isMultipleFilesChanged && isMultipleLinesChanged){
-              
               const totalChanges = pr.additions + pr.deletions;
               let diffBlock = "";
-              
               if (totalChanges > 0 && totalChanges <= 5) {
-                const { data: files } = await github.rest.pulls.listFiles({
-                   owner: context.repo.owner, repo: context.repo.repo, pull_number: pr.number
+                const { data: files } = await github.rest.pulls.listFiles({ 
+                   owner: context.repo.owner, repo: context.repo.repo, pull_number: pr.number 
                  });
-                
                 const patch = files[0]?.patch ? `\`\`\`diff\n${files[0].patch}\n\`\`\`` : "_No preview available_";
-
                 diffBlock = `\n\n**Preview of changes:**\n${patch}`;
-
-              } else{
+              } else {
                 diffBlock = `\n\nNo preview available.`;
               }
-                body = `### 👋 Hi @${username}! \n\nGreat job reaching the final step! However, it looks like there are **${totalChanges} lines of changes**.\n\n${diffBlock} \n\nThe tutorial works best when you add exactly **one line**. Please [follow tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) carefully. \n\nWe're excited to have you in the community!`
-                isReviewRequired = true;
+              body = `### 👋 Hi @${username}! \n\nGreat job reaching the final step! However, it looks like there are **${totalChanges} lines of changes**.\n\n${diffBlock} \n\nThe tutorial works best when you add exactly **one line**. Please [follow tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) carefully. \n\nWe're excited to have you in the community!`
+              isReviewRequired = true;
             }
-
-
             // get the existing comments.
             const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.payload.number,
             })
-
-            // find any comment already made by the bot.                                                                                                    
-            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')                                                                       
-
+            // find any comment already made by the bot.
+            const botComment = comments.find(comment => comment.user.login === 'github-actions[bot]')
             if (body) {
-
               // Add Labels
               if (labels.length > 0) await github.rest.issues.addLabels({ owner, repo, issue_number: pr.number, labels });
-
               if (isReviewRequired) {
                 await github.rest.pulls.createReview({ owner, repo, pull_number: pr.number, body, event: 'REQUEST_CHANGES' });
               } else if (botComment) {
@@ -256,5 +219,4 @@ jobs:
                 await github.rest.issues.createComment({ owner, repo, issue_number: pr.number, body });
               }
             }
-            
           github-token: ${{ secrets.GITHUB_TOKEN }}
