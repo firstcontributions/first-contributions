@@ -45,6 +45,7 @@
 - [Rafael Pioto](https://github.com/piotogomes)
 - [Atharva Gaur](https://github.com/Atharvagaur)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
+- [Juan Alejandro Cardona](https://github.com/JACardonaMorales)
 - [Ashin Aji](https://github.com/ashinaji002)
 - [nightwolf2908](https://github.com/nightwolf2908)
 - [Shengde Bai](https://github.com/bsdnn)
