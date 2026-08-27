@@ -5038,3 +5038,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Laís Victória](https://github.com/laisvfm)
 - [Maria Antonia Gil](https://github.com/mariagil2712)
 - mnmangan
+- [Oscar Delossantos](https://github.com/Teknoman7)
