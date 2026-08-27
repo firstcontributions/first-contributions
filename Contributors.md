@@ -2085,6 +2085,7 @@ Amna Naeem
 - [Deepanshu Singh](https://github.com/deep-xu)
 - [Deepika](https://github.com/deepikagithub-07)
 - [Deepsikha Dash](https://github.com/deepsikha-dash)
+- [Joyel Dsouza](https://github.com/Joyel15)
 - [Demuliere Lucas](https://github.com/6zaille)
 - [Dev Goyal](https://github.com/DevGoyal9238)
 - [Dev Srijit](https://github.com/Devs7026)
