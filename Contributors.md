@@ -43,6 +43,7 @@
 - Julia Nogueira
 - [Utkarsh Arya](https://github.com/Utkarsh3725)
 - [Rafael Pioto](https://github.com/piotogomes)
+- [Santiago Vasco](https://github.com/Vazkoo)
 - [Atharva Gaur](https://github.com/Atharvagaur)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
 - [Ashin Aji](https://github.com/ashinaji002)
