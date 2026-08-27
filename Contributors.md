@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [ralf-meca](https://github.com/ralf-meca)
 - [Anuj Giri](https://github.com/anujgiri1279)
 - [Wick](https://github.com/vick42uho)
@@ -5019,4 +5019,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Anuj Mhatre](https://github.com/a18-n03)
 - [Priyangshu Mandal](https://github.com/Priyangshu-Mandal)- [Anu Mhatre](https://github.com/anu-mhatre-1812)
 - [lhixboi](https://github.com/lhixboi)
-- [Berkay Şahin](https://github.com/berkaysahin-dev)
+- [Berkay Şahin](https://github.com/berkaysahin-dev) - Tech & Product Developer
