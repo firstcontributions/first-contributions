@@ -30,6 +30,8 @@
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
 - Joel Mastrian
+- [Manuel Riascos](https://github.com/Manuelr0107)
+- [Ana Guerrero](https://github.com/AnaGuerrerov)
 - R Kaaviya
 - Roberto de Oliveira Brito Filho
 - Sahil S
@@ -78,6 +80,7 @@
 - [lwcoded](https://github.com/lwcoded)
 - Rohitha S G
 - [Alejandro Botero](https://github.com/BoteroAlejandro11)
+- [Santiago Sanchez] (https://github.com/SsanchezGiraldo)
 - Khushi Kumari
 - Supilath
 - Sam C
@@ -5031,4 +5034,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Berkay Şahin](https://github.com/berkaysahin-dev) - Tech & Product Developer
 - [Juan Guevara Bustamante](https://github.com/Juan-GuevaraBusta)
 - [Laís Victória](https://github.com/laisvfm)
-- [Maria Antonia Gil] (https://github.com/mariagil2712)
+- [Maria Antonia Gil](https://github.com/mariagil2712)
