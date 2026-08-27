@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/AutoHotspot/AutoHotspot.csproj" />
+  <Project Path="tests/AutoHotspot.Tests/AutoHotspot.Tests.csproj" />
+</Solution>
