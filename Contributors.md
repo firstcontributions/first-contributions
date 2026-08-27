@@ -4,6 +4,7 @@
 - [Wick](https://github.com/vick42uho)
 - [Jun Yokoyama](https://github.com/BalaneML)
 - [Shree Kudande](https://github.com/ShreeKudande)
+- [Ahmed Hewidi](https://github.com/ahmed4170)
 - [Rohit More](https://github.com/rohitmore2020)
 - [Nao](https://github.com/Test2)
 -[Siwakorn Phimpanit] (https://github.com/Siwakorn Phimpanit)
