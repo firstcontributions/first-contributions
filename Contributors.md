@@ -78,6 +78,7 @@
 - [lwcoded](https://github.com/lwcoded)
 - Rohitha S G
 - [Alejandro Botero](https://github.com/BoteroAlejandro11)
+- [Santiago Sanchez] (https://github.com/SsanchezGiraldo)
 - Khushi Kumari
 - Supilath
 - Sam C
@@ -5032,3 +5033,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Juan Guevara Bustamante](https://github.com/Juan-GuevaraBusta)
 - [Laís Victória](https://github.com/laisvfm)
 - [Kaushal Satam](https://github.com/kaushalsatam)
+- [rishitjindal](https://github.com/rishitjindal)
