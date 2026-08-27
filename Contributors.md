@@ -1,6 +1,7 @@
 # Contributors
 - [ralf-meca](https://github.com/ralf-meca)
 - [Anuj Giri](https://github.com/anujgiri1279)
+- [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
 - [Jun Yokoyama](https://github.com/BalaneML)
 - [Shree Kudande](https://github.com/ShreeKudande)
