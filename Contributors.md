@@ -5043,5 +5043,5 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - mnmangan
 - [Oscar Delossantos](https://github.com/Teknoman7)
 - [Thant Zin Bo](https://github.com/Thant-Zin-Bo)
-[juan miguel cáceres](https://github.com/juanmig7890)
+- [Juan Miguel Cáceres](https://github.com/juanmig7890)
 
