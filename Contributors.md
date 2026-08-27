@@ -1,5 +1,6 @@
 ^o6o# Contributors
 - [ralf-meca](https://github.com/ralf-meca)
+- [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
