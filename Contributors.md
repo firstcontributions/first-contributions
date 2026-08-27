@@ -1,6 +1,7 @@
 ﻿# Contributors
 - [Anuj Giri](https://github.com/anujgiri1279)
 - [Wick](https://github.com/vick42uho)
+- [Jun Yokoyama](https://github.com/BalaneML)
 - [Shree Kudande](https://github.com/ShreeKudande)
 - [Rohit More](https://github.com/rohitmore2020)
 - [Nao](https://github.com/Test2)
