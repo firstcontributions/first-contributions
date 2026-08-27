@@ -5030,3 +5030,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [lhixboi](https://github.com/lhixboi)
 - [Berkay Şahin](https://github.com/berkaysahin-dev) - Tech & Product Developer
 - [Juan Guevara Bustamante](https://github.com/Juan-GuevaraBusta)
+- [Laís Victória](https://github.com/laisvfm)
