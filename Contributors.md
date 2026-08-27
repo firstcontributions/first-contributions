@@ -676,6 +676,7 @@ nathan practice here
 - [Leanne] (https://github.com/LeanneJacob)
 - [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
 - [Saniya Muskan](https://github.com/muskan-io)
+- [Prajin Gn](https://github.com/prajin-gn)
 - [Divyansh Sareen](https://github.com/DivyanshSareen)
 - [Nick Anderson](https://github.com/NickCAnderson)
 - [Nilesh Gupta](https://www.linkedin.com/in/nileshg22/)
