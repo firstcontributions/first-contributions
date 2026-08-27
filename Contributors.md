@@ -29,6 +29,7 @@
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
+- Laurent-G1tHub
 - Joel Mastrian
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
@@ -202,7 +203,6 @@
 - [Deepika](https://github.com/deepika-rattewal
 [Anita Demo 814]
 - [RFangelo]
-- [Sophia]
 - Dhruv Shetty
 -[nikhil](https://github.com/nikhilkyumar)
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
@@ -3997,6 +3997,7 @@ andrewcodess
 -[Ammar-Zeyad] (https://github.com/AmmarZeyad0)
 - [zcztt](https://github.com/zcztt)
 - [Hu Yushun](https://github.com/yukino39)
+- [Dhruv](https://github.com/Dhruv06000)
 - [Xvoid](https://github.com/F2207-VS)- [Berkay Yalçın](https://github.com/berkayyalcin7)
 - [Gayathri M](https://github.com/gayathrimgau2008-gayathri-m)
 -- [Kiranraj S G](https://github.com/kiranrajsg)
@@ -5029,9 +5030,11 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Elvin](https://github.com/ElvinGts)
 - [Ismail](https://github.com/Ismaeel029)
 - [Anuj Mhatre](https://github.com/a18-n03)
-- [Priyangshu Mandal](https://github.com/Priyangshu-Mandal)- [Anu Mhatre](https://github.com/anu-mhatre-1812)
+- [Priyangshu Mandal](https://github.com/Priyangshu-Mandal)-
+- [Anu Mhatre](https://github.com/anu-mhatre-1812)
 - [lhixboi](https://github.com/lhixboi)
 - [Berkay Şahin](https://github.com/berkaysahin-dev) - Tech & Product Developer
 - [Juan Guevara Bustamante](https://github.com/Juan-GuevaraBusta)
 - [Laís Victória](https://github.com/laisvfm)
 - [Maria Antonia Gil](https://github.com/mariagil2712)
+- mnmangan
