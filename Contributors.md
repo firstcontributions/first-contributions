@@ -67,6 +67,7 @@
 - Neeraj Kumar
 - Rahul Kumar Raj(NIT'S)
 - Brandon Latimer
+- [lwcoded](https://github.com/lwcoded)
 - Rohitha S G
 - Khushi Kumari
 - Supilath
