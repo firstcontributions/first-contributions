@@ -5034,5 +5034,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [Berkay Şahin](https://github.com/berkaysahin-dev) - Tech & Product Developer
 - [Juan Guevara Bustamante](https://github.com/Juan-GuevaraBusta)
 - [Laís Victória](https://github.com/laisvfm)
-- [Kaushal Satam](https://github.com/kaushalsatam)
-- [rishitjindal](https://github.com/rishitjindal)
+- [Maria Antonia Gil](https://github.com/mariagil2712)
