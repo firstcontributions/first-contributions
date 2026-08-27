@@ -30,6 +30,7 @@
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
 - Joel Mastrian
+- [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
 - R Kaaviya
 - Roberto de Oliveira Brito Filho
