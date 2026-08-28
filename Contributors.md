@@ -2315,6 +2315,7 @@ andrewcodess
 - [Han](https://github.com/vy088473)
 - [Haneesh Reddy](https://github.com/Haneesh99)
 - [Hannah Bee] (https://github.com/hanbeecodes)
+- [Erick] (https://github.com/Fr0stbiteDev)
 - [Hanuman](https://github.com/CH-Hanuman)
 - [Haoyueck](https://github.com/haoyueck)
 - [Hojoon Moon](https://github.com/Hojoon7)
