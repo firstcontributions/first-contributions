@@ -4,9 +4,7 @@
 
 # Primeras Contribuciones
 
-Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que nuevos contribuidores de _código abierto_ aprenden y contribuyen por primera vez.
-
-Leer artículos y ver tutoriales puede ayudar, pero, ¿Qué mejor manera de practicar que hacer las cosas en un entorno de prácticas? Este proyecto se enfoca en guiar a principiantes durante su primera contribución. Si quieres lograr tu primera contribución, sigue los pasos que se muestran a continuación.
+Este proyecto tiene como objetivo simplificar y guiar la forma en que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
 
 #### *Si no estás familiarizado con la consola o terminal, [aquí hay tutoriales usando herramientas con Interfaz Gráfica (GUI)](#Tutoriales-con-otras-herramientas)*
 
@@ -23,7 +21,7 @@ Esto creará una copia de este repositorio en tu cuenta.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clonar este repositorio" />
 
-Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, haz click en el botón "*clone or download*" y luego haz click en el icono para *copiar al portapapeles*.
+Ahora clona este repositorio en tu equipo. Dirígete a tu cuenta de GitHub, abre el repositorio bifurcado, haz click en el botón "*Code*", luego en la pestaña *SSH* y finalmente haz click en el icono para *copiar la URL al portapapeles*.
 
 Abre tu consola o terminal y ejecuta el siguiente comando de git:
 
@@ -37,7 +35,7 @@ Donde pone "url que acabas de copiar" (sin las comillas dobles) es la *url* a es
 
 Por ejemplo:
 ```bash
-git clone https://github.com/este-eres-tu/first-contributions.git
+git clone git@github.com:este-eres-tu/first-contributions.git
 ```
 La parte de `este-eres-tu` la reemplazarás con tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* de GitHub a tu equipo.
 
@@ -49,19 +47,30 @@ Cambia al directorio del repositorio en tu equipo (si es que no estás ahí ya).
 cd first-contributions
 ```
 
-Ahora crea una rama (*branch*) usando el comando `git checkout` o `git switch`:
+Ahora crea una rama (*branch*) usando el comando `git switch`:
 ```bash
-git checkout -b <añade tu nombre>
-
 git switch -c <añade tu nombre>
 ```
 
 Por ejemplo:
 ```bash
-git checkout -b add-alonzo-church
-
 git switch -c add-alonzo-church
 ```
+
+<details>
+
+<summary> <strong>Si obtienes algún error usando git switch, haz click aquí:</strong> </summary>
+
+Si aparece el mensaje de error "Git: `switch` is not a git command. See `git –help`", probablemente estás usando una versión antigua de git.
+
+En este caso, prueba a usar `git checkout`:
+
+```bash
+git checkout -b <añade tu nombre>
+```
+
+</details>
+
 (El nombre de la rama no tiene por qué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
 ## Haz los cambios necesarios y confirma (*Commit*) esos cambios
@@ -92,6 +101,38 @@ git push -u origin <añade-el-nombre-de-la-rama>
 ```
 Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste anteriormente.
 
+<details>
+
+<summary> <strong>Si obtienes algún error al hacer push, haz click aquí:</strong> </summary>
+
+- ### Error de autenticación
+
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+
+  fatal: Authentication failed for 'https://github.com/&lt;tu-usuario&gt;/first-contributions.git/'</pre>
+
+  Ve al [tutorial de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) para generar y configurar una clave SSH en tu cuenta.
+
+  También puedes ejecutar `git remote -v` para comprobar la dirección de tu repositorio remoto.
+
+  Si se parece a esto:
+
+  <pre>origin https://github.com/tu-usuario/tu_repositorio.git (fetch)
+
+  origin  https://github.com/tu-usuario/tu_repositorio.git (push)</pre>
+
+  cámbiala usando este comando:
+
+  ```bash
+  git remote set-url origin git@github.com:tu-usuario/tu_repositorio.git
+  ```
+
+  De lo contrario, Git seguirá solicitando tu nombre de usuario y contraseña y obtendrás un error de autenticación.
+
+</details>
+
 ## Envía (*Submit*) tus cambios para ser revisados
 
 Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre el botón.
@@ -102,7 +143,7 @@ Ahora envía la *pull request*.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="enviar la pull request"/>
 
-Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
+Pronto estaré fusionando tus cambios (haciendo *merge*) con la rama main de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
 ## ¿Cuáles son los siguientes pasos?
 
