@@ -196,6 +196,7 @@
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 -[Meher](https://github.com/Meher38)
 - [amdeldacc]
+- [Harsh Shah](https://github.com/Enky-yy)
 - [saishree Saxena](https://github.com/saitee5)
 - [Moin Qureshi] (https://github.com/Moin928)
 - [mouayed](https://github.com/mouayed23)
