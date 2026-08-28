@@ -1,4 +1,5 @@
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
+- [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 - [ralf-meca](https://github.com/ralf-meca)
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
@@ -16,6 +17,7 @@
 - [Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
 - [Keisha Rai] (https://github.com/keisha-droid)
+- [Gunadeep Reddy](https://github.com/alpinestarzjn)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 - [Miler](https://github.com/ohmiler)
 - [Dipu Kalwar](https://github.com/dipukalwar)
@@ -5072,5 +5074,10 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [ossuchas](https://github.com/ossuchas)
 Hey guys, just like you people, now I have also made my contribution to this repo.
 - [Yashwanth S Gowda](https://github.com/yashuksgowda26-cloud)
+
 - [Samrutha](https://github.com/samrutha6828-create)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
+- [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
+- [Timo Srinarmwong](https://github.com/tsrinarmwong)
+- [**Ayesha Noor**](https://github.com/noctis-coder)
+
