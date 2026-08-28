@@ -391,6 +391,7 @@ Suraj Kumar i am not gonna provide any link
 - Second Contribution
 - Ankit Johri (https://github.com/neoNEMES1S)
 - [Divyanshu_Ghosh_IMT2024068](https://github.com/77-Div-77)
+- [Guinn](https://github.com/Jonathan0823)
 - Joseph Francis
 - Ankita Gupta
 - HelaElbez
