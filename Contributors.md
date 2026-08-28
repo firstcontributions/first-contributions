@@ -95,6 +95,7 @@
 - [Vape](https://github.com/vapr-dev)
 - hadi-rashidi
 - [Chaitanya Bhopi](https://github.com/ChaitanyaBhopi)
+- [Aviad L] (github.com/trdui777)
 - [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
 - [strange757](https://github.com/strange757)
 - [itssubs](https://github.com/itssubs)
