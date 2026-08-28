@@ -33,6 +33,7 @@
 - Joel Mastrian
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
+- [Leidy Caso](https://github.com/LeidyCaso)
 - R Kaaviya
 - Roberto de Oliveira Brito Filho
 - Sahil S
