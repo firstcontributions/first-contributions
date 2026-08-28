@@ -44,6 +44,7 @@
 - Julia Nogueira
 - [Utkarsh Arya](https://github.com/Utkarsh3725)
 - [Rafael Pioto](https://github.com/piotogomes)
+- [Rakeeb Abdullah](https://github.com/Rakeeb-Abdullah)
 - [Santiago Vasco](https://github.com/Vazkoo)
 - [Atharva Gaur](https://github.com/Atharvagaur)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
