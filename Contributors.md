@@ -4774,6 +4774,7 @@ Raphael Karani
 - [Vraj Saurabhbhai Vashi](https://github.com/VrajVashi) 
 - [Sachin Nain](https://github.com/SachinSNain)
 - [Dev Kumar Taggar BT2024158](https://github.com/DevKT896)
+- [Scar-helloWorld]
 - [Jadav Sai Rugvedh](https://github.com/rugvedhjadav)
 - [Yuri Leo](https://github.com/leoplasture)
 - [Tanuj Shah IMT2024018](https://github.com/Tanujshah18)
