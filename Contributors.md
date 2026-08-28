@@ -178,6 +178,7 @@
 - update my name to  contributors list
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
+- [yigedu]
 - [Elijah](https://github.com/ElijahAvril)
 - [Oscar] (https://github.com/oscarsandgren)
 - [Chuihao Zeng](https://github.com/zch)
