@@ -18,6 +18,7 @@
 - [Keisha Rai] (https://github.com/keisha-droid)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 - [Miler](https://github.com/ohmiler)
+- [Dipu Kalwar](https://github.com/dipukalwar)
 - [Sourav Kumar](https://github.com/souravkumar-dev)
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
@@ -4571,6 +4572,7 @@ jismh1
 - [Dorothy Kwon](https://github.com/kwondorothy-gif)
 - [Claudio Ibe] (https://github.com/0xclaudi0)
 - [Dibyaranjan Sahoo](https://github.com/dibya024)
+- [trixel851](https://github.com/trixel851)
 - [Mark Remon](https://github.com/mark2remon-creator)
 - [Jocky-Jazz](https://github.com/Jocky-Jazz)
 - [Alok Jadhao](https://github.com/Alok-Jadhao)
@@ -5070,4 +5072,5 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - [ossuchas](https://github.com/ossuchas)
 Hey guys, just like you people, now I have also made my contribution to this repo.
 - [Yashwanth S Gowda](https://github.com/yashuksgowda26-cloud)
-- [Samrutha]https://github.com/samrutha6828-create/first-contributions.git
+- [Samrutha](https://github.com/samrutha6828-create)
+- [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
