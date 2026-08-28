@@ -178,6 +178,7 @@
 - [Akhilesh Kumar](https://github.com/akhileshkumarlucky1431)
 - [Aryan Kumar](https://github.com/aryan-hunter/first-contributions.git) 
 - [Rahul Kumar](https://github.com/Rahul-kumar-717384)
+- [Gracious Agho](https://github.com/Gracey-a)
 - update my name to  contributors list
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
