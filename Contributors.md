@@ -1,4 +1,5 @@
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
+- [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 - [ralf-meca](https://github.com/ralf-meca)
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
@@ -16,8 +17,10 @@
 - [Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
 - [Keisha Rai] (https://github.com/keisha-droid)
+- [Gunadeep Reddy](https://github.com/alpinestarzjn)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 - [Miler](https://github.com/ohmiler)
+- [Dipu Kalwar](https://github.com/dipukalwar)
 - [Sourav Kumar](https://github.com/souravkumar-dev)
 - [Ujjwal Sharma](https://github.com/ujjwalsharmaa2007)
 - [Nalagangu Shyam Sundar Reddy](https://github.com/Shyam-Sundar-Reddy)
@@ -72,7 +75,7 @@
 - [John Lyu](https://github.com/Darth-S1d1ous)
 - 姜志福
 - Qsir-Q (https://github.com/Qsir-Q)
-- Devon Myers
+- [Hessa](https://github.com/hessa11599-commits)
 - Sabik Kundu (https://github.com/Sabik-kundu)
 - Ionut Sabie
 - Kezia 
@@ -178,6 +181,7 @@
 - update my name to  contributors list
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
+- [yigedu]
 - [Elijah](https://github.com/ElijahAvril)
 - [Oscar] (https://github.com/oscarsandgren)
 - [Chuihao Zeng](https://github.com/zch)
@@ -1074,6 +1078,7 @@ hiba
 -[WahyuWian]
 - [Sanya Bakshi](https://github.com/sanyabakshi18)
 - [LELE3152](https://github.com/LELE3152)
+- [vic0824](https://github.com/vic0824)
 - [Deeksha Sudheer](https://github.com/Sckultifacter)
 - [beinuela](https://github.com/beinuela)
 -[M D]
@@ -4569,6 +4574,7 @@ jismh1
 - [Dorothy Kwon](https://github.com/kwondorothy-gif)
 - [Claudio Ibe] (https://github.com/0xclaudi0)
 - [Dibyaranjan Sahoo](https://github.com/dibya024)
+- [trixel851](https://github.com/trixel851)
 - [Mark Remon](https://github.com/mark2remon-creator)
 - [Jocky-Jazz](https://github.com/Jocky-Jazz)
 - [Alok Jadhao](https://github.com/Alok-Jadhao)
@@ -5066,3 +5072,7 @@ _[Maliha Ehsan](https://github.com/malihae/)
 - Manjunath S (https://github.com/Manju180324)
 - [Shashwat](https://github.com/harshsingh2275)
 - [ossuchas](https://github.com/ossuchas)
+Hey guys, just like you people, now I have also made my contribution to this repo.
+- [Yashwanth S Gowda](https://github.com/yashuksgowda26-cloud)
+- [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
+- [**Ayesha Noor**](https://github.com/noctis-coder)
