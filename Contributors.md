@@ -35,6 +35,7 @@
 - Sujeet Gupta
 - Laurent-G1tHub
 - Joel Mastrian
+- [Philip](https://github.com/vitorbjcc)
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
 - [Leidy Caso](https://github.com/LeidyCaso)
