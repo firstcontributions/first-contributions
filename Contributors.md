@@ -3533,6 +3533,7 @@ andrewcodess
 - [SHAURYA GUPTA](https://github.com/Shauryagupta4)
 - [inafrdr] (https://github.com/inafrdr)
 - [Phanee](https://github.com/phanee27/)
+- [Rohit Thirumump](https://github.com/rohitthirumump)
 - [Elijah Emmanuel](https://github.com/Elijah-hash7/)
 - [pavithra Gangadharan] ( https://github.com/pavithra97g )
 - [Mallikarjun S Marabasari] (https://github.com/mallikarjunmarabasari-cell/)
