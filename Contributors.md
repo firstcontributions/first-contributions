@@ -75,6 +75,7 @@
 - [Zhiang](https://github.com/Zmyssb-index)
 - [YUSUKE-de](https://github.com/YUSUKE-de)
 - Monika
+Vishal
 - Mohamed Aradaib
 - [John Lyu](https://github.com/Darth-S1d1ous)
 - 姜志福
