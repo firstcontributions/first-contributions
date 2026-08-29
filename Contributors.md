@@ -43,7 +43,6 @@ dedsec
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
 - [Leidy Caso](https://github.com/LeidyCaso)
-- [Miguel Arellano](https://github.com/ItsMikey936)
 - R Kaaviya
 - Roberto de Oliveira Brito Filho
 - Sahil S
@@ -51,6 +50,7 @@ dedsec
 - Matthew Kirk
 - Sumit Maji (https://github.com/Sumit-Maji07)
 - [Sagnik Saha](https://github.com/Sagnik143)
+- [Miguel Arellano](https://github.com/ItsMikey936)
 - Julia Nogueira
 - [Utkarsh Arya](https://github.com/Utkarsh3725)
 - [Rafael Pioto](https://github.com/piotogomes)
