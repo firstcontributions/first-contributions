@@ -161,6 +161,8 @@
 -[ze]
 - [Ninad]
 - [Zaid Hussain] (https://github.com/zaidbscs)
+
+- Bidesh Biswas Biki - [bideshbiswas](https://github.com/bideshbiswas)
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [nick]
 - [Nandini Bansal]
