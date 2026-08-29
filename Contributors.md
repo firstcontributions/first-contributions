@@ -277,6 +277,7 @@ Shaurya522 from The Dooon School
 - Ricardo Sastre (https://github.com/ricsas)
 - Oscar Heslop (https://github.com/OscarHeslop)
 - Lisath Wijekoon (https://github.com/LisWije)
+- Bidesh Biswas Biki
 - [K.Shriram](https://github.com/Shriram93444)
 - [RTE404](https://github.com/RTE404)
 - [Tanmay Dixit](https://github.com/tdixit547)
