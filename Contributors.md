@@ -428,6 +428,7 @@ Suraj Kumar i am not gonna provide any link
 - Kulkarni Keyur BT2024025
 - Vedansh Patel BT2024162
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
+- Nilmar Delgado[titekk](https://github.com/Titekk)
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Tarek-Rahman] (https://github.com/rahman-tarek)
