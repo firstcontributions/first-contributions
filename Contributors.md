@@ -1,12 +1,16 @@
+dedsec
 - [Arda Aras Çavdur](https://github.com/Arda-Aras103)
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
+-[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
 - [ralf-meca](https://github.com/ralf-meca)
+-[emine-cakal](https://github.com/EmineCakal5)
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
 - [Jun Yokoyama](https://github.com/BalaneML)
+- [Juan Ocampo](https://github.com/LEG3NDJVS)
 - [Shree Kudande](https://github.com/ShreeKudande)
 - [Ahmed Hewidi](https://github.com/ahmed4170)
 - [Rohit More](https://github.com/rohitmore2020)
@@ -53,6 +57,7 @@
 - [Santiago Vasco](https://github.com/Vazkoo)
 - [Atharva Gaur](https://github.com/Atharvagaur)
 - [Hiroyuki-Koyama](https://github.com/Hiroyuki-Koyama)
+- [Sudharaka Lakshan](https://github.com/sudharaka2010)
 - [Juan Alejandro Cardona](https://github.com/JACardonaMorales)
 - [Ashin Aji](https://github.com/ashinaji002)
 - [nightwolf2908](https://github.com/nightwolf2908)
@@ -69,11 +74,14 @@
 - [AMULYA KRUPA](https://github.com/amulyakrupa)
 - [Aime Lihono](https://github.com/AimeLih)
 - [Om Parab](https://github.com/omparab0510)
+- [Allan Silva](https://github.com/allangdasilva)
 - [rokuroo171](https://github.com/rokuroo171)
 - [Zhiang](https://github.com/Zmyssb-index)
 - [YUSUKE-de](https://github.com/YUSUKE-de)
 - Monika
+Vishal
 - Mohamed Aradaib
+- [Maher-Dagestani](https://github.com/Maher-Dagestani)
 - [John Lyu](https://github.com/Darth-S1d1ous)
 - 姜志福
 - Qsir-Q (https://github.com/Qsir-Q)
@@ -84,6 +92,7 @@
 - Ekta
 - [balaji_r](https://github.com/balaji-in-git-hub)
 - Sandy Enriquez
+- pradeepa 
 - Neeraj Kumar
 - Rahul Kumar Raj(NIT'S)
 - Brandon Latimer
@@ -125,6 +134,8 @@
 - [Ramcharan_40](https://github.com/Ramcharan-40/first-contributions.git)
 - [Rinku Diwakar](https://github.com/rinkudiwakar)
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
+- Pandiyarajan
+- [Mohd Zubair](https://github.com/Phenomenal46)
 - [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Muhsin Erdem Keles](https://github.com/erdemnub)
@@ -159,6 +170,8 @@
 -[ze]
 - [Ninad]
 - [Zaid Hussain] (https://github.com/zaidbscs)
+
+- Bidesh Biswas Biki - [bideshbiswas](https://github.com/bideshbiswas)
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [nick]
 - [Nandini Bansal]
@@ -196,6 +209,7 @@
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 -[Meher](https://github.com/Meher38)
 - [amdeldacc]
+- [Harsh Shah](https://github.com/Enky-yy)
 - [saishree Saxena](https://github.com/saitee5)
 - [Moin Qureshi] (https://github.com/Moin928)
 - [mouayed](https://github.com/mouayed23)
@@ -233,6 +247,7 @@
 - [Siddhartha](https://github.com/siddhartha3066)
 - [Maicon Vieira](https://github.com/maiconvieira)
 - [isarebolo12](https://github.com/isarebolo12)
+- [Elijah804](https://github.com/Elijah804)
 - [Dhanush](https://github.com/dhanush080607)
 - [Kamal-Assudani](https://github.com/Kamal-Assudani)
 - [Muhammad08-dot](https://github.com/Muhammad08-dot)
@@ -272,6 +287,7 @@ Shaurya522 from The Dooon School
 - Ricardo Sastre (https://github.com/ricsas)
 - Oscar Heslop (https://github.com/OscarHeslop)
 - Lisath Wijekoon (https://github.com/LisWije)
+- Bidesh Biswas Biki
 - [K.Shriram](https://github.com/Shriram93444)
 - [RTE404](https://github.com/RTE404)
 - [Tanmay Dixit](https://github.com/tdixit547)
@@ -426,6 +442,7 @@ Suraj Kumar i am not gonna provide any link
 - Kulkarni Keyur BT2024025
 - Vedansh Patel BT2024162
 - [Ryan Sajan Varughese](https://github.com/RyanSajan)
+- Nilmar Delgado[titekk](https://github.com/Titekk)
 - Daniel Batistella
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Tarek-Rahman] (https://github.com/rahman-tarek)
@@ -441,6 +458,7 @@ Suraj Kumar i am not gonna provide any link
 -  Talluri Kartheek BT2024108 
 -Paulo Ferreira123454645345
 - [Hellen Araújo](https://github.com/hellenilda)
+- Anand Asane (https://github.com/Anandasane)
 - [Smit Mistry](https://github.com/spm18-hash)
 - Rohit Negi
 - Srikar BT2024081
@@ -1102,6 +1120,7 @@ Charon
 -[Tanishq Verma](https://github.com/tanishq-kuec2003)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
+-[rishi] (https://github.com/Rishicreates20)
 -[Asvidal]
 -[Basel Elkhalifa] (https://github.com/beso525)
 -[Abhijeeth](https://github.com/abhijeeth12)
@@ -2314,6 +2333,7 @@ andrewcodess
 - [Han](https://github.com/vy088473)
 - [Haneesh Reddy](https://github.com/Haneesh99)
 - [Hannah Bee] (https://github.com/hanbeecodes)
+- [Erick] (https://github.com/Fr0stbiteDev)
 - [Hanuman](https://github.com/CH-Hanuman)
 - [Haoyueck](https://github.com/haoyueck)
 - [Hojoon Moon](https://github.com/Hojoon7)
@@ -2609,7 +2629,7 @@ andrewcodess
 - [n-noraf](https://github.com/n-noraf)
 - [Nicolas Lefterache](https://github.com/Nick-codes-47)
 - [Nicolas Antonio](https://github.com/nicolasantonioa)
-
+- [Noman Khan](https://github.com/noman598)
 - [Nicoleeee Unilag] (https://github.com/justnicolee)
 - [Nidhi Chougule](https://github.com/nidhichougule)
 - [Nidhi Kumari](https://github.com/nidhii-dev)
@@ -5004,6 +5024,8 @@ Harsh Mehta
 
 - [Shivam Gohil](https://github.com/ShivamGohel25)
 Bobby Green
+- [Suryansh Rawat](https://github.com/rawatsuryansh15-bit)
+- [Suryansh Rawat](https://github.com/rawatsuryansh15-bit)
 - [darovio95-cmyk](https://github.com/darovio95-cmyk)
 - [aketada0729](https://github.com/aketada0729)
 - [Prabh gill](https://github.com/prabhtheone)
@@ -5084,6 +5106,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 
 - [Samrutha](https://github.com/samrutha6828-create)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
+- [Adrian](https://github.com/Adrian3031)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
 - [Timo Srinarmwong](https://github.com/tsrinarmwong)
 - [**Ayesha Noor**](https://github.com/noctis-coder)
