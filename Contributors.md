@@ -4887,6 +4887,7 @@ abhinav abhinav
 - [gabrielesiqueiralima-ui](https://github.com/gabrielesiqueiralima-ui)
 - [jonh-silva] (https://github.com/jonavale1079-star)
 - [Srinath] (https://github.com/Srinath318)
+- [Andrew] (https://github.com/stlzdev)
 - [Kashyaphc](https://github.com/Kashyaphc)
 - [Sapna700]
 - [Harsh Yuvraj](https://github.com/harsh-yuvraj20)
@@ -4993,7 +4994,6 @@ abhinav abhinav
 - [Ismail](https://github.com/Ismaeel029)
 - [Anuj Mhatre](https://github.com/a18-n03)
 - [Priyangshu Mandal](https://github.com/Priyangshu-Mandal)-
-- [Andrew Stel](https://github.com/stlzdev)
 - [Anu Mhatre](https://github.com/anu-mhatre-1812)
 - [lhixboi](https://github.com/lhixboi)
 - [Berkay Şahin](https://github.com/berkaysahin-dev) - Tech & Product Developer
