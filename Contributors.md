@@ -10,6 +10,7 @@ dedsec
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
 - [Jun Yokoyama](https://github.com/BalaneML)
+- [Juan Ocampo](https://github.com/LEG3NDJVS)
 - [Shree Kudande](https://github.com/ShreeKudande)
 - [Ahmed Hewidi](https://github.com/ahmed4170)
 - [Rohit More](https://github.com/rohitmore2020)
