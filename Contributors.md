@@ -79,6 +79,7 @@
 - Monika
 Vishal
 - Mohamed Aradaib
+- [Maher-Dagestani](https://github.com/Maher-Dagestani)
 - [John Lyu](https://github.com/Darth-S1d1ous)
 - 姜志福
 - Qsir-Q (https://github.com/Qsir-Q)
