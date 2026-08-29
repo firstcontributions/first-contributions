@@ -50,6 +50,7 @@ dedsec
 - Matthew Kirk
 - Sumit Maji (https://github.com/Sumit-Maji07)
 - [Sagnik Saha](https://github.com/Sagnik143)
+- [Hassan Raza](https://github.com/HR786-raza)
 - Julia Nogueira
 - [Utkarsh Arya](https://github.com/Utkarsh3725)
 - [Rafael Pioto](https://github.com/piotogomes)
