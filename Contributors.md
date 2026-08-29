@@ -1111,7 +1111,7 @@ Charon
 -[Tanishq Verma](https://github.com/tanishq-kuec2003)
 -[Shailesh](https://github.com/shaileshkumavat0)
 -[Prasanth](https://github.com/github-prashanth)
--[rishi] (https://github.com/github-Rishicreates20)
+-[rishi] (https://github.com/Rishicreates20)
 -[Asvidal]
 -[Basel Elkhalifa] (https://github.com/beso525)
 -[Abhijeeth](https://github.com/abhijeeth12)
