@@ -133,6 +133,7 @@ Vishal
 - [Ramcharan_40](https://github.com/Ramcharan-40/first-contributions.git)
 - [Rinku Diwakar](https://github.com/rinkudiwakar)
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
+- [Mohd Zubair](https://github.com/Phenomenal46)
 - [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Muhsin Erdem Keles](https://github.com/erdemnub)
