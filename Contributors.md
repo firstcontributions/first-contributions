@@ -145,6 +145,7 @@ Vishal
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
 - Pandiyarajan
 - [Mohd Zubair](https://github.com/Phenomenal46)
+- [Pranay Reddy Kondam](https://github.com/pranay8970)
 - [Mandar Vade](https://github.com/MandarVade)
 - [azonnn5-alt](https://github.com/azonnn5-alt)
 - [Muhsin Erdem Keles](https://github.com/erdemnub)
