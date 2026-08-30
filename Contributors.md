@@ -5136,6 +5136,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Anshu Abhipriya] (https://github.com/abhipriya-anshu)
 - [Adam Pękala](https://github.com/adampekala)
 - [xieyanran](https://github.com/xieyanran)
+- [Leonardo Lopes](https://github.com/Leonardo-LC)
 - [Mafalda Castro](https://github.com/mafaldacastro97-cmd)
   [Nils Gösche](https://github.com/Cartan)ss
 - [Joshua Kaitharam Thomas](https://github.com/ZaDukk)
