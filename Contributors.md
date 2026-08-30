@@ -12,6 +12,7 @@ dedsec
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 -[Akanksha(WynterCypher)](https://github.com/WynterCypher)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
+-[Victory Akunna](https://github.com/aviciinvestment)
 -[vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 - [ralf-meca](https://github.com/ralf-meca)
 -[emine-cakal](https://github.com/EmineCakal5)
