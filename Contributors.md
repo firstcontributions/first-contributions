@@ -189,8 +189,8 @@ Vishal
 - [Florin Craciunoiu](https://github.com/fcraciunoiu)
 -[ze]
 - [Ninad]
-- [Zaid Hussain] (https://github.com/zaidbscs)
-
+- [Zaid Hussain](https://github.com/zaidbscs)
+- Franchesca L Perez [F-L-Perez](https://github.com/F-L-Perez)
 - Bidesh Biswas Biki - [bideshbiswas](https://github.com/bideshbiswas)
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [MichaelYu](https://github.com/MichaelYu)
