@@ -4,6 +4,7 @@ dedsec
 - [Arda Aras Çavdur](https://github.com/Arda-Aras103)
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
+-[Akanksha(WynterCypher)](https://github.com/WynterCypher)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
 - [ralf-meca](https://github.com/ralf-meca)
 -[emine-cakal](https://github.com/EmineCakal5)
