@@ -1,4 +1,5 @@
-dedsec
+
+- [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 - [Abhishek Ankem] (https://github.com/Abhishek-benchspace)
 - [vijaykeerthi] (https://github.com/keerthivijay)
 - [Ali Wael Mohamed Ali](https://github.com/Ali-w908)
