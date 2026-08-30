@@ -190,7 +190,7 @@ Vishal
 -[ze]
 - [Ninad]
 - [Zaid Hussain](https://github.com/zaidbscs)
-- [F-L-Perez](https://github.com/F-L-Perez)
+- Franchesca L Perez [F-L-Perez](https://github.com/F-L-Perez)
 - Bidesh Biswas Biki - [bideshbiswas](https://github.com/bideshbiswas)
 - [Michael Clay] (https://github.com/ClayMichael2004)
 - [nick]
