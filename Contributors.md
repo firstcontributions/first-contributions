@@ -3626,7 +3626,7 @@ andrewcodess
 - [Yachna Sharma](https://github.com/yach26)
 - [Glodi Mietete](https://github.com/Glodi-M)
 - [G M](https://github.com/Glodi-M)
-- [Aditya77-K](https://github.com/Aditya77-K)
+- [gzhy](https://github.com/gzhy64)
 - [Teja V](https://github.com/teja200514)
 - Vidya
 - [Aditya Singh](https://github.com/dunKey3)
@@ -5150,4 +5150,6 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Seshu Ramyasri Vemavarapu](https://github.com/RamyaVS7)  
 - [Siddharth mohite] (https://github.com/Sidharthmohite)[Frank Feng](https://github.com/frankfeng)s
 - Sambron ( https:github.com/sambron)
+
+- [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
 
