@@ -11,6 +11,7 @@ dedsec
 - [Anuj Giri](https://github.com/anujgiri1279)
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
+- [AK-1996](https://github.com/AK-1996)
 - [Jun Yokoyama](https://github.com/BalaneML)
 - [Juan Ocampo](https://github.com/LEG3NDJVS)
 - [Shree Kudande](https://github.com/ShreeKudande)
@@ -5140,4 +5141,3 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [OKeattisak](https://github.com/OKeattisak)- [Shayan Muhammad](https://github.com/ShayanMuhammad-CS)
 - Majharul Islam Ruhit
 - [Seshu Ramyasri Vemavarapu](https://github.com/RamyaVS7)
-- [Amith Shetty M](https://github.com/amithshettym7-web)
