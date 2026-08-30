@@ -189,6 +189,7 @@ Vishal
 
 - Bidesh Biswas Biki - [bideshbiswas](https://github.com/bideshbiswas)
 - [Michael Clay] (https://github.com/ClayMichael2004)
+- [MichaelYu](https://github.com/MichaelYu)
 - [nick]
 - [Nandini Bansal]
 - [Natasha Ringane] (https://github.com/natasha-snow)
