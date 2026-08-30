@@ -22,6 +22,7 @@ dedsec
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
 - [AK-1996](https://github.com/AK-1996)
+- [Andres Lopez](https://github.com/AndresLopez701)
 - [Jun Yokoyama](https://github.com/BalaneML)
 - [Juan Ocampo](https://github.com/LEG3NDJVS)
 - [Shree Kudande](https://github.com/ShreeKudande)
