@@ -5136,7 +5136,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Adam Pękala](https://github.com/adampekala)
 - [xieyanran](https://github.com/xieyanran)
 - [Mafalda Castro](https://github.com/mafaldacastro97-cmd)
-  [Nils Gösche](https://github.com/Cartan)
+  [Nils Gösche](https://github.com/Cartan)ss
 - [Joshua Kaitharam Thomas](https://github.com/ZaDukk)
 - [Oliver Czygan](https://github.com/oczygan)
 - [Girish Kumar](https://github.com/girish-kumar07)
@@ -5144,4 +5144,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [OKeattisak](https://github.com/OKeattisak)- [Shayan Muhammad](https://github.com/ShayanMuhammad-CS)
 - Majharul Islam Ruhit
 - [Seshu Ramyasri Vemavarapu](https://github.com/RamyaVS7)  
-- [Siddharth mohite] (https://github.com/Sidharthmohite)
+- [Siddharth mohite] (https://github.com/Sidharthmohite)[Frank Feng](https://github.com/frankfeng)s
