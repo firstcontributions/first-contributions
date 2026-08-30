@@ -58,6 +58,7 @@ dedsec
 - [Sagnik Saha](https://github.com/Sagnik143)
 - Julia Nogueira
 - [Utkarsh Arya](https://github.com/Utkarsh3725)
+- [Adarsh Singh](https://github.com/adarshsingh2109)
 - [Rafael Pioto](https://github.com/piotogomes)
 - [Rakeeb Abdullah](https://github.com/Rakeeb-Abdullah)
 - [Santiago Vasco](https://github.com/Vazkoo)
