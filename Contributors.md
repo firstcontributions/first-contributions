@@ -2498,6 +2498,7 @@ andrewcodess
 - [Larson](https://github.com/lixianphy)
 - [Laryssa](https://github.com/krystall8778)
 - [LaskaaaD](https://github.com/LaskaaaD)
+- [Jonghoon Lee](https://github.com/hoony3207-web)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
 - [Laura N](https://github.com/lnezsierra/)
 - [Usman Malik] (https://github.com/usmanmalik10/)
