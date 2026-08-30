@@ -42,7 +42,7 @@ dedsec
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
-- Laurent-G1tHub
+- Laurent-G1tHubjiuru233
 - Joel Mastrian
 - [Philip](https://github.com/vitorbjcc)
 - [Manuel Riascos](https://github.com/Manuelr0107)
