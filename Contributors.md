@@ -11,6 +11,7 @@ dedsec
 - [Anuj Giri](https://github.com/anujgiri1279)
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
+- [AK-1996](https://github.com/AK-1996)
 - [Jun Yokoyama](https://github.com/BalaneML)
 - [Juan Ocampo](https://github.com/LEG3NDJVS)
 - [Shree Kudande](https://github.com/ShreeKudande)
