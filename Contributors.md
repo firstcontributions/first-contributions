@@ -119,6 +119,7 @@ Vishal
 - [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
 - [strange757](https://github.com/strange757)
 - [itssubs](https://github.com/itssubs)
+- [Kim Kyung Min](https://github.com/CattonNyan)
 - [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
 - [<GitHub ユーザー名>](https://github.com/<GitHub ユーザー名>)
