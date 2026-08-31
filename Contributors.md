@@ -1,4 +1,5 @@
 ^o6o# Contributors
+- [Juan Miguel Cáceres](https://github.com/juanmig7890)
 - [ralf-meca](https://github.com/ralf-meca)
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
