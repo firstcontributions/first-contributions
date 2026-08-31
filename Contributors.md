@@ -14,6 +14,7 @@ dedsec
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
 - [Nashiru Muniru] (https://github.com/nashtgc)
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
+- [Tanmay Pandit](https://github.com/Tanmayp1308)
 -[Akanksha(WynterCypher)](https://github.com/WynterCypher)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
 -[Victory Akunna](https://github.com/aviciinvestment)
@@ -4947,6 +4948,7 @@ Raphael Karani
 - [Adithyan H P](https://github.com/adithyanhp)
 - [Adithyan H P](https://github.com/adithyanhp)
 - [MattyGT](https://github.com/MattyGT)
+-[Vyacheslav](https://github.com/porf982-afk/)
 - [AmalW](https://github.com/amalnc)
 - [dindonaute-stack](https://github.com/dindonaute-stack)
 - [ArnobTK](https://github.com/ArnobTK)
@@ -5176,7 +5178,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - Sambron ( https:github.com/sambron)
 
 - [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
-
+- [Arsath-md](https://github.com/Arsath-md)
 - [Divyanshu](https://github.com/divyanshutata09/first-contributions)
 - [Vishal Kumar](https://github.com/Vishaldubey2210)
 - [Mohamad Azhar](https://github.com/UN64DD)
