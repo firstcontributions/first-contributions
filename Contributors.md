@@ -5195,3 +5195,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 [Stefanut](https://github.com/stefanutc1) - Homelab and low-level Linux systems engineer.
 - [Steph](https://github.com/betancourthmartinez00)
 - [97-sc](https://github.com/97-sc)
+- [pseudogode](https://github.com/pseudogode)
