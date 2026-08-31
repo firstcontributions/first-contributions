@@ -14,6 +14,7 @@ dedsec
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
 - [Nashiru Muniru] (https://github.com/nashtgc)
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
+- [Tanmay Pandit](https://github.com/Tanmayp1308)
 -[Akanksha(WynterCypher)](https://github.com/WynterCypher)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
 -[Victory Akunna](https://github.com/aviciinvestment)
