@@ -143,6 +143,7 @@ Vishal
 - [strange757](https://github.com/strange757)
 - [itssubs](https://github.com/itssubs)
 - [Kim Kyung Min](https://github.com/CattonNyan)
+- [qihaojojo](https://github.com/qi-hao-jishi)
 - [ShaneD711](https://github.com/ShaneD711)
 - [Tushar](https://github.com/tusharr135)
 - [<GitHub ユーザー名>](https://github.com/<GitHub ユーザー名>)
@@ -5195,4 +5196,5 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 [Stefanut](https://github.com/stefanutc1) - Homelab and low-level Linux systems engineer.
 - [Steph](https://github.com/betancourthmartinez00)
 - [97-sc](https://github.com/97-sc)
+- [Dayanand Gupta](https://github.com/Dayanand6528)
 - [pseudogode](https://github.com/pseudogode)
