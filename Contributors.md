@@ -47,6 +47,7 @@ dedsec
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [Dhruv Doshi](https://github.com/dhruvdoshi1811)
 - [BetoDev89](https://github.com/BetoDev89)
+- [Fajsef9](https://github.com/fajsef9/)
 - [cmshanss](https://github.com/cmshanss)
 - [Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
