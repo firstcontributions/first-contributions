@@ -68,6 +68,7 @@ dedsec
 - [Philip](https://github.com/vitorbjcc)
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
+- [Guilherme Luigi](https://github.com/GuiiLG)
 - [Leidy Caso](https://github.com/LeidyCaso)
 - [batmanplays69](https://github.com/batmanplays69)
 - R Kaaviya
