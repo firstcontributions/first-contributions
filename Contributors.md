@@ -5184,3 +5184,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [TermuxDev](https://github.com/TermuxDev)
 - [Seonga12](https://github.com/Seonga12)
 - [rhalscjf78-png](https://github.com/rhalscjf78-png)
+- [Belentani](https://github.com/belentani7)
