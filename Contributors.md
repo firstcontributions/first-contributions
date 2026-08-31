@@ -1,4 +1,5 @@
 # Contributors
+[karma911-dev](https://github.com/karma911-dev)
 - [BetoDev89](https://github.com/BetoDev89)
 -[Md Mufti habib](https://github.com/muftihabib)
 - [Daniel Capelo](https://github.com/dankpelo)
