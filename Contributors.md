@@ -66,6 +66,7 @@ dedsec
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
 - Laurent-G1tHubjiuru233
+- Pranjal Gupta
 - Joel Mastrian
 - [Philip](https://github.com/vitorbjcc)
 - [Manuel Riascos](https://github.com/Manuelr0107)
