@@ -5217,3 +5217,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [pseudogode](https://github.com/pseudogode)
 - [Nisha Dubalgunde](https://github.com/nishadubalgunde)
 - [Stenio Sergio Regis](https://github.com/steniosergioregis-gif)
+- [Antonio Candeo Acevedo](https://github.com/antoniocandeoacevedo-tech)
