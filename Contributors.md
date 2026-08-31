@@ -133,6 +133,7 @@ Vishal
 - Rohitha S G
 - [Alejandro Botero](https://github.com/BoteroAlejandro11)
 - [Santiago Sanchez](https://github.com/SsanchezGiraldo)
+- [Lupi Andres Mendoza](https://github.com/LUPASOS)
 - Khushi Kumari
 - Supilath
 - Sam C
