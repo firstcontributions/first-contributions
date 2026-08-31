@@ -1,4 +1,5 @@
 - [Aman Ansary](https://github.com/AmanAnsary23)
+- [Ndeye Awa Salane](https://github.com/nasalane)
 - [Mhamad Mostafa](https://github.com/moudzx)
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 dedsec
