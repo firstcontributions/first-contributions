@@ -2030,6 +2030,7 @@ Amna Naeem
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Asnaks](https://github.com/Asnaks)
 - [Ali Aldaghishy](https://github.com/alide123321)
+  [Alejandro Serna](https://github.com/AlejandroSernaTovar)
 - [datta852](https://github.com/datta852)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Atharva Ghayal](https://github.com/atharvaghayal)
@@ -2058,6 +2059,7 @@ Amna Naeem
 - [Ayushi Rajput](https://github.com/Ayushi-ninja)
 - [Ayush Sahu](https://github.com/ayusshhh1)
 - [Ayush Tripathi](https://github.com/ayushtripathi-45)
+
 - [B. Figuereo](https://github.com/KDBatistaFiguereo)
 - [BFJiral](https://github.com/Wirt4)
 - [Balaji Ramachandran](https://github.com/rbalaji007)
