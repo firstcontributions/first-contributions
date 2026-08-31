@@ -352,6 +352,7 @@ Shaurya522 from The Dooon School
 - Elankavi Pommon B
 - AyushPatel - BT2024171 (https://github.com/Ayush1patel)
 - Hardh S Kava
+- [bakaforlive](https://github.com/bakaforlive)
 - suhith reddy bt2024066
  - Vihan bhardwaj from the doon school
 -  Yash Agarwal from the doon school
