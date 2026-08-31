@@ -932,6 +932,7 @@ nathan practice here
 - [Phant0m1zed](https://github.com/Phant0m1zed/)
 -[Aryan](https://github.com/Aryan007-dev)
 - [yellowstick]
+- [01U2] (https://github.com/01U2)
 - [Adi Arora] https://github.com/adiarora06
 - [Thomas Azzalin](https://github.com/ThomasAzzalin)
 - [SusheelKrishna-Doraemon](https://github.com/JabadeSusheelKrishna)
