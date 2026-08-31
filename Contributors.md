@@ -1,3 +1,4 @@
+- [Minghui Wang](https://github.com/wmh123wmh1)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
 - [Aman Ansary](https://github.com/AmanAnsary23)
 - [Ndeye Awa Salane](https://github.com/nasalane)
