@@ -2754,6 +2754,7 @@ andrewcodess
 - [Simon Waberski](https://github.com/waberskisimon)
 - [HothoLina](https://github.com/HothoLina)
 - [Noëlla Vivienne](https://github.com/noellav/)
+- [José Gabriel](https://github.com/MarinhoBiel)
 - [Aryanosh] (https://github.com/aryanosh)
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [jmiller913](https://github.com/jmiller913)
