@@ -1,5 +1,5 @@
 - [Aman Ansary](https://github.com/AmanAnsary23)
-- [Moss](https://github.com/moudzx)
+- [Mhamad Mostafa](https://github.com/moudzx)
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 dedsec
 -[Aditya Dubey](https://github.com/dubeyaditya543/first-contributions.git)
@@ -4879,7 +4879,7 @@ Raphael Karani
 - [Abimael243](https://github.com/Abimael243)
 - [Dead_0hlin](https://github.com/Dead0hlin)
 - [Mayank Sharma](https://github.com/mayank19-sha)
-
+- [Meme]
 [AMABUA REAGAN](https://github.com/regs123guy)
 - ShaneNg PR FirstContributions
 - [telinii] (https://github.com/telinii)
