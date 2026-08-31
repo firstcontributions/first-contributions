@@ -211,7 +211,6 @@
 - [Zilo]
 - [Nikhil Hore](https://github.com/nikhilhore)
 - [viu]
-- [Esteban-Monroy](https://github.com/Esteban-Monroy) - [linkendin](https://www.linkedin.com/in/esteban-monroy-8493ba25a/)
 -[Aloka] (https://github.com/aloka-pa)
 - [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
@@ -2200,6 +2199,7 @@ andrewcodess
 - [Eros Yap](https://github.com/Stonksers)
 - [Homayun Kabir](https://github.com/homayungit)
 - [Eshaan Krishna Ojha](https://github.com/EshaanOjha)
+- [Esteban-Monroy](https://github.com/Esteban-Monroy)
 - [Ethan Kinch](https://github.com/epkinch)
 - [Ethanzzz21](https://github.com/Ethanzzz21)
 - [Emerson Smith](https://github.com/Emerson-Smith76)
