@@ -1,3 +1,4 @@
+- [Kovtun Taras](https://github.com/DonutUE/first-contributions)
 - [Aman Ansary](https://github.com/AmanAnsary23)
 - [Ndeye Awa Salane](https://github.com/nasalane)
 - [Mhamad Mostafa](https://github.com/moudzx)
