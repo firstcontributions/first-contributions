@@ -121,7 +121,8 @@ dedsec
 - [Zhiang](https://github.com/Zmyssb-index)
 - [YUSUKE-de](https://github.com/YUSUKE-de)
 - Monika
-Vishal
+- [NANI](https://github.com/SaiDivakar-Navara)
+- Vishal
 - Mohamed Aradaib
 - [Maher-Dagestani](https://github.com/Maher-Dagestani)
 - [John Lyu](https://github.com/Darth-S1d1ous)
