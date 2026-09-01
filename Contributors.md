@@ -775,6 +775,7 @@ nathan practice here
 - [Saniya Muskan](https://github.com/muskan-io)
 - [Prajin Gn](https://github.com/prajin-gn)
 - [Divyansh Sareen](https://github.com/DivyanshSareen)
+- [Divyanshi Tiwari](https://github.com/Divyanshi3124)
 - [Nick Anderson](https://github.com/NickCAnderson)
 - [Nilesh Gupta](https://www.linkedin.com/in/nileshg22/)
 - [Rihan R. Chougule](https://github.com/RihanC)
