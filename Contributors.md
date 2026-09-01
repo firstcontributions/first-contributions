@@ -1,4 +1,5 @@
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
+- Umair Ashraf
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Augusto Lúe](https://github.com/auguslue)
@@ -9,6 +10,8 @@
 - [Mhamad Mostafa](https://github.com/moudzx)
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 dedsec
+Aman alam
+King
 - [TaeHo Lee](https://github.com/anton061311)
 - [Sagar Gusain](https://github.com/Jod4968)
 -[Aditya Dubey](https://github.com/dubeyaditya543/first-contributions.git)
@@ -5248,4 +5251,5 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - jwx0530
 - [Balaji Harihara Sudhan](https://github.com/BalajiHariharasudhan)
 - JiaqiChen(https://github.com/JiaqiChen3518)
-- Viwe1174
+- [Viwe1174](https://github.com/Viwe1174)
+- [Alexandru Moroianu] (https://github.com/AlexandruMoroianu)
