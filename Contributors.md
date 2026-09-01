@@ -147,6 +147,7 @@ Vishal
 - Khushi Kumari
 - Supilath
 - Sam C
+- [LalithaCharan](https://github.com/LalithaCharan)
 - [Nicholas T. Limberti](https://github.com/nlimberti)
 - [Steven Wilt](http://github.com/sbooyah)
 - [brownsugaryuki-byte](https://github.com/brownsugaryuki-byte)
