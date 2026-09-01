@@ -1,6 +1,7 @@
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
+-[shivam kumar] (https://github.com/shivamkumar135/first-contributions.git)
 - [Aman Ansary](https://github.com/AmanAnsary23)
 - [Ndeye Awa Salane](https://github.com/nasalane)
 - [Mhamad Mostafa](https://github.com/moudzx)
@@ -37,6 +38,7 @@ dedsec
 - [Anuj Giri](https://github.com/anujgiri1279)
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Wick](https://github.com/vick42uho)
+- [Sunil Sonu](https://github.com/sunilsonumonu12)
 - [AK-1996](https://github.com/AK-1996)
 - [Andres Lopez](https://github.com/AndresLopez701)
 - [Jun Yokoyama](https://github.com/BalaneML)
@@ -122,7 +124,8 @@ dedsec
 - [Zhiang](https://github.com/Zmyssb-index)
 - [YUSUKE-de](https://github.com/YUSUKE-de)
 - Monika
-Vishal
+- [NANI](https://github.com/SaiDivakar-Navara)
+- Vishal
 - Mohamed Aradaib
 - [Maher-Dagestani](https://github.com/Maher-Dagestani)
 - [John Lyu](https://github.com/Darth-S1d1ous)
@@ -148,6 +151,7 @@ Vishal
 - Khushi Kumari
 - Supilath
 - Sam C
+- [LalithaCharan](https://github.com/LalithaCharan)
 - [Nicholas T. Limberti](https://github.com/nlimberti)
 - [Steven Wilt](http://github.com/sbooyah)
 - [brownsugaryuki-byte](https://github.com/brownsugaryuki-byte)
@@ -5231,3 +5235,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [HNK69](https://github.com/HNK69)
 - jwx0530
 - [Balaji Harihara Sudhan](https://github.com/BalajiHariharasudhan)
+- JiaqiChen(https://github.com/JiaqiChen3518)
