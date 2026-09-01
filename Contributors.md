@@ -1,6 +1,7 @@
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
+-[shivam kumar] (https://github.com/shivamkumar135/first-contributions.git)
 - [Aman Ansary](https://github.com/AmanAnsary23)
 - [Ndeye Awa Salane](https://github.com/nasalane)
 - [Mhamad Mostafa](https://github.com/moudzx)
