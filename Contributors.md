@@ -23,6 +23,7 @@ dedsec
 - [Tanmay Pandit](https://github.com/Tanmayp1308)
 -[Akanksha(WynterCypher)](https://github.com/WynterCypher)
 - [TaeHo Lee](https://github.com/anton061311)
+- [Anos999](https://github.com/Anos999)
 - [Mohaddis Khan](https://github.com/mohaddiskhan)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
 -[Victory Akunna](https://github.com/aviciinvestment)
