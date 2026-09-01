@@ -2821,6 +2821,7 @@ andrewcodess
 - [Ernesto Lindo](https://github.com/ernestolindo)
 - [Palak](https://github.com/palak1-2)
 - [Pankaj Badhan](https://github.com/pankajbadhann)
+- [Andre Nunes da Silva](https://github.com/andrefetch)
 - [PanBurz](https://github.com/PanBurz)
 - [Pandaaa Hu](https://github.com/XiuXiuHu)
 - [Pankaj Upadhyay](https://github.com/pankaj-cod)
