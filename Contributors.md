@@ -1,3 +1,4 @@
+- [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
