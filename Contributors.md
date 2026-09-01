@@ -7,6 +7,7 @@
 -[shivam kumar] (https://github.com/shivamkumar135/first-contributions.git)
 - [Aman Ansary](https://github.com/AmanAnsary23)
 - [Ndeye Awa Salane](https://github.com/nasalane)
+- [Sheraz](https://github.com/mrsheraz33)
 - [Mhamad Mostafa](https://github.com/moudzx)
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 dedsec
