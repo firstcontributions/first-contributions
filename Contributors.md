@@ -10,6 +10,7 @@
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 dedsec
 - [TaeHo Lee](https://github.com/anton061311)
+- [Sagar Gusain](https://github.com/Jod4968)
 -[Aditya Dubey](https://github.com/dubeyaditya543/first-contributions.git)
 -[Prathmesh Palkurtiwar](https://github.com/Prathmesh1901)
 - [Tavion Britt](https://github.com/TavionK)
