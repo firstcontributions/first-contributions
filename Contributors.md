@@ -87,6 +87,7 @@ King
 - Joel Mastrian
 - Monisha D S
 - [Philip](https://github.com/vitorbjcc)
+- [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
 - [Guilherme Luigi](https://github.com/GuiiLG) 
