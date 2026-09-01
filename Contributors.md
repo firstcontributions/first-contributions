@@ -146,6 +146,7 @@ King
 - Ionut Sabie
 - Kezia 
 - Ekta
+- Daniel
 - [HammyExplains] (https://github.com/hammyexplains)
 - [balaji_r](https://github.com/balaji-in-git-hub)
 - Sandy Enriquez
