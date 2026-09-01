@@ -1,4 +1,5 @@
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
+- Umair Ashraf
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Augusto Lúe](https://github.com/auguslue)
