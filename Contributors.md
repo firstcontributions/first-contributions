@@ -81,6 +81,7 @@ dedsec
 - [Leidy Caso](https://github.com/LeidyCaso)
 - [batmanplays69](https://github.com/batmanplays69)
 - R Kaaviya
+- [SingidiSaiNagaSudheer](https://github.com/Sudheer625)
 - Roberto de Oliveira Brito Filho
 - Sahil S
 - Millebisous
