@@ -233,6 +233,7 @@ Vishal
 - [Chandrakant Banait] (https://github.com/ChandrakantB)
 - Vaidehi Jella(https://github.com/VaidehiJella)
 - [afjskldj](https://github.com/)
+- [thefearlesscode](https://github.com/thefearlesscoder)
 - [Ume333](https://github.com/Ume333)
 - [Lavneet Hora](https://github.com/lavneethora)
 - [Anshul Reddy Musku](https://github.com/manshulreddy3-cyber)
