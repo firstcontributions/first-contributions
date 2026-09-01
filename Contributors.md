@@ -82,6 +82,7 @@ dedsec
 - Laurent-G1tHubjiuru233
 - Pranjal Gupta
 - Joel Mastrian
+- Monisha D S
 - [Philip](https://github.com/vitorbjcc)
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
