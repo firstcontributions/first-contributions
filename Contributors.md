@@ -1010,7 +1010,7 @@ nathan practice here
 - [Mahima](https://github.com/mahima44-svg)
   -[Aditi Mahajan](https://github.com/adi1233883)
 - [PULKIT](https://github.com/PULKIT-OP)
-
+- [Tevel](https://github.com/Trung-Hieu379)
   [Ronit](https://github.com/ronitchiluka06)
 - [Aditya Adarsh](https://github.com/AdityaAdarsh25)
 - [Raj Jadhav](https://github.com/Raj-Jadhav/)
