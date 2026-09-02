@@ -1,4 +1,5 @@
 - [Vinay S Kumar](https://github.com/vinayskumar25507)
+- [Kuba Slowikowski](https://github.com/Kuba70)
 - [Aaryan C Gole](https://github.com/)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Sourrrabh](https://github.com/Sourrrabh)
