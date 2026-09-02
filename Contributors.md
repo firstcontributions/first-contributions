@@ -1607,6 +1607,7 @@ niceshowmini
 - [Aditya Shaji](https://github.com/ps-aditya)
 - [Darsh Agarwal](https://github.com/darshag29)
 - [Jeremiah Aliyese](https://github.com/ternamdoo)
+- [Frederick Atisai](https://github.com/f-atisai)
 - [G KARTHIK GOUD](https://github.com/karthikgoud24)
 - [Kush Arora](https://github.com/kush7arora)
 - [Tiffany Iong](https://github.com/tiffanyiong)
