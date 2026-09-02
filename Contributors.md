@@ -5265,3 +5265,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Alexandru Moroianu] (https://github.com/AlexandruMoroianu)
 - [Computer-Eymen](https://github.com/Computer-Eymen) 
 - sageYL
+- [Amir Hossein Azizi](https://github.com/emihesi99)
