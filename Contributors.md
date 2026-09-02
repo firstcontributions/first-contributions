@@ -22,6 +22,7 @@ dayanand s
 King
 zzang001
 vijyot silare
+- [Cristian](https://github.com/Cristian212502)
 - [jesse](https://github.com/jessejkeliot)
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
