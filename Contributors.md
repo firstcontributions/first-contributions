@@ -18,6 +18,7 @@ dedsec
 Aman alam
 King
 zzang001
+- [jesse](https://github.com/jessejkeliot)
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
 - [Sagar Gusain](https://github.com/Jod4968)
