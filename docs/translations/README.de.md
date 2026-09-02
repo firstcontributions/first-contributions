@@ -5,7 +5,7 @@
 
 # First Contributions
 
-Dieses Projekt zielt darauf ab, Anfängern den Einstieg zu erleichtern und sie bei ihrem ersten Beitrag zu unterstützen. Wenn du deinen ersten Beitrag leisten möchten, befolge die folgenden Schritte.
+Dieses Projekt zielt darauf ab, Anfängern den Einstieg zu erleichtern und sie bei ihrem ersten Beitrag zu unterstützen. Wenn du deinen ersten Beitrag leisten möchtest, befolge die folgenden Schritte.
 
 _Wenn du nicht weißt wie man das Terminal/CMD bedient, [hier findest du Anleitungen für GUI Tools.](#Anleitungen-für-andere-Tools)_
 
@@ -16,7 +16,7 @@ _Wenn du nicht weißt wie man das Terminal/CMD bedient, [hier findest du Anleitu
 ## Forke dieses Repository
 
 Forke dieses Repository indem du auf den Fork Button oben auf dieser Seite klickst.
-Dies wird eine Kopie dieses Repository's in deinem Account erstellen.
+Dies wird eine Kopie dieses Repositorys in deinem Account erstellen.
 
 ## Klone das Repository
 
@@ -30,7 +30,7 @@ Klone jetzt das geforkte Repository auf deinen Computer. Gehe zu deinem Github A
 git clone "kopierte url"
 ```
 
-wobei "kopierte url" (ohne die Anführungszeichen) die url zu diesem Repository ist (deine Fork von diesem Projekt). Im vorherigen Schritt siehst du wie du diese erhälst .
+wobei "kopierte url" (ohne die Anführungszeichen) die url zu diesem Repository ist (deine Fork von diesem Projekt). Im vorherigen Schritt siehst du wie du diese erhälst.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="URL in die Zwischenablage kopieren" />
 
@@ -50,7 +50,7 @@ Wechsle zum Repository Ordner (wenn du nicht bereits dort bist):
 cd first-contributions
 ```
 
-Erstelle nun einen Zweig, indem du den `git switch` Befehl benutzst:
+Erstelle nun einen Zweig, indem du den `git switch` Befehl benutzt:
 
 ```bash
 git switch -c dein-neuer-zweig-name
@@ -148,7 +148,7 @@ Feier deinen Beitrag und teile in mit deinen Freunden und Followern indem du hie
 
 Wenn du gerne mehr Übung hättest, schau dir [code contributions](https://github.com/roshanjossey/code-contributions) an.
 
-Jetzt los gehts, mit Beiträgen zu anderen Projekten. Wir haben eine Liste von Projekten mit leichten Fehlern für Einsteiger bereitgestellt. Schau dir [die Liste der Projekte in der Web-App an](https://firstcontributions.github.io/#project-list) an.
+Jetzt los geht's, mit Beiträgen zu anderen Projekten. Wir haben eine Liste von Projekten mit leichten Fehlern für Einsteiger bereitgestellt. Schau dir [die Liste der Projekte in der Web-App](https://firstcontributions.github.io/#project-list) an.
 
 ### [Zusätzliches Material](../additional-material)
 
