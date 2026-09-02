@@ -5,6 +5,7 @@
 - [Sourrrabh](https://github.com/Sourrrabh)
 - Umair Ashraf
 - [Rushikesh Rathod](https://github.com/rushirathod22)
+- [Aya Boukhris](https://github.com/Aya-Bs)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Augusto Lúe](https://github.com/auguslue)
