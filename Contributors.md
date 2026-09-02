@@ -23,6 +23,7 @@ King
 zzang001
 vijyot silare
 - [Cristian](https://github.com/Cristian212502)
+- [Ryan V] (https://github.com/ryanvincoy11)
 - [jesse](https://github.com/jessejkeliot)
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
