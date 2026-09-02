@@ -18,6 +18,7 @@
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 dedsec
 Aman alam
+dayanand s
 King
 zzang001
 vijyot silare
