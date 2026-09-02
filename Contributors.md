@@ -1,3 +1,4 @@
+- [Vinay S Kumar](https://github.com/vinayskumar25507)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - Umair Ashraf
 - [Minghui Wang](https://github.com/wmh123wmh1)
