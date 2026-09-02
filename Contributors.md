@@ -5297,3 +5297,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Mane Ranveer Pramod](https://github.com/maneranveer111)
 - [Jacob Baack] (https://github.com/itsalwayspsycho)
 - [tsttthng001-a11y](https://github.com/tsttthng001-a11y)
+- [Daniel Raygoza](https://github.com/Illusion137)
