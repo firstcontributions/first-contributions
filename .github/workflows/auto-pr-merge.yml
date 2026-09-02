@@ -29,15 +29,15 @@ jobs:
             const isOnlyContributors = filenames.length === 1 && filenames[0] === 'Contributors.md';
 
             const { additions, deletions } = context.payload.pull_request;
-            const isLinesChangedUnderThreshod = (additions < 5 && deletions < 4);
+            const isLinesChangedUnderThreshold = (additions < 5 && deletions < 4);
 
-            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshod);
+            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshold);
             core.setOutput('filenames', filenames.join(', '));
 
-            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshod)
+            const moreLinesChanged = (isOnlyContributors && !isLinesChangedUnderThreshold)
 
             // set true if multiple changed if only isOnlyContributors 
-            core.setOutput('isMultipleLineChanged', moreLineChanged)
+            core.setOutput('isMultipleLinesChanged', moreLinesChanged)
 
             // is multiple file changed
             core.setOutput('isMultipleFilesChanged', !isOnlyContributors)
@@ -182,12 +182,12 @@ jobs:
         env:
           # keep fileames into the enviroment better prevent from any injection
           RAW_FILES: ${{ steps.is_only_contributors_file_changed.outputs.filenames }}
-          IS_MULTIPLES_LINES_CHANGES: ${{ steps.is_only_contributors_file_changed.outputs.isMultipleLineChanged}}
-          IS_MULTIPLES_FILES_CHANGES: ${{steps.is_only_contributors_file_changed.outputs.isMultipleFilesChanged}}
+          IS_MULTIPLE_LINES_CHANGED: ${{ steps.is_only_contributors_file_changed.outputs.isMultipleLinesChanged }}
+          IS_MULTIPLE_FILES_CHANGED: ${{ steps.is_only_contributors_file_changed.outputs.isMultipleFilesChanged }}
         with:
           script: |
-            const isMultipleFilesChanged = process.env.IS_MULTIPLES_FILES_CHANGES === 'true';
-            const isMultipleLinesChanged = process.env.IS_MULTIPLES_LINES_CHANGES === 'true';
+            const isMultipleFilesChanged = process.env.IS_MULTIPLE_FILES_CHANGED === 'true';
+            const isMultipleLinesChanged = process.env.IS_MULTIPLE_LINES_CHANGED === 'true';
             const { owner, repo } = context.repo;
             const pr = context.payload.pull_request;
             const username = pr.user.login;
@@ -237,7 +237,7 @@ jobs:
             const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.payload.number,
+              issue_number: pr.number,
             })
 
             // find any comment already made by the bot.                                                                                                    
