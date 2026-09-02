@@ -5,6 +5,7 @@
 - [Sourrrabh](https://github.com/Sourrrabh)
 - Umair Ashraf
 - [Rushikesh Rathod](https://github.com/rushirathod22)
+- [Aya Boukhris](https://github.com/Aya-Bs)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Augusto Lúe](https://github.com/auguslue)
@@ -98,6 +99,7 @@ vijyot silare
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
 - Laurent-G1tHubjiuru233
+-[mahesh explains](http://github.com/maheshmarthala)
 - Pranjal Gupta
 - Joel Mastrian
 - Monisha D S
@@ -241,6 +243,7 @@ vijyot silare
 - [celestial-sky](https://github.com/celestial-sky)
 - [RobertoDev2025](https://github.com/RobertoDev2025)
 - Parth Pawar
+- Where are you from guy's
 - Abishek N
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
 - Vedansh & Yug 
@@ -1998,6 +2001,7 @@ Amna Naeem
 - [Divyanshu uttam](https://github.com/divyanshu978)
 - [Abhishek](https://github.com/AbhiVanya)
 - [Abisheka Priyan](https://github.com/AbishekVijay05)
+- [Caleb Wagner](https://github.com/CypherSoldier)
 - [Abivarsan](https://github.com/RAbivarsan)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 - [Abraham Aryo](https://github.com/debamm/)
@@ -5288,3 +5292,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [JMJM](https://github.com/kjmjwnsals-png)
 - [Xing Pangdingyu](https://github.com/xing-pangdingyu)
 - [Kirti Pandey](https://github.com/pandeykirti166-sys)
+- [orackle](https://github.com/orackle)
+- [Mane Ranveer Pramod](https://github.com/maneranveer111)
+- [Jacob Baack] (https://github.com/itsalwayspsycho)
+- [tsttthng001-a11y](https://github.com/tsttthng001-a11y)
