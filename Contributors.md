@@ -289,6 +289,7 @@ King
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [Olena Pometnova](https://github.com/Pometnova)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
+- [Ayush](https://github.com/Ayush74510)
 - [Mollyb333]
 - [swdantran]
 - [AmnaNoorr] (https://github.com/AmnaNoorr/)
