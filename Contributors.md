@@ -26,6 +26,7 @@ King
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
 - [Nashiru Muniru] (https://github.com/nashtgc)
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
+- [Abbas Noor] (https://github.com/Abbas-boop-sys/webflyx)
 - [Parthiv Rawat](https://github.com/parthivrawat)
 - [Tanmay Pandit](https://github.com/Tanmayp1308)
 -[Akanksha(WynterCypher)](https://github.com/WynterCypher)
