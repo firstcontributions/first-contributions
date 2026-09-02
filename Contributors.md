@@ -1,3 +1,4 @@
+- [Vinay S Kumar](https://github.com/vinayskumar25507)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - Umair Ashraf
 - [Minghui Wang](https://github.com/wmh123wmh1)
@@ -52,6 +53,7 @@ King
 - [Jun Yokoyama](https://github.com/BalaneML)
 - [Juan Ocampo](https://github.com/LEG3NDJVS)
 - [Shree Kudande](https://github.com/ShreeKudande)
+- [Fernando Sales](https://github.com/fernandosales15)
 - [Ahmed Hewidi](https://github.com/ahmed4170)
 - [Rohit More](https://github.com/rohitmore2020)
 - [Nao](https://github.com/Test2)
@@ -4821,7 +4823,6 @@ abhinav abhinav
 Raphael Karani
 [artemis64]
 - [Maria Clara](https://github.com/mariaclaraa21)
-- [Fernando Sales](https://github.com/fernandosales15)
 - [Anukriti Jain](https://github.com/heyAnukritiJain)
 - [Shradul Sharma](https://github.com/RevenClaw)
 - [Varun](https://github.com/Varun-code012)
