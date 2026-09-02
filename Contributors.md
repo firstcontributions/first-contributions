@@ -20,7 +20,7 @@ dedsec
 Aman alam
 King
 zzang001
-- Michał Żądło (https://github.com/Majkii2006)
+vijyot silare
 - [jesse](https://github.com/jessejkeliot)
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
