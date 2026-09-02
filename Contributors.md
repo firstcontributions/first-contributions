@@ -5271,3 +5271,4 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Siriwat J](https://github.com/siriwatj)
 - [YYY568-cmd](https://github.com/YYY568-cmd)
 - [JMJM](https://github.com/kjmjwnsals-png)
+- [Xing Pangdingyu](https://github.com/xing-pangdingyu)
