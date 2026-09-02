@@ -53,6 +53,7 @@ King
 - [Jun Yokoyama](https://github.com/BalaneML)
 - [Juan Ocampo](https://github.com/LEG3NDJVS)
 - [Shree Kudande](https://github.com/ShreeKudande)
+- [Fernando Sales](https://github.com/fernandosales15)
 - [Ahmed Hewidi](https://github.com/ahmed4170)
 - [Rohit More](https://github.com/rohitmore2020)
 - [Nao](https://github.com/Test2)
