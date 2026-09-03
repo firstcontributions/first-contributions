@@ -985,6 +985,7 @@ nathan practice here
 -[Wendy](https://github.com/zhaozixuan613)
 - [kneeyeahtea](https://github.com/kneeyeahtea)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
+- [Anatoli Marynych](https://github.com/anatolilavra-droid)
 - [innovate-with-ravi](https://github.com/innovate-with-ravi)
 - [Mannan Jain](https://github.com/MannanJain1290)
 - [Arnesh R](https://github.com/arnesh-02)
