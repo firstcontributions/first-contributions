@@ -5272,7 +5272,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Seshu Ramyasri Vemavarapu](https://github.com/RamyaVS7)  
 - [Siddharth mohite] (https://github.com/Sidharthmohite)[Frank Feng](https://github.com/frankfeng)s
 - Sambron ( https:github.com/sambron)
-
+- [Deviprasad](https://github.com/deviprasad716)
 - [Ansh__bhardwaj](https://github.com/Ansh811-hub?tab=repositories)
 - [Arsath-md](https://github.com/Arsath-md)
 - [Divyanshu](https://github.com/divyanshutata09/first-contributions)
@@ -5310,6 +5310,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [JMJM](https://github.com/kjmjwnsals-png)
 - [Xing Pangdingyu](https://github.com/xing-pangdingyu)
 - [Kirti Pandey](https://github.com/pandeykirti166-sys)
+- [Jaswanth](https://github.com/JaswanthG-10/first-contributions.git)
 - [orackle](https://github.com/orackle)
 - [Mane Ranveer Pramod](https://github.com/maneranveer111)
 - [Jacob Baack] (https://github.com/itsalwayspsycho)
