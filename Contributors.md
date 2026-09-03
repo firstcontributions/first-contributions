@@ -1,3 +1,4 @@
+[Joti Lohana](https://github.com/jotilohana21)
 -[Rohan Mahanta](https://github.com/rohanmahanta2005-max) 
 [Vinay S Kumar](https://github.com/vinayskumar25507)
 - [Kuba Slowikowski](https://github.com/Kuba70)
