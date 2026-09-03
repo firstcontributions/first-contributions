@@ -983,6 +983,7 @@ nathan practice here
 -[Wendy](https://github.com/zhaozixuan613)
 - [kneeyeahtea](https://github.com/kneeyeahtea)
 - #### [Chinmay Maheshwari](https://github.com/Chinmay0608)
+- [Anatoli Marynych](https://github.com/anatolilavra-droid)
 - [innovate-with-ravi](https://github.com/innovate-with-ravi)
 - [Mannan Jain](https://github.com/MannanJain1290)
 - [Arnesh R](https://github.com/arnesh-02)
@@ -5338,4 +5339,3 @@ harika
 - [Patrick Fitzgerald](https://github.com/pdfitzgeraldjr)
 - [Natan Razera](https://github.com/nrazp)
 - [Kusumitha Korrapati](https://github.com/kusumitha-korrapati)
-- [Anatoli Marynych] (https://github.com/anatolilavra-droid)
