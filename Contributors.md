@@ -474,6 +474,7 @@ Suraj Kumar i am not gonna provide any link
 - Hrishabh_Sharrma_BT2024070
 - [Sumanth Y M BT2024072](https://github.com/Sumanth-YM)
 - [MIYYAPURAMSAIVARUN_BT2024146](https://github.com/Varun576253)
+- [thelazywebdev](https://github.com/thelazywebdev)
 - MZS
 - [Dhanush Repalle](https://github.com/DhanushDev311)
 - [Punith M Reddy](https://github.com/punith1206)
