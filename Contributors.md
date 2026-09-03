@@ -3593,6 +3593,7 @@ andrewcodess
 - [niuezreal001](https://github.com/niuezreal001)
 - [Amogh](https://github.com/AmoghAK002) - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
 - [Shreya-Bhardwaj](https://github.com/S-Bhardwaj21)
+- [Jonas Thumbs](https://github.com/Jonas-Thumbs)
 - [Ashwitha K](https://github.com/Ashwitha-valli)
 - [anders0nlima](https://github.com/Anders0nlima)
 - [Shourya Sharma](https://github.com/shourya011)
