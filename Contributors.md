@@ -114,6 +114,7 @@ vijyot silare
 - [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
+- [Sri Naga Charani Ariga](https://github.com/cherry51015)
 - [Guilherme Luigi](https://github.com/GuiiLG) 
 - [Leidy Caso](https://github.com/LeidyCaso)
 - [batmanplays69](https://github.com/batmanplays69)
