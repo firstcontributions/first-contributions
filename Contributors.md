@@ -17,6 +17,7 @@
 - [Sheraz](https://github.com/mrsheraz33)
 - [Mhamad Mostafa](https://github.com/moudzx)
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
+- [Abhinab Chhetri](https://github.com/ABHINAB-CHHETRI)
 dedsec
 Aman alam
 dayanand s
