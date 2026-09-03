@@ -203,11 +203,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
   Also, you might want to run 'git remote -v' to check your remote address.
   
-  If it looks anything like this:
+  If it looks like this :
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
-  
-  change it using this command:
+ 
+  that should be changed:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
