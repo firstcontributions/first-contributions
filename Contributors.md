@@ -713,6 +713,7 @@ Ridwan Umar- [Nico]
 - [muaz aman] (https://github.com/Muaxacker)
 - [xiaoguoba](https://github.com/xilele777)
 - [Paul]
+- [Simon Mann] (https://github.com/Simonmann17)
 - [Thejitha Minindu](https://github.com/thejitha-minindu)
 - [Aditya Aradhya](https://github.com/geeked-aadi)
 - [core-linkr](https://github.com/core-linkr)
