@@ -32,6 +32,7 @@
 - [vishal kumar sinha](https://github.com/vishalsinha1602)
 - [Abhinab Chhetri](https://github.com/ABHINAB-CHHETRI)
 - [Robiul Haque](https://github.com/r-rony08)
+- [mogeadis](https://github.com/mogeadis)
 dedsec
 Aman alam
 dayanand s
