@@ -2398,6 +2398,7 @@ andrewcodess
 - [Fawaz Bello](https://github.com/Phawazz)
 - [Jephil Rejimon](https://github.com/JephilReji)
 - [Fei Sun](https://github.com/Fei-Sun-1996)
+- [Mit Patil](https://github.com/Mit-Patil)
 - [Ravi](https://github.com/isRavi)
 - [cloudChen](https://github.com/cloudyc)
 - [Feizo](https://github.com/Felix-Kebaki)
