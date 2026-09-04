@@ -1,4 +1,5 @@
--[Badri Vishal Pandey](https://github.com/badrisatyam1-ctrl)
+-[Badri Vishal Pandey]
+- [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
 -[Awesome Yeti](https://github.com/AwesomeYeti)
 -[Joti Lohana](https://github.com/jotilohana21)
 -[Maira Arshad](https://github.com/Mairaarshad19)
