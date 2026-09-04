@@ -3,7 +3,6 @@
 -[Joti Lohana](https://github.com/jotilohana21)
 -[Maira Arshad](https://github.com/Mairaarshad19)
 -[Rohan Mahanta](https://github.com/rohanmahanta2005-max) 
--[Shubham Kurhe](https://github.com/shubh7979)
 [Vinay S Kumar](https://github.com/vinayskumar25507)
 [Harsh Pandey](https://github.com/harshpandey0308s)
 - [Kuba Slowikowski](https://github.com/Kuba70)
@@ -17,6 +16,7 @@
 - [Nandhakumar Murugan](https://github.com/nandhakumar-murugan)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
+- [Shubham Kurhe](https://github.com/shubh7979)
 - [Idhayathulla](https://github.com/idhayathulla-dev)
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
@@ -186,12 +186,12 @@ vijyot silare
 - my
 - Qsir-Q (https://github.com/Qsir-Q)
 - [Hessa](https://github.com/hessa11599-commits)
-- [Sabik Kundu](https://github.com/Sabik-kundu)
+- Sabik Kundu (https://github.com/Sabik-kundu)
 - Ionut Sabie
 - Kezia 
 - Ekta
 - Daniel
-- [HammyExplains](https://github.com/hammyexplains)
+- [HammyExplains] (https://github.com/hammyexplains)
 - [balaji_r](https://github.com/balaji-in-git-hub)
 - Sandy Enriquez
 - pradeepa 
@@ -286,8 +286,6 @@ vijyot silare
 - [MichaelYu](https://github.com/MichaelYu)
 - [nick]
 - [Nandini Bansal]
-- [Shubham Kurhe](https://github.com/shubh7979)
-
 - [Natasha Ringane] (https://github.com/natasha-snow)
 - [Onkar Raskar] 
 - [Mr.seal]
@@ -508,12 +506,12 @@ Suraj Kumar i am not gonna provide any link
 - [King Bright](https://github.com/atomixblast)
 - [Suhas GP](https://github.com/suhasgp2003)
 - [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
-- [Dinesh Karthik BT2024199](https://github.com/DINESH3803)
-- [Vishudha Sood IMT2024067](https://github.com/VishudhaSood)
+- [Dinesh Karthik BT2024199] (https://github.com/DINESH3803)
+- [Vishudha Sood IMT2024067] (https://github.com/VishudhaSood)
 - [S Shrivathsan](https://github.com/SShrivathsan)
 - Tatwik Sai M BT2024200
 - [kiron](https://github.com/KironLimbu)
-- [Kaustubh Jangam](https://github.com/kaustubh99j)
+- [Kaustubh Jangam] (https://github.com/kaustubh99j)
 - [Taiwo Francis Oguntade](https://github.com/taiwofrancis)
   [Promise Morka](https://github.com/promisemorka)
 - [Paul T Mathew BT2024135](https://github.com/poughkeepsie7)
