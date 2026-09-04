@@ -14,6 +14,7 @@
 - [Aya Boukhris](https://github.com/Aya-Bs)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
+- [Idhayathulla](https://github.com/idhayathulla-dev)
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
 -[shivam kumar] (https://github.com/shivamkumar135/first-contributions.git)
