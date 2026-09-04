@@ -5362,4 +5362,5 @@ harika
 - [Ujjwal Jain](https://github.com/Ujjwal-Jain-sys)
 - [Ashwin Venkatesh Prabhu](https://github.com/prabhuvashwin)
 - [Carlos Expósito](https://github.com/FrodyGr)
+- [Mónica Silva](https://github.com/monicacrsilva)
 - [João Paulo](https://github.com/joaopaulolazaro)
