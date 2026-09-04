@@ -55,6 +55,7 @@ vijyot silare
 - [Arda Aras Çavdur](https://github.com/Arda-Aras103)
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
 - [Nashiru Muniru] (https://github.com/nashtgc)
+- [Fahidul Islam Taspi](https://github.com/taspuu)
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 - [Abbas Noor] (https://github.com/Abbas-boop-sys/webflyx)
 - [Ahmad Mozaik] (https://github.com/ahmadmozaik/)
