@@ -1,4 +1,5 @@
-[Joti Lohana](https://github.com/jotilohana21)
+-[Awesome Yeti](https://github.com/AwesomeYeti)
+-[Joti Lohana](https://github.com/jotilohana21)
 -[Maira Arshad](https://github.com/Mairaarshad19)
 -[Rohan Mahanta](https://github.com/rohanmahanta2005-max) 
 [Vinay S Kumar](https://github.com/vinayskumar25507)
