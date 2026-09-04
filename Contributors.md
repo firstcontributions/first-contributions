@@ -79,6 +79,7 @@ vijyot silare
 -[vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 - [ralf-meca](https://github.com/ralf-meca)
 -[emine-cakal](https://github.com/EmineCakal5)
+- [kuma](https://github.com/kuma)
 - [Cory Sands](https://github.com/CorySands)
 - [Fernando Luis](https://github.com/Fernando-Alexander)
 - [Tejeswar Achari Vadla](https://github.com/TejeswarAchari)
