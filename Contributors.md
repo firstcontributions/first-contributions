@@ -3,6 +3,7 @@
 -[Maira Arshad](https://github.com/Mairaarshad19)
 -[Rohan Mahanta](https://github.com/rohanmahanta2005-max) 
 [Vinay S Kumar](https://github.com/vinayskumar25507)
+[Harsh Pandey](https://github.com/harshpandey0308s)
 - [Kuba Slowikowski](https://github.com/Kuba70)
 - [Aaryan C Gole](https://github.com/)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
