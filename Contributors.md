@@ -41,6 +41,7 @@ zzang001
 vijyot silare
 - [Cristian](https://github.com/Cristian212502)
 - [Sahibjeet Singh](https://github.com/Sahib-11)
+- [Nethmika Kumarasiri] (https://github.com/nethmika4881)
 - [Ryan V] (https://github.com/ryanvincoy11)
 - [jesse](https://github.com/jessejkeliot)
 - [nikhil singh](https://github.com/nikhilnirwan97)
@@ -96,6 +97,7 @@ vijyot silare
 - [Fernando Sales](https://github.com/fernandosales15)
 - [Ahmed Hewidi](https://github.com/ahmed4170)
 - [Rohit More](https://github.com/rohitmore2020)
+- [Rishit Singh Mahur](https://github.com/Rishit0007)
 - [Nao](https://github.com/Test2)
 - [PyLocalDev](https://github.com/PyLocalDev)
 - [MetaKode](https://github.com/MetaKode)
@@ -1741,6 +1743,7 @@ niceshowmini
 - [Rohitneverest]
 - [Sudhar]
 - [Liker]
+- [Samuel Eduardo Guzman](https://github.com/Vrai4820)
 - [seungseung123](https://github.com/seungseung123)
 - [Abhishek Singh](https://github.com/Abhi13shek)
 - [Hamid Ali](https://github.com/hamidali54)
