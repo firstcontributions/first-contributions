@@ -1743,6 +1743,7 @@ niceshowmini
 - [Rohitneverest]
 - [Sudhar]
 - [Liker]
+- [Samuel Eduardo Guzman](https://github.com/Vrai4820)
 - [seungseung123](https://github.com/seungseung123)
 - [Abhishek Singh](https://github.com/Abhi13shek)
 - [Hamid Ali](https://github.com/hamidali54)
