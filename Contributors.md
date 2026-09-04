@@ -1,6 +1,7 @@
 -[Badri Vishal Pandey]
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
 -[Awesome Yeti](https://github.com/AwesomeYeti)
+-[Anurag Lengure](https://github.com/anulengure5)
 -[Joti Lohana](https://github.com/jotilohana21)
 -[Maira Arshad](https://github.com/Mairaarshad19)
 -[Rohan Mahanta](https://github.com/rohanmahanta2005-max) 
