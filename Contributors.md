@@ -13,6 +13,7 @@
 - Umair Ashraf
 - [Rushikesh Rathod](https://github.com/rushirathod22)
 - [Aya Boukhris](https://github.com/Aya-Bs)
+- [Nandhakumar Murugan](https://github.com/nandhakumar-murugan)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Idhayathulla](https://github.com/idhayathulla-dev)
