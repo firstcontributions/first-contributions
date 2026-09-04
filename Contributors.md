@@ -1988,6 +1988,7 @@ Amna Naeem
 - [IJin511](https://github.com/IJin511)
 - [Aamir](https://github.com/AamirMNAamir)
 - [Aakash](https://github.com/aakashkadlak)
+- [Jan Vicente] (https://github.com/jantristanmar-vicente)
 - [Tanishka Suryawanshi](https://github.com/ts2004T)
 - [Christian Perez](https://github.com/p2rez)
 - [Aarjav Patriya](https://github.com/Aarjav0p)
