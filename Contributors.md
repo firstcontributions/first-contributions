@@ -2489,7 +2489,7 @@ andrewcodess
 - [Hernan Rico](https://github.com/hernanr2205)
 - [Himanshu J](https://github.com/Him1nshu)
 - [Himanshu](https://github.com/Hima1234gh/)
-- [Ayotunde Ayoola](https://github.com/officialAY)
+- [Ayo Ayoola](https://github.com/officialAY)
 - [w4ysonch](https://github.com/w4ysonch)
 - [Himanshu](https://github.com/W47K3RJO1N)
 - [Himanshu](https://github.com/himanshubit)
