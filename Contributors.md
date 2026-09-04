@@ -8,6 +8,7 @@
 - [Aaryan C Gole](https://github.com/)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Sourrrabh](https://github.com/Sourrrabh)
+- (Dany)[https://github.com:Danielreddy-Devops]
 - Umair Ashraf
 - [Rushikesh Rathod](https://github.com/rushirathod22)
 - [Aya Boukhris](https://github.com/Aya-Bs)
