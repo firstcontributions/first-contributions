@@ -2748,6 +2748,7 @@ andrewcodess
 - [Joseph Jonathan Fernandes](https://github.com/JosephJonathanFernandes)
 - [Navjot Singh](https://github.com/NavjotML)
 - [Navneet Anand Mishra](https://github.com/nav0804)
+- [akk1t](https://github.com/akk1t)
 - [Neha Bajaj](https://github.com/bajajneha27)
 - [Navami Bhat](https://github.com/Navami-Bhat)
 - [NelsonALima](https://github.com/NelsonALima)
