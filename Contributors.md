@@ -13,6 +13,7 @@
 - (Dany)[https://github.com:Danielreddy-Devops]
 - Umair Ashraf
 - [Rushikesh Rathod](https://github.com/rushirathod22)
+- [Juan Segura](https://github.com/JuanSeguraA)
 - [Aya Boukhris](https://github.com/Aya-Bs)
 - [Nandhakumar Murugan](https://github.com/nandhakumar-murugan)
 - [Minghui Wang](https://github.com/wmh123wmh1)
