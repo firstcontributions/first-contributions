@@ -66,6 +66,7 @@ vijyot silare
 - [Miguel R B Reis](https://github.com/MiguelReisB)
 - [Anos999](https://github.com/Anos999)
 - [Mohaddis Khan](https://github.com/mohaddiskhan)
+- [Ali Ejaz](https://github.com/AliEjaz24)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
 -[Victory Akunna](https://github.com/aviciinvestment)
 -[Shahriar Srabon](https://github.com/Srabon-bot)
