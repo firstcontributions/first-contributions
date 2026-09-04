@@ -3551,6 +3551,7 @@ andrewcodess
 - [Mdfaf](https://github.com/mdfaf)
 - [Shreyan Sharma](https://github.com/Sh3456)
 - [Rishi Chitnis](https://github.com/rishichitnis007)
+- [Filip Kampic](https://github.com/filipkampic)
 - [Shreya Das](https://github.com/sd2604)
 - [Baig Zaid](https://github.com/zack-Blade)
 - [Ayaan Kapoor](https://github.com/Ayaan-20-11)
