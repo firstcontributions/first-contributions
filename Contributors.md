@@ -21,7 +21,7 @@
 - [Garima Bisht](https://github.com/Garimabisht12)
 - (Dany)[https://github.com:Danielreddy-Devops]
 - Umair Ashraf
-- [Abhishek Dixit](https://github.com/abhi2oo3)
+- [Abhishek Dixit](https://github.com/Abhi2oo3)
 - [Tiffany Biggs](https://github.com/jamathdoc)
 - [Rushikesh Rathod](https://github.com/rushirathod22)
 - [Juan Segura](https://github.com/JuanSeguraA)
