@@ -10,6 +10,7 @@
 - [Kuba Slowikowski](https://github.com/Kuba70)
 - [Aaryan C Gole](https://github.com/)
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
+- [Baoxing Lu](https://github.com/lubaoxing3-alt)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Sourrrabh](https://github.com/Sourrrabh)
 - [Garima Bisht](https://github.com/Garimabisht12)
