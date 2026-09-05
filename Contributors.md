@@ -13,6 +13,7 @@
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Baoxing Lu](https://github.com/lubaoxing3-alt)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
+- [Tafajjul Khan](https://github.com/tafajjul-khan)
 - [Sourrrabh](https://github.com/Sourrrabh)
 - [Garima Bisht](https://github.com/Garimabisht12)
 - (Dany)[https://github.com:Danielreddy-Devops]
