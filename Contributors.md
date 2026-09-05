@@ -9,6 +9,7 @@
 [Harsh Pandey](https://github.com/harshpandey0308s)
 - [Kuba Slowikowski](https://github.com/Kuba70)
 - [Aaryan C Gole](https://github.com/)
+- [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Sourrrabh](https://github.com/Sourrrabh)
 - [Garima Bisht](https://github.com/Garimabisht12)
