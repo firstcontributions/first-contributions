@@ -272,6 +272,7 @@ vijyot silare
 - [Swagat Samal] (https://github.com/Swagat-Samal)
 - [Salih Mert Çetin](https://github.com/DonatusBarlas)
 - [Parth Pawar](https://github.com/parth-pawar)
+-[Usman Alam](https://github.com/usmancreation)
 - [Anmol Kumar](https://github.com/Anmol-001)
 - [Mohammad Qais Khan](https://github.com/qaiiisgit)
 - [Sheldonzk](https://github.com/Sheldonzk)
