@@ -513,7 +513,7 @@ Suraj Kumar i am not gonna provide any link
 - [MIYYAPURAMSAIVARUN_BT2024146](https://github.com/Varun576253)
 - [thelazywebdev](https://github.com/thelazywebdev)
 - MZS
-- [Vamsi Battula](https://github.com/vamsib77-ux)
+- [Vamsi K Battula](https://github.com/vamsib77-ux)
 - [Dhanush Repalle](https://github.com/DhanushDev311)
 - [Punith M Reddy](https://github.com/punith1206)
 - [Addoroar](https://github.com/Addoroar)
