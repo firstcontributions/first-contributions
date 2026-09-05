@@ -5292,4 +5292,6 @@ abhinav abhinav
 - [Andrian Maulana](https://github.com/ANDRI1AN)
 - [Shaiban Faraz Khan](https://github.com/shaibanfarazkhan)
 - [alderley](https://github.com/Web-Site-ux)
-  [Alexis Rivadeneyra](https://github.com/alexisRivaa)
+[Alexis Rivadeneyra](https://github.com/alexisRivaa)
+
+Shreyansh
