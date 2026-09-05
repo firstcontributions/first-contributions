@@ -11,6 +11,7 @@
 - [Aaryan C Gole](https://github.com/)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Sourrrabh](https://github.com/Sourrrabh)
+- [Garima Bisht](https://github.com/Garimabisht12)
 - (Dany)[https://github.com:Danielreddy-Devops]
 - Umair Ashraf
 - [Tiffany Biggs](https://github.com/jamathdoc)
