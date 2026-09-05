@@ -94,6 +94,7 @@ vijyot silare
 - [Dean-op](https://github.com/Dean-op)
 - [Sarbajit Sengupta](https://github.com/Sarbajit-Sengupta)
 - [Shalini Jaiswal](https://github.com/ShaliniGit77)
+- [Jiku0123](https://github.com/Jiku0123)
 - Gokul Sabari
 - [Wick](https://github.com/vick42uho)
 - [Sunil Sonu](https://github.com/sunilsonumonu12)
