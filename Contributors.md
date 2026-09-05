@@ -5305,7 +5305,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Vishal Kumar](https://github.com/Vishaldubey2210)
 - [Mohamad Azhar](https://github.com/UN64DD)
 - [Angel Madueme](https://github.com/angel-madueme)
-- [SakshiBhosale] (https://github.com/sakshi-db) - My First Open Source Contribution!!
+- [Sakshi Bhosale] (https://github.com/sakshi-db) - My First Open Source Contribution!!
 - [TermuxDev](https://github.com/TermuxDev)
 - [Seonga12](https://github.com/Seonga12)
 - [rhalscjf78-png](https://github.com/rhalscjf78-png)
