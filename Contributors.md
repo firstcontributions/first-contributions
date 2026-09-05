@@ -156,6 +156,7 @@ vijyot silare
 - [Utkarsh Arya](https://github.com/Utkarsh3725)
 - [Adarsh Singh](https://github.com/adarshsingh2109)
 - [Rafael Pioto](https://github.com/piotogomes)
+[Usman Alam](https://github.com/usmancreation)
 - [Rakeeb Abdullah](https://github.com/Rakeeb-Abdullah)
 - [Santiago Vasco](https://github.com/Vazkoo)
 - [Atharva Gaur](https://github.com/Atharvagaur)
