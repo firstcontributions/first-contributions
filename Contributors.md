@@ -2629,6 +2629,7 @@ andrewcodess
 - [Jaydip Koriya](https://github.com/jaydipKoriya)
 - [Pooja] (https://github.com/pd2025)
 - [JulianoCLI](https://github.com/JulianoCLI)
+- [feather](https://github.com/featherbouquet)
 - [Jumpr15] (https://github.com/Jumpr15)
 - [Junior-2103](https://github.com/Junior-2103)
 - [Iamkobie](https://github.com/Iamkobie)
