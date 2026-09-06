@@ -70,6 +70,7 @@ vijyot silare
 - [nikhil singh](https://github.com/nikhilnirwan97)
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
+- Davide
 - [cetarchon](https://github.com/cetarchon)
 - [Sagar Gusain](https://github.com/Jod4968)
 -[Aditya Dubey](https://github.com/dubeyaditya543/first-contributions.git)
