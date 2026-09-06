@@ -7,6 +7,7 @@ Dev Raj (Perumalla)
 -[Badri Vishal Pandey]
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
 -[OM AHIRE](https://github.com/om-ahire)
+-[Vitor Santos](https://github.com/euvitor)
 -[Keshav Sharma](https://github.com/Code-Keshav-1947)
 -[Awesome Yeti](https://github.com/AwesomeYeti)
 -[Abdullah Idrees](https://github.com/Abdullah-eng40)
