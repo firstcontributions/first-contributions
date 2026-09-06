@@ -1053,6 +1053,7 @@ nathan practice here
 - [Lavanya N M](https://github.com/Lavanya-N24)
 - [Nico ](https://github.com/nicotrilles)
 - [fungu5](https://github.com/fungu5)
+- [DanielAlvAlf](https://github.com/DanielAlvAlf)
 - BT2024166
 - [Rupesh Thapa](https://github.com/rupeshthapa9700)
 - [Aswitocom] (https://github.com/aswitocom)
@@ -5449,3 +5450,4 @@ Shreyansh
 - [Alolika] (https://github.com/alolika2002)
 - [yousef] (https://github.com/yousef-rady3)
 - [Isaac Atkinson] (https://github.com/Isaac-Atkinson)
+- [Dani] (https://github.com/DanielAlvAlf)
