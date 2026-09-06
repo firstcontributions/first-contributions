@@ -5454,3 +5454,4 @@ Shreyansh
 - [Isaac Atkinson] (https://github.com/Isaac-Atkinson)
 - [Dani] (https://github.com/DanielAlvAlf)
 - [Paul] (https://github.com/pjdsags96)
+- [Tarun Malik](https://github.com/tarunmalik2912-claude)
