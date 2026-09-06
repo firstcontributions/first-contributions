@@ -78,7 +78,7 @@ vijyot silare
 - [Ali Wael Mohamed Ali](https://github.com/Ali-w908)
 - [Arda Aras Çavdur](https://github.com/Arda-Aras103)
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
-- [Veeradev] (https://github.com/Cveerababu15)
+- [Veeradev](https://github.com/Cveerababu15)
 - [Nashiru Muniru] (https://github.com/nashtgc)
 - [Fahidul Islam Taspi](https://github.com/taspuu)
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
