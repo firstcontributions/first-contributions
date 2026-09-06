@@ -314,6 +314,7 @@ siddhu
 - Parth Pawar
 - Where are you from guy's
 - Abishek N
+- Aaditya Pala
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
 - Vedansh & Yug 
 - [dumbSahaj](https://github.com/dumbSahaj)
