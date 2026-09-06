@@ -1,4 +1,8 @@
+
 -[Thorat Sayali](https://github.com/thoratsayali517)
+
+-[t.sumit.dev](https://github.com/t-sumit-dev)
+
 [Vishnu Gnana] (https://github.com/KoppisettiGnanaVishnu)
 -[Badri Vishal Pandey]
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
@@ -189,6 +193,7 @@ vijyot silare
 - [Srijan Sarkar](https://github.com/Srijansarkar17)
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [ashxris](https://github.com/ashxris)
+- [Atharv Lokhande](https://github.com/atharv-06)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Rishav](https://github.com/rishav-netizen)
 - [<GitHub hamano>](https://github.com/<GitHub toshikazu-hamano>)
@@ -387,6 +392,7 @@ vijyot silare
 -[Aloka] (https://github.com/aloka-pa)
 - [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
+- [Aman Joshi](https://github.com/Code-Breaker-Ctrl)
 - [Aman Raj](https://github.com/aman-raj-071)
 -[Akshat Parashar](https://github.com/akshatparashar)
 - [Siddhartha](https://github.com/siddhartha3066)
