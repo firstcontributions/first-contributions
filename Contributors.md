@@ -28,6 +28,7 @@
 - [Rushikesh Rathod](https://github.com/rushirathod22)
 - [Juan Segura](https://github.com/JuanSeguraA)
 - [Aya Boukhris](https://github.com/Aya-Bs)
+- [Valeria Calderon Triana](https://github.com/valecalderon)
 - [Nandhakumar Murugan](https://github.com/nandhakumar-murugan)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - [Soumyajit Ghosh](https://github.com/somuai)
