@@ -37,6 +37,7 @@ Dev Raj (Perumalla)
 - [Valeria Calderon Triana](https://github.com/valecalderon)
 - [Nandhakumar Murugan](https://github.com/nandhakumar-murugan)
 - [Minghui Wang](https://github.com/wmh123wmh1)
+- Mavi  
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Shubham Kurhe](https://github.com/shubh7979)
 - [Idhayathulla](https://github.com/idhayathulla-dev)
