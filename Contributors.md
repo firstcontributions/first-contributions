@@ -43,6 +43,7 @@ Jainil Chavda
 - [Abhishek Dixit](https://github.com/Abhi2oo3)
 - [Tiffany Biggs](https://github.com/jamathdoc)
 - [Rushikesh Rathod](https://github.com/rushirathod22)
+- [Aryan Shivhare](https://github.com/aryanshivhare62)
 - [Juan Segura](https://github.com/JuanSeguraA)
 - [Aya Boukhris](https://github.com/Aya-Bs)
 - [Valeria Calderon Triana](https://github.com/valecalderon)
