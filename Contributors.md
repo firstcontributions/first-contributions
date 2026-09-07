@@ -1952,6 +1952,7 @@ Amna Naeem
 - [Akshit Goel](https://github.com/aclox)
 - [Aleem](https://github.com/Aleem-628296)
 - [Ali Ali](https://github.com/AlAl45643)
+- [Alejandro Serna](https://github.com/AlejandroSernaTovar)
 - [Axsz] (https://github.com/Axsz-lol)
 - [Nathan Donley](https://github.com/N8theGr8est)
 - [Alex](https://github.com/Neznix)
