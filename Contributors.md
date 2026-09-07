@@ -443,6 +443,7 @@ Shaurya522 from The Dooon School
 - [Luther]
 - Axe was here
 - wshadiaow
+- knyk0
 - [Sorin]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
