@@ -60,6 +60,7 @@ Aman alam
 dayanand s
 King
 zzang001
+Rishabh Gupta
 vijyot silare
 - [Cristian](https://github.com/Cristian212502)
 - [Sahibjeet Singh](https://github.com/Sahib-11)
