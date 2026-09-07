@@ -2729,6 +2729,7 @@ andrewcodess
 - [Loyd Ngei](https://github.com/LoydNgei)
 - [Lucas-Hayes](https://github.com/hayeslucas128-cmyk)
 - [LuckyGautam](https://github.com/LuckyG05)
+- Ishita Narang
 - [Luigi Moro Turina](https://github.com/LuigiMTurina)
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
 - [Luka](https://github.com/LukachuPro88)
