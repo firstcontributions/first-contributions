@@ -107,6 +107,7 @@ vijyot silare
 -[Victory Akunna](https://github.com/aviciinvestment)
 -[Shahriar Srabon](https://github.com/Srabon-bot)
 -[Rajanikant Singh](https://github.com/rajanikant04)
+-[Sanskar Omer] (https://github.com/SanskarOmer)
 [VijayReddy Maram](https://github.com/MaramVijayreddy)
 -[vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 - [ralf-meca](https://github.com/ralf-meca)
