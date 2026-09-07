@@ -5485,3 +5485,4 @@ Shreyansh
 - [Prince Badsiwal (Edge AI & Android)](https://github.com/PrinceBad)
 - [Shardul Desai] (https://github.com/Shardul-Desai10)
 - [Haymanot Getachew](https://github.com/HaymiG)
+- [Sathi Deb](https://github.com/sathideb)
