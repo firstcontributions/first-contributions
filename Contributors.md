@@ -92,6 +92,7 @@ vijyot silare
 - [Mohaddis Khan](https://github.com/mohaddiskhan)
 - [Ali Ejaz](https://github.com/AliEjaz24)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
+[Ridwan Kehinde Nasirudeen](https://github.com/Kenny214-apple)
 -[Victory Akunna](https://github.com/aviciinvestment)
 -[Shahriar Srabon](https://github.com/Srabon-bot)
 -[Rajanikant Singh](https://github.com/rajanikant04)
