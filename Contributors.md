@@ -5475,4 +5475,4 @@ Shreyansh
 - [Kushal Ghosh](https://github.com/kushalkumarghosh)
 -Mahfuj Rahman
 - [Shivam Pandey](https://github.com/shivampandey261)
-- [Prince Badsiwal](https://github.com/PrinceBad)
+- [Prince Badsiwal (Edge AI & Android)](https://github.com/PrinceBad)
