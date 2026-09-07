@@ -1,3 +1,4 @@
+Om Ranjan https://github.com/omranjan07
 Dev Raj (Perumalla)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[Thorat Sayali](https://github.com/thoratsayali517)
@@ -60,6 +61,7 @@ Aman alam
 dayanand s
 King
 zzang001
+Rishabh Gupta
 vijyot silare
 - [Cristian](https://github.com/Cristian212502)
 - [Sahibjeet Singh](https://github.com/Sahib-11)
@@ -441,6 +443,7 @@ Shaurya522 from The Dooon School
 - [Luther]
 - Axe was here
 - wshadiaow
+- knyk0
 - [Sorin]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
@@ -5457,3 +5460,5 @@ Shreyansh
 - [Paul] (https://github.com/pjdsags96)
 - [Tarun Malik](https://github.com/tarunmalik2912-claude)
 - [zxy](https://github.com/bdbcx)
+- [Kushal Ghosh](https://github.com/kushalkumarghosh)
+
