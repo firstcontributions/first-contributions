@@ -3,7 +3,8 @@ Dev Raj (Perumalla)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[t.sumit.dev](https://github.com/t-sumit-dev)
-
+Jainil Chavda
+-[Jainil26](https://github.com/Jainil26)
 [Vishnu Gnana] (https://github.com/KoppisettiGnanaVishnu)
 -[Badri Vishal Pandey]
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
