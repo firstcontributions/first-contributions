@@ -75,6 +75,7 @@ vijyot silare
 - Davide
 - [cetarchon](https://github.com/cetarchon)
 - [Sagar Gusain](https://github.com/Jod4968)
+- [Nishant Pal](https://github.com/Nishant5623)
 -[Aditya Dubey](https://github.com/dubeyaditya543/first-contributions.git)
 -[Prathmesh Palkurtiwar](https://github.com/Prathmesh1901)
 - [Tavion Britt](https://github.com/TavionK)
