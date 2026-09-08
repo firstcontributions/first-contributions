@@ -1,8 +1,8 @@
 - [Aditya Tiwari](https://github.com/AdityaTiwari0890)
 - [Angkon Kar](https://github.com/Angkon-Kar)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
-- [wadiahm](https://github.com/wadiahm)
-- Pragati Patel[(https://github.com/Pragatipatel99)]
+
+
 Om Ranjan https://github.com/omranjan07
 - [Rahul Nashier](https://github.com/rahulnashier)
 Dev Raj (Perumalla)
@@ -207,6 +207,7 @@ vijyot silare
 - [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
+- [Derik Munoz](https://github.com/derikmunoz3009-netizen)
 - [Sri Naga Charani Ariga](https://github.com/cherry51015)
 - [Guilherme Luigi](https://github.com/GuiiLG) 
 - [Leidy Caso](https://github.com/LeidyCaso)
