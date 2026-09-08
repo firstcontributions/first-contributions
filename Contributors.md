@@ -1,6 +1,7 @@
 - [Aditya Tiwari](https://github.com/AdityaTiwari0890)
 - [Angkon Kar](https://github.com/Angkon-Kar)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
+- [wadiahm](https://github.com/wadiahm)
 - Pragati Patel[(https://github.com/Pragatipatel99)]
 Om Ranjan https://github.com/omranjan07
 - [Rahul Nashier](https://github.com/rahulnashier)
