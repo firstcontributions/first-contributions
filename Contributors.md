@@ -363,6 +363,7 @@ siddhu
 - [MichaelYu](https://github.com/MichaelYu)
 - [nick]
 - [Nandini Bansal]
+- [Nicolas Carrillo] (https://github.com/iamnicocr)
 - [Natasha Ringane] (https://github.com/natasha-snow)
 - [Onkar Raskar] 
 - [Mr.seal]
