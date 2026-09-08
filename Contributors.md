@@ -1,6 +1,7 @@
 - [Angkon Kar](https://github.com/Angkon-Kar)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
 
+
 Om Ranjan https://github.com/omranjan07
 Dev Raj (Perumalla)
 -[Thorat Sayali](https://github.com/thoratsayali517)
@@ -190,6 +191,7 @@ vijyot silare
 - [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
 - [Ana Guerrero](https://github.com/AnaGuerrerov)
+- [Derik Munoz](https://github.com/derikmunoz3009-netizen)
 - [Sri Naga Charani Ariga](https://github.com/cherry51015)
 - [Guilherme Luigi](https://github.com/GuiiLG) 
 - [Leidy Caso](https://github.com/LeidyCaso)
