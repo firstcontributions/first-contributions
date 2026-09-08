@@ -5542,3 +5542,4 @@ Shreyansh
 - [terrysmithh17-sudo](https://github.com/terrysmithh17-sudo)
 - [Marcos López Camarillo](https://github.com/MarcosLopezCamarillo)
 [Ahmad Bilal](https://github.com/AhmadBilalDSA) 
+- [Adrian Jacorzynski](https://github.com/ajacorzynski) 
