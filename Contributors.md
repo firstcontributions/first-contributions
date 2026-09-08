@@ -200,6 +200,7 @@ vijyot silare
 - [SingidiSaiNagaSudheer](https://github.com/Sudheer625)
 - Roberto de Oliveira Brito Filho
 - Sahil S
+- Bella Broker
 - Millebisous
 - Matthew Kirk
 - Sumit Maji (https://github.com/Sumit-Maji07)
