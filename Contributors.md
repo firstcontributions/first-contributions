@@ -2763,6 +2763,7 @@ andrewcodess
 - [Lottie Judge](https://github.com/lottiejudge-source)
 - [Louwrens Költzow](https://github.com/KoltzowLJ)
 - [Loyd Ngei](https://github.com/LoydNgei)
+- [Daniel Kleeman](https://github.com/danielkleeman6-blip)
 - [Lucas-Hayes](https://github.com/hayeslucas128-cmyk)
 - [LuckyGautam](https://github.com/LuckyG05)
 - Ishita Narang
