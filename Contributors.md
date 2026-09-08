@@ -1,6 +1,6 @@
 - [Angkon Kar](https://github.com/Angkon-Kar)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
-
+- Pragati Patel[(https://github.com/Pragatipatel99)]
 Om Ranjan https://github.com/omranjan07
 Dev Raj (Perumalla)
 -[Thorat Sayali](https://github.com/thoratsayali517)
