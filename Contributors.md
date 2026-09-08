@@ -3947,6 +3947,7 @@ andrewcodess
 - [Sebastian Sarcos](https://github.com/SSarcos115)  
 - [Danish Ahmad](https://github.com/danishmbox)
 - [Aadarsh](https://github.com/sudo-aadarsh)
+- [Brennan Smith]
 - [Riya Dixit](https://github.com/riyadixit-rd)
 - [rmxob](https://github.com/rmxob)
 - [Saket Raj](https://github.com/saketraj234)
