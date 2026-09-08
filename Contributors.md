@@ -102,6 +102,7 @@ vijyot silare
 - [Nashiru Muniru] (https://github.com/nashtgc)
 - [Fahidul Islam Taspi](https://github.com/taspuu)
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
+- [Rishi Sai] (https://github.com/rishi110903)
 - [Abbas Noor] (https://github.com/Abbas-boop-sys/webflyx)
 - [Ahmad Mozaik] (https://github.com/ahmadmozaik/)
 - [Parthiv Rawat](https://github.com/parthivrawat)
