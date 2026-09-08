@@ -89,7 +89,7 @@ or hit the small arrow in upward direction in the right hand corner.
 
 Login to your Github Account with your username and password
 
-Submit changes on the origin branch if you want the changes to reflect in the master branch directly, else select the appropriate branch you want to push.
+Submit changes on the origin branch if you want the changes to reflect in the main branch directly, else select the appropriate branch you want to push.
 
 
 ## Submit your changes for review
@@ -102,7 +102,7 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/sublime-merge-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
 ## Where to go from here?
 
@@ -110,7 +110,7 @@ Congrats!  You have just completed the standard _fork -> clone -> edit -> PR_ wo
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
 
-### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
+### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutorials Using Other Tools

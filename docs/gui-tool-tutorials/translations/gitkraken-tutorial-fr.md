@@ -89,7 +89,7 @@ Cliquez sur le bouton Push dans la barre d'outils.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-origin.png" alt="origin or branch" />
 
-Soumettez les modifications sur la branche origin si vous souhaitez que les modifications se reflètent directement dans la branche master, sinon sélectionnez la branche appropriée que vous souhaitez pousser (push).
+Soumettez les modifications sur la branche origin si vous souhaitez que les modifications se reflètent directement dans la branche main, sinon sélectionnez la branche appropriée que vous souhaitez pousser (push).
 
 
 ## Soumettez vos modifications pour revision (review)
@@ -102,7 +102,7 @@ Maintenant, soumettez la pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Bientôt, je fusionnerai toutes vos modifications dans la branche master de ce projet. Vous recevrez un e-mail de notification une fois les modifications fusionnées (merge).
+Bientôt, je fusionnerai toutes vos modifications dans la branche main de ce projet. Vous recevrez un e-mail de notification une fois les modifications fusionnées (merge).
 
 ## Que faire ensuite ?
 

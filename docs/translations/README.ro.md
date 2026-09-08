@@ -1,5 +1,4 @@
 [![Surse Deschise Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![Licență: MIT](https://img.shields.io/badge/Licență-MIT-green)](https://opensource.org/licenses/MIT)
 [![Contribuitori](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -97,7 +96,7 @@ git push -u origin numele-ramurii-tale
   - ### Eroare de autentificare
    <pre>remote: Suportul pentru autentificarea prin parolă a fost eliminat la 13 august 2021. Vă rugăm să utilizați un token de acces personal în schimb.
 remote: Vă rugăm să consultați https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ pentru mai multe informații.
-fatal: Autentificare eșuată pentru 'https://github.com/<numele-tau>/first-contributions.git/'</pre>
+fatal: Autentificare eșuată pentru 'https://github.com/&lt;numele-tau&gt;/first-contributions.git/'</pre>
 înlocuind `numele-tau` cu numele dvs. de utilizator GitHub.
 
 Mergeți la [tutorialul GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) pentru a genera și configura o cheie SSH pentru contul dvs.

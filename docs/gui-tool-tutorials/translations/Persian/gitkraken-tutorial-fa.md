@@ -91,7 +91,7 @@ GitHub.com را در پنل سمت راست انتخاب کنید. زیر نام
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-origin.png" alt="origin or branch" />
 
-تغییرات را روی شاخه origin ارسال کنید اگر می‌خواهید تغییرات مستقیماً در شاخه master منعکس شوند، در غیر این صورت شاخه مناسبی را که می‌خواهید push کنید انتخاب کنید.
+تغییرات را روی شاخه origin ارسال کنید اگر می‌خواهید تغییرات مستقیماً در شاخه main منعکس شوند، در غیر این صورت شاخه مناسبی را که می‌خواهید push کنید انتخاب کنید.
 
 
 ## تغییرات خود را برای بررسی ارسال کنید
@@ -104,7 +104,7 @@ GitHub.com را در پنل سمت راست انتخاب کنید. زیر نام
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-به زودی من همه تغییرات شما را در شاخه master این پروژه ادغام خواهم کرد. هنگامی که تغییرات ادغام شدند، یک ایمیل اطلاع‌رسانی دریافت خواهید کرد.
+به زودی من همه تغییرات شما را در شاخه main این پروژه ادغام خواهم کرد. هنگامی که تغییرات ادغام شدند، یک ایمیل اطلاع‌رسانی دریافت خواهید کرد.
 
 ## از اینجا به کجا برویم؟
 

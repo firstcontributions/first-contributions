@@ -101,7 +101,7 @@ Agora envie a solicitação PR - pull request.
 
 <img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Em breve estarei mesclando todas as suas alterações no branch master deste projeto. Você receberá um e-mail de notificação assim que as alterações forem mescladas.
+Em breve estarei mesclando todas as suas alterações no branch main deste projeto. Você receberá um e-mail de notificação assim que as alterações forem mescladas.
 
 ## Para onde ir a partir daqui?
 

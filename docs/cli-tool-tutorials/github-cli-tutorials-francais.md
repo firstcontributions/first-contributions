@@ -70,7 +70,7 @@ en remplaçant `votre-nom-de-branche` par le nom de la branche que vous avez cr�
 - ### Erreur d'authentification
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<votre-nom-d'utilisateur>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;votre-nom-d'utilisateur&gt;/first-contributions.git/'</pre>
   Suivez le [tutoriel GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) sur la génération et la configuration d'une clé SSH pour votre compte.
 
 </details>
