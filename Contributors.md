@@ -105,6 +105,7 @@ vijyot silare
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 - [Rishi Sai] (https://github.com/rishi110903)
 - [Abbas Noor] (https://github.com/Abbas-boop-sys/webflyx)
+- [NK-247]
 - [Ahmad Mozaik] (https://github.com/ahmadmozaik/)
 - [Parthiv Rawat](https://github.com/parthivrawat)
 - [Tanmay Pandit](https://github.com/Tanmayp1308)
