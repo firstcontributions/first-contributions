@@ -5537,6 +5537,7 @@ Shreyansh
 - [Ferry Stevanus Cahya Wijaya](https://github.com/ferrystevanuscahyawijaya16)
 - [IurideOliver](https://github.com/IurideOliver)
 - [Dyaga Navadeep](https://github.com/Navadeep1707)
+-[goldi mishra](https://github.com/Goldiiii591)
 - [light1 1113](https://github.com/YQL885)
 - [ArsComputer](https://github.com/ArsComputer)
 - [terrysmithh17-sudo](https://github.com/terrysmithh17-sudo)
