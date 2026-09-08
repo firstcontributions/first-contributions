@@ -131,6 +131,7 @@ vijyot silare
 - [Cory Sands](https://github.com/CorySands)
 - [Fernando Luis](https://github.com/Fernando-Alexander)
 - [Tejeswar Achari Vadla](https://github.com/TejeswarAchari)
+- [Ashay](https://github.com/schschsch)
 - [VVNSPAVAN](https://github.com/VVNSPAVAN )
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
