@@ -92,7 +92,9 @@ vijyot silare
 - [nikhil singh](https://github.com/nikhilnirwan97)
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
+
 - Davide
+- [Lancelot](https://github.com/ayushhchavhan-bot)
 - [cetarchon](https://github.com/cetarchon)
 - [Sagar Gusain](https://github.com/Jod4968)
 - [Nishant Pal](https://github.com/Nishant5623)
