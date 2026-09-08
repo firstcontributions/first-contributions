@@ -6,6 +6,10 @@ Dev Raj (Perumalla)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[t.sumit.dev](https://github.com/t-sumit-dev)
+
+-[Vishnu Gnana] (https://github.com/KoppisettiGnanaVishnu)
+-[Badri Vishal Pandey]
+-[solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
 -[Dhanussh Shrekar] (https://github.com/dhanush106)
 Jainil Chavda
 -[Jainil26](https://github.com/Jainil26)
@@ -31,6 +35,7 @@ Jainil Chavda
 [Vinay S Kumar](https://github.com/vinayskumar25507)
 [Harsh Pandey](https://github.com/harshpandey0308s)
 - [Kuba Slowikowski](https://github.com/Kuba70)
+- [Anuj Asthana](https://github.com/ada2804)
 - [Aaryan C Gole](https://github.com/)
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Baoxing Lu](https://github.com/lubaoxing3-alt)
