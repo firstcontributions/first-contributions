@@ -10,7 +10,8 @@ Dev Raj (Perumalla)
 Jainil Chavda
 -[Jainil26](https://github.com/Jainil26)
 [Vishnu Gnana] (https://github.com/KoppisettiGnanaVishnu)
--[Badri Vishal Pandey]
+- [linzhiwei](https://github.com/linzhiwei2021/)
+- [Badri Vishal Pandey]
 -[Chithra Moorthy](https://github.com/chithramoorthy14)
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
 -[OM AHIRE](https://github.com/om-ahire)
