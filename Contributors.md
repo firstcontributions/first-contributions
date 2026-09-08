@@ -97,6 +97,7 @@ vijyot silare
 - Davide
 - [Lancelot](https://github.com/ayushhchavhan-bot)
 - [cetarchon](https://github.com/cetarchon)
+- [Ishmail](https://github.com/IshmailMg)
 - [Sagar Gusain](https://github.com/Jod4968)
 - [Nishant Pal](https://github.com/Nishant5623)
 -[Aditya Dubey](https://github.com/dubeyaditya543/first-contributions.git)
