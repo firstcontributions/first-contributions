@@ -1,4 +1,5 @@
 - [Ketul Makwana](https://github.com/ktul15)
+- [Trinh Dinh Nguyen Hung](https://github.com/hung148)
 - [seohyeonban](https://github.com/seohyeonban)
 - [Ibtesam Ul Hassan](https://github.com/ibsii404)
 - [Aditya Tiwari](https://github.com/AdityaTiwari0890)
