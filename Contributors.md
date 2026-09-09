@@ -5520,7 +5520,8 @@ Shreyansh
 - [Haloh](https://github.com/siiwnskkzoskw)
 - [yulaoshizuikeai](https://github.com/yulaoshizuikeai)
 - [Anushree Kanoongo](https://github.com/ANUSHREE-CYBER) 
-- [Achmad Kautsar](https://github.com/AchmadKautsar-developer)
+- [Achmad Kaut
+sar](https://github.com/AchmadKautsar-developer)
 - [Punith V](https://github.com/PUNITH-V) main
 - [Venkata Varshith Reddy M](https://github.com/varshithreddy39)
 - [Alolika] (https://github.com/alolika2002)
@@ -5531,6 +5532,7 @@ Shreyansh
 - [Tarun Malik](https://github.com/tarunmalik2912-claude)
 - [zxy](https://github.com/bdbcx)
 - [Kushal Ghosh](https://github.com/kushalkumarghosh)
+-Kacy Souvanna
 -Mahfuj Rahman
 - [Shivam Pandey](https://github.com/shivampandey261)
 - [Prince Badsiwal (Edge AI & Android)](https://github.com/PrinceBad)
