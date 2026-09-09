@@ -198,6 +198,7 @@ ManoGowda
 - [Kamalesh] (https://github.com/kamaleshpanda)
 - [Code-Dev] (https://github.com/code-devkmd)
 - [NithinKommi] (https://github.com/KOMMINITHIN)
+- [Tabiq Zargar](https://github.com/TabiqZargar)
 - [Jyothi Kumari](https://github.com/jyothicodex)
 - [Diego Aquino] (https://github.com/Dalqt-27)
 - [rover-3](https://github.com/rover-3)
