@@ -95,6 +95,7 @@ vijyot silare
 - [nikhil singh](https://github.com/nikhilnirwan97)
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
+- [Justin Meier](https://github.com/jpm435)
 
 - Davide
 - [Lancelot](https://github.com/ayushhchavhan-bot)
