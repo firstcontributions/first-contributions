@@ -5445,6 +5445,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Divyanshu](https://github.com/divyanshutata09/first-contributions)
 - - [Thevindu Fernando](https://github.com/ThevinduFernando2003)
 - [Vishal Kumar](https://github.com/Vishaldubey2210)
+- [Joao Telles](https://github.com/telles69)
 - [Mohamad Azhar](https://github.com/UN64DD)
 - [Angel Madueme](https://github.com/angel-madueme)
 - [SakshiBhosale] (https://github.com/sakshi-db)
