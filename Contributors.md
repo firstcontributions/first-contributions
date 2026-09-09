@@ -2,7 +2,8 @@
 - [Angkon Kar](https://github.com/Angkon-Kar)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
 - [LuisCRjs](https://github.com/LuisCRjs)
-- [Dylan Waddell](https://github.com/daw383)
+- [Jose Grijalva](https://github.com/JLG1995)
+
 Om Ranjan https://github.com/omranjan07
 - [Rahul Nashier](https://github.com/rahulnashier)
 Dev Raj (Perumalla)
