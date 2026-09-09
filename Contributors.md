@@ -19,7 +19,8 @@ Jainil Chavda
 -[Jainil26](https://github.com/Jainil26)
 [Vishnu Gnana] (https://github.com/KoppisettiGnanaVishnu)
 - [linzhiwei](https://github.com/linzhiwei2021/)
-- [Badri Vishal Pandey]
+-[Isaac Makeny](https://github.com/lm10-zaki)
+-  [Badri Vishal Pandey]
 -[Chithra Moorthy](https://github.com/chithramoorthy14)
 -[Carlos Posso](https://github.com/Carpos-C137)
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
