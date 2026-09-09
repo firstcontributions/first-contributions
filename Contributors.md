@@ -866,6 +866,7 @@ Ridwan Umar- [Nico]
 - [Thuta](https://github.com/thuta-dev)
 - [Lalitha Sri](https://github.com/LalithaSriSanthapur)
 - [Omerat]
+- [Rose](https://github.com/az-raven)
 - [Evelyn Torres](https://github.com/evetor419)
 - [Atharva Dhupkar](https://github.com/atharva1806)
 - [Annbee](https://github.com/itsannbee)
