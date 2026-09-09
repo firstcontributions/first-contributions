@@ -3698,6 +3698,7 @@ andrewcodess
 - [Suhawani Shukla](https://github.com/Shush-6)
 - [Alejandro Fernandez Gomez](https://github.com/KawaCoding)
 - [Carlos Castillo](https://github.com/crcastillocalderon)
+- [Jake Stallbaumer](https://github.com/jstall14)
 - [alexis moros](https://github.com/arekushisumorosu)
 - [Ahmed Mahmoud](https://github.com/AhmedMahmoud1447)
 - [Venkata Suresh Cherukuri](https://github.com/chvsuresh)
