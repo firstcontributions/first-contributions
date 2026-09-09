@@ -19,6 +19,7 @@ Jainil Chavda
 -[Chithra Moorthy](https://github.com/chithramoorthy14)
 -[Carlos Posso](https://github.com/Carpos-C137)
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
+- [Amaya Gillison]
 -[OM AHIRE](https://github.com/om-ahire)
 -[Akbar Farooq](https://github.com/akbarfarooq)
 -[Vitor Santos](https://github.com/euvitor)
@@ -472,6 +473,7 @@ siddhu
 - [Aqsa Jamali](https://github.com/AqsaAliRazaJamali)
 - Ran Wang https://github.com/ranw27798-ux
 -Rishit Raman
+- 3a2hn
 Hiroyuki19830823
 - [Dev Shah] (https://github.com/djs525)
 -[Bavan_Balaji A] (https://github.com/bavanbalaji007)
