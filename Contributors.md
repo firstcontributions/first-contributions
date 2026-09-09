@@ -107,6 +107,7 @@ vijyot silare
 - [TaeHo Lee](https://github.com/anton061311)
 - [Justin Meier](https://github.com/jpm435)
 
+[Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
 - [Lancelot](https://github.com/ayushhchavhan-bot)
 - [cetarchon](https://github.com/cetarchon)
