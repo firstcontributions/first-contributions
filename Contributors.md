@@ -6,6 +6,7 @@
 - [Haomou Ji](https://github.com/HaomouJi)
 - [Rahul Nashier](https://github.com/rahulnashier)
 Dev Raj (Perumalla)
+- [Pratham Gupta](https://github.com/guptapratham366-ws)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 - [AMIT YADAV]
