@@ -9,6 +9,7 @@ Om Ranjan https://github.com/omranjan07
 Dev Raj (Perumalla)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[Thorat Sayali](https://github.com/thoratsayali517)
+- [AMIT YADAV]
 -[t.sumit.dev](https://github.com/t-sumit-dev)
 -[Dhanussh Shrekar] (https://github.com/dhanush106)
 Jainil Chavda
