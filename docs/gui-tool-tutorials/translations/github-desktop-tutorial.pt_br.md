@@ -111,7 +111,7 @@ Comemore sua contribuição e compartilhe com seus amigos e seguidores acessando
 
 Você pode entrar na nossa equipe no Slack caso precise de alguma ajuda ou tenha alguma dúvida. [Entre no Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [Material adicional](../additional-material/git_workflow_senarios/additional-material.md)
+### [Material adicional](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutoriais usando outras ferramentas
 
