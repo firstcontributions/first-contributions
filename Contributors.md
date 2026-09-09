@@ -2222,6 +2222,7 @@ Amna Naeem
 - [Ashitha T](https://github.com/Ashi-tha)
 - [Angel](https://github.com/Angel-Gupta037)
 - [Walid Haddou](https://github.com/manytimes12)
+- [nayanguide](https://github.com/nayanguide)
 - [Ashritha Kadarla](https://github.com/ashrithakadarla)
 - [Aurelie Raout](https://github.com/Lilousound)
 - [Samuel Pertov](https://github.com/samuelpert)
