@@ -102,7 +102,7 @@
     const o = opts || {};
     const el = h('textarea', {
       class: 'input',
-      rows: o.rows || 3,
+      rows: o.rows || 2,
       placeholder: o.placeholder || '',
       value: o.value || '',
       onInput: function (e) {

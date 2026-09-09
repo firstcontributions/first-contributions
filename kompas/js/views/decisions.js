@@ -116,7 +116,7 @@
   }
 
   function argRow(decision, arg, listEl, onChange) {
-    const row = h('div', { class: 'arg-row ' + (arg.side === 'pro' ? 'side-pro' : 'side-con') },
+    const row = h('div', { class: 'arg-row stacked ' + (arg.side === 'pro' ? 'side-pro' : 'side-con') },
       ui.input({
         value: arg.text,
         placeholder: arg.side === 'pro' ? 'Co przemawia za?' : 'Co przemawia przeciw?',
@@ -126,6 +126,7 @@
           onChange();
         }
       }),
+      h('span', { class: 'tiny', text: 'jak mocno waży?' }),
       weightPicker(arg, onChange),
       ui.button('', {
         variant: 'icon',

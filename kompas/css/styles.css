@@ -353,6 +353,13 @@ select.input { cursor: pointer; }
 
 .arg-row { display: flex; align-items: center; gap: 8px; }
 .arg-row .input { flex: 1; }
+
+/* Argument decyzji: tekst dostaje calą szerokość, waga ląduje pod nim. */
+.arg-row.stacked { flex-wrap: wrap; row-gap: 6px; padding-bottom: 10px; border-bottom: 1px solid var(--line); }
+.arg-row.stacked:last-child { border-bottom: 0; padding-bottom: 0; }
+.arg-row.stacked .input { flex: 1 1 100%; }
+.arg-row.stacked .weight { margin-left: auto; }
+.arg-row.stacked .weight button { height: 30px; }
 .weight {
   display: inline-flex;
   border: 1px solid var(--line-strong);
@@ -421,9 +428,15 @@ select.input { cursor: pointer; }
 .mood-btn:hover { border-color: var(--accent); }
 .mood-btn.on { background: var(--accent-soft); border-color: var(--accent); color: var(--text); font-weight: 600; }
 
-.mood-chart { display: flex; align-items: flex-end; gap: 3px; height: 110px; }
-.mood-chart .bar { flex: 1; border-radius: 4px 4px 2px 2px; background: var(--bg-soft); position: relative; min-height: 4px; }
-.mood-chart .bar span { display: block; width: 100%; border-radius: 4px 4px 2px 2px; position: absolute; bottom: 0; }
+.mood-chart { display: flex; align-items: stretch; gap: 3px; height: 110px; }
+.mood-chart .bar {
+  flex: 1;
+  position: relative;
+  border-radius: 4px;
+  /* dni bez wpisu zostawiają samą kreskę u dołu */
+  background: linear-gradient(var(--bg-soft), var(--bg-soft)) bottom / 100% 4px no-repeat;
+}
+.mood-chart .bar span { position: absolute; left: 0; right: 0; bottom: 0; border-radius: 4px; }
 
 .range {
   width: 100%;
