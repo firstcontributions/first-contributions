@@ -419,6 +419,7 @@ siddhu
 - [Vikka]
 - [yigedu]
 - [Elijah](https://github.com/ElijahAvril)
+- [Nidhish K K](https://github.com/nidhishkk)
 - [Oscar] (https://github.com/oscarsandgren)
 - [Chuihao Zeng](https://github.com/zch)
 - [Andrew Bailey]
