@@ -387,6 +387,7 @@ siddhu
 - Aaditya Pala
 - [Luna]
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
+ - [Rahat Kabir](https://github.com/Rahat-Kabir)
 - Vedansh & Yug 
 - [dumbSahaj](https://github.com/dumbSahaj)
 -[z]
