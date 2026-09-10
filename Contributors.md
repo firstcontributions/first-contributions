@@ -1484,7 +1484,8 @@ kalyani
 - [Sakshi Lavekar](https://github.com/SakshiLavekar-btech)
 - [Yousuf Faizan](https://github.com/SyedYousufFaizan)
 niceshowmini
-- [Aman Rathore](https://github.com/AmanRathore-1)
+- [Aman Rathore](https://github.com/AmanRathore-1
+
 - [Muhammad Bilal Saeed](https://github.com/mbsaharan)
 - [doorwell](https://github.com/doorwell)
 - [Milosz Kordzinski](https://github.com/milekv)
@@ -1512,6 +1513,7 @@ niceshowmini
   [Emmanuel Fagite] (https://github.com/fagiteemmanuel4-bit)
 - [Anurag Tripathi](https://github.com/anurag24-26)
 - [pragad](https://github.com/M-pragad)
+[Alexis Ojeide]  (https://github.com/Alexisojeide)
 - Pramod2211
 - [nishika dhankhar]
 - [Nakul Iyer](https://github.com/naks123)
