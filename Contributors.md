@@ -428,6 +428,7 @@ siddhu
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
 - [yigedu]
+- [Shaoqiu Chen]
 - [Elijah](https://github.com/ElijahAvril)
 - [Nidhish K K](https://github.com/nidhishkk)
 - [Oscar] (https://github.com/oscarsandgren)
