@@ -947,6 +947,7 @@ Ridwan Umar- [Nico]
 - [Amar Kumar Thakur](https://github.com/supercell02)
 - [Riya J](https://github.com/Riyaj-ops)
 - [donneko](https://github.com/donneko)
+- [Zach Jacob] (https://github.com/zjacob4)
 - [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Wesley Walker](https://github.com/wwalker2)
