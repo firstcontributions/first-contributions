@@ -1535,6 +1535,7 @@ niceshowmini
 - [Shubham Kalihari](https://github.com/shubhamk09)
 - [sunshineniuniu04](https://github.com/sunshineniuniu04)
 - [Afzal Khan](https://github.com/khan1020)
+- [Sylvester Otieno](https://github.com/Sylvester976)
 - [Harshita](https://github.com/Hershita-debug)
 - [Parth Gautam](https://github.com/xparrth)
 - [Anushka Kawalkar](https://github.com/k-anushka14)
