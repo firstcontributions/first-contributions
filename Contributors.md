@@ -218,6 +218,7 @@ vijyot silare
 -Santiago
 - [giteen-shiro](https://github.com/giteen-shiro)
 * [Meenakshi M](https://github.com/meenakshim7)
+- 施想--图文建模
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
