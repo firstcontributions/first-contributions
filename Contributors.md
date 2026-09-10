@@ -14,7 +14,7 @@
 - [Rahul Nashier](https://github.com/rahulnashier)
 - [Hassan Abdelnaby](https://github.com/HassanA69)
 Dev Raj (Perumalla)
-- Sarah  Alves Rezende(https://github.com/sarahalvsr)
+- [Sarah  Alves Rezende] (https://github.com/sarahalvsr)
 - [Pratham Gupta](https://github.com/guptapratham366-ws)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[Thorat Sayali](https://github.com/thoratsayali517)
