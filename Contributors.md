@@ -141,6 +141,7 @@ vijyot silare
 - [Fahidul Islam Taspi](https://github.com/taspuu)
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 - [Rishi Sai] (https://github.com/rishi110903)
+- [Soumya Joshi](https://github.com/SoumyaJoshi03)
 - [Abbas Noor] (https://github.com/Abbas-boop-sys/webflyx)
 - [NK-247]
 - [Ahmad Mozaik] (https://github.com/ahmadmozaik/)
