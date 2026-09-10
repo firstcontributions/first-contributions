@@ -17,6 +17,7 @@ Dev Raj (Perumalla)
 - [Pratham Gupta](https://github.com/guptapratham366-ws)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 -[Thorat Sayali](https://github.com/thoratsayali517)
+- Rupanjana Choudhury (https://github.com/rupanjana15) (https://rupanjana.vercel.app/)
 - [AMIT YADAV]
 -[t.sumit.dev](https://github.com/t-sumit-dev)
 - [Julio Caesar Ray Bakar Gani](https://github.com/JulioCaesarRBG)
