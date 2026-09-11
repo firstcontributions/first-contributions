@@ -2840,6 +2840,7 @@ andrewcodess
 - [LuckyGautam](https://github.com/LuckyG05)
 - Ishita Narang
 - [Luigi Moro Turina](https://github.com/LuigiMTurina)
+- [Singosirutonamikaze](https://github.com/Singosirutonamikaze)
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
 - [Luka](https://github.com/LukachuPro88)
 - [Luohino](https://github.com/Luohino)
