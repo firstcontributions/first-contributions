@@ -5673,3 +5673,4 @@ sar](https://github.com/AchmadKautsar-developer)
 
 - [Sharath](https://github.com/Sharathmk2000594)
 -[Aryan Soni] (https://github.com/aryansoni25)
+- [Pranav Palled] (https://github.com/Pranav-Mahesh-Palled/first-contributions)
