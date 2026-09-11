@@ -124,6 +124,21 @@ git push -u origin <新分支的名称>
   否则你仍会被要求输入用户名和密码，从而导致认证错误。
 </details>
 
+## 使用 GitHub Desktop
+
+如果你更喜欢使用图形界面（GUI）工具而不是命令行，你可以使用 GitHub Desktop 来管理你的贡献。
+
+你可以通过以下步骤来使用它：
+
+1. 下载并安装 [GitHub Desktop](https://desktop.github.com/)。
+2. 登录你的 GitHub 账户。
+3. 将你 Fork 到自己账户下的仓库 Clone（克隆）到你的本地电脑。
+4. 创建一个新的分支，对文件进行修改（例如添加你的名字）。
+5. 提交（Commit）你的修改并 Push（推送）到远程仓库。
+6. 点击 **Preview Pull Request** 或直接在 GitHub 网站上创建 Pull Request。
+
+有关详细的图文教程，请参考下方的 [GitHub Desktop 教程](../gui-tool-tutorials/translations/Chinese/github-desktop-tutorial.zh-cn.md)。
+
 ## 提出 Pull Request 将你的修改供他人审阅
 
 前往你的 GitHub 代码仓库，你会看到一个 `Compare & pull request` 的按钮。点击该按钮。
