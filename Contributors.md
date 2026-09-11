@@ -1,6 +1,7 @@
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
 - [Ketul Makwana](https://github.com/ktul15)
+- [Mano J](https://github.com/mj)
 - [Milan Mahato](https://github.com/milanncodes)
 - [NlCK01](https://github.com/NlCK01)
 - [Trinh Dinh Nguyen Hung](https://github.com/hung148)
