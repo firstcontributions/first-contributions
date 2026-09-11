@@ -126,6 +126,7 @@ vijyot silare
 - [sabarees](https://github.com/sabarees19)
 - [TaeHo Lee](https://github.com/anton061311)
 - [Justin Meier](https://github.com/jpm435)
+- [Max Meijer](https://github.com/MaxMeijer-beep)
 
 [Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
