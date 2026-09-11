@@ -458,6 +458,7 @@ siddhu
 - [Nofal Kachhot] (https://github.com/codewithnofal)
 - [Olena Pometnova](https://github.com/Pometnova)
 - [prakash kumawat](https://github.com/prakashkumawat-dev)
+- [Coffeecat](https://github.com/Coffee-Kitty)
 - [Mollyb333]
 - [swdantran]
 - [AmnaNoorr] (https://github.com/AmnaNoorr/)
