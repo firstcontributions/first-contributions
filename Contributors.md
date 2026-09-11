@@ -5,6 +5,7 @@
 - [Milan Mahato](https://github.com/milanncodes)
 - [NlCK01](https://github.com/NlCK01)
 - [Trinh Dinh Nguyen Hung](https://github.com/hung148)
+- [Prathmesh Shinde](https://github.com/prathmeshshinde98)
 - [BrianL026](https://github.com/BrianL026)
 - [seohyeonban](https://github.com/seohyeonban)
 - [Ibtesam Ul Hassan](https://github.com/ibsii404)
