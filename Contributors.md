@@ -228,6 +228,7 @@ vijyot silare
 - [gtref](https://github.com/gtref)
 - Carlos Fructuosa
 - Aby M
+- Michael K.
 -Santiago
 - [giteen-shiro](https://github.com/giteen-shiro)
 * [Meenakshi M](https://github.com/meenakshim7)
