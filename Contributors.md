@@ -1740,6 +1740,7 @@ niceshowmini
   main
 - Kashish
 - [Kashish](https://github.com/Kashish1074)
+-[Prashani Bhagya](https://github.com/Prashani-beep)
 - [ChickyHuynh] (https://github.com/Chick25)
 - [DaaniMM](https://github.com/DaaniMM)
 - [Shireen] (https://github.com/shireenmne)
@@ -5661,4 +5662,7 @@ sar](https://github.com/AchmadKautsar-developer)
 - [Mohammad Gazori](https://github.com/MGazori)
 - [alsgor89-ops](https://github.com/alsgor89-ops)
 - [kshroud1](https://github.com/kshroud1)
-Victor Ornellas
+- Victor Ornellas
+- [Somnath More](https://github.com/somnath-more)
+
+
