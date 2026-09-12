@@ -7,6 +7,7 @@
 - [NlCK01](https://github.com/NlCK01)
 - [Trinh Dinh Nguyen Hung](https://github.com/hung148)
 - [Prathmesh Shinde](https://github.com/prathmeshshinde98)
+- haha
 - [BrianL026](https://github.com/BrianL026)
 - [seohyeonban](https://github.com/seohyeonban)
 - [Jerry Gergov](https://github.com/jerrygergov)
@@ -2832,6 +2833,7 @@ andrewcodess
 - [Lenin Goud Athikam](https://github.com/leninathikam)
 - [Leon](https://github.com/Leonels12)
 - Daniel Louie
+- ye Daniel is a cutie
 - [Liam Muro](https://github.com/liammuro)
 - [Likhitha](https://github.com/likhitha2005-alt)
 - [Lily](https://github.com/lilypandey)
