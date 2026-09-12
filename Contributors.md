@@ -3,6 +3,7 @@
 - [Ketul Makwana](https://github.com/ktul15)
 - [Manish Mani Dinkar](https://github.com/moneyyiiss)
 - [Mano J](https://github.com/mj)
+- [Prajit](https://github.com/imprajit)
 - [Milan Mahato](https://github.com/milanncodes)
 - [NlCK01](https://github.com/NlCK01)
 - [Trinh Dinh Nguyen Hung](https://github.com/hung148)
