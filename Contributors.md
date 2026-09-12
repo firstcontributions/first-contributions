@@ -78,6 +78,7 @@ Jainil Chavda
 - Umair Ashraf
 - [Abhishek Dixit](https://github.com/Abhi2oo3)
 - [Tiffany Biggs](https://github.com/jamathdoc)
+- [AaronRoggenland](https://github.com/Tryndaron)
 - [Rushikesh Rathod](https://github.com/rushirathod22)
 - [Aryan Shivhare](https://github.com/aryanshivhare62)
 - [Juan Segura](https://github.com/JuanSeguraA)
