@@ -30,11 +30,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Włącza Pages przy pierwszym uruchomieniu, żeby nie trzeba było
-      # klikać tego w ustawieniach repozytorium.
+      # Pages trzeba raz włączyć ręcznie: Settings → Pages → Source:
+      # "GitHub Actions". Token forka nie ma prawa zrobić tego sam.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       # Katalog kompas/ staje się korzeniem strony, więc apka siedzi
       # pod głównym adresem, a nie w podkatalogu /kompas/.
