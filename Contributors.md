@@ -26,6 +26,7 @@ Dev Raj (Perumalla)
 - [Darthika Merlin](https://github.com/darthika6)
 - [Pratham Gupta](https://github.com/guptapratham366-ws)
 -[Thorat Sayali](https://github.com/thoratsayali517)
+- [Karthikeya Thotamsetty] (https://github.com/karthikeyat18)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 - Rupanjana Choudhury (https://github.com/rupanjana15) (https://rupanjana.vercel.app/)
 - [AMIT YADAV]
