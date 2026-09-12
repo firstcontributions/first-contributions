@@ -145,7 +145,11 @@ body {
   line-height: 1.55;
   -webkit-font-smoothing: antialiased;
   position: relative;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
 }
+
+button, a, .chip, .day-dot, .mood-btn { touch-action: manipulation; }
 
 /* Dwie wolno dryfujące plamy światła pod całym interfejsem. */
 body::before,
@@ -265,7 +269,16 @@ p { margin: 0; }
 .page-head h1 + p { margin-top: 5px; }
 
 @media (max-width: 900px) {
-  .shell { grid-template-columns: 1fr; gap: 12px; padding: 10px; }
+  .shell {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    /* na iPhonie apka wchodzi pod notch i pasek gestu */
+    padding:
+      calc(10px + env(safe-area-inset-top))
+      calc(10px + env(safe-area-inset-right))
+      calc(10px + env(safe-area-inset-bottom))
+      calc(10px + env(safe-area-inset-left));
+  }
   .sidebar {
     top: 10px;
     z-index: 20;
@@ -402,6 +415,11 @@ p { margin: 0; }
   box-shadow: inset 0 1px 3px var(--shade), 0 0 0 3px var(--accent-soft);
 }
 select.input { cursor: pointer; }
+
+/* Poniżej 16px iOS sam przybliża widok przy wejściu w pole. */
+@media (max-width: 900px) {
+  .input { font-size: 16px; }
+}
 
 .field { display: flex; flex-direction: column; gap: 7px; }
 .field-label { font-size: .82rem; font-weight: 620; color: var(--text); }

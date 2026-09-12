@@ -90,5 +90,12 @@
   K.go = function (path) { location.hash = '#/' + path; };
   K.refresh = render;
 
+  // Offline działa tylko na http(s); z pliku na dysku nie ma czego rejestrować.
+  if ('serviceWorker' in navigator && location.protocol.indexOf('http') === 0) {
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register('sw.js').catch(function () {});
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', boot);
 })(window.K = window.K || {});
