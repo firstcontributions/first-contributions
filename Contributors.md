@@ -9,6 +9,7 @@
 - [Prathmesh Shinde](https://github.com/prathmeshshinde98)
 - haha
 - Maia
+- [Arav khandelwal](https://github.com/Aiboys1234)
 - [BrianL026](https://github.com/BrianL026)
 - [seohyeonban](https://github.com/seohyeonban)
 - [Jerry Gergov](https://github.com/jerrygergov)
