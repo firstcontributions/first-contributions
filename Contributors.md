@@ -73,7 +73,8 @@ Jainil Chavda
 - [Samuele Niccolai](https://github.com/SamueleNiccolai)
 - [Huy Dat Le](https://github.com/CheeseNacho2)
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
-- [Anand Kumar](https://github.com/anandkumarketha)
+- [Anand Kumar]
+- [NEZ04]
 - [Baoxing Lu](https://github.com/lubaoxing3-alt)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Tafajjul Khan](https://github.com/tafajjul-khan)
