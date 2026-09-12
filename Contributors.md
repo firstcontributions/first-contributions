@@ -17,6 +17,7 @@
 - [Angkon Kar](https://github.com/Angkon-Kar)
   [Harshi](https://github.com/harshiiii18)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
+- [Sidharth A](https://github.com/Blast-git)
 - [Madhumitha A](https://github.com/madhu250205)
 - [Cid Kagenou](https://github.com/cidkagenou198)
 - [Mateu](https://github.com/mateupac-ux)
