@@ -15,6 +15,7 @@
 - [Ibtesam Ul Hassan](https://github.com/ibsii404)
 - [Aditya Tiwari](https://github.com/AdityaTiwari0890)
 - [Angkon Kar](https://github.com/Angkon-Kar)
+  [Harshi](https://github.com/harshiiii18)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
 - [Madhumitha A](https://github.com/madhu250205)
 - [Cid Kagenou](https://github.com/cidkagenou198)
