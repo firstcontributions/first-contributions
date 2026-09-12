@@ -8,6 +8,7 @@
 - [Trinh Dinh Nguyen Hung](https://github.com/hung148)
 - [Prathmesh Shinde](https://github.com/prathmeshshinde98)
 - haha
+- Maia
 - [BrianL026](https://github.com/BrianL026)
 - [seohyeonban](https://github.com/seohyeonban)
 - [Jerry Gergov](https://github.com/jerrygergov)
