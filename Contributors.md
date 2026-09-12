@@ -126,7 +126,7 @@ Jainil Chavda
 - [Robiul Haque](https://github.com/r-rony08)
 - [mogeadis](https://github.com/mogeadis)
 dedsec
-Aman alam
+Aman Patchipulusu
 dayanand s
 King
 zzang001
