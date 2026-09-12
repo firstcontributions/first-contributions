@@ -2389,6 +2389,7 @@ Amna Naeem
 - [Brian Luporini](https://github.com/bluporini)
 - [Bruce4545](https://github.com/Bruce4545)
 - [Bruno Buss](https://github.com/bussbruno)
+- [Aditya Niture](https://github.com/aniture)
 - [Bruno Figueiredo](https://github.com/BrunollFigueiredo)
 - [Bulbul Malik](https://github.com/bulbulmalik)
 - [ByteTechno](https://github.com/ByteTechno)
