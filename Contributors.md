@@ -105,6 +105,7 @@ Jainil Chavda
 - [NEZ04](https://github.com/NEZ04)
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Thet Htut Naing](https://github.com/kothet007)
+- [Mihir Prajapati](https://github.com/Mihir4921)
 - [Shubham Kurhe](https://github.com/shubh7979)
 - [Idhayathulla](https://github.com/idhayathulla-dev)
 - [Jake Domabyl] (https://github.com/jpd254)
