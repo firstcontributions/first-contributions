@@ -48,18 +48,14 @@
 
   function render() {
     const habits = K.store.state.habits;
-    const draft = { value: '' };
 
-    const input = ui.input({
-      placeholder: 'np. 10 minut spaceru',
-      onInput: function (value) { draft.value = value; }
-    });
+    const input = ui.input({ placeholder: 'np. 10 minut spaceru' });
     input.addEventListener('keydown', function (e) {
       if (e.key === 'Enter') add();
     });
 
     function add() {
-      const name = draft.value.trim();
+      const name = input.value.trim();
       if (!name) return;
       K.store.update(function (s) {
         s.habits.push({ id: K.uid(), name: name, createdAt: new Date().toISOString(), log: {} });
