@@ -74,7 +74,6 @@ Jainil Chavda
 - [Huy Dat Le](https://github.com/CheeseNacho2)
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Anand Kumar]
-- [NEZ04]
 - [Baoxing Lu](https://github.com/lubaoxing3-alt)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Tafajjul Khan](https://github.com/tafajjul-khan)
@@ -96,6 +95,7 @@ Jainil Chavda
 - [Nandhakumar Murugan](https://github.com/nandhakumar-murugan)
 - [Minghui Wang](https://github.com/wmh123wmh1)
 - Mavi  
+- [NEZ04](https://github.com/NEZ04)
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Thet Htut Naing](https://github.com/kothet007)
 - [Shubham Kurhe](https://github.com/shubh7979)
