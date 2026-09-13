@@ -1,4 +1,3 @@
-- [Yuvarajah Divejikan](https://github.com/divejikan-yuvarajah)
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl) Data Science
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl)
 - [Gajjela Vamsi Krishna]  (https://github.com/vamsi313)
@@ -5745,3 +5744,4 @@ sar](https://github.com/AchmadKautsar-developer)
 - [Sammyteck](https://github.com/Sammyteck)
 - [Dang Long Nhat](https://github.com/NhatPrv)
 - [Etienne](https://github.com/elieffering-prog)
+- [Yuvarajah Divejikan](https://github.com/divejikan-yuvarajah)
