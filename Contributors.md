@@ -997,6 +997,7 @@ Ridwan Umar- [Nico]
 - [donneko](https://github.com/donneko)
 - [Zach Jacob] (https://github.com/zjacob4)
 - [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
+- [José Davi](https://github.com/jdavi-sc)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Wesley Walker](https://github.com/wwalker2)
 - [Rick Kyalo](https://github.com/muthokaricky-alt)ss
