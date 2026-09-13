@@ -993,6 +993,7 @@ Ridwan Umar- [Nico]
 - [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Wesley Walker](https://github.com/wwalker2)
+- [Rick Kyalo](https://github.com/muthokaricky-alt)ss
 - [Felipe Trajano](https://github.com/ftrajano)
 - [Chuck G](https://github.com/SJFrontinus)
 - [Ali Ibtisam](https://github.com/aliibtisam1001)
