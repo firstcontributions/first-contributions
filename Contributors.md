@@ -101,6 +101,7 @@ Jainil Chavda
 - [AaronRoggenland](https://github.com/Tryndaron)
 - [Rushikesh Rathod](https://github.com/rushirathod22)
 - [Aryan Shivhare](https://github.com/aryanshivhare62)
+- [Suriya Haidari](http://github.com/suriya-Haidari)
 - [Juan Segura](https://github.com/JuanSeguraA)
 - [Aya Boukhris](https://github.com/Aya-Bs)
 - [Valeria Calderon Triana](https://github.com/valecalderon)
