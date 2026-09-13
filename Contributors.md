@@ -525,6 +525,7 @@ siddhu
 - [Dhanush](https://github.com/dhanush080607)
 - [Kamal-Assudani](https://github.com/Kamal-Assudani)
 - [Muhammad08-dot](https://github.com/Muhammad08-dot)
+- [Aldanir]
 - [BP5751](https://github.com/BP5751)
 - [ehero](https://github.com/kdclll)
 - [Kunjesh](https://github.com/KunjeshM24)
