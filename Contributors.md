@@ -110,6 +110,7 @@ Jainil Chavda
 - [Mihir Prajapati](https://github.com/Mihir4921)
 - [Shubham Kurhe](https://github.com/shubh7979)
 - [Idhayathulla](https://github.com/idhayathulla-dev)
+- [RIVF](https://github.com/RIVF-ISAT-Fan)
 - [Jake Domabyl] (https://github.com/jpd254)
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
