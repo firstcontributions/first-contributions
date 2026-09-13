@@ -71,7 +71,7 @@
 Γιορτάστε τη συνεισφορά σας και μοιραστείτε τη με τους φίλους σας και τους ακόλουθούς σας πηγαίνοντας στην [ιστοσελίδα εφαρμογής](https://firstcontributions.github.io#social-share).
 
 
-### [Πρόσθετο υλικό](../additional-material/git_workflow_senarios/additional-material.md)
+### [Πρόσθετο υλικό](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Οδηγίες Χρήσης Άλλων Εργαλείων
 
