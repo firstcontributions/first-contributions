@@ -1,3 +1,4 @@
+- [Arafath] (https://github.com/ARAFATH-SH)
 - [Bhavya Patel](https://github.com/bhavya8121-spy)
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl) Data Science
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl)
