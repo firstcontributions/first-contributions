@@ -259,6 +259,7 @@ vijyot silare
 - [giteen-shiro](https://github.com/giteen-shiro)
 * [Meenakshi M](https://github.com/meenakshim7)
 - 施想--图文建模
+- [Ashwan kumar uyyala](https://github.com/Ashwan-uyyala)
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
