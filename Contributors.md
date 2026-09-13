@@ -134,6 +134,7 @@ Jainil Chavda
 - [Abhinab Chhetri](https://github.com/ABHINAB-CHHETRI)
 - [Robiul Haque](https://github.com/r-rony08)
 - [mogeadis](https://github.com/mogeadis)
+- [Rincis](https://github.com/RincisM)
 dedsec
 Aman Patchipulusu
 dayanand s
