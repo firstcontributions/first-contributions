@@ -3,6 +3,7 @@
 - [Mohammed Junaid](https://github.com/microdoomz)
 - [D Beekman](https://github.com/keredbeek) - Greetings Programs!
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
+- [Seongmin Oh (osm-dev-io)](https://github.com/osm-dev-io)
 - [Elena Georgiou](https://github.com/elenageo97)
 - [Ketul Makwana](https://github.com/ktul15)
 - [Manish Mani Dinkar](https://github.com/moneyyiiss)
