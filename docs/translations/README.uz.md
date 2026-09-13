@@ -83,7 +83,7 @@ Endi matn muharririda `Contributors.md` faylini oching, unga ismingizni qo'shing
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-Agar proyekt papkasiga o'tsangiz va `git status` buyrug'ini ishga tushirsangiz, o'zgarishlar borligini ko'rasiz.
+Agar loyiha papkasiga o'tsangiz va `git status` buyrug'ini ishga tushirsangiz, o'zgarishlar borligini ko'rasiz.
 
 `git add` buyrug'i yordamida hosil qilgan branchingizga o'zgarishlarni qo'shing:
 
