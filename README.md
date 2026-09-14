@@ -123,7 +123,8 @@ For example:
 
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
-```
+``` 
+Here you can copy the http link because it's important for beginner coders.
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
