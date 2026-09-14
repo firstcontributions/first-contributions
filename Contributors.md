@@ -1,3 +1,4 @@
+- [Nikhil kumar](https://github.com/N1kh1lKumar)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Christopher Kalolo](https://github.com/Mwendisule)
