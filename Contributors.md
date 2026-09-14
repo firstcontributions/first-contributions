@@ -22,6 +22,7 @@
 Dev Raj (Perumalla)
 - [Pratham Gupta](https://github.com/guptapratham366-ws)
 -[Thorat Sayali](https://github.com/thoratsayali517)
+- [Mohammed Haneefa Jafar](https://github.com/Jafarson11)
 -[Thorat Sayali](https://github.com/thoratsayali517)
 - Rupanjana Choudhury (https://github.com/rupanjana15) (https://rupanjana.vercel.app/)
 - [AMIT YADAV]
