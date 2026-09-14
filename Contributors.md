@@ -475,6 +475,7 @@ siddhu
 - update my name to  contributors list
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
+- [hi-there]
 - [yigedu]
 - [Shaoqiu Chen]
 - [Elijah](https://github.com/ElijahAvril)
