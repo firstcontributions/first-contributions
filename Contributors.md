@@ -1,5 +1,6 @@
 - [Kishor Rajbanshi](https://github.com/kishor-rajbanshi)
 - [Nikhil kumar](https://github.com/N1kh1lKumar)
+- - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Christopher Kalolo](https://github.com/Mwendisule)
