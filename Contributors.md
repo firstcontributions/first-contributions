@@ -1,8 +1,17 @@
+- [Nikhil kumar](https://github.com/N1kh1lKumar)
+- [Muhammad Faisal Amir](https://github.com/amirisback)
+- [Bouras Ioannis](https://github.com/SharkFace2310)
+- [Christopher Kalolo](https://github.com/Mwendisule)
+- [Arafath] (https://github.com/ARAFATH-SH)
+- [Bhavya Patel](https://github.com/bhavya8121-spy)
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl) Data Science
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl)
 - [Gajjela Vamsi Krishna]  (https://github.com/vamsi313)
 - [Mohammed Junaid](https://github.com/microdoomz)
 - [D Beekman](https://github.com/keredbeek) - Greetings Programs!
+- [Anmol Shukla](https://github.com/AnmolShukla397)
+- [Leonidas](https://github.com/leonidas6606)
+
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
 - [Ketul Makwana](https://github.com/ktul15)
@@ -59,6 +68,7 @@ Jainil Chavda
 -[OM AHIRE](https://github.com/om-ahire)
 -[Akbar Farooq](https://github.com/akbarfarooq)
 -[Vitor Santos](https://github.com/euvitor)
+-[Abhay Patil](https://github.com/user-abhay08)
 -[Keshav Sharma](https://github.com/Code-Keshav-1947)
 -[Awesome Yeti](https://github.com/AwesomeYeti)
 -[Suryadeep Akkinapelli](https://github.com/SuryaDeepAkkinapelli)
@@ -259,6 +269,7 @@ vijyot silare
 - [giteen-shiro](https://github.com/giteen-shiro)
 * [Meenakshi M](https://github.com/meenakshim7)
 - 施想--图文建模
+- [Ashwan kumar uyyala](https://github.com/Ashwan-uyyala)
 - [<GitHub naoyajojo>](https://github.com/<GitHub naoyajojo>)
 - Angshukana Haldar(https://github.com/Angs-8)
 - Sujeet Gupta
@@ -305,6 +316,7 @@ vijyot silare
 - [Srijan Sarkar](https://github.com/Srijansarkar17)
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [ashxris](https://github.com/ashxris)
+- [ashen] (https://github.com/ashen-v2)
 - [Atharv Lokhande](https://github.com/atharv-06)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
 - [Rishav](https://github.com/rishav-netizen)
@@ -467,6 +479,7 @@ siddhu
 - update my name to  contributors list
 - [Taylan D. Topcu](https://github.com/taylandenizdev)
 - [Vikka]
+- [hi-there]
 - [yigedu]
 - [Shaoqiu Chen]
 - [Elijah](https://github.com/ElijahAvril)
@@ -997,6 +1010,7 @@ Ridwan Umar- [Nico]
 - [donneko](https://github.com/donneko)
 - [Zach Jacob] (https://github.com/zjacob4)
 - [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
+- [José Davi](https://github.com/jdavi-sc)
 - [Fahad Shaikh](https://github.com/FahadS5534)
 - [Wesley Walker](https://github.com/wwalker2)
 - [Rick Kyalo](https://github.com/muthokaricky-alt)ss
@@ -1231,7 +1245,7 @@ nathan practice here
 - [Mohammed Metwally](https://github.com/MohammedMetw)
 - [Mohammed Atef](https://github.com/Mohammed-Atef2004)
 - [Evangeline Li](https://github.com/EvuhLi)
-
+- [Matt P.]
 - [Shivangani Sinha](https://github.com/shii002)
 - [Dima Kharchenko](https://github.com/dima-kharchenko)
 - [Atishay Jain](https://github.com/Atishay17)
@@ -1625,6 +1639,7 @@ niceshowmini
 - [Abhijeet Raj](https://github.com/Abhijeet-99-dev)
 - [Shivendra Bhardwaj](https://github.com/ZenzoSH)
 - [Nitin] (https://github.com/nitin3150)
+- [allucard11](https://github.com/allucard11)
 - [Aradhya Bhagwat] (https://github.com/Aradhya-Bhagwat)
 - [Abhiram Mandala](https://github.com/AbhiramMandala)
 - [Andy0613](https://github.com/Andy0613)
@@ -2785,6 +2800,7 @@ andrewcodess
 - [Juan Escobar]
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
+- [Harsh RK](https://github.com/harsh-rk28)
 - [Moatasem Elbosati] 
 - [Johnathan Orizaba](https://github.com/johnathanorizaba15-max)
 - [This is Linson Thomas Verghese and i want to you know the Jesus Christ is great and he loves you]
@@ -4223,6 +4239,7 @@ Twan Star
 - [Adil](https://github.com/meadil)
 - [Shivam](https://github.com/AFRADOX)
 - Anurag
+- Aryan
 - [Meghana V](https://github.com/meghana202003]) -[Rahul Majumder](https://github.com/irtrahul2007-IND)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
@@ -5741,3 +5758,11 @@ sar](https://github.com/AchmadKautsar-developer)
 - [Dang Long Nhat](https://github.com/NhatPrv)
 - [Etienne](https://github.com/elieffering-prog)
 - [qinliangzhi](https://github.com/qinliangzhi)
+- [Yuvarajah Divejikan](https://github.com/divejikan-yuvarajah)
+- [Yuvarajah Divejikan](https://github.com/divejikan-yuvarajah)
+- [NegroMontes](https://github.com/NegroMontes)
+- [kiyurao](https://github.com/kiyurao)
+- [Poetence](https://github.com/poetence)
+- [Zihao Yan](https://github.com/yzh888)
+- [raghavi-durai](https://github.com/raghavi-durai)
+- [Ajaygan](https://github.com/Ajaygan)
