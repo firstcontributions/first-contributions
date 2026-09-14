@@ -21,6 +21,7 @@
 - [NlCK01](https://github.com/NlCK01)
 - [Trinh Dinh Nguyen Hung](https://github.com/hung148)
 - [Prathmesh Shinde](https://github.com/prathmeshshinde98)
+- [Anuraj Singh](https://github.com/its-anuraj)
 - haha
 - Maia
 - Sanjay
