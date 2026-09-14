@@ -237,7 +237,7 @@ jobs:
             const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.payload.number,
+              issue_number: pr.number,
             })
 
             // find any comment already made by the bot.                                                                                                    
