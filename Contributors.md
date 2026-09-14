@@ -1,3 +1,4 @@
+- [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Arafath] (https://github.com/ARAFATH-SH)
 - [Bhavya Patel](https://github.com/bhavya8121-spy)
