@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Kompas</title>
+
+<meta name="description" content="Prywatna przestrzeń na decyzje, myśli i trudne dni.">
+<meta name="theme-color" content="#e7ecea" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b0e10" media="(prefers-color-scheme: dark)">
+
+<!-- dodanie do ekranu początkowego na iPhonie -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Kompas">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="icon" type="image/svg+xml" href="icons/icon.svg">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="app" class="shell"></div>
+
+<script src="js/store.js"></script>
+<script src="js/data.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/views/dashboard.js"></script>
+<script src="js/views/decisions.js"></script>
+<script src="js/views/thoughts.js"></script>
+<script src="js/views/problems.js"></script>
+<script src="js/views/mood.js"></script>
+<script src="js/views/habits.js"></script>
+<script src="js/views/calm.js"></script>
+<script src="js/views/settings.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
