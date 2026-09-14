@@ -6,7 +6,8 @@
 - [Gajjela Vamsi Krishna]  (https://github.com/vamsi313)
 - [Mohammed Junaid](https://github.com/microdoomz)
 - [D Beekman](https://github.com/keredbeek) - Greetings Programs!
-- [Anmol Shukla](https://github.com/AnmolShukla397) 
+- [Anmol Shukla](https://github.com/AnmolShukla397)
+- [Leonidas](https://github.com/leonidas6606)
 
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
