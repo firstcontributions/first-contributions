@@ -1,5 +1,6 @@
 - [Kishor Rajbanshi](https://github.com/kishor-rajbanshi)
 - [Nikhil kumar](https://github.com/N1kh1lKumar)
+- - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Christopher Kalolo](https://github.com/Mwendisule)
@@ -12,7 +13,7 @@
 - [D Beekman](https://github.com/keredbeek) - Greetings Programs!
 - [Anmol Shukla](https://github.com/AnmolShukla397)
 - [Leonidas](https://github.com/leonidas6606)
-
+- [Venus](https://github.com/venus-101)
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
 - [Ketul Makwana](https://github.com/ktul15)
@@ -172,6 +173,7 @@ vijyot silare
 
 [Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
+- [Kritika Vikram](https://github.com/melsparrow)
 - [Lancelot](https://github.com/ayushhchavhan-bot)
 - [cetarchon](https://github.com/cetarchon)
 - [Ishmail](https://github.com/IshmailMg)
