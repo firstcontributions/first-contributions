@@ -76,6 +76,7 @@ Jainil Chavda
 -[Anurag Lengure](https://github.com/anulengure5)
 -[Sai Pranav](https://github.com/saipranav91)
 - [Anderson Hernandez](https://github.com/anderson1478)
+- [Thy](https://github.com/alpathyno)
 - [Ambika G S](https://github.com/gsambikag-star)
 -[Meet Bhuva](https://github.com/Hk8meet/)
 -[Siddhesh Kumar](https://github.com/Siddheshkr)
