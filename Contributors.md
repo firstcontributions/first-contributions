@@ -172,6 +172,7 @@ vijyot silare
 
 [Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
+- [Kritika Vikram](https://github.com/melsparrow)
 - [Lancelot](https://github.com/ayushhchavhan-bot)
 - [cetarchon](https://github.com/cetarchon)
 - [Ishmail](https://github.com/IshmailMg)
