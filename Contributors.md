@@ -30,6 +30,7 @@
 - haha
 - Maia
 - Sanjay
+- [Jackson Strange](https://github.com/JacksonStrange)
 - [Arav khandelwal](https://github.com/Aiboys1234)
 - [BrianL026](https://github.com/BrianL026)
 - [seohyeonban](https://github.com/seohyeonban)
@@ -105,6 +106,7 @@ Jainil Chavda
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Anand Kumar]
 - [Baoxing Lu](https://github.com/lubaoxing3-alt)
+- [Gibran Castillo](https://github.com/gibrancastillo)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Tafajjul Khan](https://github.com/tafajjul-khan)
 - [Sourrrabh](https://github.com/Sourrrabh)
@@ -677,6 +679,7 @@ Suraj Kumar i am not gonna provide any link
 - [MIYYAPURAMSAIVARUN_BT2024146](https://github.com/Varun576253)
 - [thelazywebdev](https://github.com/thelazywebdev)
 - MZS
+- [silly dummy](https://github.com/sillydummy27-bot)
 - [Vamsi K Battula](https://github.com/vamsib77-ux)
 - [Dhanush Repalle](https://github.com/DhanushDev311)
 - [Punith M Reddy](https://github.com/punith1206)
@@ -5763,7 +5766,8 @@ sar](https://github.com/AchmadKautsar-developer)
 - [Vidhyaaa2808](https://github.com/Vidhyaaa2808)
 - [Chetan Kumar](https://github.com/chetan28097)
 - [tanjunming111](https://github.com/tanjunming111)
-- [bhupendrasingh](https://github.com/bhupendrasinghcharan228) 
+- [bhupendrasingh](https://github.com/bhupendrasinghcharan228)
+- [rafaelcanedo65](https://github.com/rafaelcanedo65)
 - [Bouke_eerste_contributie]
 - [confidon](https://github.com/confidon)
 - [Vo Trong Canh](https://github.com/canhtrong26-dev)
@@ -5788,5 +5792,13 @@ sar](https://github.com/AchmadKautsar-developer)
 - [jd-dev42](https://github.com/jd-dev42)
 - [99akademia-dev](https://github.com/99akademia-dev)
   [Samar](https://github.com/sleepysam11)
+- [dka5753](https://github.com/dka5753)
 - [David Alabi](https://github.com/fvlga)
+- [sungharu2](https://github.com/sungharu2)
+- [gwanyong](https://github.com/gwan-yong/)
+- [marvin](https://github.com/social-archive)
+- [Dorazee](https://github.com/dorazee0209)
+- [HyeJu](https://github.com/Mindy4705)
+- [duke1327](https://github.com/duke1327)
+- [Jjanggu](https://github.com/jjang-gu-kim)
 -[jjunpark01](https://github.com/jjunpark01)
