@@ -70,6 +70,8 @@ Jainil Chavda
 -[Hamidreza Kiani](https://github.com/hkiani37399-pixel)
 -[Chithra Moorthy](https://github.com/chithramoorthy14)
 -[Carlos Posso](https://github.com/Carpos-C137)
+-[Faizan Ali](https://github.com/Faizanali78)
+
 - [solompy79-dev](https://github.com/solompy79-dev)(https://github.com/badrisatyam1-ctrl)
 - [Amaya Gillison]
 -[OM AHIRE](https://github.com/om-ahire)
