@@ -1,3 +1,4 @@
+- [Víctor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
 - [Vanshi Patel](https://github.com/VAP2999)
 GSL32
@@ -133,7 +134,7 @@ Jainil Chavda
 - [Sarah Ali](https://github.com/SarahZaki03)
 - [Garima Bisht](https://github.com/Garimabisht12)
 - (Dany)[https://github.com:Danielreddy-Devops]
-- Umair Ashraf
+Umair Ashraf
 - [Abhishek Dixit](https://github.com/Abhi2oo3)
 - [Tiffany Biggs](https://github.com/jamathdoc)
 - [AaronRoggenland](https://github.com/Tryndaron)
@@ -185,9 +186,7 @@ Jainil Chavda
 - [TaeHo Lee](https://github.com/anton061311)
 - [Justin Meier](https://github.com/jpm435)
 - [Max Meijer](https://github.com/MaxMeijer-beep)
-<table><tr><td align="center" width="140px"><a href="https://github.com/VCastilloC2"><img src="https://github.com/VCastilloC2.png" width="80" height="80" style="border-radius: 50%;" alt="VCastilloC2"/><br /><sub><b>Victor Castillo</b></sub></a></td></tr></table>
-
-[Deep Jagtap](https://github.com/deepjagtap11)
+- [Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
 - [Kritika Vikram](https://github.com/melsparrow)
 - [Lancelot](https://github.com/ayushhchavhan-bot)
