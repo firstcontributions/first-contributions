@@ -44,6 +44,7 @@ GSL32
 - [Anuraj Singh](https://github.com/its-anuraj)
 - haha
 - Maia
+- MAGNUS
 - Sanjay
 - [T Abishek](https://github.com/Abishekcps)
 - [Jackson Strange](https://github.com/JacksonStrange)
