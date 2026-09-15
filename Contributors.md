@@ -14,6 +14,7 @@ GSL32
 - [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Christopher Kalolo](https://github.com/Mwendisule)
+- [Daniel Ogbonna](https://github.com/ogbonnadaniel6)
 - [Arafath] (https://github.com/ARAFATH-SH)
 - [Bhavya Patel](https://github.com/bhavya8121-spy)
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl) Data Science
