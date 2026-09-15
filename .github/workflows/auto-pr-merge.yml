@@ -29,12 +29,12 @@ jobs:
             const isOnlyContributors = filenames.length === 1 && filenames[0] === 'Contributors.md';
 
             const { additions, deletions } = context.payload.pull_request;
-            const isLinesChangedUnderThreshod = (additions < 5 && deletions < 4);
+            const isLinesChangedUnderThreshold = (additions < 5 && deletions < 4);
 
-            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshod);
+            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshold);
             core.setOutput('filenames', filenames.join(', '));
 
-            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshod)
+            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshold)
 
             // set true if multiple changed if only isOnlyContributors 
             core.setOutput('isMultipleLineChanged', moreLineChanged)
@@ -237,7 +237,7 @@ jobs:
             const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.payload.number,
+              issue_number: pr.number,
             })
 
             // find any comment already made by the bot.                                                                                                    
