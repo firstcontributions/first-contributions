@@ -30,6 +30,7 @@
 - haha
 - Maia
 - Sanjay
+- [Jackson Strange](https://github.com/JacksonStrange)
 - [Arav khandelwal](https://github.com/Aiboys1234)
 - [BrianL026](https://github.com/BrianL026)
 - [seohyeonban](https://github.com/seohyeonban)
