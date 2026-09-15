@@ -1,24 +1,10 @@
-# 🤝 Contributors
-A huge thanks to everyone who has contributed to this project!
-
-<table>
-  <tr>
-    <td align="center" width="140px">
-      <a href="https://github.com/VCastilloC2">
-        <img src="https://github.com/VCastilloC2.png" width="80" height="80" style="border-radius: 50%;" alt="VCastilloC2"/><br />
-        <sub><b>Victor Castillo</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 - [Yashodhan Mandal](https://github.com/yash373)
 - [Vanshi Patel](https://github.com/VAP2999)
 GSL32
 - [Turugeldiyev Alikhan](https://github.com/crapxxi)
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - Rajesh Shivarama
----[Mohit Sagar](https://github.com/MohitSAGAR11)
+-[Mohit Sagar](https://github.com/MohitSAGAR11)
 - [Mechat Mehdi](https://github.com/MechatMehdi)
 - [Kishor Rajbanshi](https://github.com/kishor-rajbanshi)
 - [Nikhil kumar](https://github.com/N1kh1lKumar)
@@ -199,6 +185,7 @@ Jainil Chavda
 - [TaeHo Lee](https://github.com/anton061311)
 - [Justin Meier](https://github.com/jpm435)
 - [Max Meijer](https://github.com/MaxMeijer-beep)
+<table><tr><td align="center" width="140px"><a href="https://github.com/VCastilloC2"><img src="https://github.com/VCastilloC2.png" width="80" height="80" style="border-radius: 50%;" alt="VCastilloC2"/><br /><sub><b>Victor Castillo</b></sub></a></td></tr></table>
 
 [Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
