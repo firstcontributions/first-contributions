@@ -105,6 +105,7 @@ Jainil Chavda
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Anand Kumar]
 - [Baoxing Lu](https://github.com/lubaoxing3-alt)
+- [Gibran Castillo](https://github.com/gibrancastillo)
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Tafajjul Khan](https://github.com/tafajjul-khan)
 - [Sourrrabh](https://github.com/Sourrrabh)
@@ -5789,4 +5790,5 @@ sar](https://github.com/AchmadKautsar-developer)
 - [99akademia-dev](https://github.com/99akademia-dev)
   [Samar](https://github.com/sleepysam11)
 - [David Alabi](https://github.com/fvlga)
+- [marvin](https://github.com/social-archive)
 - [Dorazee] (https://github.com/dorazee0209)
