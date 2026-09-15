@@ -1,4 +1,5 @@
 GSL32
+- [Turugeldiyev Alikhan](https://github.com/crapxxi)
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - 
 ---[Mohit Sagar](https://github.com/MohitSAGAR11)
