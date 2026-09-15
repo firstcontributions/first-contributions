@@ -4441,6 +4441,7 @@ Twan Star
 - [Naina Verma](https://github.com/Naina-345)
 - [Jiulian Costa](https://github.com/jiuliancosta-collab)
 - [Kanimozhi A](https://github.com/kanimozhia2008-cpu)
+- [Daisy Lomo](https://github.com/daisylomo)
 - [Marcus A Bertli](https://github.com/MarcusABertli)
 - [nathandefy-cyber](https://github.com/nathandefy-cyber)
 - Chandrakanth Dodapaneni
