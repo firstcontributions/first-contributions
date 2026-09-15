@@ -72,6 +72,7 @@ Jainil Chavda
 -[Jainil26](https://github.com/Jainil26)
 [Vishnu Gnana] (https://github.com/KoppisettiGnanaVishnu)
 - [linzhiwei](https://github.com/linzhiwei2021/)
+-[Dhruv](https://github.com/dhruv-ghai)
 -[Isaac Makeny](https://github.com/lm10-zaki)
 -  [Badri Vishal Pandey]
 -[Hamidreza Kiani](https://github.com/hkiani37399-pixel)
@@ -147,6 +148,7 @@ Jainil Chavda
 - [Idhayathulla](https://github.com/idhayathulla-dev)
 - [RIVF](https://github.com/RIVF-ISAT-Fan)
 - [Jake Domabyl] (https://github.com/jpd254)
+-DG hiii
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
 -[shivam kumar] (https://github.com/shivamkumar135/first-contributions.git)
