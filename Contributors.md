@@ -16,6 +16,7 @@ GSL32
 - [D Beekman](https://github.com/keredbeek) - Greetings Programs!
 - [Anmol Shukla](https://github.com/AnmolShukla397)
 - [Leonidas](https://github.com/leonidas6606)
+- [Atharva Chitnis](https://github.com/AtharvaChitnis)
 - [Rajat Verma](https://github.com/rajatHere01)
 - [Venus](https://github.com/venus-101)
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
