@@ -1,3 +1,17 @@
+# 🤝 Contributors
+A huge thanks to everyone who has contributed to this project!
+
+<table>
+  <tr>
+    <td align="center" width="140px">
+      <a href="https://github.com/VCastilloC2">
+        <img src="https://github.com/VCastilloC2.png" width="80" height="80" style="border-radius: 50%;" alt="VCastilloC2"/><br />
+        <sub><b>Victor Castillo</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 - [Yashodhan Mandal](https://github.com/yash373)
 - [Vanshi Patel](https://github.com/VAP2999)
 GSL32
@@ -172,13 +186,6 @@ Jainil Chavda
 - [Robiul Haque](https://github.com/r-rony08)
 - [mogeadis](https://github.com/mogeadis)
 - [Rincis](https://github.com/RincisM)
-dedsec
-Aman Patchipulusu
-dayanand s
-King
-zzang001
-Rishabh Gupta
-vijyot silare
 - [jenish](https://github.com/jenish-321)
 - [Cristian](https://github.com/Cristian212502)
 - [Sahibjeet Singh](https://github.com/Sahib-11)
