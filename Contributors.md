@@ -3262,6 +3262,7 @@ andrewcodess
 - [Rafael Hernandez](https://github.com/rafawashere)
 - [Rafael ISTE](https://github.com/RafaelIste)
 - [Rafael Rodrigues](https://github.com/rafaelrodrigues-dev)
+- [Arya Pradhan](https://github.com/arya-pradhan)
 - [Rafael Veloso](https://github.com/Rafaellinos)
 - [Rafeek Hanna](https://github.com/iRAFEEK)
 - [Rafi&#39;i M](https://github.com/maul-PG)
