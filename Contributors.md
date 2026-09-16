@@ -675,6 +675,7 @@ Shaurya522 from The Dooon School
 - [Akshay-K-M_IMT2024014] (https://github.com/Akshay-K-M)
 Varshith IMT2024044
 - BT2024088
+- Samir Chahar: (https://github.com/samirchahar)
 - [Thrissha Arcot](https://github.com/3sha-arcot)
 - advi7
 - [Jeya prathap](https://github.com/Jeyaprathap2002/)
