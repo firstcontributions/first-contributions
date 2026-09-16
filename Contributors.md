@@ -366,6 +366,7 @@ vijyot silare
 - [AMULYA KRUPA](https://github.com/amulyakrupa)
 - [Aime Lihono](https://github.com/AimeLih)
 - [Om Parab](https://github.com/omparab0510)
+- [Siddardha Shayini](https://github.com/SiddardhaShayini)
 - [Jhon Sallo](https://github.com/SoulCruzader)
 - [Allan Silva](https://github.com/allangdasilva)
 - [rokuroo171](https://github.com/rokuroo171)
