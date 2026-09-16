@@ -59,6 +59,7 @@ GSL32
 - [Angkon Kar](https://github.com/Angkon-Kar)
   [Harshi](https://github.com/harshiiii18)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
+- [Smayan] (https://github.com/smayan-ambekar)
 - [Sidharth A](https://github.com/Blast-git)
 - [Madhumitha A](https://github.com/madhu250205)
 satyrcons
