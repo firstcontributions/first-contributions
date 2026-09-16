@@ -52,6 +52,7 @@ GSL32
 - Maia
 - MAGNUS
 - Sanjay
+- [darikson26](https://github.com/darikson26)
 - [T Abishek](https://github.com/Abishekcps)
 - [Jackson Strange](https://github.com/JacksonStrange)
 - [Arav khandelwal](https://github.com/Aiboys1234)
