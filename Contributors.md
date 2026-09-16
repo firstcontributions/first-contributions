@@ -21,6 +21,7 @@ GSL32
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl)
 - [Gajjela Vamsi Krishna]  (https://github.com/vamsi313)
 - [Mohammed Junaid](https://github.com/microdoomz)
+- [Mohammad Almuresi](https://github.com/MoeAlmuresi)
 - [D Beekman](https://github.com/keredbeek) - Greetings Programs!
 - [Anmol Shukla](https://github.com/AnmolShukla397)
 - [Leonidas](https://github.com/leonidas6606)
