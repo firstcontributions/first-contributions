@@ -1904,6 +1904,7 @@ niceshowmini
 - [Anupama B R](https://github.com/Anupamabramesh)
 - [G KARTHIK GOUD](https://github.com/karthikgoud24)
 - [Kush Arora](https://github.com/kush7arora)
+- [Sokol Memedi](https://github.com/Smemedi)
 - [Tiffany Iong](https://github.com/tiffanyiong)
 - [Athul Rajeev](https://github.com/athul311)
 - [Zen Christo](https://github.com/Explorerzen)
