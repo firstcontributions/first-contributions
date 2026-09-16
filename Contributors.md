@@ -2005,6 +2005,7 @@ niceshowmini
 - [Muhammad Hasnain](https://github.com/muhammadhasnain3031)
 - [JGGY521 ](https://github.com/JGGY521)
 - [pH-1491](https://github.com/pH-1491/first-contributions)
+- [Hamza Haji](https://github.com/HMZ-H)
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Krishna Vijaywargiya](github.com/v-krishna07)
 - [Srujan Kumar](https://github.com/SrujanNampally)
