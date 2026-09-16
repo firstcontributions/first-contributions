@@ -209,6 +209,7 @@ vijyot silare
 - [cetarchon](https://github.com/cetarchon)
 - [Ishmail](https://github.com/IshmailMg)
 - [Sagar Gusain](https://github.com/Jod4968)
+- [Arthur Nunes Reis](https://github.com/arthurnunesreis)
 - [Nishant Pal](https://github.com/Nishant5623)
 -[Aditya Dubey](https://github.com/dubeyaditya543/first-contributions.git)
 -[Prathmesh Palkurtiwar](https://github.com/Prathmesh1901)
