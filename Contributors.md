@@ -15,6 +15,7 @@ GSL32
 - - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
+- [Archie Boswell] 
 - [Christopher Kalolo](https://github.com/Mwendisule)
 - [Daniel Ogbonna](https://github.com/ogbonnadaniel6)
 - [Arafath] (https://github.com/ARAFATH-SH)
