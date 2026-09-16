@@ -2479,6 +2479,7 @@ Amna Naeem
 - [C. Yin](https://github.com/cy-Yin)
 - [C12urrent](https://github.com/C12urrent）
 - [Caden Warren](https://github.com/cw-0)
+- [Mohammed Anas A](https://github.com/Anas-2007-it)
 - [Caleb Ripley](https://github.com/cdripley7-bit)
 - [Caleb Rollf](https://github.com/lemonsloth)
 - [Muralikrishnan Menon](https://github.com/menonmuralikrishnan-new)
