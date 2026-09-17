@@ -4994,6 +4994,7 @@ Nici30067
 - [Kedi Wang](https://github.com/FrankWkd-Plus)
 - [Kate Angel Escobar](https://github.com/KateAngelx)
 - [Alex Bernaden](https://github.com/alexbernaden)
+- [Arnav Singh](https://github.com/arnnnnaaavvvvv)
 - [Samuel Eicker](https://github.com/samueleicker-rgb)
 - [evazoka](https://github.com/evazoka)
 - [jiu99203](https://github.com/jiu99203)
