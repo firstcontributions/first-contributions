@@ -3,6 +3,7 @@
 - [Stephen Hopfensperger](https://github.com/Stephen-Hopfensperger) Have a great day!
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
+- [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
 - [GioPs](https://github.com/01giopaixao)
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
@@ -25,6 +26,7 @@ GSL32
 - [Mateo Lauzardo](https://github.com/MateoLauzardo)
 - - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
+- [Cesar Hernandez](https://github.com/cesarjhernandez)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Archie Boswell] 
 - [Christopher Kalolo](https://github.com/Mwendisule)
@@ -295,6 +297,7 @@ vijyot silare
 - [Rishit Singh Mahur](https://github.com/Rishit0007)
 - [Nao](https://github.com/Test2)
 - [PyLocalDev](https://github.com/PyLocalDev)
+- [HitNix]
 - [MetaKode](https://github.com/MetaKode)
 -[Siwakorn Phimpanit] (https://github.com/Siwakorn Phimpanit)
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
@@ -5598,6 +5601,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Samrutha](https://github.com/samrutha6828-create)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
 - [Adrian](https://github.com/Adrian3031)
+- [Daniel Vega](https://github.com/DJVega-Code)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
 - [Timo Srinarmwong](https://github.com/tsrinarmwong)
 - [Thanaphat Khunphet](https://github.com/sing198)
@@ -5911,3 +5915,5 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Jorge Leon](https://github.com/Jorzch)
 -[balajigoduguluru] (https://github.com/balajigoduguluru)
 -[Pratham Shah](https://github.com/prathamshah973-creator)
+- [prasannadhotarkar] (https://github.com/Prash2185)
+- [giorgoskoufos](https://github.com/giorgoskoufos)
