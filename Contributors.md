@@ -2005,6 +2005,7 @@ niceshowmini
 - [Mithulya Sandali](https://github.com/mithulya-s)
 - [Gopikrishna Mahalingam](https://github.com/gopikrishnamahalingam)
 - [Nihita Gupta](https://github.com/Nihita21/first-contributions)
+- [Khushleen Kaur Nagi ](https://github.com/Khushleen-Kaur)
 - [Harrison Mweene](https://github.com/mweene) -[vansh](https://github.com/van5h1007)
 - [Salar Ahmed](https://github.com/salarsain)
 - [database233](https://github.com/database233)
