@@ -1,3 +1,4 @@
+- [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [GioPs](https://github.com/01giopaixao)
 - [Victor Castillo](https://github.com/VCastilloC2)
