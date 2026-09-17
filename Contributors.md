@@ -2003,6 +2003,7 @@ niceshowmini
 - [Atulya Juyal](https://github.com/Atulya-Juyal)
 - [kadapalanikith](https://github.com/kadapalanikith)
 - [Mithulya Sandali](https://github.com/mithulya-s)
+- [Gopikrishna Mahalingam](https://github.com/gopikrishnamahalingam)
 - [Nihita Gupta](https://github.com/Nihita21/first-contributions)
 - [Harrison Mweene](https://github.com/mweene) -[vansh](https://github.com/van5h1007)
 - [Salar Ahmed](https://github.com/salarsain)
