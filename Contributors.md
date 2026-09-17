@@ -38,6 +38,7 @@ GSL32
 - [Atharva Chitnis](https://github.com/AtharvaChitnis)
 - [Rajat Verma](https://github.com/rajatHere01)
 - [Venus](https://github.com/venus-101)
+- [Iahzeel](https://github.com/feiahzeel)
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
 - [Kim-202](https://github.com/Kim-202)
