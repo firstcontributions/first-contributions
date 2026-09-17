@@ -77,6 +77,7 @@ satyrcons
 - [Haomou Ji](https://github.com/HaomouJi)
 - [Rahul Nashier](https://github.com/rahulnashier)
 - [Hassan Abdelnaby](https://github.com/HassanA69)
+- [Caitlin LaGarde] (https://github.com/Ithinkitsme)
 Dev Raj (Perumalla)
 - [Darthika Merlin](https://github.com/darthika6)
 - [Pratham Gupta](https://github.com/guptapratham366-ws)
