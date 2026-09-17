@@ -27,6 +27,7 @@ GSL32
 - [Christopher Kalolo](https://github.com/Mwendisule)
 - [Daniel Ogbonna](https://github.com/ogbonnadaniel6)
 - [Arafath] (https://github.com/ARAFATH-SH)
+- [Hayden Filen] (https://github.com/haydenfilen)
 - [Bhavya Patel](https://github.com/bhavya8121-spy)
 - [Shivam Kumar](https://github.com/shivamkumartech)
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl) Data Science
@@ -5900,3 +5901,4 @@ sar](https://github.com/AchmadKautsar-developer)
 - [Chris0711-bot](https://github.com/Chris0711-bot)
 - [jino-cloud](https://github.com/jino-cloud)
 - [mdkaif](https://github.com/mmkaif)
+- [Jorge Leon](https://github.com/Jorzch)
