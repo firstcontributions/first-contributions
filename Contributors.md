@@ -14,6 +14,7 @@ GSL32
 ---[Mohit Sagar](https://github.com/MohitSAGAR11)
 - [Mechat Mehdi](https://github.com/MechatMehdi)
 - [Sean Michals](https://github.com/SeanMichals)
+- [vinayak chavan](https://github.com/vin1987)
 - [Kishor Rajbanshi](https://github.com/kishor-rajbanshi)
 - [Nikhil kumar](https://github.com/N1kh1lKumar)
 - [Mateo Lauzardo](https://github.com/MateoLauzardo)
