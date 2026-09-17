@@ -5597,6 +5597,7 @@ Hey guys, just like you people, now I have also made my contribution to this rep
 - [Samrutha](https://github.com/samrutha6828-create)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
 - [Adrian](https://github.com/Adrian3031)
+- [Daniel Vega](https://github.com/DJVega-Code)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
 - [Timo Srinarmwong](https://github.com/tsrinarmwong)
 - [Thanaphat Khunphet](https://github.com/sing198)
