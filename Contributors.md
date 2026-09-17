@@ -1,4 +1,5 @@
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
+[2HB25CS128] (https://github.com/2HB25CS128)
 - [GioPs](https://github.com/01giopaixao)
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
