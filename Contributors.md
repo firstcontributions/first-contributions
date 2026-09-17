@@ -156,6 +156,7 @@ Jainil Chavda
 - [Garima Bisht](https://github.com/Garimabisht12)
 - (Dany)[https://github.com:Danielreddy-Devops]
 - Umair Ashraf
+- [Abdelillah CHIKH](https://github.com/abdelillahx9)
 - [Abhishek Dixit](https://github.com/Abhi2oo3)
 - [Tiffany Biggs](https://github.com/jamathdoc)
 - [AaronRoggenland](https://github.com/Tryndaron)
