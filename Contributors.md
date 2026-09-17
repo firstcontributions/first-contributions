@@ -8,6 +8,7 @@
 - [Yashodhan Mandal](https://github.com/yash373)
 - [Vanshi Patel](https://github.com/VAP2999)
 GSL32
+- [Vasu Parashar](https://github.com/VasuParashar37)
 - [StivenFory](https://github.com/stivenfory)
 - [Shubham Bawa](https://github.com/Shubham-392)
 - [Turugeldiyev Alikhan](https://github.com/crapxxi)
