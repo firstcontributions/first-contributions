@@ -297,6 +297,7 @@ vijyot silare
 - [Rishit Singh Mahur](https://github.com/Rishit0007)
 - [Nao](https://github.com/Test2)
 - [PyLocalDev](https://github.com/PyLocalDev)
+- [HitNix]
 - [MetaKode](https://github.com/MetaKode)
 -[Siwakorn Phimpanit] (https://github.com/Siwakorn Phimpanit)
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
