@@ -10,6 +10,7 @@ GSL32
 - Rajesh Shivarama
 --AbhinavGS
 - [Srishti Yadav](https://github.com/srishtiyadav05)
+- [Kriti Srivastava](https://github.com/Kriti363)
 ---[Mohit Sagar](https://github.com/MohitSAGAR11)
 - [Mechat Mehdi](https://github.com/MechatMehdi)
 - [Sean Michals](https://github.com/SeanMichals)
