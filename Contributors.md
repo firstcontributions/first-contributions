@@ -25,6 +25,7 @@ GSL32
 - [Mateo Lauzardo](https://github.com/MateoLauzardo)
 - - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
+- [Cesar Hernandez](https://github.com/cesarjhernandez)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Archie Boswell] 
 - [Christopher Kalolo](https://github.com/Mwendisule)
