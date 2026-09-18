@@ -517,6 +517,7 @@ siddhu
 - [Krishna Patel](https://github.com/krishna2601/)
 - [Kevin Yang](https://github.com/kyang510)
 - [Maria Camila Gaitan](https://github.com/Cami0111)
+- [Chaitanya khachane](https://github.com/cnkhachane-svg)
 - [celestial-sky](https://github.com/celestial-sky)
 - [RobertoDev2025](https://github.com/RobertoDev2025)
 - Parth Pawar
@@ -525,6 +526,7 @@ siddhu
 - Aaditya Pala
 - [Luna]
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
+
  - [Rahat Kabir](https://github.com/Rahat-Kabir)
 - Vedansh & Yug 
 - [dumbSahaj](https://github.com/dumbSahaj)
