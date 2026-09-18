@@ -1,14 +1,19 @@
--[Bol Bol](https://github.com/boyib9090k-prog) Enjoying
+
+- [Antonio Campello](https://github.com/antoniocampello)
+- [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
 - [Stephen Hopfensperger](https://github.com/Stephen-Hopfensperger) Have a great day!
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
+- [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
 - [GioPs](https://github.com/01giopaixao)
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
 - [Vanshi Patel](https://github.com/VAP2999)
+- [Mohamed Ltaief](https://github.com/deepNox293) Hello World 
 GSL32
 - [Vasu Parashar](https://github.com/VasuParashar37)
+- [Jeet](https://github.com/Shwejit)
 - [StivenFory](https://github.com/stivenfory)
 - [Shubham Bawa](https://github.com/Shubham-392)
 - [Turugeldiyev Alikhan](https://github.com/crapxxi)
@@ -26,6 +31,7 @@ GSL32
 - [Mateo Lauzardo](https://github.com/MateoLauzardo)
 - - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
+- [Cesar Hernandez](https://github.com/cesarjhernandez)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Archie Boswell] 
 - [Christopher Kalolo](https://github.com/Mwendisule)
@@ -282,6 +288,7 @@ vijyot silare
 - [Shalini Jaiswal](https://github.com/ShaliniGit77)
 - [Jiku0123](https://github.com/Jiku0123)
 - Gokul Sabari
+- [Vignesh R](https://github.com/VigneshR77)
 - [Wick](https://github.com/vick42uho)
 - [Sunil Sonu](https://github.com/sunilsonumonu12)
 - [AK-1996](https://github.com/AK-1996)
@@ -296,6 +303,7 @@ vijyot silare
 - [Rishit Singh Mahur](https://github.com/Rishit0007)
 - [Nao](https://github.com/Test2)
 - [PyLocalDev](https://github.com/PyLocalDev)
+- [HitNix]
 - [MetaKode](https://github.com/MetaKode)
 -[Siwakorn Phimpanit] (https://github.com/Siwakorn Phimpanit)
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
@@ -339,6 +347,7 @@ vijyot silare
 - Monisha D S
 - Srija 
 - Aditi Mishra
+- [Sangeeth Kumar LM](https://github.com/SangeethkumarLM)
 - [Philip](https://github.com/vitorbjcc)
 - [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
@@ -2929,6 +2938,7 @@ andrewcodess
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
 - [Laryssa](https://github.com/krystall8778)
+- [Gabriel Villanueva](https://github.com/gabeamv)
 - [LaskaaaD](https://github.com/LaskaaaD)
 - [Jonghoon Lee](https://github.com/hoony3207-web)
 - [LatentSpace-rgb](https://github.com/LatentSpace-rgb)
@@ -2955,6 +2965,7 @@ andrewcodess
 - [Lokesh Kumar Sahu](https://github.com/lokeshsahu2804-korba)
 - [LoongSir-ME](https://github.com/LoongSir-ME)
 - [Lord-Lucius](https://github.com/Lord-Lucius)
+- [GroundControl5264](https://github.com/GroundControl5264)
 - [Lorenzo Pica](https://github.com/Atmoloid)
 - [Alwaz](https://github.com/Alwaz1143)
 - [Lottie Judge](https://github.com/lottiejudge-source)
@@ -3413,6 +3424,7 @@ andrewcodess
 - [Dennis01601](https://github.com/Dennis01601)
 - [Samiul Saimon](https://github.com/samiuls25)
 - [Samuel Cardoso](https://github.com/samuellcardoso)
+- [Samuel Hill](https://github.com/Sam-Hill69) I hope you have a great day!
 - [Samuel Mueses](https://github.com/Samxss)
 - [Samuel Wright](samw46)
 - [Rishab Nagota](https://github.com/nagotarishab)
@@ -5912,4 +5924,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [mdkaif](https://github.com/mmkaif)
 - [Jorge Leon](https://github.com/Jorzch)
 -[balajigoduguluru] (https://github.com/balajigoduguluru)
+-[Pratham Shah](https://github.com/prathamshah973-creator)
 - [prasannadhotarkar] (https://github.com/Prash2185)
+- [giorgoskoufos](https://github.com/giorgoskoufos)
+- [Josue Reyes](https://github.com/JRP06)
