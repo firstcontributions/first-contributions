@@ -88,12 +88,12 @@ GSL32
 - [Aditya Tiwari](https://github.com/AdityaTiwari0890)
 - [Angkon Kar](https://github.com/Angkon-Kar)
 - [Andres V.](https://github.com/AndresVGu)
-  [Harshi](https://github.com/harshiiii18)
+- [Harshi](https://github.com/harshiiii18)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
 - [Smayan] (https://github.com/smayan-ambekar)
 - [Sidharth A](https://github.com/Blast-git)
 - [Madhumitha A](https://github.com/madhu250205)
-satyrcons
+- satyrcons
 - [Abirami](https://github.com/Abirami-26)
 - [Kwabena Twumasi](https://github.com/angelotheman)
 - [Cid Kagenou](https://github.com/cidkagenou198)
