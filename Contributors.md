@@ -1,5 +1,6 @@
 
 - [Antonio Campello](https://github.com/antoniocampello)
+- [SidVoyager](https://github.com/siddhanth-aithal)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
 - [Stephen Hopfensperger](https://github.com/Stephen-Hopfensperger) Have a great day!
