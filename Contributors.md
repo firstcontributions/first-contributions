@@ -3416,6 +3416,7 @@ andrewcodess
 - [Dennis01601](https://github.com/Dennis01601)
 - [Samiul Saimon](https://github.com/samiuls25)
 - [Samuel Cardoso](https://github.com/samuellcardoso)
+- [Samuel Hill](https://github.com/Sam-Hill69)
 - [Samuel Mueses](https://github.com/Samxss)
 - [Samuel Wright](samw46)
 - [Rishab Nagota](https://github.com/nagotarishab)
