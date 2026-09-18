@@ -74,6 +74,7 @@ GSL32
 - [Trinh Dinh Nguyen Hung](https://github.com/hung148)
 - [Prathmesh Shinde](https://github.com/prathmeshshinde98)
 - [Anuraj Singh](https://github.com/its-anuraj)
+- [oensed](https://github.com/oensed)
 - haha
 - Maia
 - MAGNUS
