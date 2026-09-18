@@ -400,6 +400,7 @@ vijyot silare
 - [Gayatri Kadu](https://github.com/kadugayatri249-png/first-contributions.git)
 - [Timothy Darrell](https://github.com/timothydarrell14-glitch)
 - [ashxris](https://github.com/ashxris)
+- [PepeSR-dev](https://github.com/pepesr-dev)
 - [ashen] (https://github.com/ashen-v2)
 - [Atharv Lokhande](https://github.com/atharv-06)
 - [Samriddh Umrao](https://github.com/SamriddhUmrao)
