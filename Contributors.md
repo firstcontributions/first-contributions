@@ -7,6 +7,7 @@
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
 - [GioPs](https://github.com/01giopaixao)
+- [Senith Umesha](https://github.com/SenithUmesha)
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
 - [Vanshi Patel](https://github.com/VAP2999)
