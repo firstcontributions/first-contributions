@@ -342,6 +342,7 @@ vijyot silare
 - Monisha D S
 - Srija 
 - Aditi Mishra
+- [Sangeeth Kumar LM](https://github.com/SangeethkumarLM)
 - [Philip](https://github.com/vitorbjcc)
 - [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
