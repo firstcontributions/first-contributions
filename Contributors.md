@@ -1,4 +1,4 @@
-
+- claude
 - [Antonio Campello](https://github.com/antoniocampello)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
@@ -79,6 +79,7 @@ GSL32
 - Maia
 - MAGNUS
 - Sanjay
+- more [oensed](https://github.com/oensed)
 - [darikson26](https://github.com/darikson26)
 - [T Abishek](https://github.com/Abishekcps)
 - [Jackson Strange](https://github.com/JacksonStrange)
