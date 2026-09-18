@@ -609,6 +609,7 @@ siddhu
 -[Akshat Parashar](https://github.com/akshatparashar)
 - [Siddhartha](https://github.com/siddhartha3066)
 - [Maicon Vieira](https://github.com/maiconvieira)
+- [Sulaman Shahzad](https://github.com/sulaman492)
 - [grapeching](https://github.com/grapeching)
 - [isarebolo12](https://github.com/isarebolo12)
 - [HarleyNemeth](https://github.com/HarleyNemeth) 
