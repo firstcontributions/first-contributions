@@ -1697,6 +1697,7 @@ niceshowmini
 - [Vagner Ferreira](https://github.com/Vagnerkrg)
 - dhruv
 - [Ishwika Bitla](https://github.com/IshwikaBitla)
+- [Jonathan Salinas](https://github.com/17Johnny17)
 - [game_ryo](https://github.com/ryotagtagtag-wq)
 - [Priyanka Siwach](https://github.com/PriyankaSiwach)
 - [Shubham Kalihari](https://github.com/shubhamk09)
