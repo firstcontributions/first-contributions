@@ -1214,6 +1214,7 @@ nathan practice here
 - [Ankur Shinde](https://github.com/ankurshnde)
 - [simble2k](https://github.com/simble2k)
 - [bycx725](https://github.com/bycx725)
+- [Lakshya Kumar](https://github.com/Code-Phoenixxx)
 - [Jeslin Marium Alex](https://github.com/JeslinMariumAlex)
 - [Tanya Kumari](https://github.com/tanyakaundinya)
 - [xenonbomin54](https://github.com/xenonbomin54)
