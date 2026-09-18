@@ -5929,3 +5929,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [prasannadhotarkar] (https://github.com/Prash2185)
 - [giorgoskoufos](https://github.com/giorgoskoufos)
 - [Josue Reyes](https://github.com/JRP06)
+-[shuoyang](https://github.com/shuoyang873)
