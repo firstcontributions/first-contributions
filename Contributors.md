@@ -3012,6 +3012,7 @@ andrewcodess
 - [Manish Kumar Jawalkar](https://github.com/ManishCodes0618)
 - [Mansib Rahman](https://github.com/mansibrahman03)
 - [Marcin Dec](https://github.com/MarcinDeeec)
+- [Vaishali Parameshwar Naik](https://github.com/vaishalipn)
 - [Mathis LaPivoine](https://github.com/Archeos932)
 - [Matthew Means](https://github.com/MattyMeans19)
 - [Matty D](https://github.com/mdelisle-Qosina)
