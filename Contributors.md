@@ -7,6 +7,7 @@
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
 - [GioPs](https://github.com/01giopaixao)
+- [Neha Pani](https://github.com/paraleash99)
 - [Senith Umesha](https://github.com/SenithUmesha)
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
@@ -22,6 +23,7 @@ GSL32
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - Rajesh Shivarama
 --AbhinavGS
+- [Cameron Sentieri](https://github.com/camsent)
 - [Srishti Yadav](https://github.com/srishtiyadav05)
 - [Kriti Srivastava](https://github.com/Kriti363)
 ---[Mohit Sagar](https://github.com/MohitSAGAR11)
@@ -33,6 +35,7 @@ GSL32
 - [Mateo Lauzardo](https://github.com/MateoLauzardo)
 - - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
+- [Mamela Maeruf] (https://github.com/hu-maeruf)
 - [Cesar Hernandez](https://github.com/cesarjhernandez)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Archie Boswell] 
