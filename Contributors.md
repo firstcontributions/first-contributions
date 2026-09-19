@@ -1,4 +1,5 @@
 - claude
+-[Deepak Sing](https://github.com/CodeWithDks)
 - [Antonio Campello](https://github.com/antoniocampello)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
