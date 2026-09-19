@@ -5968,3 +5968,4 @@ console.log("Hello, Github World! - Joshua Nett");
 -[Eduardo Camacho] (https://github.com/Edd22210)
 - [gopigkc1910-commits](https://github.com/gopigkc1910-commits)
 - Kesia
+- [Alex](https://github.com/KingAlexy) My first open-source contribution!
