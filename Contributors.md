@@ -897,6 +897,7 @@ Suraj Kumar i am not gonna provide any link
 - [Rakshita Bangera](https://github.com/RakshitaBangera)
 - [Payal Gupta](https://github.com/payal1020-creator)
 - [Yash Badhe]
+- [Kartikey Tyagi]
 -Hu0v0
 - iuri-valbao
 - devilboy
