@@ -5058,6 +5058,7 @@ Nici30067
 - [Ajay Verma](https://github.com/ajayverma7)
 - [Abdullah](https://github.com/abdallaroom100) 
 - [Kedi Wang](https://github.com/FrankWkd-Plus)
+- [Suhas Prakash Srivatsa](https://github.com/Suhas-Prakash-Srivatsa)
 - [Kate Angel Escobar](https://github.com/KateAngelx)
 - [Alex Bernaden](https://github.com/alexbernaden)
 - [Arnav Singh](https://github.com/arnnnnaaavvvvv) - Full-Stack AI Engineer
