@@ -40,6 +40,7 @@ GSL32
 - - [JCGV](https://github.com/juliocgvasconcelos)
 - [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Mamela Maeruf] (https://github.com/hu-maeruf)
+- [Dilan Sarwar](https://github.com/dsforcode)
 - [Cesar Hernandez](https://github.com/cesarjhernandez)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
 - [Archie Boswell] 
