@@ -98,6 +98,7 @@ GSL32
 - [Ibtesam Ul Hassan](https://github.com/ibsii404)
 - [Aditya Tiwari](https://github.com/AdityaTiwari0890)
 - [Angkon Kar](https://github.com/Angkon-Kar)
+- [Sidharth Sunu Vijay](https://github.com/sidharth-sunu)
 - [Andres V.](https://github.com/AndresVGu)
 - [Harshi](https://github.com/harshiiii18)
 - [Rehab Ragab](https://github.com/RehabAbotalep)
