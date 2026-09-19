@@ -4,6 +4,7 @@
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
 - [Stephen Hopfensperger](https://github.com/Stephen-Hopfensperger) Have a great day!
+- [Luis Gutierrez](https://github.com/FoundryLG) Glad to contribute
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
