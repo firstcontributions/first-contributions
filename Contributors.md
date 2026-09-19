@@ -27,6 +27,7 @@ GSL32
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - Rajesh Shivarama
 --AbhinavGS
+- Hirotaka Akiyama
 - [Cameron Sentieri](https://github.com/camsent)
 - [Srishti Yadav](https://github.com/srishtiyadav05)
 - [Kriti Srivastava](https://github.com/Kriti363)
