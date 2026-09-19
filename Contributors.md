@@ -3009,6 +3009,7 @@ andrewcodess
 - [Luigi Moro Turina](https://github.com/LuigiMTurina)
 - [Singosirutonamikaze](https://github.com/Singosirutonamikaze)
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
+- [Jason Smevog](https://github.com/JCline11)
 - [Luka](https://github.com/LukachuPro88)
 - [Luohino](https://github.com/Luohino)
 - [LuoHuang](https://github.com/ycluohuang)
