@@ -1,6 +1,7 @@
 - [Sreyas Sasikumar](https://github.com/sreyassasikumar)
 - claude
 -[Deepak Sing](https://github.com/CodeWithDks)
+-[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
 - [Antonio Campello](https://github.com/antoniocampello)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
