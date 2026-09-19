@@ -5969,3 +5969,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [gopigkc1910-commits](https://github.com/gopigkc1910-commits)
 - Kesia
 - [Alex](https://github.com/KingAlexy) My first open-source contribution!
+- [Jacky Mpoka](https://github.com/jackyphuti)
