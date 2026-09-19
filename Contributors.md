@@ -95,6 +95,7 @@ GSL32
 - [Arav khandelwal](https://github.com/Aiboys1234)
 - [BrianL026](https://github.com/BrianL026)
 - [seohyeonban](https://github.com/seohyeonban)
+- [Boda Karthikey](https://github.com/karthikey-boda)
 - [Jerry Gergov](https://github.com/jerrygergov)
 - [oasis0502-tech](https://github.com/oasis0502-tech)
 - [Ibtesam Ul Hassan](https://github.com/ibsii404)
