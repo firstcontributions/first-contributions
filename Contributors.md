@@ -5917,6 +5917,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [wzdhxn123456-lang](https://github.com/wzdhxn123456-lang)
 - [Shahriar](https://github.com/wizzcitadel37)
 - [Bruna Codima](https://github.com/bcodima)
+- [RixiCZ](https://github.com/rixicz/)
 - [Xana](https://github.com/xanablue)
 - [jd-dev42](https://github.com/jd-dev42)
 - [99akademia-dev](https://github.com/99akademia-dev)
