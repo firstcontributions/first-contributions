@@ -12,6 +12,7 @@
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [Nazinda](https://github.com/account)
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
+   [Sanju Kurma](https://github.com/sanjeevkurma867-maker)
 - [GioPs](https://github.com/01giopaixao)
 - [Neha Pani](https://github.com/paraleash99)
 - [Senith Umesha](https://github.com/SenithUmesha)
