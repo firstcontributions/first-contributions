@@ -96,7 +96,6 @@ GSL32
 - [seohyeonban](https://github.com/seohyeonban)
 - [Jerry Gergov](https://github.com/jerrygergov)
 - [Ibtesam Ul Hassan](https://github.com/ibsii404)
-- Sidharth Sunu Vijay
 - [Aditya Tiwari](https://github.com/AdityaTiwari0890)
 - [Angkon Kar](https://github.com/Angkon-Kar)
 - [Sidharth Sunu Vijay](https://github.com/sidharth-sunu)
