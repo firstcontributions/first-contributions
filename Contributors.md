@@ -6022,3 +6022,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Mathulan Shanmugam]
 - [Iraa Garg](https://github.com/iraagarg)
 - [Vanshdeep arya](https://github.com/Vansh432)
+- [Ulucbey Terek](https://github.com/wizard12641)
