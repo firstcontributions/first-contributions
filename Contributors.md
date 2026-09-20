@@ -63,6 +63,7 @@ GSL32
 - [Arafath] (https://github.com/ARAFATH-SH)
 - [Hayden Filen](https://github.com/haydenfilen)
 - [Bhavya Patel](https://github.com/bhavya8121-spy)
+- [Jeet Shah](https://github.com/jeetshah-410)
 - [Shivam Kumar](https://github.com/shivamkumartech)
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl) Data Science
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl)
