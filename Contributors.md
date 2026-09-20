@@ -291,6 +291,7 @@ vijyot silare
 - [Rishi Sai] (https://github.com/rishi110903)
 - [Soumya Joshi](https://github.com/SoumyaJoshi03)
 - [Abbas Noor] (https://github.com/Abbas-boop-sys/webflyx)
+- [Mahir Tajuar Akash](https://github.com/tajuar-akash-hub)
 - [NK-247]
 - [Naresh Mali](https://github.com/NARESH-ASHOK-MALI)
 - [Ahmad Mozaik] (https://github.com/ahmadmozaik/)
