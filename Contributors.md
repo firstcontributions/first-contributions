@@ -1,3 +1,4 @@
+- [Manya Garg](https://github.com/rikijackson)
 - [Sreyas Sasikumar](https://github.com/sreyassasikumar)
 - claude
 -[Deepak Sing](https://github.com/CodeWithDks)
