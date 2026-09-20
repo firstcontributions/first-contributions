@@ -11,6 +11,8 @@ B05U3-
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
 - - [Gaurav Aryal](https://github.com/Detoxin01)
 B.Saikumar
+[Adithya Biju](https://github.com/Astroo120/fc.git)
+
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
@@ -6010,6 +6012,7 @@ console.log("Hello, Github World! - Joshua Nett");
 -[Eduardo Camacho] (https://github.com/Edd22210)
 - [gopigkc1910-commits](https://github.com/gopigkc1910-commits)
 - Kesia
+
 - [Alex](https://github.com/KingAlexy) My first open-source contribution!
 - [Jacky Mpoka](https://github.com/jackyphuti)
 -[Sagar](https://github.com/Sagar07-star)
