@@ -14,7 +14,7 @@ B.Saikumar
 - [Michael-314](https://github.com/Michael-314) First contribution!
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
-- [Nazinda](https://github.com/account)
+- [Chethan DB](https://github.com/CHETHANDB123)
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
    [Sanju Kurma](https://github.com/sanjeevkurma867-maker)
 - [GioPs](https://github.com/01giopaixao)
