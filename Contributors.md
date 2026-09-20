@@ -22,6 +22,7 @@ B.Saikumar
 - [Neha Pani](https://github.com/paraleash99)
 - [Senith Umesha](https://github.com/SenithUmesha)
 - [Arpita Nayak](https://github.com/ZoaArpita)
+- [Dhairya Patel] (https://github.com/MVP-Celestial) 
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
 - [Vanshi Patel](https://github.com/VAP2999)
