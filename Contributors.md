@@ -58,7 +58,6 @@ GSL32
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
 - [Kim-202](https://github.com/Kim-202)
-- [Arthur Xavier](https://github.com/tutybas)
 - [Ketul Makwana](https://github.com/ktul15)
 - [Agustín Ré](https://github.com/AgusRe)
 - [Manish Mani Dinkar](https://github.com/moneyyiiss)
@@ -73,6 +72,7 @@ GSL32
 - Maia
 - MAGNUS
 - Sanjay
+- [Arthur Xavier](https://github.com/tutybas)
 - [darikson26](https://github.com/darikson26)
 - [T Abishek](https://github.com/Abishekcps)
 - [Jackson Strange](https://github.com/JacksonStrange)
