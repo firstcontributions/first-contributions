@@ -6033,4 +6033,5 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Henil](https://github.com/henil1718)
 - [Ulucbey Terek](https://github.com/wizard12641)
 - [Gabriella Braga](https://github.com/gabriellavbraga)
+- [Yared](https://github.com/yared2124)
 - [nomemleak](https://github.com/nomemleak)
