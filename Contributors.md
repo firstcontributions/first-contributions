@@ -8,6 +8,7 @@
 - [Luis Gutierrez](https://github.com/FoundryLG) Glad to contribute
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
+- [Chethan DB](https://github.com/CHETHANDB123)
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
 - [GioPs](https://github.com/01giopaixao)
 - [Neha Pani](https://github.com/paraleash99)
