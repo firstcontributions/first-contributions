@@ -224,11 +224,183 @@ Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+<div align="center"> <h1>🎉 Contribution Successfully Submitted!</h1> <p> <img src="https://img.shields.io/badge/Status-Submitted-00C853?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Workflow-Completed-6C63FF?style=for-the-badge"> <img src="https://img.shields.io/badge/Open%20Source-❤️-FF4081?style=for-the-badge"> </p> </div>
+🚀 What Happens Next?
+<div align="center"> <table> <tr> <td align="center" width="25%">
+📤
 
-## Where to go from here?
+Pull Request
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+Your changes have been submitted successfully.
+
+</td> <td align="center" width="25%">
+👀
+
+Review
+
+A maintainer will review your contribution.
+
+</td> <td align="center" width="25%">
+🔀
+
+Merge
+
+Your changes will be merged into the main branch.
+
+</td> <td align="center" width="25%">
+🎉
+
+Done!
+
+You'll receive a notification when the process is complete.
+
+</td> </tr> </table> </div>
+🦈 Your Contribution Journey
+                    🌊 OPEN SOURCE JOURNEY
+
+                           💡
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   Choose    │
+                    │   Project   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    Fork     │
+                    │ Repository  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    Edit     │
+                    │   Changes   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    Commit   │
+                    │   Changes   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │ Pull Request│
+                    │     📤      │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   Review    │
+                    │     👀      │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    Merge    │
+                    │     ✅      │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    🦈 PULL SHARK
+
+✨ Where To Go From Here
+<div align="center">
+🎯 You Did It!
+</div>
+
+Congratulations! 🎉
+
+You have just completed one of the most important workflows in open-source development:
+
+Fork → Edit → Commit → Pull Request → Review → Merge
+
+This is the same basic workflow you'll encounter again and again when contributing to projects on GitHub.
+
+💌 What Happens After Merge?
+
+Once your contribution is reviewed and merged into the project's main branch, GitHub will notify you.
+
+You can then:
+
+📬 Check your GitHub notifications
+
+📧 Look for the GitHub notification email
+
+🔍 Visit your merged Pull Request
+
+🏆 Check your GitHub achievements
+
+🦈 Continue contributing to open source
+
+🚀 Start working on your next contribution
+
+🌟 Keep Contributing
+<div align="center"> <table> <tr> <td align="center">
+
+🧠
+LEARN
+
+Learn how real-world projects work.
+
+</td> <td align="center">
+
+💻
+BUILD
+
+Create useful things.
+
+</td> <td align="center">
+
+🤝
+CONTRIBUTE
+
+Help other developers.
+
+</td> <td align="center">
+
+🚀
+GROW
+
+Become a better developer.
+
+</td> </tr> </table> </div>
+🦈 Pull Shark Mode
+<div align="center">
+🌊 Keep Swimming Through Open Source
+<p> <img src="https://img.shields.io/badge/Code-💻-181717?style=for-the-badge"> <img src="https://img.shields.io/badge/Review-👀-6C63FF?style=for-the-badge"> <img src="https://img.shields.io/badge/Merge-✅-00C853?style=for-the-badge"> <img src="https://img.shields.io/badge/Repeat-🦈-00AEEF?style=for-the-badge"> </p> <br>
+
+<strong>One contribution at a time.</strong>
+
+<br><br>
+
+<em> Your first contribution is just the beginning. 🌱 </em> </div>
+💙 A Small Reminder
+
+Every expert contributor started somewhere.
+
+Your first Pull Request might be a tiny documentation change,
+a typo fix, a new example, or a small improvement.
+
+But every contribution teaches you something new.
+
+So don't stop at one.
+
+Open another PR. 🚀
+
+<div align="center">
+🌊 Happy Contributing!
+🦈 See you in the next Pull Request!
+<br>
+
+fork → edit → commit → PR → review → merge
+
+<br><br>
+
+⭐ Keep Building • Keep Learning • Keep Contributing ⭐
+
+</div>
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
