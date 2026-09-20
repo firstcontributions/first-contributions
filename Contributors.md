@@ -97,7 +97,7 @@ GSL32
 - Maia
 - MAGNUS
 - Sanjay
-- more [oensed](https://github.com/oensed)
+- [Arthur Xavier](https://github.com/tutybas)
 - [darikson26](https://github.com/darikson26)
 - [T Abishek](https://github.com/Abishekcps)
 - [Jackson Strange](https://github.com/JacksonStrange)
