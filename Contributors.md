@@ -1502,6 +1502,7 @@ Syed Omer
 -[Tomas Granja](https://github.com/tomas-neo)
 - [Dmitry Vorobey](https://github.com/dvorobej)
 - [Samruddhi](https://github.com/s4mruddhi)
+- [Volt](https://github.com/voltvolt07)
 - [ayush](https://github.com/Ayush-Nandapure)
 - [Prateek](https://github.com/prateek4dev-afk)
 -[SohaS](https://github.com/soha-sg)
