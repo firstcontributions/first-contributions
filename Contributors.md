@@ -7,6 +7,7 @@ B05U3-
 - [Antonio Campello](https://github.com/antoniocampello)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
+- - [Gaurav Aryal](https://github.com/Detoxin01)
 B.Saikumar
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
