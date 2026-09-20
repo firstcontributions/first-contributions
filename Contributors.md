@@ -7,6 +7,7 @@ B05U3-
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
 - [Fida Hussain](https://github.com/FidaHussainWani)
 - [Antonio Campello](https://github.com/antoniocampello)
+- [Vishnupriya](https://github.com/vishnupriya-v-27)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
 - - [Gaurav Aryal](https://github.com/Detoxin01)
