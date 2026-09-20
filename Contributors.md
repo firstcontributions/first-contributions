@@ -6035,3 +6035,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Gabriella Braga](https://github.com/gabriellavbraga)
 - [Yared](https://github.com/yared2124)
 - [nomemleak](https://github.com/nomemleak)
+- [Ol1nde](https://github.com/Ol1nde) My first open-source contribution!
