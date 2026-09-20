@@ -10,9 +10,7 @@ B05U3-
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
 - - [Gaurav Aryal](https://github.com/Detoxin01)
-B.Saikumar
-[Adithya Biju](https://github.com/Astroo120/fc.git)
-
+[Adithya Biju][https://github.com/Astroo120]
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
@@ -6033,3 +6031,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Vanshdeep arya](https://github.com/Vansh432)
 - [Henil](https://github.com/henil1718)
 - [Ulucbey Terek](https://github.com/wizard12641)
+
+
+[def]: https://github.com/Astroo120
