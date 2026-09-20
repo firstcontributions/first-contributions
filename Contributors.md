@@ -644,7 +644,7 @@ siddhu
 -[Aloka] (https://github.com/aloka-pa)
 - [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
-- [Aman Joshi](https://github.com/Code-Breaker-Ctrl)
+- [Aman Joshi](https://github.com/Code-Breaker-Ctrl) - Software Developer
 - [Aman Raj](https://github.com/aman-raj-071)
 -[Akshat Parashar](https://github.com/akshatparashar)
 - [Siddhartha](https://github.com/siddhartha3066)
