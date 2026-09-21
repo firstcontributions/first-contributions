@@ -2,6 +2,7 @@ B05U3-
 - [Sumit parmar](https://github.com/sumitparmar-ai)
 -  [Manya Garg](https://github.com/rikijackson)
 - [Sreyas Sasikumar](https://github.com/sreyassasikumar)
+- [Melissa](https://github.com/melissaclark820914) First Contribution!
 - claude
 -[Deepak Sing](https://github.com/CodeWithDks)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
