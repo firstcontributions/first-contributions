@@ -1,6 +1,7 @@
 B05U3-
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
 - [Tyra Nyambura](https://github.com/TyraNyamburaa/my-first-open-source-contribution) My first open-source contribution
+- [fmarijatta](https://github.com/fmarijatta)
 - [Sumit parmar](https://github.com/sumitparmar-ai)
 -  [Manya Garg](https://github.com/rikijackson)
 - [Sreyas Sasikumar](https://github.com/sreyassasikumar)
@@ -9,6 +10,8 @@ B05U3-
 -[Deepak Sing](https://github.com/CodeWithDks)
 -[Gopinath Athiappan](https://github.com/Gopinath-athiappan/first-contributions)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
+- Archie Boswellduhewdn[fej[]]
+- archie boswell
 - [Fida Hussain](https://github.com/FidaHussainWani)
 - [Motoharu Kurogochi](https://github.com/moto-kurog)
 - [Antonio Campello](https://github.com/antoniocampello)
@@ -6067,4 +6070,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [rookit-ljt](https://github.com/rookit-ljt)
 - [Riyaz](https://github.com/smohammedriyaz1)
 - [Bruce4545](https://github.com/Bruce4545)
-
+- [Mahendra Kuruva](https://github.com/MahendraKuruva)
