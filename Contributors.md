@@ -6,8 +6,10 @@ B05U3-
 - [Melissa](https://github.com/melissaclark820914) First Contribution!
 - claude
 -[Deepak Sing](https://github.com/CodeWithDks)
+-[Gopinath Athiappan](https://github.com/Gopinath-athiappan/first-contributions)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
 - [Fida Hussain](https://github.com/FidaHussainWani)
+- [Motoharu Kurogochi](https://github.com/moto-kurog)
 - [Antonio Campello](https://github.com/antoniocampello)
 - [Vishnupriya](https://github.com/vishnupriya-v-27)
 - [SidVoyager](https://github.com/siddhanth-aithal)
@@ -15,6 +17,7 @@ B05U3-
 - [Naing Zwe Htut](https://github.com/Naingzwehtut)
 - - [Gaurav Aryal](https://github.com/Detoxin01)
 B.Saikumar
+-[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
@@ -50,6 +53,7 @@ GSL32
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - Rajesh Shivarama
 - [Anish](https://github.com/anish5671)
+- [SEASICKxixi](https://github.com/SEASICKxixi)
 - Hirotaka Akiyama
 - [Cameron Sentieri](https://github.com/camsent)
 - [Srishti Yadav](https://github.com/srishtiyadav05)
@@ -210,6 +214,7 @@ Jainil Chavda
 - [Jammu Durga Prasad](https://github.com/jammudurgaprasad)
 - [Tafajjul Khan](https://github.com/tafajjul-khan)
 - [Sourrrabh](https://github.com/Sourrrabh)
+- [Benzineb Kylian](https://github.com/killeron57)
 - [Leonardo Monteiro] (https://github.com/LeoMonteiroS)
 - [Suleiman Muse](https://github.com/SuleimanMuse)
 - [yukinko](https://github.com/yukinko267)
@@ -255,6 +260,7 @@ Jainil Chavda
 - [vishal kumar sinha](https://github.com/vishalsinha1602)
 - [Leonid Shraybman](https://github.com/lshraybman)
 - [Abhinab Chhetri](https://github.com/ABHINAB-CHHETRI)
+- [DrAgOn](https://github.com/Dr-Ag-0n) Get busy living, or get busy dying.
 - [Robiul Haque](https://github.com/r-rony08)
 - [mogeadis](https://github.com/mogeadis)
 - [Rincis](https://github.com/RincisM)
@@ -272,6 +278,7 @@ vijyot silare
 - [Nethmika Kumarasiri] (https://github.com/nethmika4881)
 - [Ryan V] (https://github.com/ryanvincoy11)
 - [jesse](https://github.com/jessejkeliot)
+- [baseenling]
 - [BrayanGuti](https://github.com/BrayanGuti)
 - [nikhil singh](https://github.com/nikhilnirwan97)
 - [sabarees](https://github.com/sabarees19)
@@ -3518,6 +3525,7 @@ andrewcodess
 - [Sankeerthana Lode](https://github.com/SankeerthanaLode)
 - [Sanket](https://github.com/Sank02)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
+- [Sanskar Rai](https://github.com/sanskar-rai3) 
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
 - [Sanyam Kumari](https://github.com/sanyam0495)
 - [Alex Hanna](https://github.com/AlexHan-prog)
@@ -6028,6 +6036,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Sahil] 9https://github.com/sa-hilll)
 - [Sakthikarthick Nagendran] (https://github.com/Sakthikarthick3107)
 - [Chance](https://github.com/Chance0813) My first open-source contribution!
+- childish
 - [Alejandro Caballero](https://github.com/jacaballerol-rgb) My first open-source contribution!
 - [Evan Zhu](https://github.com/evanzhu888)
 - [Johann Kemp](https://github.com/Ymir-unc)  South Africa -> United States, my first open source contribution.
@@ -6043,5 +6052,8 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Yared](https://github.com/yared2124)
 - [nomemleak](https://github.com/nomemleak)
 - [Ol1nde](https://github.com/Ol1nde) My first open-source contribution!
-
 - [Sehrish Fatima](https://github.com/sehrish118)
+- [Superrsy666](https://github.com/Superrsy666)
+- [Yash](https://github.com/yashkhou)
+- [rookit-ljt](https://github.com/rookit-ljt)
+- [Bruce4545](https://github.com/Bruce4545)
