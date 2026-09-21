@@ -1,13 +1,10 @@
 # Contributors
--[DHINESH-77](https://github.com/DHINESH-77)
--[Divyansh Pandey](https://github.com/divyansh-coder-git)
--[WahyuWian]
--[Kenny] (https://github.com/Kennyzambrano16122000)
+
+-[DHINESH-77](https://github.com/DHINESH-77) -[Divyansh Pandey](https://github.com/divyansh-coder-git) -[WahyuWian] -[Kenny] (https://github.com/Kennyzambrano16122000)
 [Abdullah](https://github.com/lets-abdullah/)
 [Abhishek](https://github.com/ABHIKALVIUM)
-Rudr Ahuja
--[Shailesh](https://github.com/shaileshkumavat0)
--[Prasanth](https://github.com/github-prashanth)
+Rudr Ahuja -[Shailesh](https://github.com/shaileshkumavat0) -[Prasanth](https://github.com/github-prashanth)
+
 - [Chitranshu Dhakad](https://github.com/GoluScriptMage)
 - [Aaditya](https://github.com/Aadi_RE350)
 - [buptjrq](https://github.com/buptjrq)
@@ -22,16 +19,14 @@ Rudr Ahuja
 - Shinobi (https://github.com/ShineEnoki)
 - Vijay Karthik - [CodeXSlayer](https://github.com/code-x-slayer)
 - Ansh Choudhary -[https://github.com/Ansh-choudhary08]
--Robert James
+  -Robert James
 - Sankeerth Nara - [https://github.com/SankeerthNara]
 - [Samiksha-2702] (https://github.com/samiksha-2702)
-- [cyx89032-dot](https://github.com/cyx89032-dot)
--[Askademy Ofiicial](https://github.com/askademyofficial)
+- [cyx89032-dot](https://github.com/cyx89032-dot) -[Askademy Ofiicial](https://github.com/askademyofficial)
 - [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
 - [Thejas K](https://github.com/thejas-1999)
 - Ankur Macwan: [ankur3-101106](https://github.com/ankur3-101106)
-- Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01)
--[The9coder](https://github.com/The9coder)
+- Ankur 2: [ankur-1112](https://github.com/ankur-1112) -[SharadPandey01](https://github.com/SharadPandey01) -[The9coder](https://github.com/The9coder)
 - [Tamanna](https://github.com/tamannamalik09)
 - [Saurabh Gupta](https://github.com/saurabhgupta3)
 - [Aditya Singh](https://github.com/Siphon18)
@@ -455,7 +450,7 @@ Rudr Ahuja
 - [Liang Zhou] (https://github.com/Jay-wink)
 - [Aditya](https://github.com/Aditya-aks-710)
 - [Maahi-w-tech](https://github.com/Maahi-w-tech)
--TTT
+  -TTT
 - [Archita9412](https://github.com/Archita9412)
 - [Gurshaan Deol] (https://github.com/Gurshaan-Deol)
 - [Xander Wayne](https://github.com/xaaug)
@@ -2499,14 +2494,12 @@ Rudr Ahuja
 - Chandrakanth Dodapaneni
 - [Kushagra Singh](https://github.com/KushagraSinghBharadwaj)
 - [Natalia Giordano](https://github.com/nataliagiordano9-maker)
-- [Caio](https://github.com/csuzigan)
--[Alexfleming] (https://github.com/rcbxdev)
--[Ammar-Zeyad] (https://github.com/AmmarZeyad0)
+- [Caio](https://github.com/csuzigan) -[Alexfleming] (https://github.com/rcbxdev) -[Ammar-Zeyad] (https://github.com/AmmarZeyad0)
 - [zcztt](https://github.com/zcztt)
 - [Hu Yushun](https://github.com/yukino39)
 - [Xvoid](https://github.com/F2207-VS)- [Berkay Yalçın](https://github.com/berkayyalcin7)
 - [Gayathri M](https://github.com/gayathrimgau2008-gayathri-m)
--- [Kiranraj S G](https://github.com/kiranrajsg)
+  -- [Kiranraj S G](https://github.com/kiranrajsg)
 - [mclerit](https://github.com/mclerit)
 - [sidsr003](https://https://github.com/sidsr003)
 - [Colin Young](https://github.com/colinyoung04)
@@ -2518,7 +2511,7 @@ Rudr Ahuja
 - [Nethra T N](https://github.com/nethrathirumurugan21-debug)
 - [Viresh Anand](https://github.com/vireshanand278)
 - [Toshima Rahangdale](https://github.com/Toshima17)
-[Shriya Pachunuri](https://github.com/shriya7756)
+  [Shriya Pachunuri](https://github.com/shriya7756)
 - [Jacob Coyle](https://github.com/Jacob-Coyle)
 - [a0110330550770987](https://github.com/a0110330550770987)
 - [reiteroimhons-ai](https://github.com/reiteroimhons-ai)
@@ -2527,12 +2520,12 @@ Rudr Ahuja
 - [Nikunj Dhakad] (https://github.com/Nikunjdhakad)
 - [dnjsqhal8956-create](https://github.com/dnjsqhal8956-create)
 - [Dhanya P](http://github.com/iamDhanya-p)
-[Devanshu Rajput] (https://github.com/Devanshu7455)
-[seymahdi](https://github.com/seymahdi)
--[Monika kaumri]:(https://github.com/moniika-2906-git)
+  [Devanshu Rajput] (https://github.com/Devanshu7455)
+  [seymahdi](https://github.com/seymahdi) -[Monika kaumri]:(https://github.com/moniika-2906-git)
 - [rosspai](https://github.com/rosspai2)
 - [laurenthoranyi](https://github.com/laurenthoranyi)
 - [Om K Patel](https://github.com/OM152002)
 - [fish-444](https://github.com/fish-444)
 - [densuke123](https://github.com/densuke123)
 - [Akash HG](https://github.com/akashhg2007)
+- [PETER GB](https://github.com/peter-gb)
