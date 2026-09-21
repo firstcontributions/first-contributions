@@ -256,6 +256,7 @@ Jainil Chavda
 - [vishal kumar sinha](https://github.com/vishalsinha1602)
 - [Leonid Shraybman](https://github.com/lshraybman)
 - [Abhinab Chhetri](https://github.com/ABHINAB-CHHETRI)
+- [DrAgOn](https://github.com/Dr-Ag-0n) Get busy living, or get busy dying.
 - [Robiul Haque](https://github.com/r-rony08)
 - [mogeadis](https://github.com/mogeadis)
 - [Rincis](https://github.com/RincisM)
