@@ -8,6 +8,7 @@ B05U3-
 -[Deepak Sing](https://github.com/CodeWithDks)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
 - [Fida Hussain](https://github.com/FidaHussainWani)
+- [Motoharu Kurogochi](https://github.com/moto-kurog)
 - [Antonio Campello](https://github.com/antoniocampello)
 - [Vishnupriya](https://github.com/vishnupriya-v-27)
 - [SidVoyager](https://github.com/siddhanth-aithal)
