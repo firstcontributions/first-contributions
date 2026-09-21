@@ -6056,4 +6056,3 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Yash](https://github.com/yashkhou)
 - [rookit-ljt](https://github.com/rookit-ljt)
 - [Bruce4545](https://github.com/Bruce4545)
-- [Bruce4546](https://github.com/Bruce4546)
