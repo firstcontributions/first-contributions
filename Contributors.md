@@ -11,8 +11,7 @@ B05U3-
 -[Deepak Sing](https://github.com/CodeWithDks)
 -[Gopinath Athiappan](https://github.com/Gopinath-athiappan/first-contributions)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
-- Archie Boswellduhewdn[fej[]]
-- archie boswell
+- Hannah and archie
 - [Fida Hussain](https://github.com/FidaHussainWani)
 - [Motoharu Kurogochi](https://github.com/moto-kurog)
 - [Antonio Campello](https://github.com/antoniocampello)
