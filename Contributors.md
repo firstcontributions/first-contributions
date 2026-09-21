@@ -53,6 +53,7 @@ GSL32
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - Rajesh Shivarama
 - [Anish](https://github.com/anish5671)
+- [SEASICKxixi](https://github.com/SEASICKxixi)
 - Hirotaka Akiyama
 - [Cameron Sentieri](https://github.com/camsent)
 - [Srishti Yadav](https://github.com/srishtiyadav05)
