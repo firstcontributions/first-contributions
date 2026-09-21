@@ -6051,3 +6051,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [nomemleak](https://github.com/nomemleak)
 - [Ol1nde](https://github.com/Ol1nde) My first open-source contribution!
 - [Superrsy666](https://github.com/Superrsy666)
+- [Yash](https://github.com/yashkhou)
