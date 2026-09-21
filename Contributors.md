@@ -1,5 +1,6 @@
 B05U3-
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
+- [Tyra Nyambura](https://github.com/TyraNyamburaa/my-first-open-source-contribution) My first open-source contribution
 - [fmarijatta](https://github.com/fmarijatta)
 - [Sumit parmar](https://github.com/sumitparmar-ai)
 -  [Manya Garg](https://github.com/rikijackson)
