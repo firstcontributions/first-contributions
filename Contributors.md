@@ -46,6 +46,7 @@ B.Saikumar
 - [SJN](https://github.com/CharlesJerome) Charles SJN
 GSL32
 - [Vasu Parashar](https://github.com/VasuParashar37)
+- [ARIS GIARMIDIS](https://github.com/giarmidisaris)
 - [Jeet](https://github.com/Shwejit)
 - [StivenFory](https://github.com/stivenfory)
 - [Shubham Bawa](https://github.com/Shubham-392)
