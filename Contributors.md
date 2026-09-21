@@ -6052,7 +6052,10 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Yared](https://github.com/yared2124)
 - [nomemleak](https://github.com/nomemleak)
 - [Ol1nde](https://github.com/Ol1nde) My first open-source contribution!
+- [Sehrish Fatima](https://github.com/sehrish118)
 - [Superrsy666](https://github.com/Superrsy666)
 - [Yash](https://github.com/yashkhou)
 - [rookit-ljt](https://github.com/rookit-ljt)
 - [Riyaz](https://github.com/smohammedriyaz1)
+- [Bruce4545](https://github.com/Bruce4545)
+
