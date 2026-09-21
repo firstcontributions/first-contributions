@@ -1,4 +1,5 @@
 B05U3-
+- [mgyaychan][https://github.com/mgyaychan]
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
 - [Sumit parmar](https://github.com/sumitparmar-ai)
 -  [Manya Garg](https://github.com/rikijackson)
