@@ -6,6 +6,7 @@ B05U3-
 - [Melissa](https://github.com/melissaclark820914) First Contribution!
 - claude
 -[Deepak Sing](https://github.com/CodeWithDks)
+-[Gopinath Athiappan](https://github.com/Gopinath-athiappan/first-contributions)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
 - [Fida Hussain](https://github.com/FidaHussainWani)
 - [Antonio Campello](https://github.com/antoniocampello)
