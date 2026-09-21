@@ -6035,6 +6035,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Iraa Garg](https://github.com/iraagarg)
 - [Vanshdeep arya](https://github.com/Vansh432)
 - [Henil](https://github.com/henil1718)
+- [SK . Satoshi Kaito](https://github.com/SksatoshiKaito)
 - [Ulucbey Terek](https://github.com/wizard12641)
 - [Gabriella Braga](https://github.com/gabriellavbraga)
 - [Yared](https://github.com/yared2124)
