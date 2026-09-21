@@ -28,6 +28,7 @@ B.Saikumar
 - [GioPs](https://github.com/01giopaixao)
 - [Neha Pani](https://github.com/paraleash99)
 - [Senith Umesha](https://github.com/SenithUmesha)
+- [Ajay Kumar](https://github.com/ajay-0010)
 - [Arpita Nayak](https://github.com/ZoaArpita)
 - [Dhairya Patel] (https://github.com/MVP-Celestial) 
 - [Victor Castillo](https://github.com/VCastilloC2)
