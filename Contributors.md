@@ -90,6 +90,7 @@ GSL32
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl)
 - [Gajjela Vamsi Krishna]  (https://github.com/vamsi313)
 - [Inyang Isaac] (https://github.com/bishop546)
+- [Sutrapu Sai Sanjana] (https://github.com/saisanjana243)
 - [Zyan Khan] (https://github.com/zyan-007)
 - [Mohammed Junaid](https://github.com/microdoomz)
 - [Mohammad Almuresi](https://github.com/MoeAlmuresi)
