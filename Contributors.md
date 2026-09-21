@@ -3525,6 +3525,7 @@ andrewcodess
 - [Sankeerthana Lode](https://github.com/SankeerthanaLode)
 - [Sanket](https://github.com/Sank02)
 - [Sanskar Agarwal](https://github.com/sanskaragarwal001)
+- [Sanskar Rai](https://github.com/sanskar-rai3) 
 - [Santiago Sierra Marin](https://github.com/SantiSM10)
 - [Sanyam Kumari](https://github.com/sanyam0495)
 - [Alex Hanna](https://github.com/AlexHan-prog)
