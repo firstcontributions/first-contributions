@@ -6079,3 +6079,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Taya](https://github.com/Taiwo052)
 - [ThreadCrash](https://github.com/ThreadCrash)
 - [Wallace](https://github.com/wallace7132010-afk)
+-[Yogesh Parhad](https://github.com/yogeshparhad)
