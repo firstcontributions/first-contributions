@@ -3029,6 +3029,7 @@ andrewcodess
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
 - [Laryssa](https://github.com/krystall8778)
+- [Connor Sea](https://github.com/connortist) My first open-source contribution, made with Claude Code!
 - [Gabriel Villanueva](https://github.com/gabeamv)
 - [LaskaaaD](https://github.com/LaskaaaD)
 - [Jonghoon Lee](https://github.com/hoony3207-web)
