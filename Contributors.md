@@ -49,6 +49,7 @@ GSL32
 - [Vasu Parashar](https://github.com/VasuParashar37)
 - [Jeet](https://github.com/Shwejit)
 - [StivenFory](https://github.com/stivenfory)
+- [Marcus de la Cruz](https://github.com/marcusdelacruz)
 - [Shubham Bawa](https://github.com/Shubham-392)
 - [Turugeldiyev Alikhan](https://github.com/crapxxi)
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
