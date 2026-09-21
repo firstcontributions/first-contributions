@@ -11,6 +11,7 @@ B05U3-
 - [Fida Hussain](https://github.com/FidaHussainWani)
 - [Motoharu Kurogochi](https://github.com/moto-kurog)
 - [Antonio Campello](https://github.com/antoniocampello)
+- Archie
 - [Vishnupriya](https://github.com/vishnupriya-v-27)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
