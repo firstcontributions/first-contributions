@@ -1970,6 +1970,7 @@ niceshowmini
 - [Eric Zhao](https://github.com/eericzzhao)
 - [Harsh Prajapati](https://github.com/harsh-prajapati54)
 - [Avraj J.](https://github.com/avrajj)
+Jim Bollinger
 - [Yue Sl]
 - [radiusxt](https://github.com/radiusxt)
 - [Anagha Ajesh](https://github.com/anaajesh)
