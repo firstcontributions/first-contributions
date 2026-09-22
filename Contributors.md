@@ -1,7 +1,6 @@
 B05U3-
-- [Your Name](https://github.com/your-name)
+- [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [Aayush Koora](https://github.com/AayushKoora)
-- Md. Naiyer Hussain
 - [Sanjanaa1733](https://github.com/Sanjanaa1733)
 - [mgyaychan][https://github.com/mgyaychan]
 - [SANDHYAM](github)
