@@ -1,5 +1,6 @@
 B05U3-
 - [Aayush Koora](https://github.com/AayushKoora)
+- Md. Naiyer Hussain
 - [Sanjanaa1733](https://github.com/Sanjanaa1733)
 - [mgyaychan][https://github.com/mgyaychan]
 - [SANDHYAM](github)
