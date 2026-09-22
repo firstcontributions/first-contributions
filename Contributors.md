@@ -1888,6 +1888,7 @@ niceshowmini
 - [Hassan Mallah](https://github.com/HassanMallah)
 - [Jaimz](https://github.com/jaimzh)
 - [junior-xiaoc](https://github.com/junior-xiaoc)
+- [Anmol Jana](https://github.com/iamanmol45)
 - [Yash Saxena](https://github.com/yashsaxena18)
 - [m-kras](https://github.com/m-kras)
 - [Ashi Verma](https://github.com/Ashi-Verma1758)
@@ -6118,4 +6119,8 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Suhana Chauhan](https://github.com/Suhana783)
 - [Ananya Shekhar](https://github.com/Anya299)
 - [Anju Goyal](https://github.com/anjugoyal954)
+<<<<<<< HEAD
 - [Akash Kumar] (https://github.com/akash23sk)
+=======
+- [mang0A0](https://github.com/mang0A0)
+>>>>>>> upstream/main
