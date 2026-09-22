@@ -73,6 +73,7 @@ GSL32
 - [Iahzeel](https://github.com/feiahzeel)
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
+- [Ethan Pitzer](https://github.com/pitzer-e)
 - [Kim-202](https://github.com/Kim-202)
 - [Mamadou Sow](https://github.com/matpromax8-hue)
 - [Ketul Makwana](https://github.com/ktul15)
