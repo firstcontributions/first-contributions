@@ -533,6 +533,7 @@ siddhu
 - [Aviad L] (github.com/trdui777)
 - [Harshvardhan Kurade](https://github.com/harshvardhan-kurade)
 - [strange757](https://github.com/strange757)
+- [Ilbert Esculpi](https://github.com/ilbesculpi)
 - [itssubs](https://github.com/itssubs)
 - [Kim Kyung Min](https://github.com/CattonNyan)
 - [qihaojojo](https://github.com/qi-hao-jishi)
