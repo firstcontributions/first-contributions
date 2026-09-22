@@ -1089,6 +1089,7 @@ Ridwan Umar- [Nico]
 - [Praveen Bishnoi](https://github.com/parveen0029)
 - [Ch Tharun Sai Pranav]
 - [AleH14](https://github.com/AleH14)
+-[Tharun Prakash](https://github.com/tharun694/tharun694)
 - [jiangbei0921](https://github.com/jiangbei0921)
 - [TheRodzz](https://github.com/TheRodzz)
 - [Ömer Çolak](https://github.com/omerrco)
