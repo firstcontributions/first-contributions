@@ -224,8 +224,8 @@ Jainil Chavda
 -[Vinay S Kumar](https://github.com/vinayskumar25507)
 -[Harsh Pandey](https://github.com/harshpandey0308s)
 - [Shreehari Sudarshan Joshi](https://github.com/shreeharijoshi)
-- [Kuba Slowikowski](https://github.com/JhonMerchan)
-- [Alejandro Merchan]
+- [Kuba Slowikowski](https://github.com/Kuba70)
+- [Alejandro Merchan](https://github.com/JhonMerchan)
 - [Aaryan C Gole](https://github.com/)
 - [Aditya](https://github.com/ADITYA-2005-LANG)
 - [Samuele Niccolai](https://github.com/SamueleNiccolai)
