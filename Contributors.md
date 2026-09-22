@@ -1,5 +1,6 @@
 B05U3-
 - [Aayush Koora](https://github.com/AayushKoora)
+- [Sanjanaa1733](https://github.com/Sanjanaa1733)
 - [mgyaychan][https://github.com/mgyaychan]
 - [SANDHYAM](github)
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
