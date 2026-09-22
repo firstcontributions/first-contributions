@@ -1,4 +1,5 @@
 B05U3-
+- [Vlad Shpakov] (https://github.com/BALDOI)
 - [Tanuj Kaswan] first commit ever!!!
 - [Ravi Kumar](https://github.com/RAVI5216)
 - [ADITHYA S](https://github.com/heyadhithya)
