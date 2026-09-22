@@ -265,6 +265,7 @@ github.com/zeeshan2266
 - [Thet Htut Naing](https://github.com/kothet007)
 - [Mihir Prajapati](https://github.com/Mihir4921)
 - [Shubham Kurhe](https://github.com/shubh7979)
+- [Sachintha Wijewardhana](https://github.com/Sachi624)
 - [Idhayathulla](https://github.com/idhayathulla-dev)
 - [RIVF](https://github.com/RIVF-ISAT-Fan)
 - [Jake Domabyl] (https://github.com/jpd254)
