@@ -528,6 +528,7 @@ siddhu
 - Khushi Kumari
 - Supilath
 - Sam C
+- [Eyosias](https://github.com)
 - [Rikky J](https://github.com/RIKKY-J)
 - [LalithaCharan](https://github.com/LalithaCharan)
 - [Nicholas T. Limberti](https://github.com/nlimberti)
