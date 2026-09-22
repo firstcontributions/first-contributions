@@ -1,4 +1,5 @@
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
+- [Sangmesh Bailannavar](https://github.com/sangmeshbailannavar10)
 - [GioPs](https://github.com/01giopaixao)
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
