@@ -1,4 +1,5 @@
 B05U3-
+- [Aayush Koora](https://github.com/AayushKoora)
 - [mgyaychan][https://github.com/mgyaychan]
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
 - [Tyra Nyambura](https://github.com/TyraNyamburaa/my-first-open-source-contribution) My first open-source contribution
