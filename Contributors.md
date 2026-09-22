@@ -1,4 +1,5 @@
 B05U3-
+- [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [Aayush Koora](https://github.com/AayushKoora)
 - [Sanjanaa1733](https://github.com/Sanjanaa1733)
 - [mgyaychan][https://github.com/mgyaychan]
@@ -6110,4 +6111,4 @@ console.log("Hello, Github World! - Joshua Nett");
 [Enoch Hoguna](https://github.com/oguna-design)
 - [Nicky Boyle](https://github.com/hopperskotch) Meow!
 - [Olivia Wang](https://github.com/Oliruirui) My first open-source contribution!
-- [het](https://github.com/cyberhet)
+- [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
