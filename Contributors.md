@@ -1113,6 +1113,7 @@ Ridwan Umar- [Nico]
 - [Erikito Consultancy](https://github.com/erikvanappeldoorn)
 -[sanchit] 
 - [Favour Obademi] (https://github.com/Favyman)
+- [Lenus](https://github.com/Lenus-sss)
 - [Bilaal Bakare](https://github.com/BilaalBakare)
 [Raj Gandhi](https://github.com/rajg2906) 
 - [Thuta](https://github.com/thuta-dev)
@@ -6104,4 +6105,3 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Hemanth4072](https://github.com/Hemanth4072) My first open-source contribution! 🍉
 [Enoch Hoguna](https://github.com/oguna-design)
 - [Nicky Boyle](https://github.com/hopperskotch) Meow!
--[saod sami](https://github.com/saod-sami)
