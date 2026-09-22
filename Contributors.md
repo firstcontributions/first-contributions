@@ -26,6 +26,7 @@ B05U3-
 - [Naing Zwe Htut](https://github.com/Naingzwehtut)
 - [David Fauveaux](https://github.com/DavidFvx)
 - - [Gaurav Aryal](https://github.com/Detoxin01)
+Thiago Henrique
 B.Saikumar
 Arc hie Boswelll
 -[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
