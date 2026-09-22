@@ -5956,3 +5956,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [dakcoe](https://github.com/dakcoe)
 -[Tirumala Mounika](https://github.com/Mounika40156)
 -[arunkumargm]
+-[ValentinaRinicella] (https://github.com/Pure-tech-IA)
