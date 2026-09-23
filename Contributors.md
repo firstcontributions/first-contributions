@@ -3,9 +3,11 @@ B05U3-
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
 - [Vlad Shpakov] (https://github.com/BALDOI)
 - [Tanuj Kaswan] first commit ever!!!
+- [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Ravi Kumar](https://github.com/RAVI5216)
 - [ADITHYA S](https://github.com/heyadhithya)
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
+- [Josbin Joshy](https://github.com/josbinjoshy)
 - [Aayush Koora](https://github.com/AayushKoora)
 - [Sanjanaa1733](https://github.com/Sanjanaa1733)
 - [davlev16-cyber](https://github.com/davlev16-cyber)
@@ -44,6 +46,7 @@ Arc hie Boswelll
 - [Stephen Hopfensperger](https://github.com/Stephen-Hopfensperger) Have a great day!
 - [Luis Gutierrez](https://github.com/FoundryLG) Glad to contribute
 - [Abhishek Kumar](https://github.com/prodigyabhishek) First Contribution!
+- [Sidbt](https://github.com/YOUR_GITHUB_USERNAME) My first open-source contribution
 - [Michael-314](https://github.com/Michael-314) First contribution!
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
@@ -71,6 +74,7 @@ Arc hie Boswelll
 - [Romain Ben](https://github.com/BnRomain) Add churh
 - [jiangwenkai](https://github.com/Eldenring-ring) this is my first
 - [SJN](https://github.com/CharlesJerome) Charles SJN
+- [Dinesh Kumar] (https://github.com/DineshKumar-739)
 GSL32
 - [Vasu Parashar](https://github.com/VasuParashar37)
 - [ARIS GIARMIDIS](https://github.com/giarmidisaris)
@@ -6159,3 +6163,5 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
 -Sambhav Tomar [GitHub](https://github.com/tomarsambhav007-prog)
 Gowtham Pinipe
+- [Tadas Kaukas](https://github.com/Giknius) My first contribution!
+
