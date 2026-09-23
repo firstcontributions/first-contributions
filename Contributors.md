@@ -6162,4 +6162,5 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
 -Sambhav Tomar [GitHub](https://github.com/tomarsambhav007-prog)
 - [Tadas Kaukas](https://github.com/Giknius) My first contribution!
+- [fzy was here](https://github.com/x1anx1an) My first contribution!
 
