@@ -708,6 +708,7 @@ siddhu
 - [Elijah804](https://github.com/Elijah804)
 - [Dhanush](https://github.com/dhanush080607)
 - [Kamal-Assudani](https://github.com/Kamal-Assudani)
+- [randy-xu](https://github.com/randyxu0711)
 - [Muhammad08-dot](https://github.com/Muhammad08-dot)
 - [BP5751](https://github.com/BP5751)
 - [ehero](https://github.com/kdclll)
