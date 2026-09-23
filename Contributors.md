@@ -31,6 +31,7 @@ B05U3-
 - [Motoharu Kurogochi](https://github.com/moto-kurog)
 - [Antonio Campello](https://github.com/antoniocampello)
 - [Vishnupriya](https://github.com/vishnupriya-v-27)
+- [Aryan Shahi](https://github.com/developedByAryan)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
 - [Naing Zwe Htut](https://github.com/Naingzwehtut)
