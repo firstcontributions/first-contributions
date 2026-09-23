@@ -6176,5 +6176,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Deborah O. Farinmade] (https://github.com/OluwaphumbeeDee) Voila!
 - [fzy was here](https://github.com/x1anx1an) My first contribution!
 - [Madhukar Pal](https://github.com/Madhukar2006) My first contribution
+- [Yash Sahare](https://github.com/yashsahare05)
 
 Jd
