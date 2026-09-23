@@ -5446,6 +5446,7 @@ Raphael Karani
 - [Jadav Sai Rugvedh](https://github.com/rugvedhjadav)
 - [Yuri Leo](https://github.com/leoplasture)
 - [Tanuj Shah IMT2024018](https://github.com/Tanujshah18)
+- [Harshavrdhan]
 - [Atharva Jakhi IMT2024059](https://github.com/athjagit)
 - [Shreya](https://github.com/Shrey049)
 - [Areefa Samar](https://github.com/areefasamar)
