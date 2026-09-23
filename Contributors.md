@@ -6137,7 +6137,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Akash Kumar] (https://github.com/akash23sk)
 - [mang0A0](https://github.com/mang0A0)
 - [Téo Bourgois](https://github.com/teo-bou)
-- [Klimzi](https://github.com/kligjo)
+- [Klimzii](https://github.com/kligjo)
 - [Siddhi-i](https://github.com/Siddhi-i)
 - [so4neet](https://github.com/so4neet) First contribution :)
 - [aitaprogrammer]( https://github.com/aitaprogrammer)
