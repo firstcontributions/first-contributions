@@ -35,7 +35,6 @@ Thiago Henrique
 B.Saikumar
 ArpiKat
 Arc hie Boswelll
-- Arpi Katona
 -[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
