@@ -2912,6 +2912,7 @@ andrewcodess
 - [Hannah Bee] (https://github.com/hanbeecodes)
 - [Erick] (https://github.com/Fr0stbiteDev)
 - [Hanuman](https://github.com/CH-Hanuman)
+- [Hariom Shivnani] (https://github.com/hariom1610/)
 - [Haoyueck](https://github.com/haoyueck)
 - [Hojoon Moon](https://github.com/Hojoon7)
 - [Hardik kille](https://github.com/hrdk224/first-contributions)
