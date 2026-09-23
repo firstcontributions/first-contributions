@@ -88,6 +88,7 @@ GSL32
 - [Shubham Bawa](https://github.com/Shubham-392)
 - [Turugeldiyev Alikhan](https://github.com/crapxxi)
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
+- [YJuDeAd](https://github.com/YJuDeAd) First Contribution :)
 - Rajesh Shivarama
 - [Anish](https://github.com/anish5671)
 - [SEASICKxixi](https://github.com/SEASICKxixi)
