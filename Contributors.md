@@ -69,6 +69,7 @@ Arc hie Boswelll
 - [Vanshi Patel](https://github.com/VAP2999)
 - [ani](https://github.com/ani) 
 - [Ashu](https://github.com/ashu) 
+- [Alfonso](https://github.com/alfonso1031)
 [sushmitaankale](https://github.com/sushmitaankale)  
 -[Swastishri Hittalkeri](https://github.com/SwastishriHittalkeri) 
 - [Mohamed Ltaief](https://github.com/deepNox293) Hello World 
@@ -87,6 +88,7 @@ GSL32
 - [Shubham Bawa](https://github.com/Shubham-392)
 - [Turugeldiyev Alikhan](https://github.com/crapxxi)
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
+- [YJuDeAd](https://github.com/YJuDeAd) First Contribution :)
 - Rajesh Shivarama
 - [Anish](https://github.com/anish5671)
 - [SEASICKxixi](https://github.com/SEASICKxixi)
@@ -2912,6 +2914,7 @@ andrewcodess
 - [Hannah Bee] (https://github.com/hanbeecodes)
 - [Erick] (https://github.com/Fr0stbiteDev)
 - [Hanuman](https://github.com/CH-Hanuman)
+- [Hariom Shivnani] (https://github.com/hariom1610/)
 - [Haoyueck](https://github.com/haoyueck)
 - [Hojoon Moon](https://github.com/Hojoon7)
 - [Hardik kille](https://github.com/hrdk224/first-contributions)
@@ -3038,6 +3041,7 @@ andrewcodess
 - [Julianne Tomlinson](https://github.com/JewlzT)
 - [Julius Hoang](https://github.com/jghoang1)
 - [Jaydip Koriya](https://github.com/jaydipKoriya)
+- [Govindraj](https://github.com/govindraj-snippet) Let's Gooo
 - [Pooja] (https://github.com/pd2025)
 - [JulianoCLI](https://github.com/JulianoCLI)
 - [feather](https://github.com/featherbouquet)
@@ -4046,6 +4050,7 @@ andrewcodess
 - [Venkata Suresh Cherukuri](https://github.com/chvsuresh)
 - [Diego Nicolas Gimenez Irusta](https://github.com/diegogimenez04)
 - [Gustavo Henrique](https://github.com/Chucknoorms)
+- [Crunk Johnson]
 - [Valdinei Goncalves](https://github.com/Valdinei428)
 - [Ria Bawiskar](https://github.com/RiaBawiskar)
 - [Luan Faria](https://github.com/HellKapiroto)
@@ -6172,5 +6177,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [fzy was here](https://github.com/x1anx1an) My first contribution!
 - [Madhukar Pal](https://github.com/Madhukar2006) My first contribution
 - [Ludopris]
+- [Yash Sahare](https://github.com/yashsahare05) my first contribution!
 
 Jd
