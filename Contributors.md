@@ -3,7 +3,7 @@ B05U3-
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
 - [Vlad Shpakov] (https://github.com/BALDOI)
 - [Tanuj Kaswan] first commit ever!!!
-- [Rudrapratap Sarma](https://github.com/rudrapratap601) Loved it!
+- [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Ravi Kumar](https://github.com/RAVI5216)
 - [ADITHYA S](https://github.com/heyadhithya)
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
