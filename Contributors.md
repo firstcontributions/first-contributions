@@ -74,6 +74,7 @@ Arc hie Boswelll
 - [Romain Ben](https://github.com/BnRomain) Add churh
 - [jiangwenkai](https://github.com/Eldenring-ring) this is my first
 - [SJN](https://github.com/CharlesJerome) Charles SJN
+- [Dinesh Kumar] (https://github.com/DineshKumar-739)
 GSL32
 - [Vasu Parashar](https://github.com/VasuParashar37)
 - [ARIS GIARMIDIS](https://github.com/giarmidisaris)
@@ -6161,5 +6162,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Test User](https://github.com/Akshly)
 - [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
 -Sambhav Tomar [GitHub](https://github.com/tomarsambhav007-prog)
+Gowtham Pinipe
 - [Tadas Kaukas](https://github.com/Giknius) My first contribution!
 - [Deborah O. Farinmade] (https://github.com/OluwaphumbeeDee) Voila!
+- [fzy was here](https://github.com/x1anx1an) My first contribution!
