@@ -1334,6 +1334,7 @@ nathan practice here
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [Ria Sommerfeld](https://github.com/natsudaS)
 - [Pavani Satwika](https://github.com/satwii)
+- [Michael Rosendal](https://github.com/mbarosendal)
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [Samudrala Hasini](https://github.com/Hasini-Samudrala/)
 - [Muhammad Ali](https://github.com/Onetatcode)
