@@ -74,6 +74,7 @@ Arc hie Boswelll
 - [Romain Ben](https://github.com/BnRomain) Add churh
 - [jiangwenkai](https://github.com/Eldenring-ring) this is my first
 - [SJN](https://github.com/CharlesJerome) Charles SJN
+- [Dinesh Kumar] (https://github.com/DineshKumar-739)
 GSL32
 - [Vasu Parashar](https://github.com/VasuParashar37)
 - [ARIS GIARMIDIS](https://github.com/giarmidisaris)
