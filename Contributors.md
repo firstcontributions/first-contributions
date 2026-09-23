@@ -51,6 +51,7 @@ Arc hie Boswelll
 - [HarshithVardhan](https://github.com/Harshithvardhan)
 - [GioPs](https://github.com/01giopaixao)
 - [Neha Pani](https://github.com/paraleash99)
+- [Ippili Chinmayi](https://github.com/ippilichinmayi)
 - [Senith Umesha](https://github.com/SenithUmesha)
 - [Ajay Kumar](https://github.com/ajay-0010)
 - [Arpita Nayak](https://github.com/ZoaArpita)
