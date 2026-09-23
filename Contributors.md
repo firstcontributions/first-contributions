@@ -34,6 +34,7 @@ B05U3-
 Thiago Henrique
 B.Saikumar
 Arc hie Boswelll
+- Arpi Katona
 -[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
@@ -93,6 +94,7 @@ GSL32
 - [Dilan Sarwar](https://github.com/dsforcode)
 - [Cesar Hernandez](https://github.com/cesarjhernandez)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
+-[Saidharan](https://github.com/Saidharan-dev)
 - [Archie Boswell] 
 - [Marcos Patiño](https://github.com/Marcos676)
 - [Christopher Kalolo](https://github.com/Mwendisule)
@@ -1332,6 +1334,7 @@ nathan practice here
 - [Atif Mazhar](https://github.com/AtifMazhar-01)
 - [Ria Sommerfeld](https://github.com/natsudaS)
 - [Pavani Satwika](https://github.com/satwii)
+- [Michael Rosendal](https://github.com/mbarosendal)
 - [A. Vasanth](https://github.com/vasanth-cloud)
 - [Samudrala Hasini](https://github.com/Hasini-Samudrala/)
 - [Muhammad Ali](https://github.com/Onetatcode)
@@ -6072,6 +6075,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [dakcoe](https://github.com/dakcoe)
 -[Tirumala Mounika](https://github.com/Mounika40156)
 -[arunkumargm]
+-[ValentinaRinicella] (https://github.com/Pure-tech-IA)
 -[Ayush Vishwakarma](https://github.com/Ayush5525r)- [dixtuel](https://github.com/dixtuel)
 -[Eduardo Camacho] (https://github.com/Edd22210)
 - [gopigkc1910-commits](https://github.com/gopigkc1910-commits)
@@ -6136,7 +6140,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Akash Kumar] (https://github.com/akash23sk)
 - [mang0A0](https://github.com/mang0A0)
 - [Téo Bourgois](https://github.com/teo-bou)
-- [Klimzi](https://github.com/kligjo)
+- [Klimzii](https://github.com/kligjo)
 - [Siddhi-i](https://github.com/Siddhi-i)
 - [so4neet](https://github.com/so4neet) First contribution :)
 - [aitaprogrammer]( https://github.com/aitaprogrammer)
@@ -6145,3 +6149,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [justice](https://github.com/just1cez)
 - [Nischal Karki](https://github.com/nischalkarki2)
 - [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
+- [Test User](https://github.com/Akshly)
+- [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
+
