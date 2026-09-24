@@ -58,6 +58,7 @@ Arc hie Boswelll
 - [Michael-314](https://github.com/Michael-314) First contribution!
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
+- [2HB25CS034](https://github.com/2HB25CS034)
  [2HB25CS003](https://github.com/2HB25CS003)
  [2HB25CS003](https://github.com/2HB25CS003)
 - [2HB25CS070](https://github.com/2HB25CS070)
