@@ -1,3 +1,4 @@
+- [Vlad Shpakov] (https://github.com/BALDOI)
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
@@ -6,7 +7,6 @@ B05U3-
 - [RaiyanMatadar](https://github.com/RaiyanMatadar)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
-- [Vlad Shpakov] (https://github.com/BALDOI)
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Ravi Kumar](https://github.com/RAVI5216)
@@ -20,10 +20,11 @@ B05U3-
 - [davlev16-cyber](https://github.com/davlev16-cyber)
 -  [Jean Teznas ](https://github.com/davlev16-cyber)
 [Anup]
-
+- [Victor Franchet] (https://github.com/Victor-Franchet)
 - [mgyaychan][https://github.com/mgyaychan]
 - [EmanIsDead](https://github.com/EmanIsDead)
 - [SANDHYAM](github)
+- [Renard Nathan](https://github.com/WhatDahFox)
 - [Alexis THERON](https://github.com/HarJoKer)
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
 - [Tyra Nyambura](https://github.com/TyraNyamburaa/my-first-open-source-contribution) My first open-source contribution
@@ -201,6 +202,7 @@ GSL32
 - [Agustín Ré](https://github.com/AgusRe)
 - [Manish Mani Dinkar](https://github.com/moneyyiiss)
 - [Mano J](https://github.com/mj)
+- Melissa Nougal
 - [Mohamed Rasik Farid](https://github.com/MohamedRF)
 - [Milan Mahato](https://github.com/milanncodes)
 - [NlCK01](https://github.com/NlCK01)
@@ -2551,6 +2553,7 @@ Amna Naeem
 - [Amishi Agrawal](https://github.com/amishiagrawal)
 - [Chaitanya Bhambere](https://github.com/chaitanya29082000)
 - [Joshith Gadi] ()
+Florent
 - [Dani Noble] (https://github.com/dnvdevx)
 - [Edward](https://github.com/Ed3110)
 - [JulianGStudium](https://github.com/JulianGStudium)
@@ -6235,6 +6238,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Test User](https://github.com/Akshly)
 - [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
 -Sambhav Tomar [GitHub](https://github.com/tomarsambhav007-prog)
+- [Augustin Soki](https://github.com/Waveshepherd)
 - [Tadas Kaukas](https://github.com/Giknius) My first contribution!
 - [Deborah O. Farinmade] (https://github.com/OluwaphumbeeDee) Voila!
 - [fzy was here](https://github.com/x1anx1an) My first contribution!
@@ -6250,4 +6254,5 @@ HEAD
 
 - [Yessin Feki](https://github.com/yfeki83-pixel) My first contribution!
 
+- [Romain](https://github.com/Romain775) My first contribution!
 main
