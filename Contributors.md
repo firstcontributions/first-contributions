@@ -21,6 +21,7 @@ B05U3-
 - [mgyaychan][https://github.com/mgyaychan]
 - [EmanIsDead](https://github.com/EmanIsDead)
 - [SANDHYAM](github)
+- [Alexis THERON](https://github.com/HarJoKer)
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
 - [Tyra Nyambura](https://github.com/TyraNyamburaa/my-first-open-source-contribution) My first open-source contribution
 - [fmarijatta](https://github.com/fmarijatta)
