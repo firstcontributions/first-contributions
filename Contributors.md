@@ -66,6 +66,9 @@ Arc hie Boswelll
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [2HB25CS088](https://github.com/2HB25CS088)
+-[2HB25CS127](https://github.com/2HB25CS127)
+- [Luccy08](https://github.com/Luccy08)
+- [2HB25CS133](https://github.com/2HB25CS133)
 - [2HB25CS078](https://github.com/2HB25CS078)
 - [2HB25CS034](https://github.com/2HB25CS034)
  [2HB25CS003](https://github.com/2HB25CS003)
@@ -794,6 +797,7 @@ Shaurya522 from The Dooon School
 - Axe was here
 - wshadiaow
 - knyk0
+- mag 
 - [Sorin]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
