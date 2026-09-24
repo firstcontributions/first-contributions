@@ -948,6 +948,7 @@ Suraj Kumar i am not gonna provide any link
 - [S Tharun Kumar IMT2024010](https://github.com/Tharunqi)
 - [Soham Banerjee](https://github.com/oki-dokii)
 - [King Bright](https://github.com/atomixblast)
+- manas765
 - [Suhas GP](https://github.com/suhasgp2003)
 - [Rishiraj BT2024017](https://github.com/Rishi-nalla11)
 - [Dinesh Karthik BT2024199] (https://github.com/DINESH3803)
