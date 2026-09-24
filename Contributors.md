@@ -78,6 +78,7 @@ Arc hie Boswelll
 - [vaishnavivnaik2007](https://github.com/vaishnavivnaik2007)
 - [vaishnavivnaik2007](https://github.com/vaishnavivnaik2007)
 - [2HB25CS112](https://github.com/2HB25CS112)
+- [Code Tester](https://github.com/AbdulRehman393)
 - [2HB25CS082](https://github.com/2HB25CS082)
 - [2HB25CS114](https://github.com/2HB25CS114)
 - [2HB25CS104](https://github.com/2HB25CS104)
