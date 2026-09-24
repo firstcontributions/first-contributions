@@ -184,6 +184,7 @@ GSL32
 - MAGNUS
 - Sanjay
 - Doug
+- Zoulkorneni
 - [Indhrani](https://github.com/Indhrani116)
 - [Arthur Xavier](https://github.com/tutybas)
 - [darikson26](https://github.com/darikson26)
