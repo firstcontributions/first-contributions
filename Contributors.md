@@ -35,6 +35,7 @@ B05U3-
 - [Motoharu Kurogochi](https://github.com/moto-kurog)
 - [Antonio Campello](https://github.com/antoniocampello)
 - [Vishnupriya](https://github.com/vishnupriya-v-27)
+- [Sushant Gajbhiye](https://github.com/sushant23-git)
 - [Aryan Shahi](https://github.com/developedByAryan)
 - [Tejaswi Vaijoo](https://github.com/tvaijoo)
 - [SidVoyager](https://github.com/siddhanth-aithal)
