@@ -1,5 +1,6 @@
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
+- [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
 - [hanowlee](https://github.com/hanowlee)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
@@ -1170,7 +1171,7 @@ Ridwan Umar- [Nico]
 - [MaxDeveloper42](https://github.com/maxDeveloper42)
 - [Azlan Ainto](https://github.com/Azlan-Ainto)
 - [Troy C](https://github.com/ArT-BrC)
-- [Gururaj Suresh Lande](https://github.com/gururajlande7)
+
 - {Harshitha L M}(https://github.com/HarshithaLM)
 - [Hira Khyzer](https://github.com/Hirakhyzer)
 - [Ryn Nucrz](https://github.com/rynrizn)
