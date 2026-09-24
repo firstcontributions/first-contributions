@@ -15,6 +15,7 @@ B05U3-
 - [davlev16-cyber](https://github.com/davlev16-cyber)
 [Anup]
 
+- [miuxuer](https://github.com/miuxuer)
 - [mgyaychan][https://github.com/mgyaychan]
 - [SANDHYAM](github)
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
