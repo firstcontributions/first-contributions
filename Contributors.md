@@ -1,3 +1,4 @@
+- [Vlad Shpakov] (https://github.com/BALDOI)
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
@@ -6,7 +7,6 @@ B05U3-
 - [RaiyanMatadar](https://github.com/RaiyanMatadar)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
-- [Vlad Shpakov] (https://github.com/BALDOI)
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Ravi Kumar](https://github.com/RAVI5216)
