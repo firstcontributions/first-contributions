@@ -6150,6 +6150,7 @@ console.log("Hello, Github World! - Joshua Nett");
 -[Yogesh Parhad](https://github.com/yogeshparhad)
 - [w84me2dive](https://github.com/w84me2dive)
 - [TiaMEOWS](https://github.com/TiaMEOWS)
+- [thqja300-wq](https://github.com/thqja300-wq) My first pull request with Claude!
 - [kimsunran47-hub](https://github.com/kimsunran47-hub) My first open-source contribution!
 - [Hemanth4072](https://github.com/Hemanth4072) My first open-source contribution! 🍉
 [Enoch Hoguna](https://github.com/oguna-design)
