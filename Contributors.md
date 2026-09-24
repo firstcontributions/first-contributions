@@ -2551,6 +2551,7 @@ Amna Naeem
 - [Amishi Agrawal](https://github.com/amishiagrawal)
 - [Chaitanya Bhambere](https://github.com/chaitanya29082000)
 - [Joshith Gadi] ()
+Florent
 - [Dani Noble] (https://github.com/dnvdevx)
 - [Edward](https://github.com/Ed3110)
 - [JulianGStudium](https://github.com/JulianGStudium)
