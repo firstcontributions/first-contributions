@@ -33,6 +33,7 @@ B05U3-
 - [Antonio Campello](https://github.com/antoniocampello)
 - [Vishnupriya](https://github.com/vishnupriya-v-27)
 - [Aryan Shahi](https://github.com/developedByAryan)
+- [Tejaswi Vaijoo](https://github.com/tvaijoo)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
 - [Naing Zwe Htut](https://github.com/Naingzwehtut)
