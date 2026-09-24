@@ -80,6 +80,7 @@ Arc hie Boswelll
 - [2HB25CS112](https://github.com/2HB25CS112)
 - [Code Tester](https://github.com/AbdulRehman393)
 - [2HB25CS082](https://github.com/2HB25CS082)
+- [mishiningo](https://github.com/mishiningo)
 - [2HB25CS114](https://github.com/2HB25CS114)
 - [2HB25CS104](https://github.com/2HB25CS104)
 - [Sangmesh Bailannavar](https://github.com/sangmeshbailannavar10)
