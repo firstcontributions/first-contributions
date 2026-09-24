@@ -1993,6 +1993,7 @@ niceshowmini
 - [Akanksha Dwivedi](https://github.com/Akanksha-1708)
 - [Krishi](https://github.com/Krishi-bot)
 - [Kavindu Yasintha Silva](https://github.com/kavindyasinthasilva)
+- [Victor Bouleau](adopte-ton-canard.org)
 - [Avishkar Dhonde](https://github.com/avishkardhonde23-tech)
 - [miko](https://github.com/mikonyaa)
 - [vigin pv](https://github.com/vigin-pv)
