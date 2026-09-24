@@ -9,6 +9,7 @@ GSL32
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - Rajesh Shivarama
 --AbhinavGS
+- [Aamir Jamadar](https://github.com/AamirJamadar)
 - [Srishti Yadav](https://github.com/srishtiyadav05)
 ---[Mohit Sagar](https://github.com/MohitSAGAR11)
 - [Mechat Mehdi](https://github.com/MechatMehdi)
