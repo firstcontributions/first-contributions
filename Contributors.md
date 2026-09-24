@@ -795,6 +795,7 @@ Shaurya522 from The Dooon School
 - Axe was here
 - wshadiaow
 - knyk0
+- mag 
 - [Sorin]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
