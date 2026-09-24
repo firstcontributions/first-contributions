@@ -2,6 +2,7 @@ B05U3-
 - [benjaminfberger](https://github.com/benjaminfberger)
 - [hanowlee](https://github.com/hanowlee)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
+- [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
 - [Vlad Shpakov] (https://github.com/BALDOI)
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
