@@ -13,6 +13,8 @@ B05U3-
 - [Aayush Koora](https://github.com/AayushKoora)
 - [Sanjanaa1733](https://github.com/Sanjanaa1733)
 - [davlev16-cyber](https://github.com/davlev16-cyber)
+[Anup]
+
 - [mgyaychan][https://github.com/mgyaychan]
 - [SANDHYAM](github)
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
@@ -22,6 +24,7 @@ B05U3-
 -  [Manya Garg](https://github.com/rikijackson)
 - [Sreyas Sasikumar](https://github.com/sreyassasikumar)
 - [Melissa](https://github.com/melissaclark820914) First Contribution!
+[Anup][Anup]
 - claude
 -[Deepak Sing](https://github.com/CodeWithDks)
 -[Gopinath Athiappan](https://github.com/Gopinath-athiappan/first-contributions)
