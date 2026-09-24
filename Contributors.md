@@ -6246,6 +6246,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Angeles Zambrano](https://github.com/ajzambrano12-cloud) My first contribution c: 
 - [Bryan Ortega] (https://github.com/SantiOrtega125)
 - [Kuno] (https://github.com/Culneau)
+- [3kynox] (https://github.com/3kynox)
 HEAD
 - [Vaishnavi Wadhale] (https://github.com/VaishnaviWadhale)
 
