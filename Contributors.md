@@ -6211,4 +6211,4 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Dennis Paucar](https://github.com/DennisPaucar) My first contribution!
 - [Angeles Zambrano](https://github.com/ajzambrano12-cloud) My first contribution c: 
 - [Bryan Ortega] (https://github.com/SantiOrtega125)
-Jd
+- [Kuno] (https://github.com/Culneau)
