@@ -66,6 +66,9 @@ Arc hie Boswelll
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [2HB25CS104](https://github.com/2HB25CS104)
+- [Sangmesh Bailannavar](https://github.com/sangmeshbailannavar10)
+2-[2HB25CS105](https://github.com/2HB25CS105)
+- [walakesanika371](https://github.com/walakesanika371)
 - [2HB25CS091] (https://github.com/2HB25CS091)
 - [dearsvag132](https://github.com/dearsvag132)
 -[leodass12239](https://github.com/leodass12239)
