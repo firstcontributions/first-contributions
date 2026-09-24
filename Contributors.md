@@ -13,6 +13,7 @@ B05U3-
 - [Aayush Koora](https://github.com/AayushKoora)
 - [Sanjanaa1733](https://github.com/Sanjanaa1733)
 - [davlev16-cyber](https://github.com/davlev16-cyber)
+-  [Jean Teznas ](https://github.com/davlev16-cyber)
 [Anup]
 
 - [mgyaychan][https://github.com/mgyaychan]
