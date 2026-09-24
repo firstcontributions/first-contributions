@@ -6,6 +6,7 @@ B05U3-
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Ravi Kumar](https://github.com/RAVI5216)
+- [Aroop josy](https://github.com/Aroopjosy)
 - [ADITHYA S](https://github.com/heyadhithya)
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [Josbin Joshy](https://github.com/josbinjoshy)
