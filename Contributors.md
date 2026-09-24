@@ -12,6 +12,7 @@ B05U3-
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Ravi Kumar](https://github.com/RAVI5216)
+- [Isatou Jobateh](https://github.com/isatou-jobateh) 
 - [Aroop josy](https://github.com/Aroopjosy)
 - [ADITHYA S](https://github.com/heyadhithya)
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
@@ -6274,3 +6275,5 @@ main
 - [Noah Kolda] (https://github.com/NoKolda98) Hello github!
 -[Chaithra E] 
 
+
+Jd
