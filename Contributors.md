@@ -1,5 +1,6 @@
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [saniyapatait7](https://github.com/saniyapatait7)
+- [saniyapatait7](https://github.com/saniyapatait7)
 - [GioPs](https://github.com/01giopaixao)
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
