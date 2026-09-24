@@ -94,6 +94,8 @@ GSL32
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - [YJuDeAd](https://github.com/YJuDeAd) First Contribution :)
 - Rajesh Shivarama
+--AbhinavGS
+- [Aamir Jamadar](https://github.com/AamirJamadar)
 - [Anish](https://github.com/anish5671)
 - [SEASICKxixi](https://github.com/SEASICKxixi)
 - Hirotaka Akiyama
