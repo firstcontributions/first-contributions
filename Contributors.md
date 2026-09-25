@@ -12,6 +12,7 @@ B05U3-
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
+- [Shubh Rajput](https://github.com/Neo-Venom)
 - [hanowlee](https://github.com/hanowlee)
 - [Sanjay R](https://github.com/sanjuz-cas)
 - [Rakibul Hossain](https://github.com/Rakib-dhali)
