@@ -6195,6 +6195,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Sakthikarthick Nagendran] (https://github.com/Sakthikarthick3107)
 - [Chance](https://github.com/Chance0813) My first open-source contribution!
 - childish
+- Graham Pattie
 - [Alejandro Caballero](https://github.com/jacaballerol-rgb) My first open-source contribution!
 - [Evan Zhu](https://github.com/evanzhu888)
 - [Johann Kemp](https://github.com/Ymir-unc)  South Africa -> United States, my first open source contribution.
