@@ -1,5 +1,6 @@
 - [Danish-63](https://github.com/Danish-63)
 - [Abdul Rehman Saeed](https://github.com/AbdulRehman393)
+- [Jaideep Krishna A](https://github.com/jaideepkrishna2008-ui)
 - [Vlad Shpakov] (https://github.com/BALDOI)
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
