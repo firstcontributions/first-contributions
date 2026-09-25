@@ -1,16 +1,20 @@
 - [A1Lab](https://github.com/mahmad786-cloud/a1lab-learning-resources) - Free Interactive Learning Resources & Courses
+- [Krishival](https://github.com/krishival09)
 - [Nazeem](https://github.com/naz33m)
 - [Danish-63](https://github.com/Danish-63)
 - [Samson Mabula] (https://github.com/samsonmabula48-alt)
 - [Abdul Rehman Saeed](https://github.com/AbdulRehman393)
 - [Jaideep Krishna A](https://github.com/jaideepkrishna2008-ui)
 - [Vlad Shpakov] (https://github.com/BALDOI)
+- [Manish Yadav](https://github.com/manishY-iitm)
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
 - [Kanav Sharma](https://github.com/kanavsharma09)
+- [Shaurya]
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
+- [Shubh Rajput](https://github.com/Neo-Venom)
 - [hanowlee](https://github.com/hanowlee)
 - [Sanjay R](https://github.com/sanjuz-cas)
 - [Rakibul Hossain](https://github.com/Rakib-dhali)
@@ -20,9 +24,12 @@ B05U3-
 - [Ayush](https://github.com/Ayush-web28) 
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
+- [Hitesh Ram](https://github.com/hiteshram-cpu)
 - [Ravi Kumar](https://github.com/RAVI5216)
-- [Isatou Jobateh](https://github.com/isatou-jobateh) 
+- [Isatou Jobateh](https://github.com/isatou-jobateh)
+[Adith Aryan](https://github.com/aditharyanburam-cloud)
 - [Aroop josy](https://github.com/Aroopjosy)
+- [Supaarshvva kagawadde](https://github.com/SupaarshvvaKagawadde)
 - [ADITHYA S](https://github.com/heyadhithya)
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [Josbin Joshy](https://github.com/josbinjoshy)
@@ -143,6 +150,7 @@ Arc hie Boswelll
 - [ani](https://github.com/ani) 
 - [Ashu](https://github.com/ashu) 
 - [Alfonso](https://github.com/alfonso1031)
+- [Hitesh Ram](https://github.com/hiteshram-cpu)
 [sushmitaankale](https://github.com/sushmitaankale)  
 -[Swastishri Hittalkeri](https://github.com/SwastishriHittalkeri) 
 - [Mohamed Ltaief](https://github.com/deepNox293) Hello World 
@@ -616,6 +624,7 @@ vijyot silare
 - Sabik Kundu (https://github.com/Sabik-kundu)
 - Ionut Sabie
 - Kezia 
+- Chirag Kalra(https://github.com/ChiraG-KalRa-IND)
 - Ekta
 - Daniel
 - [HammyExplains] (https://github.com/hammyexplains)
@@ -5000,6 +5009,7 @@ bhumika
 - [Puranjay Kapoor](https://github.com/Puranjay10)
 - [Akylla Eich](https://github.com/Akylla123)
 - [JRT](https://github.com/jrt2026git)
+- [LanOfGajanan](https://github.com/lanofgajanan)
 - [Amir](https://github.com/Amiirhosseini)
 - [Prashant Powar](https://github.com/Prashantpowar45)
 - [Arnav Gupta](https://github.com/arnavgupta2021)
@@ -6300,6 +6310,9 @@ Jd
 - [Shreyanshu](https://github.com/shreyanshucodes)
 - [Jelaance0o](https://github.com/Jelaance0o/)
 - [Jaideep Krishna](https://github.com/jaideepkrishna2008-ui)
-  
+  [Harshwardhan Chouhan](https://github.com/harshwardhanchouhan)
 - [Will](https://github.com/will-codes-afk)
 - [Bhuvan m](https://github.com/bhuvanm0981-ctrl)
+- [Kakajoju](https://github.com/kakajoju)
+
+- [dhruv-creates69](https://github.com/dhruv-creates69)
