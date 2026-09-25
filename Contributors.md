@@ -6278,4 +6278,4 @@ main
 
 
 Jd
-- [y0konad](https://github.com/y0konad) Saludos desde Peru
+- [y0konad](https://github.com/y0konad) Full Stack Developer
