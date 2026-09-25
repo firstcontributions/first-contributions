@@ -10,6 +10,7 @@
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
 - [Kanav Sharma](https://github.com/kanavsharma09)
+- [Shaurya]
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
 - [Shubh Rajput](https://github.com/Neo-Venom)
