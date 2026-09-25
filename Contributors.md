@@ -14,6 +14,7 @@ B05U3-
 - [RaiyanMatadar](https://github.com/RaiyanMatadar)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
+- [Ayush](https://github.com/Ayush-web28) 
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Ravi Kumar](https://github.com/RAVI5216)
