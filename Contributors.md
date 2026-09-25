@@ -1022,7 +1022,7 @@ Suraj Kumar i am not gonna provide any link
 - Sankalp Gadamsetty BT2024182
 - M Sai Ranga Reddy BT2024185
 -  Talluri Kartheek BT2024108 
--Paulo Ferreira123454645345
+ -Paulo Ferreira123454645345
 - [Hellen Araújo](https://github.com/hellenilda)
 - Anand Asane (https://github.com/Anandasane)
 - [Smit Mistry](https://github.com/spm18-hash)
@@ -1048,7 +1048,7 @@ Suraj Kumar i am not gonna provide any link
 
 - [Aman Kumar](https://aman-kumar-developer.github.io/)
 
-- [Yashvi Mehta]
+ - [Yashvi Mehta]
   [aditya-gupta](https://github.com/aaditya0000007)
 - [abdelrahman-mahmoud] (Iterating Test)
 - [hamsehmahamud] (https://github.com/hamsehmahamud)
@@ -1100,7 +1100,7 @@ Suraj Kumar i am not gonna provide any link
 - [Yankyai Kanwai]
 - [Pranay] (https://github.com/sanjus091)
 - [Javeria Razzaq](https://github.com/javeria222)
-- [Lucas Cabral](https://github.com/aquelemago)
+ - [Lucas Cabral](https://github.com/aquelemago)
 - [aroojresearch](https://github.com/aroojresearch)
 my name is vasu iam a btech student in ksrm college of engineering .
 - [Sakshi Sinha](https://github.com/sakshi9703)
@@ -1282,7 +1282,7 @@ Ridwan Umar- [Nico]
 - [Amar Kumar Thakur](https://github.com/supercell02)
 - [Riya J](https://github.com/Riyaj-ops)
 - [donneko](https://github.com/donneko)
-- [Zach Jacob] (https://github.com/zjacob4)
+     dev - [Zach Jacob] (https://github.com/zjacob4)
 - [Krish Wanchoo] (https://github.com/Dx-Alz-xD)
 - [José Davi](https://github.com/jdavi-sc)
 - [Fahad Shaikh](https://github.com/FahadS5534)
@@ -6253,6 +6253,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Wahidul Islam Sami](https://github.com/wahidulsami)
 - [justice](https://github.com/just1cez)
 - [Nischal Karki](https://github.com/nischalkarki2)
+- [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
 - [Test User](https://github.com/Akshly)
 - [Kaz] (https://github.com/KaziMada) My first contribution -- Practice for class! ✪ ω ✪
 -Sambhav Tomar [GitHub](https://github.com/tomarsambhav007-prog)
