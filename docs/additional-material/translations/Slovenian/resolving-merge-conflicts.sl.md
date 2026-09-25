@@ -5,26 +5,25 @@ Ko poskusiš združiti drugo vejo v vejo v kateri trenutno delaš, vzameš sprem
 
 # Kako razrešiti spor pri združevanje?
 
-Ko Git zazna spor pri združevanju, bo mesto problema v datoteku označil tako, da ga bo obdal z:
-“<<<<<<<< HEAD” and “>>>>>>>>>>[other branch name]”
+Ko Git zazna spor pri združevanju, bo mesto problema v datoteku označil tako, da ga bo obdal z začetno oznako in imenom druge veje.
 
-Vsebina za prvo oznako bo izhajala iz tvoje trenutne veje. Nato sledi vrstica z "=======", tej pa sledi vsebina iz veje, ki je v nazkrižju s tvojo. Za tem pridejo znaki ">>>>>" in ime te druge veje.
+Vsebina za prvo oznako bo izhajala iz tvoje trenutne veje. Nato sledi vrstica za ločevanje, tej pa sledi vsebina iz veje, ki je v navzkrižju s tvojo. Za tem sledi ime te druge veje.
 Naša naloga je da uredimo te vrstice. Ko smo končali, naj bi datoteka izgledala točno tako, kot hočemo da izgleda. Lahko da se bo potrebno posvetovati s sodelavcem, ki je napisal vsebino, ki je v navzkrižju z našo, da se bomo lahko odločili katera koda je prava. Mogoče bo tvoja, mogoče bo njegova - ali pa mešanica obeh.
 
 Primer:
 ```
- <<<<<<< HEAD:mergetest
- This is my third line
- =======
- This is a fourth line I am adding
- >>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
+# Vsebina iz trenutne veje
+This is my third line
+
+# Vsebina iz druge veje
+This is a fourth line I am adding
 ```
 
-`<<<<<<<`: Nakazuje začetek vrstic, kjer je spor. Te vrstice so iz tvoje datoteke, ki si jo poskusil združiti.
-`=======`: Nakazuje prelomno točko za primerjavo. Razdeli spremembe iz tvojega commit-a (zgoraj) in spremembe nekoga drugega (spodaj) za lažjo predstavo.
-`>>>>>>>`: Nakazuje konec vrstic, kjer je spor.
+`HEAD`: Nakazuje začetek vrstic, kjer je spor. Te vrstice so iz tvoje datoteke, ki si jo poskusil združiti.
+Prelomna črta: Nakazuje prelomno točko za primerjavo. Razdeli spremembe iz tvojega commit-a (zgoraj) in spremembe nekoga drugega (spodaj) za lažjo predstavo.
+`branch-name`: Nakazuje konec vrstic, kjer je spor.
 
-Spor razrešiš z urejanjem datoteke in ročnim združevanjem delov datoteke, kjer je Git naletel na problem. To lahko pomeni da je potrebno zavreči tvoje spremembe, spremembe nekoga drugega ali pa ustvariti mešanico obeh. Prav tako je potrebno zbrisati '<<<<<<<', '=======', in '>>>>>>>'.
+Spor razrešiš z urejanjem datoteke in ročnim združevanjem delov datoteke, kjer je Git naletel na problem. To lahko pomeni da je potrebno zavreči tvoje spremembe, spremembe nekoga drugega ali pa ustvariti mešanico obeh. Prav tako je potrebno zbrisati vrstice z oznakami konflikta.
 
 Ko je bil spor razrešen, uporabi ukaz `git add`. Ne pozabi izvesti teste, s katerimi se prepričaš da je bil spor pravilno razrešen.
 

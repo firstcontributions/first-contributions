@@ -23,18 +23,18 @@ Look for files listed under "Unmerged paths."
    Open each conflicted file in your preferred text editor. Git sets boundaries for conflicts using the following markers:
 
 ```plaintext
-<<<<<<< HEAD
+# Current branch version
 Your changes
-=======
+
+# Incoming branch version
 Incoming changes
->>>>>>> branch-name
 ```
 
-- `<<<<<<< HEAD` represents your current branch's changes.
+- `HEAD` represents your current branch's changes.
 
-- `=======` separates the conflicting changes.
+- A separator line marks the split between the conflicting versions.
 
-- `>>>>>>> branch-name` shows the incoming changes from the other branch.
+- `branch-name` identifies the incoming changes from the other branch.
 
 3. **Resolve the Conflicts**
 
@@ -44,7 +44,7 @@ Decide how to integrate the changes:
 - Accept the incoming changes.
 - Combine both changes in a coherent manner.
 
-After making the necessary edits, remove the conflict markers (<<<<<<<, =======, >>>>>>>)
+After making the necessary edits, remove the Git conflict marker lines from the file.
 
 4. **Mark Conflicts as Resolved**
    Once you've resolved the conflicts in a file:
