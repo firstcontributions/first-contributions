@@ -5,6 +5,7 @@
 - [Abdul Rehman Saeed](https://github.com/AbdulRehman393)
 - [Jaideep Krishna A](https://github.com/jaideepkrishna2008-ui)
 - [Vlad Shpakov] (https://github.com/BALDOI)
+- [Manish Yadav](https://github.com/manishY-iitm)
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
