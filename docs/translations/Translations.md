@@ -86,3 +86,29 @@
 | <img alt="Kurdî" title="Kurdî (Kurdish)" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22"> | [Kurdî](README.kr.md) |
 | <img alt="Javanese" title="Javanese" src="https://flagcdn.com/id.svg" width="22"> | [Javanese](README.jv.md) |
 | <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22"> | [Монгол хэл](README.mn.md) |
+| <img alt="Assamese" title="Assamese" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [Assamese](README.assamese.md) |
+| <img alt="Belarusian" title="Belarusian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22"> | [Belarusian](README.be.md) |
+| <img alt="Español (Colombia)" title="Español (Colombia)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/co.svg" width="22"> | [Español (Colombia)](README.col.md) |
+| <img alt="Español (Ecuador)" title="Español (Ecuador)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ec.svg" width="22"> | [Español (Ecuador)](README.ec.md) |
+| <img alt="Esperanto" title="Esperanto" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/un.svg" width="22"> | [Esperanto](README.eo.md) |
+| <img alt="Eʋegbe" title="Eʋegbe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gh.svg" width="22"> | [Eʋegbe](README.ewe.md) |
+| <img alt="Filipino" title="Filipino" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ph.svg" width="22"> | [Filipino](README.fil.md) |
+| <img alt="Gaeilge" title="Gaeilge" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ie.svg" width="22"> | [Gaeilge](README.ga.md) |
+| <img alt="Ghana" title="Ghana" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gh.svg" width="22"> | [Ghana](README.gh.md) |
+| <img alt="Hrvatski" title="Hrvatski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/hr.svg" width="22"> | [Hrvatski](README.hr.md) |
+| <img alt="Հայերեն" title="Հայերեն" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22"> | [Հայերեն](README.hy.md) |
+| <img alt="ភាសាខ្មែរ" title="ភាសាខ្មែរ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kh.svg" width="22"> | [ភាសាខ្មែរ](README.kh.md) |
+| <img alt="Кыргызча" title="Кыргызча" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kg.svg" width="22"> | [Кыргызча](README.ky.md) |
+| <img alt="Lingala" title="Lingala" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cd.svg" width="22"> | [Lingala](README.ln.md) |
+| <img alt="Luganda" title="Luganda" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ug.svg" width="22"> | [Luganda](README.lug.md) |
+| <img alt="الدارجة" title="الدارجة" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ma.svg" width="22"> | [الدارجة](README.ma.md) |
+| <img alt="Crnogorski" title="Crnogorski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/me.svg" width="22"> | [Crnogorski](README.me.md) |
+| <img alt="Malagasy" title="Malagasy" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mg.svg" width="22"> | [Malagasy](README.mg.md) |
+| <img alt="Mali" title="Mali" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ml.svg" width="22"> | [Mali](README.mli.md) |
+| <img alt="Português (Angola)" title="Português (Angola)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ao.svg" width="22"> | [Português (Angola)](README.pt-ao.md) |
+| <img alt="سنڌي" title="سنڌي" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pk.svg" width="22"> | [سنڌي](README.sindhi.md) |
+| <img alt="Slovenčina" title="Slovenčina" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/sk.svg" width="22"> | [Slovenčina](README.sk.md) |
+| <img alt="Kiswahili" title="Kiswahili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tz.svg" width="22"> | [Kiswahili](README.sw.md) |
+| <img alt="Setswana" title="Setswana" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bw.svg" width="22"> | [Setswana](README.tn.md) |
+| <img alt="Un Aln" title="Un Aln" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/un.svg" width="22"> | [Un Aln](README.un-aln.md) |
+| <img alt="Oʻzbekcha" title="Oʻzbekcha" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22"> | [Oʻzbekcha](README.uz.md) |
