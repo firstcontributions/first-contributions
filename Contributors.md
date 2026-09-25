@@ -7,6 +7,7 @@
 - [Vlad Shpakov] (https://github.com/BALDOI)
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
+- [Sagar Rathi](https://github.com/sagarrathi16)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
 - [hanowlee](https://github.com/hanowlee)
