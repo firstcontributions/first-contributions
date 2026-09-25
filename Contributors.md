@@ -32,6 +32,7 @@ B05U3-
 - [Alexis THERON](https://github.com/HarJoKer)
 - [S V Prabhas](https://github.com/svprabhas/first-contributions)
 - [Tyra Nyambura](https://github.com/TyraNyamburaa/my-first-open-source-contribution) My first open-source contribution
+- [Shriya](https://github.com/shriya-97)
 - [fmarijatta](https://github.com/fmarijatta)
 - [Syed Hassan Ali](https://github.com/isyedhassanalii)
 - [Sumit parmar](https://github.com/sumitparmar-ai)
