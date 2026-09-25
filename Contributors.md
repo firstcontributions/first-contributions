@@ -21,6 +21,7 @@ B05U3-
 - [Ayush](https://github.com/Ayush-web28) 
 - [Tanuj Kaswan] first commit ever!!!
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
+- [Hitesh Ram](https://github.com/hiteshram-cpu)
 - [Ravi Kumar](https://github.com/RAVI5216)
 - [Isatou Jobateh](https://github.com/isatou-jobateh) 
 - [Aroop josy](https://github.com/Aroopjosy)
@@ -144,6 +145,7 @@ Arc hie Boswelll
 - [ani](https://github.com/ani) 
 - [Ashu](https://github.com/ashu) 
 - [Alfonso](https://github.com/alfonso1031)
+- [Hitesh Ram](https://github.com/hiteshram-cpu)
 [sushmitaankale](https://github.com/sushmitaankale)  
 -[Swastishri Hittalkeri](https://github.com/SwastishriHittalkeri) 
 - [Mohamed Ltaief](https://github.com/deepNox293) Hello World 
