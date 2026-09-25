@@ -50,3 +50,10 @@ This document explains what a .gitignore file does, why to use it and how to cre
 
 ### [Storing Credentials](storing-credentials.md)
 This document explains how to store your credentials for repositories. This can be a security concern, so please follow the security policies of your place of work/study.
+
+### [Stashing Changes](stashing-a-file.md)
+This document provides information about how to temporarily stash uncommitted work and re-apply it later using Git stash commands.
+
+### [Cherry-picking a Commit](cherry-picking-a-commit.md)
+This document explains how to choose specific commits from one branch and apply them onto another branch using `git cherry-pick`.
+
