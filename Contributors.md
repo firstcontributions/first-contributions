@@ -6287,3 +6287,4 @@ Jd
 - [y0konad](https://github.com/y0konad) Full Stack Developer
 - [Jorge G](https://github.com/ThatGuyIsALegend) My first contribution!
 - [Shreyanshu](https://github.com/shreyanshucodes)
+- [Jelaance0o](https://github.com/Jelaance0o/)
