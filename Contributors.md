@@ -10,6 +10,7 @@
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
+- [Johanna Pérez]
 - [Ariya Katti](https://github.com/ariyakatti)
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
