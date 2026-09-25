@@ -616,6 +616,7 @@ vijyot silare
 - Sabik Kundu (https://github.com/Sabik-kundu)
 - Ionut Sabie
 - Kezia 
+- Chirag Kalra(https://github.com/ChiraG-KalRa-IND)
 - Ekta
 - Daniel
 - [HammyExplains] (https://github.com/hammyexplains)
