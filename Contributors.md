@@ -6229,6 +6229,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Evan Zhu](https://github.com/evanzhu888)
 - [Johann Kemp](https://github.com/Ymir-unc)  South Africa -> United States, my first open source contribution.
 - [Syed Minhaj Mustafa](https://github.com/veridianspark)
+- [Tyler Hall](https://github.com/thall34)
 - [Lzcwbcgs](https://github.com/Lzcwbcgs)
 - [Mathulan Shanmugam]
 - [Iraa Garg](https://github.com/iraagarg)
