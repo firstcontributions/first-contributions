@@ -1111,6 +1111,7 @@ Suraj Kumar i am not gonna provide any link
 - [Pranay] (https://github.com/sanjus091)
 - [Javeria Razzaq](https://github.com/javeria222)
 - [Lucas Cabral](https://github.com/aquelemago)
+- [aplatogg](https://github.com/aplatogg)
 - [aroojresearch](https://github.com/aroojresearch)
 my name is vasu iam a btech student in ksrm college of engineering .
 - [Sakshi Sinha](https://github.com/sakshi9703)
