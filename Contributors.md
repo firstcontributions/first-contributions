@@ -2635,6 +2635,7 @@ Florent
 - [Asif Raza Ansari](https://github.com/asifraza-776)
 - [Asiya Mujawar](https://github.com/asiyamujawar)
 - [Asnaks](https://github.com/Asnaks)
+- [Lokesh](https://github.com/jakkalokesh)
 - [Ali Aldaghishy](https://github.com/alide123321)
 - [Alejandro Serna](https://github.com/AlejandroSernaTovar)
   [Alejandro Serna](https://github.com/AlejandroSernaTovar)

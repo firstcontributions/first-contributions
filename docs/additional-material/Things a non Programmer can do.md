@@ -1,4 +1,4 @@
-# Things a non Programmer can do
+# Things a Non-Programmer Can Do
 ## Start listening
 
 Everything in open source involves other people.
@@ -73,14 +73,14 @@ It's a good idea to add a test to the test suite to test the spot of code you fi
 Use a test coverage tool like gcov for C, or Devel::Cover for Perl to identify areas in the source code that aren't tested by the test suite.
 Then, add a test to the suite to cover it.
 
-9. **Silence a compiler warning**: The build process for many C-based projects often spew the odd compiler warning flag to the screen.
+9. **Silence a compiler warning**: The build process for many C-based projects often spews the occasional compiler warning to the screen.
 These warnings are usually not indicators of a problem, but they can look like it.
 Having too many warnings can make the compiler sound like it's crying wolf.
 Check to see if the code could actually be hiding a bug. If not, modifying the source to silence helps to hide these false positives.
 
 10. **Add a comment**:
 When you're digging through the code, you may find some spots that are confusing.
-Chances are if you were confused, others will be  as well. Document them in the code and submit a patch.
+Chances are if you were confused, others will be as well. Document them in the code and submit a patch.
 Work with Documentation
 Documentation is typically the part of a project that gets short shrift.
 It also can suffer from having been written from the point of view of those who are familiar with the project, rather than through the eyes of someone just getting into it.
@@ -88,7 +88,7 @@ If you've ever read docs for a project where you think, "It's as though this man
 Often a set of fresh eyes can point out deficiencies in the documentation that those close to the project don't notice.
 
 11. **Create an example**: There is no project that has too many how-to examples.
-Whether it's a web API, a library of routines, a GUI app like Gimp or a command line tool,
+Whether it's a web API, a library of routines, a GUI app like GIMP or a command-line tool,
 a good example of proper usage can more clearly and quickly explain proper usage of software than pages of documentation.
 For an API or library, create an example program that uses the tool. This could even be extracted from code you've written, trimmed down to the bare necessities.
 For a tool, show real-world examples of how you've used it in your daily life. If you’re visually oriented,
@@ -106,7 +106,7 @@ Everyone starts out somewhere, and projects need a constant inflow of people if 
 If you've got a blog, write about your experiences with the project that you're using.
 Tell about a problem you faced using the software and what you did to solve it.
 You'll be helping in two ways, both by helping keep the project on the minds of others around you,
-and by creating a record for anyone else who has your problem in the future  and searches the web for the answer.
+and by creating a record for anyone else who has your problem in the future and searches the web for the answer.
 (A blog of your technical adventures is also an excellent way to show real-world experience with the software in question next time you go hunting for a job using it.)
 
 14. **Improve a website**:
@@ -117,9 +117,9 @@ These may be skills lacking in the community. I know I'd love it if I could get 
 15. **Write technical documentation**
 If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain English, the better. The best part, you don't have to be a programmer to write technical docs.
 
-Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success.  I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
+Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success. I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
 
-16. **Teach and Help others**:
+16. **Teach and Help Others**:
 The best way to learn more about a topic is to try to teach it.
 The best teacher is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get help from someone don't keep it to yourself; share it with others. Make the world a better place to live.
 
