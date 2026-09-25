@@ -8,6 +8,7 @@
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
+- [Kanav Sharma](https://github.com/kanavsharma09)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
 - [hanowlee](https://github.com/hanowlee)
