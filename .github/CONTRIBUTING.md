@@ -25,4 +25,5 @@ It's best to use them as a tool for learning and not to do your work for you.
 4. Keep pull requests small. A pull request that has one file change is way easier to review than 20 file
 
 kapish
-[kapish linkdin](https://www.linkedin.com/in/kapish-upadhyay-752756426/);
+[kapish linkdin](https://www.linkedin.com/in/kapish-upadhyay-752756426/)
+
