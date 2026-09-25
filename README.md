@@ -129,6 +129,8 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 ## Create a branch
 
+Before making changes, create a separate branch for your contribution. This keeps the `main` branch unchanged and makes it easier for project maintainers to review your changes.
+
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
@@ -146,6 +148,7 @@ For example:
 ```bash
 git switch -c add-alonzo-church
 ```
+Choose a short and descriptive branch name that explains what your contribution is about.
 
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
@@ -163,6 +166,8 @@ git checkout -b your-new-branch-name
 ## Make necessary changes and commit those changes
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+
+Make sure you are on the branch you created before making these changes.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
