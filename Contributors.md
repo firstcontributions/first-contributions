@@ -27,7 +27,7 @@ B05U3-
 - [Hitesh Ram](https://github.com/hiteshram-cpu)
 - [Ravi Kumar](https://github.com/RAVI5216)
 - [Isatou Jobateh](https://github.com/isatou-jobateh)
-[Adith Aryan](https://github.com/aditharyanburam-cloud) 
+[Adith Aryan](https://github.com/aditharyanburam-cloud)
 - [Aroop josy](https://github.com/Aroopjosy)
 - [Supaarshvva kagawadde](https://github.com/SupaarshvvaKagawadde)
 - [ADITHYA S](https://github.com/heyadhithya)
@@ -6314,6 +6314,7 @@ Jd
 - [Jaideep Krishna](https://github.com/jaideepkrishna2008-ui)
   [Harshwardhan Chouhan](https://github.com/harshwardhanchouhan)
 - [Will](https://github.com/will-codes-afk)
+- [Bhuvan m](https://github.com/bhuvanm0981-ctrl)
 - [Kakajoju](https://github.com/kakajoju)
 
 - [dhruv-creates69](https://github.com/dhruv-creates69)
