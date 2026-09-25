@@ -22,4 +22,7 @@ It's best to use them as a tool for learning and not to do your work for you.
 1. Don't make changes in Readme.md
 2. Take a look at our design decisions before suggesting changes https://github.com/firstcontributions/first-contributions/issues/35892.
 3. Create new branches for different changes. Check out the main branch and create new branches from there
-4. Keep pull requests small. A pull request that has one file change is way easier to review than 20 files.
+4. Keep pull requests small. A pull request that has one file change is way easier to review than 20 file
+
+kapish
+[kapish linkdin](https://www.linkedin.com/in/kapish-upadhyay-752756426/);
