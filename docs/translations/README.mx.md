@@ -62,6 +62,16 @@ git switch -c add-juan-perez
 ```
 (El nombre de la rama no tiene porqué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
+**Si obtienes algún error al usar git switch, haz clic aquí:**
+
+Si aparece el mensaje de error "Git: `switch` no es un comando de git. Consulta `git –help`", es probable que estés usando una versión antigua de Git.
+
+En este caso, intenta usar `git checkout` en su lugar:
+
+```
+git checkout -b <añade tu nombre>
+```
+
 ## Haz los cambios necesarios y guarda (*Commit*) esos cambios
 
 Abre el archivo `Contributors.md` en un editor de texto y añade tu nombre. No lo añadas ni al principio ni al final del archivo, hazlo en cualquier otro sitio. Guarda el archivo.
