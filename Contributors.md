@@ -25,6 +25,7 @@ B05U3-
 - [Ravi Kumar](https://github.com/RAVI5216)
 - [Isatou Jobateh](https://github.com/isatou-jobateh) 
 - [Aroop josy](https://github.com/Aroopjosy)
+- [Supaarshvva kagawadde](https://github.com/SupaarshvvaKagawadde)
 - [ADITHYA S](https://github.com/heyadhithya)
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [Josbin Joshy](https://github.com/josbinjoshy)
