@@ -3,7 +3,6 @@
 
 - [Trupti Khot](https://github.com/tk1981215)
 
-- 
 - [Nazeem](https://github.com/naz33m)
 - [Danish-63](https://github.com/Danish-63)
 - [Benji Dunn](https://github.com/Benji-Dunn)
