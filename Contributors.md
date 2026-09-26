@@ -8,6 +8,7 @@
 - [Jaideep Krishna A](https://github.com/jaideepkrishna2008-ui)
 - [Vlad Shpakov] (https://github.com/BALDOI)
 - [Manish Yadav](https://github.com/manishY-iitm)
+- [Rueee820](https://github.com/Rueee820)
 - [Adeleloff](https://github.com/Adeleloff)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
