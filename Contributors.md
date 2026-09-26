@@ -2998,6 +2998,7 @@ andrewcodess
 - [Gunjan Yadav](https://github.com/Gunjan-Yadav12)
 - [T4oist](https://github.com/T4oist)
 - [George Soden](https://github.com/georgesoden)
+- [Harash Poriya](https://github.com/Harashporiya)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [German Morelli](https://github.com/GermanMorelli)
 - [Ghosty33](https://github.com/ghostyaq)
