@@ -3001,6 +3001,7 @@ andrewcodess
 - [Gunjan Yadav](https://github.com/Gunjan-Yadav12)
 - [T4oist](https://github.com/T4oist)
 - [George Soden](https://github.com/georgesoden)
+- [Harash Poriya](https://github.com/Harashporiya)
 - [Georgia Pennington](https://github.com/gpenn4)
 - [German Morelli](https://github.com/GermanMorelli)
 - [Ghosty33](https://github.com/ghostyaq)
@@ -6319,6 +6320,7 @@ main
 - [Saad Fahmi](https://github.com/MistaaOlivaaa)
 - [Nathan Dimitri Mbesseu Ndock](https://github.com/dimitrimbesseu-arch)
 - [Noah Kolda] (https://github.com/NoKolda98) Hello github!
+- [AlimKhaybulaev] (https://github.com/AlimKhaybulaev)
 -[Chaithra E] 
 
 
@@ -6339,3 +6341,7 @@ Jd
 - [mahenoorsalat](https://github.com/mahenoorsalat)
 -[Cyril Alfred](https://github.com/cyrilalfred317)
 -[Creepersans](https://github.com/CreepersansDev) My first Contribution LOL!!
+-[Geetanya](https://github.com/geetanya) Open-Souuce Beginner
+- [Brahmanand Mathpati](https://github.com/brahmanandmathpati)
+- [DeathAmir](https://github.com/deathamir)
+- 
