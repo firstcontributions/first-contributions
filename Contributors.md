@@ -102,6 +102,7 @@ Arc hie Boswelll
 - [Sidbt](https://github.com/YOUR_GITHUB_USERNAME) My first open-source contribution
 - [Michael-314](https://github.com/Michael-314) First contribution!
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
+- [n4z6](https://github.com/n4z6)
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [bashirhandur075](https://github.com/bashirhandur075)
 - [bashirhandur075](https://github.com/bashirhandur075)
