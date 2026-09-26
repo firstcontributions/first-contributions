@@ -3,7 +3,7 @@
 - [Krishival](https://github.com/krishival09)
 - [saveitinstant.site] (YouTube Thumbnail Downloader)
 - [Trupti Khot](https://github.com/tk1981215)
-
+- [Pratham Jain]
 - [Nazeem](https://github.com/naz33m)
 - [Danish-63](https://github.com/Danish-63)
 Faheem Ali
