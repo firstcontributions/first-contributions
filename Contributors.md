@@ -7,6 +7,7 @@
 - [Danish-63](https://github.com/Danish-63)
 Faheem Ali
 - [Benji Dunn](https://github.com/Benji-Dunn)
+- 
 - [Samson Mabula] (https://github.com/samsonmabula48-alt)
 - [Abdul Rehman Saeed](https://github.com/AbdulRehman393)
 - [Jaideep Krishna A](https://github.com/jaideepkrishna2008-ui)
@@ -14,6 +15,7 @@ Faheem Ali
 - [Manish Yadav](https://github.com/manishY-iitm)
 - [Rueee820](https://github.com/Rueee820)
 - [Adeleloff](https://github.com/Adeleloff)
+- [Sushant Soni](https://github.com/2k24cs1p2410210-cmd)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
 - [Johanna Pérez]
