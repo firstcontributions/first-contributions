@@ -97,6 +97,7 @@ Arc hie Boswelll
 - Arpi Katona
 - Jesus Guillen
 - Jorge Fuentes
+- Anisse Assane
 -[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
