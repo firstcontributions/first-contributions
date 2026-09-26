@@ -26,6 +26,7 @@ B05U3-
 - [Vishwajit Dusunge] (https://github.com/mr-hacker39)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
+- [Jeremiah sloan](https://github.com/jeremiahsloan)
 - [Shubh Rajput](https://github.com/Neo-Venom)
 - [hanowlee](https://github.com/hanowlee)
 - [Mohammed Shamlal Kp](https://github.com/shamlal47)
