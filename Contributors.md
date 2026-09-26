@@ -1,5 +1,9 @@
 - [A1Lab](https://github.com/mahmad786-cloud/a1lab-learning-resources) - Free Interactive Learning Resources & Courses
 - [Krishival](https://github.com/krishival09)
+
+- [Trupti Khot](https://github.com/tk1981215)
+
+- 
 - [Nazeem](https://github.com/naz33m)
 - [Danish-63](https://github.com/Danish-63)
 - [Benji Dunn](https://github.com/Benji-Dunn)
