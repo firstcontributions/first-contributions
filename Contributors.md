@@ -6293,6 +6293,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [karloows](https://github.com/karloows)
 - [Suhana Chauhan](https://github.com/Suhana783)
+- [Joao Giacometti](https://github.com/joaogiacometti)
 - [Ananya Shekhar](https://github.com/Anya299)
 - [Anju Goyal](https://github.com/anjugoyal954)
 - [Akash Kumar] (https://github.com/akash23sk)
