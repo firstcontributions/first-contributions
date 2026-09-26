@@ -5,6 +5,7 @@
 
 - [Nazeem](https://github.com/naz33m)
 - [Danish-63](https://github.com/Danish-63)
+Faheem Ali
 - [Benji Dunn](https://github.com/Benji-Dunn)
 - [Samson Mabula] (https://github.com/samsonmabula48-alt)
 - [Abdul Rehman Saeed](https://github.com/AbdulRehman393)
