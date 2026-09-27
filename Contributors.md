@@ -6,6 +6,7 @@
 - [Krishival](https://github.com/krishival09)
 - [saveitinstant.site] (YouTube Thumbnail Downloader)
 - [Trupti Khot](https://github.com/tk1981215)
+- [Aditi Kadukar](https://github.com/Aditi-Kadukar) - My first contribution!
 - [Pratham Jain]
 - [Nazeem](https://github.com/naz33m)
 - [DKodes] (https://github.com/Dak-shta)
