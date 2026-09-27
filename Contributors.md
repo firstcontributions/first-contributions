@@ -22,6 +22,7 @@ Faheem Ali
 - [Rueee820](https://github.com/Rueee820)
 - [Adeleloff](https://github.com/Adeleloff)
 - [Sushant Soni](https://github.com/2k24cs1p2410210-cmd)
+- [Vinod Veda](https://github.com/VSriVinod)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
 - [Johanna Pérez]
