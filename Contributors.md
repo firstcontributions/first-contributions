@@ -4997,6 +4997,7 @@ bhumika
 - [Raizen](https://github.com/rizalzein)
 - [KaiKumano1125](https://github.com/KaiKumano1125)
 - [Sudiksha R](https://github.com/Sudiksha784)
+- [Balaji Vijayakumar](https://github.com/bvgitty)
 - [Neha](https://github.com/Nehaignites)
 - [prabhatvrma1](https://github.com/Prabhatvrma1)
 - [sarahi-rdz](https://github.com/sarahi-rdz)
