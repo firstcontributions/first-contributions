@@ -3513,7 +3513,6 @@ andrewcodess
 - [Prabhat Bhatia](https://github.com/prabhatbhatiaa)
 - [Suhani Yadav](https://github.com/suhaniyadav-netizen)
 - [Prabhav Sharma](https://github.com/23f2002227)
-- [Siddhant]
 - [Pradeep Reddy](https://github.com/Pradeep0997)
 - [ji512](https://github.com/ji512)
 - [Polyston] (https://github.com/Polyston)
