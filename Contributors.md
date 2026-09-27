@@ -6396,4 +6396,5 @@ Jd
 - [DenzelVW](https://github.com/DenzelVW-xyz)
 - [MacroMiner](https://github.com/MacroMiner)
 - [Pranit Kumar](https://github.com/gpranit16)
+- [Harshvardhan Singh Chouhan](https://github.com/harrsh017)
 
