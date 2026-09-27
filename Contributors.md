@@ -14,6 +14,7 @@
 Faheem Ali
 - [Benji Dunn](https://github.com/Benji-Dunn)
 - butter
+- [Farhan Ahmad](https://github.com/KevinForsgren)
 - b5thakur
 - [Samson Mabula] (https://github.com/samsonmabula48-alt)
 - [Abdul Rehman Saeed](https://github.com/AbdulRehman393)
