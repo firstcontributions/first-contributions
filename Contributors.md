@@ -218,6 +218,7 @@ GSL32
 - [Klever Lopez](https://github.com/Klopezxd)
 - [Sean Michals](https://github.com/SeanMichals)
 - [vinayak chavan](https://github.com/vin1987)
+- [ringoalo](https://github.com/AlossoRingo)
 - [Kishor Rajbanshi](https://github.com/kishor-rajbanshi)
 - [Nikhil kumar](https://github.com/N1kh1lKumar)
 - Muthumanickam V
