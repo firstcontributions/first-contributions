@@ -5,6 +5,7 @@
 [hercules5564] https://github.com/hercules5564
 - [Krishival](https://github.com/krishival09)
 - [saveitinstant.site] (YouTube Thumbnail Downloader)
+new change
 - [Trupti Khot](https://github.com/tk1981215)
 - [Aditi Kadukar](https://github.com/Aditi-Kadukar) - My first contribution!
 - [Pratham Jain]
