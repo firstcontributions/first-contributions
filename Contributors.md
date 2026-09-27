@@ -46,7 +46,7 @@
   [Isly NN]
 - [Victor Almeida](https://github.com/vma5)
 - [CP2]
-- [PWD](https://github.com/PWD-27)
+- [PWDCarloSanchez](https://github.com/PWD-27)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Anika](https://github.com/MsAnika)
 - [skntrl] (https://github.com/skntrl)
