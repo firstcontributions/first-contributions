@@ -6392,4 +6392,6 @@ Jd
 [Sdowow](https://github.com/SDowow) Hallo! This is my first open source contribution :)
 [Kishan Kumar](https://github.com/kishankumarr-dev) My first contribution!
 - [DenzelVW](https://github.com/DenzelVW-xyz)
+- [MacroMiner](https://github.com/MacroMiner)
 - [Pranit Kumar](https://github.com/gpranit16)
+
