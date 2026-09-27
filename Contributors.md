@@ -72,6 +72,7 @@ B05U3-
 - [Syed Hassan Ali](https://github.com/isyedhassanalii)
 - [Sumit parmar](https://github.com/sumitparmar-ai)
 -  [Manya Garg](https://github.com/rikijackson)
+- [Ruxian Li](https://github.com/luoyu-xian)
 - [Sreyas Sasikumar](https://github.com/sreyassasikumar)
 - [Melissa](https://github.com/melissaclark820914) First Contribution!
 [Anup][Anup]
