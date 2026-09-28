@@ -6425,3 +6425,4 @@ Jd
 - [MANASVI P](https://github.com/manasvviiii)
 - [Hari](https://github.com/HariP-git)
 - [InRess](https://github.com/inres-oss)
+- [LeoSle4](https://github.com/LeoSle4) - My first contribution, Developing a Git lab 7!
