@@ -6431,3 +6431,4 @@ Jd
 - [InRess](https://github.com/inres-oss)
 - [LeoSle4](https://github.com/LeoSle4) - My first contribution, Developing a Git lab 7!
 - [Mrunal Chavan](https://github.com/mrunalC27)
+- [Roos Bakker](https://github.com/roossophie) My first contribution!
