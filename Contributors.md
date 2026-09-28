@@ -42,6 +42,7 @@ Faheem Ali
 - [Aditi Patil](https://github.com/AditiPatil31)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
+- [Varunika Shree S](https://github.com/VarunikaShreeS)
 - [Johanna Pérez]
 - [Ariya Katti](https://github.com/ariyakatti)
 - [Kanav Sharma](https://github.com/kanavsharma09)
