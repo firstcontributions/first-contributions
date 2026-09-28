@@ -1,0 +1,44 @@
+# Publikuje katalog kompas/ jako stronę GitHub Pages.
+# W ustawieniach repozytorium: Settings → Pages → Source: "GitHub Actions".
+
+name: Kompas na GitHub Pages
+
+on:
+  push:
+    branches: [claude/nowyja-inspired-app-4c21pg]
+    paths:
+      - 'kompas/**'
+      - '.github/workflows/kompas-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Równoległe wdrożenia nadpisywałyby się nawzajem.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publikacja:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.wdrozenie.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pages trzeba raz włączyć ręcznie: Settings → Pages → Source:
+      # "GitHub Actions". Token forka nie ma prawa zrobić tego sam.
+      - uses: actions/configure-pages@v5
+
+      # Katalog kompas/ staje się korzeniem strony, więc apka siedzi
+      # pod głównym adresem, a nie w podkatalogu /kompas/.
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: kompas
+
+      - id: wdrozenie
+        uses: actions/deploy-pages@v4
