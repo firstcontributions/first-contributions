@@ -60,6 +60,7 @@ B05U3-
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Hitesh Ram](https://github.com/hiteshram-cpu)
 - [Ravi Kumar](https://github.com/RAVI5216)
+- [Anas Hakim](https://github.com/AnasHakim2016)
 - [Isatou Jobateh](https://github.com/isatou-jobateh)
 [Adith Aryan](https://github.com/aditharyanburam-cloud)
 - [Aroop josy](https://github.com/Aroopjosy)
