@@ -6316,6 +6316,7 @@ console.log("Hello, Github World! - Joshua Nett");
 [Enoch Hoguna](https://github.com/oguna-design)
 - [Nicky Boyle](https://github.com/hopperskotch) Meow!
 - [Olivia Wang](https://github.com/Oliruirui) My first open-source contribution!
+- [Shi Er](https://github.com/123EFD) My first open-source contribution!
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [karloows](https://github.com/karloows)
 - [Suhana Chauhan](https://github.com/Suhana783)
