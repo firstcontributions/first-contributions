@@ -691,6 +691,7 @@ siddhu
 - Supilath
 - Sam C
 - [Eyosias](https://github.com)
+- [Nisat Sama](https://github.com/nisatsama)
 - [Rikky J](https://github.com/RIKKY-J)
 - [LalithaCharan](https://github.com/LalithaCharan)
 - [Nicholas T. Limberti](https://github.com/nlimberti)
