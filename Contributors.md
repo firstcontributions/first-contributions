@@ -6403,11 +6403,11 @@ Jd
 - [DenzelVW](https://github.com/DenzelVW-xyz)
 - [MacroMiner](https://github.com/MacroMiner)
 - [Pranit Kumar](https://github.com/gpranit16)
+- [Harshvardhan Singh Chouhan](https://github.com/harrsh017) - First Contribution
 - [Starfold](https://github.com/starfold)
 - [Alexis Claire Young](https://github.com/alexisclaireyoung2004)
 - [Umesh Patel](https://github.com/UmeshCode1)
 - [Friska Adisti Mahardini](https://github.com/friskaam)
-
 - [tsq157](https://github.com/tsq157) - My first contribution!
 - [Laxman S. Negi](https://github.com/negilaxu)
 - [Drish Jayee]( https://github.com/Drish-1208)
