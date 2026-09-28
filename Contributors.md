@@ -17,6 +17,7 @@ new change
 - [Nazeem](https://github.com/naz33m)
 - [DKodes] (https://github.com/Dak-shta)
 - [Danish-63](https://github.com/Danish-63)
+- [Matt Jenner](https://github.com/mjenner-afk)
 Faheem Ali
 - [Benji Dunn](https://github.com/Benji-Dunn)
 - butter
