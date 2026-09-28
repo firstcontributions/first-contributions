@@ -1,4 +1,5 @@
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
+- [avzuh](https://github.com/avzuh)
 - [Owen Schroth](https://github.com/OSchroth) - Hi Github!
 - [omerfyalcinn](https://github.com/omerfyalcinn) - Learning Python and contributing to open source.
 - [A1Lab](https://github.com/mahmad786-cloud/a1lab-learning-resources) - Free Interactive Learning Resources & Courses
@@ -6,6 +7,7 @@
 - [Krishival](https://github.com/krishival09)
 - [saveitinstant.site] (YouTube Thumbnail Downloader)
 new change
+- [Ahmad Naeem](https://github.com/ahm5dnaeem)
 - [Trupti Khot](https://github.com/tk1981215)
 - [Aditi Kadukar](https://github.com/Aditi-Kadukar) - My first contribution!
 - [Pratham Jain]
@@ -121,6 +123,7 @@ Arc hie Boswelll
 - [Michael-314](https://github.com/Michael-314) First contribution!
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [n4z6](https://github.com/n4z6)
+- [surya pratap singh rathore](https://github.com/suryapratapctrl)
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [bashirhandur075](https://github.com/bashirhandur075)
 - [bashirhandur075](https://github.com/bashirhandur075)
@@ -289,6 +292,7 @@ GSL32
 - Zoulkorneni
 - [Indhrani](https://github.com/Indhrani116)
 - [Arthur Xavier](https://github.com/tutybas)
+- [Ila Kaur](https://github.com/kuromiiii4)
 - [darikson26](https://github.com/darikson26)
 - [T Abishek](https://github.com/Abishekcps)
 - [Jackson Strange](https://github.com/JacksonStrange)
@@ -687,6 +691,7 @@ siddhu
 - Supilath
 - Sam C
 - [Eyosias](https://github.com)
+- [Nisat Sama](https://github.com/nisatsama)
 - [Rikky J](https://github.com/RIKKY-J)
 - [LalithaCharan](https://github.com/LalithaCharan)
 - [Nicholas T. Limberti](https://github.com/nlimberti)
@@ -1449,6 +1454,7 @@ nathan practice here
 - [Ayan Khan](https://github.com/ThunderKhan)
 - [DON-Saji](https://github.com/Don-Saji/)
 - [Rohan Mukka](https://github.com/RohanMukka)
+- [Cephas Coots](https://github.com/CephasCoots-12)
 - [Srinithi RS ] (https://github.com/rssrinithi5-bot)
 - [Jeff Mckee](https://github.com/Jeff-Mckee)
 - [Meysam Rezaee](https://github.com/meysamrezaee)
@@ -6314,6 +6320,7 @@ console.log("Hello, Github World! - Joshua Nett");
 [Enoch Hoguna](https://github.com/oguna-design)
 - [Nicky Boyle](https://github.com/hopperskotch) Meow!
 - [Olivia Wang](https://github.com/Oliruirui) My first open-source contribution!
+- [Shi Er](https://github.com/123EFD) My first open-source contribution!
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
 - [karloows](https://github.com/karloows)
 - [Suhana Chauhan](https://github.com/Suhana783)
@@ -6397,4 +6404,10 @@ Jd
 - [MacroMiner](https://github.com/MacroMiner)
 - [Pranit Kumar](https://github.com/gpranit16)
 - [Harshvardhan Singh Chouhan](https://github.com/harrsh017) - First Contribution
-
+- [Starfold](https://github.com/starfold)
+- [Alexis Claire Young](https://github.com/alexisclaireyoung2004)
+- [Umesh Patel](https://github.com/UmeshCode1)
+- [Friska Adisti Mahardini](https://github.com/friskaam)
+- [tsq157](https://github.com/tsq157) - My first contribution!
+- [Laxman S. Negi](https://github.com/negilaxu)
+- [Drish Jayee]( https://github.com/Drish-1208)
