@@ -1,3 +1,4 @@
+
 - [Md Mizan](https://github.com/mizan989)
 - [Lukas0808988](https://github.com/Lukas0808988)
 - [Vedant Sawant](https://github.com/Vedant-9105)
@@ -226,6 +227,7 @@ GSL32
 - Rajesh Shivarama
 --AbhinavGS
 - [Aamir Jamadar](https://github.com/AamirJamadar)
+- [Jhordano](https://github.com/Jhordancito)
 - [Anish](https://github.com/anish5671)
 - [SEASICKxixi](https://github.com/SEASICKxixi)
 - Hirotaka Akiyama
