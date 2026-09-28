@@ -1,3 +1,4 @@
+- [Vedant Sawant](https://github.com/Vedant-9105)
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
 - [studytcmc107-del](https://github.com) - My second commit
 - [avzuh](https://github.com/avzuh)
@@ -6415,3 +6416,4 @@ Jd
 - [Laxman S. Negi](https://github.com/negilaxu)
 - [Drish Jayee]( https://github.com/Drish-1208)
 - [MANASVI P](https://github.com/manasvviiii)
+- [Hari](https://github.com/HariP-git)
