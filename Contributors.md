@@ -1,4 +1,5 @@
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
+- [studytcmc107-del](https://github.com) - My second commit
 - [avzuh](https://github.com/avzuh)
 - [Owen Schroth](https://github.com/OSchroth) - Hi Github!
 - [omerfyalcinn](https://github.com/omerfyalcinn) - Learning Python and contributing to open source.
