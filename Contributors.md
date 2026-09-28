@@ -1,3 +1,4 @@
+- [Md Mizan](https://github.com/mizan989)
 - [Lukas0808988](https://github.com/Lukas0808988)
 - [Vedant Sawant](https://github.com/Vedant-9105)
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
