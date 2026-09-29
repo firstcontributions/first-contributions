@@ -2724,6 +2724,7 @@ Florent
 - [Ashhad](https://github.com/Ashhad-Mazhar)
 - [Govind Pratap Singh](https://github.com/hackergovind)
 - [Ashidul Islam](https://github.com/Ashid332)
+- [Andrei Sebastian](https://github.com/Zugafa)
 - [Ashik Ahmed](https://github.com/trueashik)
 - [Ashish Namdeo](https://github.com/ashishnamdeo16)
 - [Ashitha T](https://github.com/Ashi-tha)
