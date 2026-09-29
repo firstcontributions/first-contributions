@@ -17,6 +17,7 @@
 - [Owen Schroth](https://github.com/OSchroth) - Hi Github!
 - [Athith](https://github.com/Athith216)
 - [Will Stewart](https://github.com/stewartwatwit)
+- [Brandon Mokrytzki](https://github.com/bmokrytz)
 - [Adharsh Narayan](https://github.com/Adharsh75r)
 - [omerfyalcinn](https://github.com/omerfyalcinn) - Learning Python and contributing to open source.
 - [Tushar Ravi Shinde](https://github.com/2sharr) - My first open-source contribution!
