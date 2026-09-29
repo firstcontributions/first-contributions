@@ -45,6 +45,7 @@ Faheem Ali
 - [Sushant Soni](https://github.com/2k24cs1p2410210-cmd)
 - [Vinod Veda](https://github.com/VSriVinod)
 - [Aditi Patil](https://github.com/AditiPatil31)
+- [Jishnu Madhu](https://github.com/JishnuMadhu)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
 - [Varunika Shree S](https://github.com/VarunikaShreeS)
