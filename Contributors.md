@@ -1,4 +1,4 @@
-
+- [jubiarahmed](https://github.com/jubiarahmed) - My first open-source contribution!
 - [Alexandre Cruz <img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](https://github.com/alexandrescruz) - My first open-source contribution
 - [Md Mizan](https://github.com/mizan989)
 - [Lukas0808988](https://github.com/Lukas0808988)
@@ -115,6 +115,7 @@ B05U3-
 - [Jeevan](https://github.com/Jeevan-M-S)
 - [Sushant Gajbhiye](https://github.com/sushant23-git)
 - [Aryan Shahi](https://github.com/developedByAryan)
+[Opdracht]
 - [Tejaswi Vaijoo](https://github.com/tvaijoo)
 - [SidVoyager](https://github.com/siddhanth-aithal)
 - [Dhruv Yadav](https://github.com/dhruv122007-netizen)
@@ -1540,6 +1541,7 @@ nathan practice here
 - [Ces](https://github.com/cessauce)
 - [Aditya G](https://github.com/adityag-25)
 - [Nithish C](https://github.com/NITHISH-2006)
+- [Mostafa Shahriar Hasan](https://github.com/shasan731)
 - [Shri Manasa](https://github.com/shrimanasa)
 - [Piumal Jayaweera](https://github.com/piumal-glitch)
 - [Tahzib Pathan](https://github.com/Tahzib-12)
@@ -6441,8 +6443,9 @@ Jd
 - [LeoSle4](https://github.com/LeoSle4) - My first contribution, Developing a Git lab 7!
 - [Mrunal Chavan](https://github.com/mrunalC27)
 - [Roos Bakker](https://github.com/roossophie) My first contribution!
+- [Vaibhav Pandey](https://github.com/Vaibhav-Pandey7)
 - [Anubhav Choubey](https://github.com/LazyyVenom)
 - [Harsh Gurav](https://github.com/harshgurav030507-design)
 - [Byun-Gwan-Young] (https://github.com/Byun-Gwan-Young)
 - [Tea-mist](https://github.com/Tea-mist)
-
+- [workmin79](https://github.com/workmin79) - My first open-source contribution!
