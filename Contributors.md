@@ -451,6 +451,7 @@ github.com/zeeshan2266
 - Mavi  
 - [NEZ04](https://github.com/NEZ04)
 - [Soumyajit Ghosh](https://github.com/somuai)
+- [Soumyajit Maity](https://github.com/Soumya9107)
 - [Thet Htut Naing](https://github.com/kothet007)
 - [Mihir Prajapati](https://github.com/Mihir4921)
 - [Shubham Kurhe](https://github.com/shubh7979)
