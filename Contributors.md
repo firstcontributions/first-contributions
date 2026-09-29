@@ -6478,6 +6478,7 @@ Jd
 - [IssaChipp] (https://github.com/TheIssaChipp) - Take it easy, everyone!
 - [paulwarren999] (https://github.com/paulwarren999)
 - [alexdan21] (https://github.com/alexdan21)
+- [wurgy42] (https://github.com/wurgy42)
 - [Ishant Gandhi](https://github.com/ishantgandhi)
 - [drewsElearning] (https://github.com/drewsElearning)
 - [brandonaps](https://github.com/brandonaps) - # My first contribution!
