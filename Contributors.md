@@ -6479,6 +6479,7 @@ Jd
 - [paulwarren999] (https://github.com/paulwarren999)
 - [alexdan21] (https://github.com/alexdan21)
 - [markmarcellin-web] (https://github.com/markmarcellin-web)
+- [rbarrera] (https://github.com/ritabarrera-GHub260929)
 - [Ishant Gandhi](https://github.com/ishantgandhi)
 - [drewsElearning] (https://github.com/drewsElearning)
 - [brandonaps](https://github.com/brandonaps) - # My first contribution!
