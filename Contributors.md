@@ -6436,8 +6436,5 @@ Jd
 - [MANASVI P](https://github.com/manasvviiii)
 - [Hari](https://github.com/HariP-git)
 - [InRess](https://github.com/inres-oss)
-- [LeoSle4](https://github.com/LeoSle4) - My first contribution, Developing a Git lab 7!
-- [Mrunal Chavan](https://github.com/mrunalC27)
-- [Roos Bakker](https://github.com/roossophie) My first contribution!
-- [Anubhav Choubey](https://github.com/LazyyVenom)
-- [Harsh Gurav](https://github.com/harshgurav030507-design) 
+- [Mridula M](https://github.com/mridulamohanraj)
+- [Zakaria El Ya](https://github.com/zakkelya)
