@@ -6463,3 +6463,4 @@ Jd
 - dharadhotre-sudo
 - [Federica](https://github.com/Federica-ippoliti98)
 - [veligetisamanvi](https://github.com/veligetisamanvi)
+- [IssaChipp] (https://github.com/TheIssaChipp) - Take it easy, everyone!
