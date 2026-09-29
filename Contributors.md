@@ -936,6 +936,7 @@ Shaurya522 from The Dooon School
 - [Sorin]
 - [Derek-Vergara](https://github.com/Derek-Vergara)
 - [Ishan Pathak](https://github.com/theishanpathak)
+- [Hrishikesh Pathak](https://github.com/hrishikeshpathak1009)
 - [Naveen Kambhampati] (https://github.com/kambhampatinaveen)
 - [Taha Khouildi]
 - [Rishit Raman](https://github.com/ramanrishit448-RR)
