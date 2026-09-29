@@ -60,6 +60,7 @@ B05U3-
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
 - [Pratham Joseph]
+- [Prakhar Shakya]
 - [Vivek Agrawal](https://github.com/VivekAgrawal10)
 - [Vishwajit Dusunge] (https://github.com/mr-hacker39)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
