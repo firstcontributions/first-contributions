@@ -694,6 +694,7 @@ vijyot silare
 - my
 - Qsir-Q (https://github.com/Qsir-Q)
 - [Hessa](https://github.com/hessa11599-commits)
+- [John Francis](https://github.com/Jean-f-05)
 - Minh (https://github.com/mthwthuu) Hi everyone!
 - Sabik Kundu (https://github.com/Sabik-kundu)
 - Ionut Sabie
