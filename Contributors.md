@@ -8,6 +8,7 @@
 - [avzuh](https://github.com/avzuh)
 - [Owen Schroth](https://github.com/OSchroth) - Hi Github!
 - [Athith](https://github.com/Athith216)
+- [Will Stewart](https://github.com/stewartwatwit)
 - [Adharsh Narayan](https://github.com/Adharsh75r)
 - [omerfyalcinn](https://github.com/omerfyalcinn) - Learning Python and contributing to open source.
 - [Tushar Ravi Shinde](https://github.com/2sharr) - My first open-source contribution!
