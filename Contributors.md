@@ -6461,3 +6461,5 @@ Jd
 - [Nishant Bhatt](https://github.com/Bhattnishu)
 - [Bi97hvKj](https://github.com/Bi97hvKj)
 - dharadhotre-sudo
+- [Federica](https://github.com/Federica-ippoliti98)
+- [Bi97hvKj](https://github.com/Bi97hvKj)
