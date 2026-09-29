@@ -6476,3 +6476,6 @@ Jd
 - [veligetisamanvi](https://github.com/veligetisamanvi)
 - [IssaChipp] (https://github.com/TheIssaChipp) - Take it easy, everyone!
 - [paulwarren999] (https://github.com/paulwarren999)
+- [alexdan21] (https://github.com/alexdan21)
+- [Ishant Gandhi](https://github.com/ishantgandhi)
+- [drewsElearning] (https://github.com/drewsElearning)
