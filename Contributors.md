@@ -1,3 +1,5 @@
+
+- [Alexandre Cruz <img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](https://github.com/alexandrescruz) - My first open-source contribution
 - [Md Mizan](https://github.com/mizan989)
 - [Lukas0808988](https://github.com/Lukas0808988)
 - [Vedant Sawant](https://github.com/Vedant-9105)
@@ -14,6 +16,7 @@
 - [Krishival](https://github.com/krishival09)
 - [saveitinstant.site] (YouTube Thumbnail Downloader)
 new change
+- [ArcaneAunyanka] (https://github.com/ArcaneAunyanka)
 - [Ahmad Naeem](https://github.com/ahm5dnaeem)
 - [Trupti Khot](https://github.com/tk1981215)
 - [Aditi Kadukar](https://github.com/Aditi-Kadukar) - My first contribution!
@@ -40,10 +43,12 @@ Faheem Ali
 - [Aditi Patil](https://github.com/AditiPatil31)
 B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
+- [Varunika Shree S](https://github.com/VarunikaShreeS)
 - [Johanna Pérez]
 - [Ariya Katti](https://github.com/ariyakatti)
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
+- [Pratham Joseph]
 - [Vishwajit Dusunge] (https://github.com/mr-hacker39)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
 - [benjaminfberger](https://github.com/benjaminfberger)
@@ -194,6 +199,7 @@ Arc hie Boswelll
 - [Wang Tianlong](https://github.com/tianlong0o0)
 - [dream-CASle](https://github.com/dream-CASle)
 - [Arpita Nayak](https://github.com/ZoaArpita)
+-[Dushyant dhanushkodi] (https://github.com/dushyant-dhanushkodi)
 - [Dhairya Patel] (https://github.com/MVP-Celestial) 
 - [Victor Castillo](https://github.com/VCastilloC2)
 - [Yashodhan Mandal](https://github.com/yash373)
@@ -226,6 +232,7 @@ GSL32
 - Rajesh Shivarama
 --AbhinavGS
 - [Aamir Jamadar](https://github.com/AamirJamadar)
+- [Jhordano](https://github.com/Jhordancito)
 - [Anish](https://github.com/anish5671)
 - [SEASICKxixi](https://github.com/SEASICKxixi)
 - Hirotaka Akiyama
@@ -278,6 +285,7 @@ GSL32
 - [Iahzeel](https://github.com/feiahzeel)
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
+- [Tarannum](https://github.com/Tarannum9623)
 - [Ethan Pitzer](https://github.com/pitzer-e)
 - [Kim-202](https://github.com/Kim-202)
 - [Ahmad Fouad](https://github.com/a-adel-dev)
@@ -483,6 +491,7 @@ vijyot silare
 - [İbrahim Alp Ulas](https://github.com/Ibrahim-Ulas)
 [Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
+- [Xaek-08] (https://github.com/xaek-08)
 - [Kritika Vikram](https://github.com/melsparrow)
 - [Lancelot](https://github.com/ayushhchavhan-bot)
 - [cetarchon](https://github.com/cetarchon)
@@ -3935,6 +3944,7 @@ andrewcodess
 - [Tabrez Ahamed](https://github.com/Tabrezz3)
 - [Taha El atoui](https://github.com/taha-arch)
 - [Tai Fong](https://github.com/taifong)
+- [Evan](https://github.com/doudouzi2026-wq)
 - [Takashi.Takehana](https://github.com/FRAGILE-8460)
 - [Tamil Selvan R](https://github.com/tamilr0727-ux)
 - [Tamil Thendral](https://github.com/Thendral-07)
