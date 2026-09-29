@@ -1,5 +1,6 @@
 - [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
 - [Kaustav5505g](https://github.com/Kaustav5505g)
+- [Aradhys](https://github.com/aradhys/)
 - [jubiarahmed](https://github.com/jubiarahmed) - My first open-source contribution!
 - [Mohammad Javed Ali](https://github.com/codjav) - My first open-source contribution!
 - [Dishan Sarkar](https://github.com/Dishan18) - My first open-source contribution
@@ -6475,5 +6476,9 @@ Jd
 - [Federica](https://github.com/Federica-ippoliti98)
 - [veligetisamanvi](https://github.com/veligetisamanvi)
 - [IssaChipp] (https://github.com/TheIssaChipp) - Take it easy, everyone!
+- [paulwarren999] (https://github.com/paulwarren999)
 - [alexdan21] (https://github.com/alexdan21)
 - [wurgy42] (https://github.com/wurgy42)
+- [Ishant Gandhi](https://github.com/ishantgandhi)
+- [drewsElearning] (https://github.com/drewsElearning)
+- [brandonaps](https://github.com/brandonaps) - # My first contribution!
