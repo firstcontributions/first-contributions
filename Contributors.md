@@ -2,6 +2,7 @@
 - [jubiarahmed](https://github.com/jubiarahmed) - My first open-source contribution!
 - [Dishan Sarkar](https://github.com/Dishan18) - My first open-source contribution
 - [Alexandre Cruz <img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](https://github.com/alexandrescruz) - My first open-source contribution
+-[GauravPathak09](https://github.com/GauravPathak09)
 - [Md Mizan](https://github.com/mizan989)
 - [Lukas0808988](https://github.com/Lukas0808988)
 - [Random Porcupine](https://github.com/random-porcupine)
