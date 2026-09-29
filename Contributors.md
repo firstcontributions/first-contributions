@@ -6460,3 +6460,4 @@ Jd
 - [workmin79](https://github.com/workmin79) - My first open-source contribution!
 - [Nishant Bhatt](https://github.com/Bhattnishu)
 - dharadhotre-sudo
+- [Federica](https://github.com/Federica-ippoliti98)
