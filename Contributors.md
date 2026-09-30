@@ -416,6 +416,7 @@ Jainil Chavda
 -[Sai Pranav](https://github.com/saipranav91)
 - [Anderson Hernandez](https://github.com/anderson1478)
 - [Thy](https://github.com/alpathyno)
+-[NoLappyHuhu](https://github.com/NoLappyHuhu) by Quia
 - [Ambika G S](https://github.com/gsambikag-star)
 -[Meet Bhuva](https://github.com/Hk8meet/)
 -[Siddhesh Kumar](https://github.com/Siddheshkr)
