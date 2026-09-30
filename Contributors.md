@@ -6495,3 +6495,4 @@ Jd
 - [lacelit684](https://github.com/lacelit684) - I just love paperwork!
 - [brandonaps](https://github.com/brandonaps) - # My first contribution!
 - [Tejaraju](https://github.com/Tejaraju0) - My first open-source contribution!
+- [samuel-dev](https://github.com/Shine0078) - My first open-source contribution!
