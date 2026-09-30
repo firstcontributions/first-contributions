@@ -1,4 +1,4 @@
-- [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
+`- [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
 - [Uday Pratap Singh](https://github.com/Uday-6145) - Hello Everyone
 - [Kaustav5505g](https://github.com/Kaustav5505g)
 - [Aradhys](https://github.com/aradhys/)
@@ -170,6 +170,7 @@ Arc hie Boswelll
 - [vaishnavivnaik2007](https://github.com/vaishnavivnaik2007)
 - [2HB25CS112](https://github.com/2HB25CS112)
 - [Code Tester](https://github.com/AbdulRehman393)
+- [NXH-1](https://github.com/NXH-1/) Hello, this is my first open-source contribution!
 - [2HB25CS082](https://github.com/2HB25CS082)
 - [mishiningo](https://github.com/mishiningo)
 - [2HB25CS114](https://github.com/2HB25CS114)
