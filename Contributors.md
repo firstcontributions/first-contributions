@@ -3330,6 +3330,7 @@ andrewcodess
 - [Singosirutonamikaze](https://github.com/Singosirutonamikaze)
 - [Luiz Eduardo Oliveira Mendes](https://github.com/DuduBz7)
 - [Jason Smevog](https://github.com/JCline11)
+- J333ack
 - [Luka](https://github.com/LukachuPro88)
 - [Luohino](https://github.com/Luohino)
 - [LuoHuang](https://github.com/ycluohuang)
