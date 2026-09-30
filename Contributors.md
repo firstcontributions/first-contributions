@@ -66,6 +66,7 @@ B05U3-
 - [Sagar Rathi](https://github.com/sagarrathi16)
 - [Varunika Shree S](https://github.com/VarunikaShreeS)
 - [Johanna Pérez]
+- [vasist chikka](https://github.com/vasist05)
 - [Ariya Katti](https://github.com/ariyakatti)
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
