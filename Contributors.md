@@ -6427,7 +6427,7 @@ Jd
 - [Will](https://github.com/will-codes-afk)
 - [Bhuvan m](https://github.com/bhuvanm0981-ctrl)
 - [Kakajoju](https://github.com/kakajoju)
-
+- [alsy4](https://github.com/alsy4)
 - [dhruv-creates69](https://github.com/dhruv-creates69)
 - [Sadvik](https://github.com/sadvik-asus)
 - [Ayush Tiwari](https://github.com/ayushtiwari5489) My first Contribution
