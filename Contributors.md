@@ -6515,3 +6515,4 @@ Jd
 - [monkli7](https://github.com/monkli7) - # hey github
 -[ayushmaansingh]-very happy to practice contributions
 - [Yashwanth](https://github.com/1nc24is062-boop) - My first open-source contribution!
+- [Kartiks15](https://github.com/kartiks15) - My first open-source contribution!
