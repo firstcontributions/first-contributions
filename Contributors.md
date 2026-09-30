@@ -1,4 +1,5 @@
 - [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
+- [Uday Pratap Singh](https://github.com/Uday-6145) - Hello Everyone
 - [Kaustav5505g](https://github.com/Kaustav5505g)
 - [Aradhys](https://github.com/aradhys/)
 - [jubiarahmed](https://github.com/jubiarahmed) - My first open-source contribution!
