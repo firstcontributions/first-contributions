@@ -78,6 +78,7 @@ B05U3-
 - [Rakibul Hossain](https://github.com/Rakib-dhali)
 - [Raushan](https://github.com/Raushanahir)
 - [RaiyanMatadar](https://github.com/RaiyanMatadar)
+- Shuai_No
 Cateline Ouma(https://github.com/Cateline)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
 - [2hb2uvwxyz](https://github.com/2hb2uvwxyz)
