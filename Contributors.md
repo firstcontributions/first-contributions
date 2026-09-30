@@ -5058,6 +5058,7 @@ bhumika
 - [chngsucns-ops](https://github.com/chngsucns-ops)
 - [Shubhan Chari](https://github.com/ShubhanC)
 - [Nicole Handler](https://github.com/HANDLERNICOLE)
+- [Hector Lopez](https://github.com/hector-lh)
 - [Maryam Ishfaq](https://github.com/maryamishfaqqq)
 - [Shashank Mishra](https://github.com/Shashank726-mishra40)
 - [Anisha Garg](https://github.com/anishagarg327)
