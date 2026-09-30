@@ -67,6 +67,7 @@ B05U3-
 - [Varunika Shree S](https://github.com/VarunikaShreeS)
 - [Johanna Pérez]
 - [Ariya Katti](https://github.com/ariyakatti)
+-[Gopika Harshitha](https://github.com/Gopi-0707-eng)-First Contribution!
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
 - [Pratham Joseph]
