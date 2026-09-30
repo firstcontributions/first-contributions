@@ -64,6 +64,7 @@ Rahul Aggarwal
 B05U3-
 - balayyoub
 - [Sagar Rathi](https://github.com/sagarrathi16)
+- [Pitercoding](https://github.com/pitercoding)
 - [Varunika Shree S](https://github.com/VarunikaShreeS)
 - [Johanna Pérez]
 - [vasist chikka](https://github.com/vasist05)
