@@ -4,6 +4,7 @@
 - [Nishant Saini] (https://github.com/NISHANTSAINI6251) - First open-source contirbution
 - [Angel Rosales](https://github.com/angelrosaleslopez-source) - My first open-source contribution!
 - [Sandeep K G] (https://github.com/Sandeepkg123) - hello everyone 
+- [BoRuei Chen]
 - [swami] (https://github.com/swamisonna006-prog) - hello everyone
 - [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
 - [Uday Pratap Singh](https://github.com/Uday-6145) - Hello Everyone
@@ -101,6 +102,7 @@ Cateline Ouma(https://github.com/Cateline)
 - [Rudrapratap Sarma](https://github.com/rudrapratap601)
 - [Hitesh Ram](https://github.com/hiteshram-cpu)
 - [Ravi Kumar](https://github.com/RAVI5216)
+- [Sunset](https://github.com/Sloth0528)
 - [Anas Hakim](https://github.com/AnasHakim2016)
 -[Riya Mathur](https://github.com/rim580)
 - [Isatou Jobateh](https://github.com/isatou-jobateh)
@@ -1979,6 +1981,7 @@ niceshowmini
 - [ADHIRAJ994](https://github.com/ADHIRAJ994) -[alealonso017](https://github.com/alealonso17)
 - [Ashmita Debnath](https://github.com/ashcode06)
 - [Bittu Kumar](https://github.com/CSEBittuKr)
+- [Selvaa](https://github.com/Selvaaaaaaa)
 - [Urvashi Pandey](https://github.com/UrvashiPandey-04)
 - [fluffy-regista](https://github.com/fluffy-regista)
 - [yuyaoyyds](https://github.com/yuyaoyyds)
@@ -2918,6 +2921,7 @@ Florent
 - [Conor MacMahon](https://github.com/conorjmacmahon)
 - [Daan](https://github.com/Daan03)
 - [Daniil Malakhov](https://github.com/daanniill)
+ooo
 - [Dajmir LETS GOOO](https://github.com/dajmir)
 - [Dan Nguyen](https://github.com/dannguyen24)
 - [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
@@ -6526,6 +6530,7 @@ Jd
 - [Kartiks15](https://github.com/kartiks15) - My first open-source contribution!
 - [OveZ](https://github.com/ovezthaking) - My first open src contrib :D
 - [Buddhadeb](https://github.com/Buddhadeb-ss) - My first open-source contribution!
+- [YI CHEN](https://github.com/sophieshen2007-beep)
 - [malongwan-web](https://github.com/malongwan-web) - My first open-source contribution!- [David Cepeda](https://github.com/davidcepeda1) - My first open-source contribution!
 - [theprogrammer141](https://github.com/theprogrammer141) - My first open-source contribution!
 - [abdrehmancs](https://github.com/abdrehmancs) - happy to make my first open source contribution
@@ -6533,4 +6538,8 @@ Jd
 - [raghvendrasingh-01](https://github.com/raghvendrasingh-01) - My first open source contribution
 - [zakkelya](https://github.com/zakkelya) - Hello World!
 - [JenYang100989](https://github.com/JenYang891009)
+- [johnjohn1207](https://github.com/johnjohn1207) - first open source ya
+- [owobowob](https://github.com/owobowob) - Hello World!
+- [Ctycet](https://github.com/simonrainbow) - My first open source contribution
+
 
