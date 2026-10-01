@@ -7,6 +7,7 @@
 
 - [Nishant Saini] (https://github.com/NISHANTSAINI6251) - First open-source contirbution
  main
+- [Teki Shodo](https://github.com/tekisho) - **Hi :3!**
 - [Angel Rosales](https://github.com/angelrosaleslopez-source) - My first open-source contribution!
 - [Sandeep K G] (https://github.com/Sandeepkg123) - hello everyone 
 - [BoRuei Chen]
