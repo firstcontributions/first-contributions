@@ -6520,3 +6520,4 @@ Jd
 -[ayushmaansingh]-very happy to practice contributions
 - [Yashwanth](https://github.com/1nc24is062-boop) - My first open-source contribution!
 - [Kartiks15](https://github.com/kartiks15) - My first open-source contribution!
+- [OveZ](https://github.com/ovezthaking) - My first open src contrib :D
