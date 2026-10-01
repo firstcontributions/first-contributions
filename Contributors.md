@@ -789,6 +789,7 @@ siddhu
 - [Sameer](https://github.com/Sameer0726152)
 - [musicalpike](https://github.com/musicalpike)
 - [Dmitry Mizurev](https://github.com/mizurev)
+- [Athithyan G](https://github.com/athithyanathithyan51-cyber)
 - [Tiago Mallmann](https://github.com/tmallmann)
 - [Durvesh Danve](https://github.com/DurvAcee)
 - [VIGNESH_CJ](https://github.com/VIGNESH-CJ/first-contributions.git)
