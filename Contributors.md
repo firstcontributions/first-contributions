@@ -6529,6 +6529,7 @@ Jd
 - [Kartiks15](https://github.com/kartiks15) - My first open-source contribution!
 - [OveZ](https://github.com/ovezthaking) - My first open src contrib :D
 - [Buddhadeb](https://github.com/Buddhadeb-ss) - My first open-source contribution!
+- [YI CHEN](https://github.com/sophieshen2007-beep)
 - [malongwan-web](https://github.com/malongwan-web) - My first open-source contribution!- [David Cepeda](https://github.com/davidcepeda1) - My first open-source contribution!
 - [theprogrammer141](https://github.com/theprogrammer141) - My first open-source contribution!
 - [abdrehmancs](https://github.com/abdrehmancs) - happy to make my first open source contribution
