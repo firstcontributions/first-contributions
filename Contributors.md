@@ -6535,9 +6535,6 @@ Jd
 - [abdrehmancs](https://github.com/abdrehmancs) - happy to make my first open source contribution
 - [cybertingzhen](https://github.com/cybertingzhen) - My first open-source contribution!
 - [raghvendrasingh-01](https://github.com/raghvendrasingh-01) - My first open source contribution
-- [zakkelya](https://github.com/zakkelya) - Hello World!
-- [johnjohn1207](https://github.com/johnjohn1207) - first open source ya
-- [owobowob](https://github.com/owobowob) - Hello World!
-- [Ctycet](https://github.com/simonrainbow) - My first open source contribution
+- [zakkelya](https://github.com/zakkelya) - Hello World! 
 
-
+  
