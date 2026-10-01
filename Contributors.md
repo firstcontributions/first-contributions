@@ -57,6 +57,7 @@ new change
 - [Danish-63](https://github.com/Danish-63)
 - [Matt Jenner](https://github.com/mjenner-afk)
 Faheem Ali
+[Vishal Yadav](https://github.com/wearetec9) - first contribution
 Rahul Aggarwal
 - [Benji Dunn](https://github.com/Benji-Dunn)
 - butter
