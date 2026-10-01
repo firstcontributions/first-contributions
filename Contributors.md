@@ -2085,6 +2085,7 @@ niceshowmini
 - [Jefferson Brito](https://github.com/jeffbrito-dev)
 -[BalrajuKonne2629](https://github.com/Balrajukonne2629/first-contributions.git)
 - [Trongcoderr](https://github.com/Trongcoderr)
+- [Leonardo Gutierrez](https://github.com/LeoGA2107)  
 - [Love Chauhan](https://github.com/chauhanlove271)
 - [Orji Emmanuel](https://github.com/ManuelOrji2)
 - [Yadiel Tesfaye](https://github.com/yadawprodev)
