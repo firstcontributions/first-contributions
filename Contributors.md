@@ -7,7 +7,6 @@
 - [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
 - [Uday Pratap Singh](https://github.com/Uday-6145) - Hello Everyone
 - [Kaustav5505g](https://github.com/Kaustav5505g)
-- [davidcepeda1] (https://github.com/davidcepeda1) - Hello There! I'm David :D
 - [Aradhys](https://github.com/aradhys/)
 - [jubiarahmed](https://github.com/jubiarahmed) - My first open-source contribution!
 - [Mohammad Javed Ali](https://github.com/codjav) - My first open-source contribution!
@@ -3170,6 +3169,7 @@
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
 - [Laryssa](https://github.com/krystall8778)
+- [davidcepeda1] (https://github.com/davidcepeda1) - Hello There! I'm David :D
 - [Connor Sea](https://github.com/connortist) My first open-source contribution, made with Claude Code!
 - [Gabriel Villanueva](https://github.com/gabeamv)
 - [LaskaaaD](https://github.com/LaskaaaD)
