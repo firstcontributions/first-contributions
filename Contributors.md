@@ -1,6 +1,7 @@
 - [Soufiane ZAARI](https://github.com/SoufianeZaari) - My first open-source contribution!
 - [Yash55-max](https://github.com/Yash55-max) - Hello!! This is Yash & my first open-source contribution!
 - [Orkun Olcal](https://orkunolcal.github.io/) - Hello World!
+- [Nishant Saini] (https://github.com/NISHANTSAINI6251) - First open-source contirbution
 - [Angel Rosales](https://github.com/angelrosaleslopez-source) - My first open-source contribution!
 - [Sandeep K G] (https://github.com/Sandeepkg123) - hello everyone 
 - [swami] (https://github.com/swamisonna006-prog) - hello everyone
