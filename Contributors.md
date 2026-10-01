@@ -6554,5 +6554,7 @@ Jd
 - [johnjohn1207](https://github.com/johnjohn1207) - first open source ya
 - [owobowob](https://github.com/owobowob) - Hello World!
 - [Ctycet](https://github.com/simonrainbow) - My first open source contribution
-
+- [Seyoung Park](https://github.com/parkseyoung1215-netizen)
+  
+  
 
