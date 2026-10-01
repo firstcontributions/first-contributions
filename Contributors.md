@@ -3169,7 +3169,6 @@
 - [Lam Tung Dang](https://github.com/BitOfForest)
 - [Larson](https://github.com/lixianphy)
 - [Laryssa](https://github.com/krystall8778)
-- [davidcepeda1] (https://github.com/davidcepeda1) - Hello There! I'm David :D
 - [Connor Sea](https://github.com/connortist) My first open-source contribution, made with Claude Code!
 - [Gabriel Villanueva](https://github.com/gabeamv)
 - [LaskaaaD](https://github.com/LaskaaaD)
@@ -3870,6 +3869,7 @@
 - [Tarun mehra ](https://github.com/Tarun-mehra)
 - [Tase](https://github.com/Tasesho)
 - [Teena Goyal](https://github.com/teenagoyal21)
+- [davidcepeda1] (https://github.com/davidcepeda1) - Hello There! I'm David :D
 - [Tejas MS](https://github.com/TejasMS1356)
 - [Tejas Waghere](https://github.com/tejaswaghere)
 - [Teng-Hui Huang](https://github.com/hui811116)
