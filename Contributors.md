@@ -6558,5 +6558,5 @@ Jd
 - [Ctycet](https://github.com/simonrainbow) - My first open source contribution
 - [Seyoung Park](https://github.com/parkseyoung1215-netizen)
 - [Rohan Prasen Kedari](https://github.com/rohan-prasen) - Contributing for fun :D
+  - [Shriya Madgula](https://github.com/shriyamadgula29) - First GIT Pushhh :D
   
-
