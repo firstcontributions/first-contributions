@@ -6535,6 +6535,7 @@ Jd
 - [Tea-mist](https://github.com/Tea-mist)
 - [workmin79](https://github.com/workmin79) - My first open-source contribution!
 - [Nishant Bhatt](https://github.com/Bhattnishu)
+- [Sofia Gutierrez](https://github.com/SofiaGutierrezA)
 - dharadhotre-sudo
 - [Federica](https://github.com/Federica-ippoliti98)
 - [veligetisamanvi](https://github.com/veligetisamanvi)
