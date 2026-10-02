@@ -40,6 +40,7 @@
 - [Nyrqel](https://github.com/Nyrqel) - My first open-source contribution!
 - [Satya Mahesh](https://github.com/satyamahesh03) - First Open Source Contribution!
 - [Md Mizan](https://github.com/mizan989)
+- [Karberg](https://github.com/Karberg) - My first open-source contribution!!
 - [Lukas0808988](https://github.com/Lukas0808988)
 - [Random Porcupine](https://github.com/random-porcupine)
 - [Vedant Sawant](https://github.com/Vedant-9105)
