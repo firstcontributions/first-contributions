@@ -1,4 +1,4 @@
--[Sahasra]-hello my first contribution!
+[Sahasra]-hello my first contribution!
 - [Luis Tenorio](https://github.com/luis-codex) - ¡Hola desde Ecuador! Mi primera contribución open source (ESPE - CERN Preparation Program).
 
 
