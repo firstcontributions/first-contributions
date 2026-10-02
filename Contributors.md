@@ -297,6 +297,7 @@ GSL32
 - Hirotaka Akiyama
 - [Cameron Sentieri](https://github.com/camsent)
 - [Srishti Yadav](https://github.com/srishtiyadav05)
+- [Pietro Righi](https://github.com/Pietro-Righi)
 - [Shubham Potdar](https://github.com/shubhampotdar4122003-debug)
 - [Kriti Srivastava](https://github.com/Kriti363)
 ---[Mohit Sagar](https://github.com/MohitSAGAR11)
@@ -6572,4 +6573,4 @@ Jd
 - [Doni Leong](https://github.com/donileong) - Hello world!
 
 - [nandisneha20005-max](https://github.com/nandisneha20005-max)
-- [moritz2908] - hello world!!
+- [moritz2908](https://github.com/moritz2908)
