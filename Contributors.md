@@ -6,6 +6,7 @@
 - [Andrii Balan] (https://github.com/andriibalan) - Hello everyone (This is my start in Open Source)
 - [Soufiane ZAARI](https://github.com/SoufianeZaari) - My first open-source contribution!
 - [Yash55-max](https://github.com/Yash55-max) - Hello!! This is Yash & my first open-source contribution!
+- [Krishna Malhotra](https://github.com/krishna2707) - Hi This is my first contribution
 - [Orkun Olcal](https://orkunolcal.github.io/) - Hello World!
  add-lury
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
