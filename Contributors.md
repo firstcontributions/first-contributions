@@ -297,6 +297,7 @@ GSL32
 - Hirotaka Akiyama
 - [Cameron Sentieri](https://github.com/camsent)
 - [Srishti Yadav](https://github.com/srishtiyadav05)
+- [Pietro Righi](https://github.com/Pietro-Righi)
 - [Shubham Potdar](https://github.com/shubhampotdar4122003-debug)
 - [Kriti Srivastava](https://github.com/Kriti363)
 ---[Mohit Sagar](https://github.com/MohitSAGAR11)
