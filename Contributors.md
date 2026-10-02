@@ -197,6 +197,7 @@ Arc hie Boswelll
 - [Conner Brown](https://github.com/thathallow) Github is an incredibly useful tool.
 - [n4z6](https://github.com/n4z6)
 - [surya pratap singh rathore](https://github.com/suryapratapctrl)
+- [Aravindhan](https://github.com/chuckstone-cpu/first-contributions)
 - [Georgia Loizidou](https://github.com/loizidougeorgia)
 - [bashirhandur075](https://github.com/bashirhandur075)
 - [bashirhandur075](https://github.com/bashirhandur075)
