@@ -158,39 +158,18 @@ In this case, try to use `git checkout` instead:
 git checkout -b your-new-branch-name
 ```
 
-</details>
+## ✨ Make Your Mark & Commit Your Changes ✨
 
-## Make necessary changes and commit those changes
-
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Time to get your name in lights! 🌟 Open up the `Contributors.md` file in your favorite text editor. Find a cozy spot somewhere in the middle (please avoid the very top or bottom!) and add your name. Once you're done, hit save! 💾
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+Let's check our work. If you head to your project directory and execute the `git status` command, you'll see your brilliant new changes waiting in the wings. 🎭
 
-Add those changes to the branch you just created using the `git add` command:
+Stage your masterpiece by adding the changes to your branch with the `git add` command:
 
 ```bash
 git add Contributors.md
-```
-
-Now commit those changes using the `git commit` command:
-
-```bash
-git commit -m "Add your-name to Contributors list"
-```
-
-replacing `your-name` with your name.
-
-## Push changes to GitHub
-
-Push your changes using the command `git push`:
-
-```bash
-git push -u origin your-branch-name
-```
-
-replacing `your-branch-name` with the name of the branch you created earlier.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
