@@ -7,6 +7,8 @@
  add-lury
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
 
+- [amalsunny-cloud] (https://github.com/amalsunny-cloud) - Hello Everyone, This is my first open-source contribution.
+
 - [Nishant Saini] (https://github.com/NISHANTSAINI6251) - First open-source contirbution
  main
 - [Teki Shodo](https://github.com/tekisho) - **Hi :3!**
