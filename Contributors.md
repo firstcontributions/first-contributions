@@ -70,6 +70,7 @@ new change
 - [Aditi Kadukar](https://github.com/Aditi-Kadukar) - My first contribution!
 - [Ankush Patidar](https://github.com/ankushpatidar-1) - My first open-source contribution!
 - [LesYao158](https://github.com/LesYao158)
+- [M. Taha](https://github.com/m-taha-ejaz)
 - [Pratham Jain]
 - [Nazeem](https://github.com/naz33m)
 - [DKodes] (https://github.com/Dak-shta)
