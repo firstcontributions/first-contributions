@@ -6614,9 +6614,14 @@ Jd
 - [rushi561](https://github.com/rushi561) - My first open-source contribution
 -[smritisitoke](https://github.com/smritisitoke)-this is my first open source contribution.
 - [Pikksel] (https://github.com/Pikksel) - My second push, this time public!
+<<<<<<< HEAD
+-[Pranjal] (https://github.com/pranjalthakare804) -My First and the Starting on contributing on open Sourse.
+[Pran](https://github.com/pranjalthakare804) -Try to ContributeS
+=======
 -[pranav_shaji] (https://github.com/pranav-shaji) - my first open source contribution!
 -[Ashfaq] - Hello World! Have a Good Day
 -[ps] - Hello World!
 -[Kunal_net]
 - [Aditi Bhagat](https://github.com/aditi-0926) - My first open source contribution!
+>>>>>>> main
 
