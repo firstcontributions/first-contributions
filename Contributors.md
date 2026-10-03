@@ -533,6 +533,7 @@ github.com/zeeshan2266
 -DG hiii
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
+- [TpointTech-000] (https://github.com/tpointtech-000)
 -[shivam kumar] (https://github.com/shivamkumar135/first-contributions.git)
 - [Aman Ansary](https://github.com/AmanAnsary23)
 - [Muaz] (https://github.com/Muaz-devops)
