@@ -4,6 +4,7 @@
 - [Luis Tenorio](https://github.com/luis-codex) - ¡Hola desde Ecuador! Mi primera contribución open source (ESPE - CERN Preparation Program).
 - [Aditi Lad](https://github.com/AditiLad2005) - Hiiiiii!!!
 - [Sushant Shrestha](https://github.com/Sushantstha2025) - Hello. This is my first contribution made. 
+- [Ben Hasteen B](https://github.com/humidyfier)- Hey, people! how y'll doing good!! lets connect, reach me out in instagram: Benhasteen10!!!
 - [josueisabelm-art](https://github.com/josueisabelm-art) - ¡Hola! Mi primera contribución open source.
 - [Soumen](https://github.com/soumen-tech) - Hello! This is my first open-source contribution!
 - [itigo0802](https://github.com/itigo0802) - My first open-source contribution!
