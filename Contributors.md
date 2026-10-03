@@ -6595,5 +6595,7 @@ Jd
 - [nbmcnskorea-cell](https://github.com/nbmcnskorea-cell) - My first open source contribution
 - [Nawaz Mulla](https://github.com/NawazMulla786) - Hello! My first open source contribution.
 - [Canyon-Li](https://github.com/Canyon-Li) - hey! Today ! My Start !
-- [rushi561](https://github.com/rushi561) - My first open-source contribution!
+- [rushi561](https://github.com/rushi561) - My first open-source contribution
+-[smritisitoke](https://github.com/smritisitoke)-this is my first open source contribution.
 - [Pikksel] (https://github.com/Pikksel) - My second push, this time public!
+
