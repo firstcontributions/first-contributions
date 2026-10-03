@@ -55,6 +55,7 @@
 -[Kunal](https://github.com/111kunal)
 - [Nyrqel](https://github.com/Nyrqel) - My first open-source contribution!
 - [Satya Mahesh](https://github.com/satyamahesh03) - First Open Source Contribution!
+- [Pratyaksh Tomar](https://github.com/Pratyaksh0x1) - My first open Source Contribution!!
 - [Md Mizan](https://github.com/mizan989)
 - [Karberg](https://github.com/Karberg) - My first open-source contribution!!
 - [Lukas0808988](https://github.com/Lukas0808988)
