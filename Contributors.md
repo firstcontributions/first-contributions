@@ -371,6 +371,7 @@ GSL32
 - [Manish Mani Dinkar](https://github.com/moneyyiiss)
 - [Mano J](https://github.com/mj)
 - Melissa Nougal
+- [Simon Huwaert](https://github.com/Simonlovestocode)
 - [Mohamed Rasik Farid](https://github.com/MohamedRF)
 - [Milan Mahato](https://github.com/milanncodes)
 - [NlCK01](https://github.com/NlCK01)
