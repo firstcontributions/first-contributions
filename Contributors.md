@@ -1,4 +1,4 @@
-- [Artur Fedosiuk](https://github.com/artur-fedosiuk/artur-fedosiuk) - My first open-source contribution!
+- [Artur Fedosiuk](https://github.com/artur-fedosiuk) - My first open-source contribution!
 - [CloaRK](https://github.com/CloaRK) - 你好！这是我的第一个开源贡献！
 - [bharat karnik]
 [Priyanshu Bhandari](https://github.com/bPriyanshu07)- This is my first contribution in Open Source
