@@ -1,3 +1,4 @@
+[Priyanshu Bhandari](https://github.com/bPriyanshu07)- This is my first contribution in Open Source
 [Sahasra]-hello my first contribution!
 - [Luis Tenorio](https://github.com/luis-codex) - ¡Hola desde Ecuador! Mi primera contribución open source (ESPE - CERN Preparation Program).
 - [Aditi Lad](https://github.com/AditiLad2005) - Hiiiiii!!!
@@ -12,8 +13,10 @@
 - [Orkun Olcal](https://orkunolcal.github.io/) - Hello World!
  add-lury
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
+- [orignlkartik1](https://github.com/orignlkartik1) - Hello,friends! My first open-source contribution!
 
 - [amalsunny-cloud] (https://github.com/amalsunny-cloud) - Hello Everyone, This is my first open-source contribution.
+- [BoilingPointless] (https://github.com/BoilingPointless) - I am boiling pointlessly!
 - [Yash Gautam] (https:/github.com/Yash2031v) - Hello Everyone, This is my First open-source contribution.
 - [Nishant Saini] (https://github.com/NISHANTSAINI6251) - First open-source contirbution
  main
@@ -44,6 +47,7 @@
 - [Lukas0808988](https://github.com/Lukas0808988)
 - [Random Porcupine](https://github.com/random-porcupine)
 - [Vedant Sawant](https://github.com/Vedant-9105)
+- [ayuuXploits](https://github.com/ayuuXploits) - Hello! This is my first open-source contribution!
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
 - [studytcmc107-del](https://github.com) - My second commit
 - [avzuh](https://github.com/avzuh)
@@ -66,6 +70,7 @@ new change
 - [Aditi Kadukar](https://github.com/Aditi-Kadukar) - My first contribution!
 - [Ankush Patidar](https://github.com/ankushpatidar-1) - My first open-source contribution!
 - [LesYao158](https://github.com/LesYao158)
+- [M. Taha](https://github.com/m-taha-ejaz)
 - [Pratham Jain]
 - [Nazeem](https://github.com/naz33m)
 - [DKodes] (https://github.com/Dak-shta)
@@ -6536,6 +6541,7 @@ Jd
 - [Tea-mist](https://github.com/Tea-mist)
 - [workmin79](https://github.com/workmin79) - My first open-source contribution!
 - [Nishant Bhatt](https://github.com/Bhattnishu)
+- [Sofia Gutierrez](https://github.com/SofiaGutierrezA)
 - dharadhotre-sudo
 - [Federica](https://github.com/Federica-ippoliti98)
 - [veligetisamanvi](https://github.com/veligetisamanvi)
@@ -6582,3 +6588,4 @@ Jd
 - [loneowlve-ai227](https://github.com/loneowlve-ai227) - My first Open source contributions
 - [BeingShashwat] (https://github.com/BeingShashwat) - Just the beginning...
 - [erichsu0716](https://github.com/erichsu0716) -My first contributions ...
+- [nbmcnskorea-cell](https://github.com/nbmcnskorea-cell) - My first open source contribution
