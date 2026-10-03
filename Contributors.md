@@ -545,6 +545,7 @@ github.com/zeeshan2266
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
 - [TpointTech-000] (https://github.com/tpointtech-000)
 -[shivam kumar] (https://github.com/shivamkumar135/first-contributions.git)
+- [Rugved Patil] (https://github.com/rugved26-dot)
 - [Aman Ansary](https://github.com/AmanAnsary23)
 - [Muaz] (https://github.com/Muaz-devops)
 - [Ndeye Awa Salane](https://github.com/nasalane)
