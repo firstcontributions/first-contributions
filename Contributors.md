@@ -1,5 +1,6 @@
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
+- [Pranav](https://github.com/pranav003-kr) - My first Open-Source contribution. Let's start the journey.
 - [Abhinav Karthik Sripada](https://github.com/abhinavkarthiksripada-prog/first-contributions.git) - My first open-source contribution. Let us see how far I can go.
 - [Artur Fedosiuk](https://github.com/artur-fedosiuk) - My first open-source contribution!
 - [CloaRK](https://github.com/CloaRK) - 你好！这是我的第一个开源贡献！
