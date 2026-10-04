@@ -112,9 +112,9 @@ Rahul Aggarwal
 - [Rueee820](https://github.com/Rueee820)
 - [Adeleloff](https://github.com/Adeleloff)
 - [Sushant Soni](https://github.com/2k24cs1p2410210-cmd)
-- [Vinod Veda](https://github.com/VSriVinod)
 - [Aditi Patil](https://github.com/AditiPatil31)
 - [Raj Paramanik](https://github.com/rajparamanik)-First Contribution-hello world!
+- [Vinod Veda](https://github.com/VSriVinod)
 - [Jishnu Madhu](https://github.com/JishnuMadhu)
 B05U3-
 - balayyoub
@@ -6650,3 +6650,4 @@ Jd
    (https://github.com/Anchal-jpg)
 - [Matttt](https://github.com/matt94vr) 
 - [sdas](https://github.com/sdas-19)
+- [sontucoder](https://github.com/SontuCoder) - Hi this is Sontu.
