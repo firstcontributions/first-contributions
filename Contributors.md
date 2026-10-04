@@ -2,7 +2,9 @@
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
 - [Pranav](https://github.com/pranav003-kr) - My first Open-Source contribution. Let's start the journey.
+- [abdulwahid](https://github.com/abduIwahid)
 - [Abhinav Karthik Sripada](https://github.com/abhinavkarthiksripada-prog/first-contributions.git) - My first open-source contribution. Let us see how far I can go.
+- [Pablo Guzman](https://github.com/urMix) - Hello! my first contribution.
 - [Artur Fedosiuk](https://github.com/artur-fedosiuk) - My first open-source contribution!
 - [CloaRK](https://github.com/CloaRK) - 你好！这是我的第一个开源贡献！
 - [bharat karnik]
@@ -6629,4 +6631,5 @@ Jd
 - [git17-hub](https://github.com/git17-hub) - My first open-source contribution!
 - [Dominic D](https://github.com/DominicD128)
 - [Fabio Pugno](https://github.com/FabioPugno21)
+- [Yash Jawale] - My first open-source contribution!
 - [Pritika Khandelwal](https://github.com/pritikakhandelwal)
