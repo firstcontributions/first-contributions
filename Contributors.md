@@ -1999,6 +1999,7 @@ kalyani
 - [benjaminbii] (https://github.com/benjaminbii)
 - [parvthummar] (https://github.com/parvthummar)
 - [Aaditya rai] (https://github.com/aadityarai-bot)
+- [RichxYong](https://github.com/RichxYong)
 - [Aryan Kapoor](https://github.com/Keninjavelas)
 - [zyx18298126158-netizen](https://github.com/zyx18298126158-netizen)
 - [Anand Prasad](https://github.com/Anandprasad03) #Contributors
