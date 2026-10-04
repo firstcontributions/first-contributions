@@ -6608,7 +6608,7 @@ Jd
   
 - [DARPrA2908](https://github.com/DARPrA2908) - My first open-source contribution!
 - [Doni Leong](https://github.com/donileong) - Hello world!
-
+- [Michail Cheklin](https://github.com/michailcheklin/) - Thank you for providing a training place to understand and try out the GitHub open source contribution workflow.
 - [nandisneha20005-max](https://github.com/nandisneha20005-max)
 - [moritz2908](https://github.com/moritz2908)
 - [loneowlve-ai227](https://github.com/loneowlve-ai227) - My first Open source contributions
