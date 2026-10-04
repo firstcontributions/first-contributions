@@ -1096,6 +1096,7 @@ Shaurya522 from The Dooon School
 - [Arjun](https://github.com/arjunsai-dev)
 - [Raha](https://github.com/raha-ak)
 - [Akshay-K-M_IMT2024014] (https://github.com/Akshay-K-M)
+-[Sai Kanishka] (https://github.com/kanishka2610-web/first-contributions.git)
 Varshith IMT2024044
 - BT2024088
 - Samir Chahar: (https://github.com/samirchahar)
