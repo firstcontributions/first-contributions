@@ -6637,7 +6637,7 @@ Jd
 - [rushi561](https://github.com/rushi561) - My first open-source contribution
 -[smritisitoke](https://github.com/smritisitoke)-this is my first open source contribution.
 - [Pikksel] (https://github.com/Pikksel) - My second push, this time public!
--[pranav_shaji] (https://github.com/pranav-shaji) - my first open source contribution!
+-[pranav_shcontributionaji] (https://github.com/pranav-shaji) - my first open source contribution!
 -[Ashfaq] - Hello World! Have a Good Day
 -[ps] - Hello World!
 - [Baha](https://github.com/YngJesus) - My first open-source contribution
@@ -6661,4 +6661,7 @@ Jd
 - [Jazzy](https://github.com/sirjazzyy) Hi, this is jazzy. my first contribution btw
 - [Malek Baba](https://github.com/DRMALEK)
 - [Sultan Khan](https://github.com/sultan-ai-and-ml/first-contributions)
+
 - [冰](https://github.com/AyaseEli-Bing) - 2026-10-05, my first contribution
+
+- [Tahmina Khanam](https://github.com/TahminaKhanNipa10-Codes)
