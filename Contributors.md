@@ -1,5 +1,6 @@
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
+- [Pranav](https://github.com/pranav003-kr) - My first Open-Source contribution. Let's start the journey.
 - [Abhinav Karthik Sripada](https://github.com/abhinavkarthiksripada-prog/first-contributions.git) - My first open-source contribution. Let us see how far I can go.
 - [Artur Fedosiuk](https://github.com/artur-fedosiuk) - My first open-source contribution!
 - [CloaRK](https://github.com/CloaRK) - 你好！这是我的第一个开源贡献！
@@ -50,10 +51,12 @@
 - [Ujjwal Dikshit](https://github.com/UjjwalDikshit) - Now onwards i've started my open-src journey
 - [hhh-ln](https://github.com/hhh-ln) - my first open-source contribution
 - [Alexandre Cruz <img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](https://github.com/alexandrescruz) - My first open-source contribution
--[GauravPathak09](https://github.com/GauravPathak09)
--[Kunal](https://github.com/111kunal)
+- [GauravPathak09](https://github.com/GauravPathak09)
+- [Talari Yashwanth](https://github.com/talariyashwanth) - Kinda meeda oopu ballaya babu thopu
+- [Kunal](https://github.com/111kunal)
 - [Nyrqel](https://github.com/Nyrqel) - My first open-source contribution!
 - [Satya Mahesh](https://github.com/satyamahesh03) - First Open Source Contribution!
+- [Pratyaksh Tomar](https://github.com/Pratyaksh0x1) - My first open Source Contribution!!
 - [Md Mizan](https://github.com/mizan989)
 - [Karberg](https://github.com/Karberg) - My first open-source contribution!!
 - [Lukas0808988](https://github.com/Lukas0808988)
@@ -6622,3 +6625,5 @@ Jd
 -[Kunal_net]
 - [Aditi Bhagat](https://github.com/aditi-0926) - My first open source contribution!
 - [git17-hub](https://github.com/git17-hub) - My first open-source contribution!
+- [Dominic D](https://github.com/DominicD128)
+- [Fabio Pugno](https://github.com/FabioPugno21)
