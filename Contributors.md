@@ -458,6 +458,7 @@ Jainil Chavda
 -[Dhruv](https://github.com/dhruv-ghai)
 -[Isaac Makeny](https://github.com/lm10-zaki)
 -  [Badri Vishal Pandey] - [Hemanth4072](https://github.com/Hemanth4072) 
+-[ZeeShaan Mala](https://github.com/ZeeShaanMala)
 -[Hamidreza Kiani](https://github.com/hkiani37399-pixel)
 -[Chithra Moorthy](https://github.com/chithramoorthy14)
 -[Carlos Posso](https://github.com/Carpos-C137)
