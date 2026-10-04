@@ -6,6 +6,7 @@
 - [Shaik Mohammad Ameer](https://github.com/Ameer77-tech) - 4-10-2026, First Contribution
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
+- [Purvardh Kaushik](https://github.com/Purvardh)
 - [Pranav](https://github.com/pranav003-kr) - My first Open-Source contribution. Let's start the journey.
 - [abdulwahid](https://github.com/abduIwahid)
 - [Abhinav Karthik Sripada](https://github.com/abhinavkarthiksripada-prog/first-contributions.git) - My first open-source contribution. Let us see how far I can go.
