@@ -6629,3 +6629,4 @@ Jd
 - [git17-hub](https://github.com/git17-hub) - My first open-source contribution!
 - [Dominic D](https://github.com/DominicD128)
 - [Fabio Pugno](https://github.com/FabioPugno21)
+- [Pritika Khandelwal](https://github.com/pritikakhandelwal)
