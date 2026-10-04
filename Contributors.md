@@ -1512,6 +1512,7 @@ nathan practice here
 - [Sakshi Vyavahare](https://github.com/sakshivyavahare20)
 - [Saniya Muskan](https://github.com/muskan-io)
 - [Prajin Gn](https://github.com/prajin-gn)
+- [Dinesh Ganesan](https://github.com/dinesh24sru)
 - [Divyansh Sareen](https://github.com/DivyanshSareen)
 - [Divyanshi Tiwari](https://github.com/Divyanshi3124)
 - [Nick Anderson](https://github.com/NickCAnderson)
