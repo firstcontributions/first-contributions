@@ -64,6 +64,7 @@ John Doe 2026
 - [GauravPathak09](https://github.com/GauravPathak09)
 - [Talari Yashwanth](https://github.com/talariyashwanth) - Kinda meeda oopu ballaya babu thopu
 - [Kunal](https://github.com/111kunal)
+- [Umesh Ghaskata](https://github.com/Umesh-PersonalID)
 - [Nyrqel](https://github.com/Nyrqel) - My first open-source contribution!
 - [Satya Mahesh](https://github.com/satyamahesh03) - First Open Source Contribution!
 - [Pratyaksh Tomar](https://github.com/Pratyaksh0x1) - My first open Source Contribution!!
