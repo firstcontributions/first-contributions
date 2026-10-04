@@ -3299,6 +3299,7 @@ andrewcodess
 - [Jecin Elizabeth Rajesh](https://github.com/JecinElizabeth)
 - [Jednorbie Jarin](https://github.com/jednorbie1993)
 - [Jeev Dharshan](https://github.com/Jeev4i)
+- [Thanksman](https://github.com/jupitermhl-cloud) - Hello from Korea! My first open-source contribution.
 - [Jesse Wu](https://github.com/Gungnir-01)
 - [mtedium](https://github.com/mtedium)
 - [Jeo](https://github.com/jeomarisaez)
