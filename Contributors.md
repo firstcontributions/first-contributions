@@ -40,7 +40,7 @@
 - [Angel Rosales](https://github.com/angelrosaleslopez-source) - My first open-source contribution!
 - [Gayatri Arvind Gundad](https://github.com/Gayatri-tech24)-My first contribution!! So excited to start my developer journey.
 - [Sandeep K G] (https://github.com/Sandeepkg123) - hello everyone 
-- [BoRuei Chen]
+John Doe 2026
 - [swami] (https://github.com/swamisonna006-prog) - hello everyone
 - [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
 - [Meng Jichang](https://github.com/Mike-ail)
