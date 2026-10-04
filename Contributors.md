@@ -114,6 +114,7 @@ Rahul Aggarwal
 - [Sushant Soni](https://github.com/2k24cs1p2410210-cmd)
 - [Vinod Veda](https://github.com/VSriVinod)
 - [Aditi Patil](https://github.com/AditiPatil31)
+- [Raj Paramanik](https://github.com/rajparamanik)-First Contribution-hello world!
 - [Jishnu Madhu](https://github.com/JishnuMadhu)
 B05U3-
 - balayyoub
