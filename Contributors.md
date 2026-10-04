@@ -6653,3 +6653,4 @@ Jd
 - [Matttt](https://github.com/matt94vr) 
 - [sdas](https://github.com/sdas-19)
 - [sontucoder](https://github.com/SontuCoder) - Hi this is Sontu.
+- [Jazzy](https://github.com/sirjazzyy) Hi, this is jazzy. my first contribution btw
