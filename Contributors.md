@@ -236,6 +236,7 @@ B.Saikumar
 Arc hie Boswelll
 - Arpi Katona
 - Jesus Guillen
+- Lucy B
 - Jorge Fuentes
 - Anisse Assane
 -[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
