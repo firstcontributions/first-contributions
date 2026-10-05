@@ -6670,3 +6670,4 @@ Jd
 - [Sultan Khan](https://github.com/sultan-ai-and-ml/first-contributions)
 - [冰](https://github.com/AyaseEli-Bing) - 2026-10-05, my first contribution
 - [Aman](https://github.com/aman19-ux) - First open-source contribution, practising the fork workflow.
+- [Namrata](https://github.com/namratacodes908) - My first open-source contribution!
