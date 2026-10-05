@@ -3,7 +3,7 @@
 - [Abhishek Gautam](https://github.com/abhishekgautam95) - Hello World! This is Abhishek gautam. And this is my firrst open source contribution 😊 . 
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
 - [Himanshu Pathak](https://github.com/Himanshu-5680) - Jetzt bin ich auch ein Open-Source-Contributor bei [first-contributions](https://github.com/firstcontributions/first-contributions)!
-- [Karolina Zuber](https://github.com/Platyniak) - Czołem Wszystkim poczatkujacym :fire: :monocle_face:
+- [Karolina Zuber](https://github.com/Platyniak) - Czołem Wszystkim poczatkujacym :fire: :monocle_face: :)
 - [Shivansh Garg](https://github.com/shivansh1251) - Hiii,Bonjour! my first contribution, 4-10-2026
 - [Aniket bhardwaj](https://github.com/aniketbhardwajhere-rgb) - Hello there , Aniket bhardwaj this side and the phase of open source contribution starts from today ⚡.
 - [Shaik Mohammad Ameer](https://github.com/Ameer77-tech) - 4-10-2026, First Contribution
