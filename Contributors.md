@@ -22,7 +22,7 @@
 - [Liu050916](https://github.com/Liu050916) - hello！这是我的第一个开源贡献!
 - [CloaRK](https://github.com/CloaRK) - 你好！这是我的第一个开源贡献！
 - [bharat karnik]
-[Priyanshu Bhandari](https://github.com/bPriyanshu07)- This is my first contribution in Open Source
+[Priyanshu Bhandari](https://github.com/bPriyanshu07)- This is my first contribution in Open Source [Hira Iftikhar]
 [Sahasra]-hello my first contribution!
 [Carlos Galvis] - ¡Mi primera contribución de código abierto!
 - [Luis Tenorio](https://github.com/luis-codex) - ¡Hola desde Ecuador! Mi primera contribución open source (ESPE - CERN Preparation Program).
