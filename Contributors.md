@@ -6678,4 +6678,5 @@ Jd
 
 - [Namrata](https://github.com/namratacodes908) - My first open-source contribut
 - [noamp09](https://github.com/noamp09) - My first open source conribution (a history made)
-- [suryanshasayth936_ux](https://github.com/suryanshasayth936-ux) - My first open-source contribution, practicing the workflow!
+
+- [suryanshasayth936-ux](https://github.com/suryanshasayth936-ux) - My first official contribution in open source.
