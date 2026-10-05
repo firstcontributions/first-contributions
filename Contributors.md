@@ -106,6 +106,7 @@ new change
 Faheem Ali
 [Vishal Yadav](https://github.com/wearetec9) - first contribution
 Rahul Aggarwal
+[medavarapu saathvik](https://github.com/saathvikmedavarapu2111-a11y)-life is good
 - [Benji Dunn](https://github.com/Benji-Dunn)
 - butter
 - [Farhan Ahmad](https://github.com/KevinForsgren)
