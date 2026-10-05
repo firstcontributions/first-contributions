@@ -4,6 +4,7 @@
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
 - [Himanshu Pathak](https://github.com/Himanshu-5680) - Jetzt bin ich auch ein Open-Source-Contributor bei [first-contributions](https://github.com/firstcontributions/first-contributions)!
 - [Shivansh Garg](https://github.com/shivansh1251) - Hiii,Bonjour! my first contribution, 4-10-2026
+- [Aniket bhardwaj](https://github.com/aniketbhardwajhere-rgb) - Hello there , Aniket bhardwaj this side and the phase of open source contribution starts from today ⚡.
 - [Shaik Mohammad Ameer](https://github.com/Ameer77-tech) - 4-10-2026, First Contribution
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
@@ -64,6 +65,7 @@ John Doe 2026
 - [Ujjwal Dikshit](https://github.com/UjjwalDikshit) - Now onwards i've started my open-src journey
 - [hhh-ln](https://github.com/hhh-ln) - my first open-source contribution
 - [Alexandre Cruz <img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](https://github.com/alexandrescruz) - My first open-source contribution
+- [Lohith <img title="India" alt="India" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">](https://github.com/lohith889) - My first open-source contribution 
 - [GauravPathak09](https://github.com/GauravPathak09)
 - [Talari Yashwanth](https://github.com/talariyashwanth) - Kinda meeda oopu ballaya babu thopu
 - [Kunal](https://github.com/111kunal)
@@ -2035,6 +2037,7 @@ kalyani
 - [chen shui] (https://github.com/dawnwish412)
 - [ZCheng Li] (https://github.com/zcheng-li)
 - [PRAJWAL_RG](https://github.com/PRAJWAL-RAMGOND)# Contributors
+- [jnikem](https://github.com/jnikem)
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Surya_S](https://github.com/Suryaseenivasan2005)#Contributors
 - [ADHIRAJ994](https://github.com/ADHIRAJ994)
@@ -6623,6 +6626,7 @@ Jd
 - [cybertingzhen](https://github.com/cybertingzhen) - My first open-source contribution!
 - [raghvendrasingh-01](https://github.com/raghvendrasingh-01) - My first open source contribution
 - [zakkelya](https://github.com/zakkelya) - Hello World!
+- [charlieleexz](https://github.com/charlieleexz)
 - [Spig100](https://github.com/Spig100)
 - [JenYang100989](https://github.com/JenYang891009)
 - [johnjohn1207](https://github.com/johnjohn1207) - first open source ya
