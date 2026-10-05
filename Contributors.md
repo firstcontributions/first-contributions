@@ -3841,6 +3841,7 @@ andrewcodess
 - [Rohith Ramu](https://github.com/redmonster1224)
 - [Roia Tembo](https://github.com/roiatembo)
 - [Roland](https://github.com/rolandmn)
+- [vi](https://github.com/ViCppDev) the first commit in my entire life :D
 - [Roma](https://github.com/23f2002478-ROMA)
 - [Roman K](https://github.com/rkuzntsv)
 - [Romysa](https://github.com/Rumaisa10)
