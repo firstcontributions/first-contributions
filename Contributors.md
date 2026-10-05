@@ -107,6 +107,7 @@ new change
 - [DKodes] (https://github.com/Dak-shta)
 - [Danish-63](https://github.com/Danish-63)
 - [Matt Jenner](https://github.com/mjenner-afk)
+- [chinnu_gaadu](https://github.com/chinnu7799)
 Faheem Ali
 [Vishal Yadav](https://github.com/wearetec9) - first contribution
 Rahul Aggarwal
