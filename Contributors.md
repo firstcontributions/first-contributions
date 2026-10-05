@@ -239,6 +239,7 @@ Arc hie Boswelll
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
 - [Stephen Hopfensperger](https://github.com/Stephen-Hopfensperger) Have a great day!
 - [Luis Gutierrez](https://github.com/FoundryLG) Glad to contribute
+- [Churchill Gyan](https://github.com/TheDevMode) :D 
 - [Abhishek Kumar](https://github.com/prodigyabhishek) First Contribution!
 - [Sidbt](https://github.com/YOUR_GITHUB_USERNAME) My first open-source contribution
 - [Michael-314](https://github.com/Michael-314) First contribution!
