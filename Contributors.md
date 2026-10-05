@@ -6694,4 +6694,7 @@ Jd
 - [suryanshasayth936-ux](https://github.com/suryanshasayth936-ux) - My first official contribution in open source.
 - [Bozmoss] First open source contribution
 
+-[Chintaman-i] First open source contribution
+
+
 - [YashDev6767](https://github.com/YashDev6767) - My first official contribution in open source.
