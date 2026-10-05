@@ -1156,6 +1156,7 @@ Suraj Kumar i am not gonna provide any link
 - [Srijan Gupta BT2024098](https://github.com/SrijanG07)
 - [c00lkiddX17](https://github.com/owakcx2014)
 - [Dayal Gupta](https://github.com/DayalGupta03)
+- [Yogita Mehta](https://github.com/yogita-mehta) - My first open-source contribution!
 - [Luca Santoro](https://github.com/lucasoftwareengineer)
 - [beiwei91](https://github.com/beiwei91)
 - [Sushmit-Biswas-BT2024038](https://github.com/Sushmit-Biswas)
