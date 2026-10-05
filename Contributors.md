@@ -6670,3 +6670,4 @@ Jd
 - [Sultan Khan](https://github.com/sultan-ai-and-ml/first-contributions)
 - [冰](https://github.com/AyaseEli-Bing) - 2026-10-05, my first contribution
 - [Aman](https://github.com/aman19-ux) - First open-source contribution, practising the fork workflow.
+- [Riddhi Gupta] (https://github.com/riddhigupta1110) - Codess Cohort 8
