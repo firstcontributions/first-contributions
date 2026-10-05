@@ -21,6 +21,7 @@
 [Carlos Galvis] - ¡Mi primera contribución de código abierto!
 - [Luis Tenorio](https://github.com/luis-codex) - ¡Hola desde Ecuador! Mi primera contribución open source (ESPE - CERN Preparation Program).
 - [Aditi Lad](https://github.com/AditiLad2005) - Hiiiiii!!!
+- [Raghav Sathe](https://github.com/Raghav9git) - my first contribution!!!
 - [xomnibot](https://github.com/xomnibot) - Hello from xomnibot! My first open source contribution.
 - [Sushant Shrestha](https://github.com/Sushantstha2025) - Hello. This is my first contribution made. 
 - [Ben Hasteen B](https://github.com/humidyfier)- Hey, people! how y'll doing good!! lets connect, reach me out in instagram: Benhasteen10!!!
