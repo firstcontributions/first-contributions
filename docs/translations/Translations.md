@@ -80,9 +80,34 @@
 | <img alt="ພາສາລາວ" title="ພາສາລາວ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/la.svg" width="22">                                                                                                                                                 | [ພາສາລາວ](README.la.md)                                               |
 | <img title="Af-soomaali" alt="Somalia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/so.svg" width="22"> |[Af-soomaali](README.so.md)
 | <img title="አማርኛ" alt="አማርኛ" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/et.svg" width="22"> |[አማርኛ(Ethiopia)](README.am.md)
-| <img title="සිංහල" alt="සිංහල" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22"> | [සිංහල(Sri Lanka)](README.si.md)
-| <img alt="Tükmençe" title="Türkmençe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tm.svg" width="22">                                                                                                                                                   | [Türkmençe](README.tm.md) |
-| <img alt="հայերեն" title="հայերեն" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22">                                                                                                                                                 | [հայերեն](README.arm.md)                                                  |
-| <img alt="Kurdî" title="Kurdî (Kurdish)" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg" width="22"> | [Kurdî](README.kr.md) |
-| <img alt="Javanese" title="Javanese" src="https://flagcdn.com/id.svg" width="22"> | [Javanese](README.jv.md) |
+| <img title="සිංහල" alt="සිංහල" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lk.svg" width="22"> | [සිංහල(Sri Lanka)](README.si.md) |
+| <img alt="Tükmençe" title="Türkmençe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tm.svg" width="22"> | [Türkmençe](README.tm.md) |
+| <img alt="հայերեն" title="հայերեն" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22"> | [հայերեն](README.arm.md) |
 | <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22"> | [Монгол хэл](README.mn.md) |
+
+* [Assamese](README.assamese.md)
+* [Belarusian](README.be.md)
+* [Colognian](README.col.md)
+* [Ecuadorian Spanish](README.ec.md)
+* [Esperanto](README.eo.md)
+* [Ewe](README.ewe.md)
+* [Filipino](README.fil.md)
+* [Irish](README.ga.md)
+* [Ghanaian](README.gh.md)
+* [Croatian](README.hr.md)
+* [Armenian](README.hy.md)
+* [Khmer](README.kh.md)
+* [Kyrgyz](README.ky.md)
+* [Lingala](README.ln.md)
+* [Luganda](README.lug.md)
+* [Maithili](README.ma.md)
+* [Montenegrin](README.me.md)
+* [Malagasy](README.mg.md)
+* [Maldivian](README.mli.md)
+* [Portuguese (Angola)](README.pt-ao.md)
+* [Sindhi](README.sindhi.md)
+* [Slovak](README.sk.md)
+* [Swahili](README.sw.md)
+* [Setswana](README.tn.md)
+* [Gheg Albanian](README.un-aln.md)
+* [Uzbek](README.uz.md)
