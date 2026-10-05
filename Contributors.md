@@ -518,6 +518,7 @@ Jainil Chavda
 - [Ambika G S](https://github.com/gsambikag-star)
 -[Meet Bhuva](https://github.com/Hk8meet/)
 -[Siddhesh Kumar](https://github.com/Siddheshkr)
+-[Tanmay Sonkar](https://github.com/Tanmay-boop-hash) "Life can only be understood backwards, but it must be lived forwards."
 -[Riya Mathur] (https://github.com/riyamathur1)
 -[Joti Lohana](https://github.com/jotilohana21)
 -[Maira Arshad](https://github.com/Mairaarshad19)
