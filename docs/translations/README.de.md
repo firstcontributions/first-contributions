@@ -75,7 +75,7 @@ git checkout -b dein-neuer-zweig-name
 
 </details>
 
-## Mache notwendige veränderungen und commit diese
+## Mache notwendige Veränderungen und committe diese
 
 Öffne nun die Datei `Contributors.md` in einem Texteditor und füge deinen Namen hinzu. Füge ihn nicht ganz am Anfang oder am Ende hinzu, sondern irgendwo dazwischen, mittendrin. Speichere jetzt die Datei.
 
@@ -134,11 +134,11 @@ Wenn du jetzt zu deinem Repository auf Github gehts, wirst du einen `Compare & p
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="erstelle eine Pull-Request" />
 
-Jetzt, reiche deine Pull-Request ein.
+Jetzt reiche deine Pull-Request ein.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Reiche deine Pull-Request ein" />
 
-Bald werde ich alle deine Änderungen in den Haupt-Zweig dieses Projektes mergen. Du wirst eine Benachrichtigungs Email bekommen sobald die Änderungen gemerged wurden.
+Bald werde ich alle deine Änderungen in den Haupt-Zweig dieses Projektes mergen. Du wirst eine Benachrichtigungs-Email bekommen sobald die Änderungen gemerged wurden.
 
 ## Was nun?
 
@@ -148,7 +148,7 @@ Feier deinen Beitrag und teile in mit deinen Freunden und Followern indem du hie
 
 Wenn du gerne mehr Übung hättest, schau dir [code contributions](https://github.com/roshanjossey/code-contributions) an.
 
-Jetzt los gehts, mit Beiträgen zu anderen Projekten. Wir haben eine Liste von Projekten mit leichten Fehlern für Einsteiger bereitgestellt. Schau dir [die Liste der Projekte in der Web-App an](https://firstcontributions.github.io/#project-list) an.
+Jetzt geht's los mit Beiträgen zu anderen Projekten. Wir haben eine Liste von Projekten mit leichten Fehlern für Einsteiger bereitgestellt. Schau dir [die Liste der Projekte in der Web-App an](https://firstcontributions.github.io/#project-list) an.
 
 ### [Zusätzliches Material](../additional-material)
 
