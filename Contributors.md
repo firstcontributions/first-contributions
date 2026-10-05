@@ -6689,3 +6689,4 @@ Jd
 - [noamp09](https://github.com/noamp09) - My first open source conribution (a history made)
 
 - [suryanshasayth936-ux](https://github.com/suryanshasayth936-ux) - My first official contribution in open source.
+- [Ibrahim Dalvi](https://github.com/Dibrahim21) - My first open-source contribution.
