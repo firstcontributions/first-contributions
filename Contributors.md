@@ -3,6 +3,7 @@
 - [Nimesh Kumar Kashyap](https://github.com/Nimesh1205) - Hello! Nimesh Here👋, This is my first open source contribution.
 - [Jai Gupta](https://github.com/JaiG1998) - This is my first contribution to open source.
 - [mutsumidaisuki](https://github.com/mutsumidaisuki) - Hello! This is my first open-source contribution.
+- [harurudev](https://github.com/harurudev) - Hello World!
 - [Abhishek Gautam](https://github.com/abhishekgautam95) - Hello World! This is Abhishek gautam. And this is my firrst open source contribution 😊 . 
 - [Simran Bajaj](https://github.com/simranbajaj06) My first open source contribution😊
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
