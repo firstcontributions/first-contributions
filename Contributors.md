@@ -4381,6 +4381,7 @@ andrewcodess
 - Ashish
 - Vivert S
   Roshni-K6
+- [Eiron Figueroa](https://github.com/aarnfr66)
 - [Heeseong Kim](https://github.com/mors119)
 - [Halil Mert Senturk](https://github.com/halilmertsenturk)
 - [Ron Shigeta](https://github.com/iAccelTech)
