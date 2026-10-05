@@ -6656,6 +6656,7 @@ Jd
 - [Pritika Khandelwal](https://github.com/pritikakhandelwal)
 - [Vinamra Semwal](https://github.com/Vinni1707)
 [Mohammed Rehan](https://github.com/mohammedrehan27)
+- [Muntazir](https://github.com/muntazirl)
 - [mikroskato62](https://github.com/mikroskato62) - Hi :D
 - [Anchal Yadav]
    (https://github.com/Anchal-jpg)
