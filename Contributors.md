@@ -80,6 +80,7 @@ John Doe 2026
 - [studytcmc107-del](https://github.com) - My second commit
 - [avzuh](https://github.com/avzuh)
 - [Owen Schroth](https://github.com/OSchroth) - Hi Github!
+- [Pathum Chinthaka](https://github.com/PathumChinthaka) - My first open-source contribution.
 - [Athith](https://github.com/Athith216)
 - [Will Stewart](https://github.com/stewartwatwit)
 - [Adharsh Narayan](https://github.com/Adharsh75r)
