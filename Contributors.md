@@ -511,7 +511,8 @@ Jainil Chavda
 -[Maira Arshad](https://github.com/Mairaarshad19)
 -Khanh cai dit con me may
 -[V.Sreekanth Reddy](https://github.com/sreekanth50/)
--[teja](https://github.com/veerinateja)
+- [Alex YAO](https://github.com/AlexYaoKbh)
+ -[teja](https://github.com/veerinateja)
 -[Bhargavi](https://github.com/bhargavi414/)
 -[Yash Gupta](https://github.com/Yash122005/)
 -[Rohan Mahanta](https://github.com/rohanmahanta2005-max) 
@@ -6626,7 +6627,6 @@ Jd
 - [cybertingzhen](https://github.com/cybertingzhen) - My first open-source contribution!
 - [raghvendrasingh-01](https://github.com/raghvendrasingh-01) - My first open source contribution
 - [zakkelya](https://github.com/zakkelya) - Hello World!
-- [charlieleexz](https://github.com/charlieleexz)
 - [Spig100](https://github.com/Spig100)
 - [JenYang100989](https://github.com/JenYang891009)
 - [johnjohn1207](https://github.com/johnjohn1207) - first open source ya
@@ -6682,5 +6682,3 @@ Jd
 
 - [Namrata](https://github.com/namratacodes908) - My first open-source contribut
 - [noamp09](https://github.com/noamp09) - My first open source conribution (a history made)
-
-- [suryanshasayth936-ux](https://github.com/suryanshasayth936-ux) - My first official contribution in open source.
