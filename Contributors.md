@@ -74,6 +74,7 @@
 John Doe 2026
 - [swami] (https://github.com/swamisonna006-prog) - hello everyone
 - [Ronak Das](https://github.com/Ron2412) - My First Contribution to Open Source
+- [Sujan Sagar](https://github.com/SUJANSAGAR77)-Beginning of a crazy coders era i am comingggg!!!
 - [Meng Jichang](https://github.com/Mike-ail)
 - [Uday Pratap Singh](https://github.com/Uday-6145) - Hello Everyone
 - [Kaustav5505g](https://github.com/Kaustav5505g)
