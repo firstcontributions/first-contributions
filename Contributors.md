@@ -5200,6 +5200,7 @@ bhumika
 - [Hector Lopez](https://github.com/hector-lh)
 - [Maryam Ishfaq](https://github.com/maryamishfaqqq)
 - [Shashank Mishra](https://github.com/Shashank726-mishra40)
+   - [Shashank Shekhar](https://github.com/Shashank05-87) - My first open-source contribution!
 - [Anisha Garg](https://github.com/anishagarg327)
 - [Ujwal M](https://github.com/itache2002)
 - [Navya Vashishth](https://github.com/Navya2057)
