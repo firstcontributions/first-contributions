@@ -8,14 +8,17 @@
 - [mutsumidaisuki](https://github.com/mutsumidaisuki) - Hello! This is my first open-source contribution.
 - [harurudev](https://github.com/harurudev) - Hello World!
 - [Abhishek Gautam](https://github.com/abhishekgautam95) - Hello World! This is Abhishek gautam. And this is my firrst open source contribution 😊 . 
+- [Rock]
 - [Simran Bajaj](https://github.com/simranbajaj06) My first open source contribution😊
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
 - [Aditya Rai](https://github.com/aditya-rai-5) --hello world!!!
 - [Himanshu Pathak](https://github.com/Himanshu-5680) - Jetzt bin ich auch ein Open-Source-Contributor bei [first-contributions](https://github.com/firstcontributions/first-contributions)!
 - [Karolina Zuber](https://github.com/Platyniak) - Czołem Wszystkim poczatkujacym :fire: :monocle_face: :)
 - [Shivansh Garg](https://github.com/shivansh1251) - Hiii,Bonjour! my first contribution, 4-10-2026
+- [Mazen Mekky](https://github.com/Mazen-Abdelfattah) - My first open-source contribution
 - [Aniket bhardwaj](https://github.com/aniketbhardwajhere-rgb) - Hello there , Aniket bhardwaj this side and the phase of open source contribution starts from today ⚡.
 - [Shaik Mohammad Ameer](https://github.com/Ameer77-tech) - 4-10-2026, First Contribution
+- [loopstation1024](https://github.com/loopstation1024) - 06-10-2026, First Contribution
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
 - [Purvardh Kaushik](https://github.com/Purvardh)
@@ -396,6 +399,7 @@ GSL32
 - [Youssef Emad] (https://github.com/youssef12-gif)
 - [Hayden Filen](https://github.com/haydenfilen)
 - [Bhavya Patel](https://github.com/bhavya8121-spy)
+- [Aryan Singh Salaria](https://github.com/aryansingh42046)
 - [Jeet Shah](https://github.com/jeetshah-410)
 - [Shivam Kumar](https://github.com/shivamkumartech)
 - [Ismail Halawa](https://github.com/ismailhalawa-ctrl) Data Science
@@ -668,6 +672,7 @@ vijyot silare
 - [TaeHo Lee](https://github.com/anton061311)
 - [Miguel R B Reis](https://github.com/MiguelReisB)
 - [Anos999](https://github.com/Anos999)
+- [DerrickWawermuturi](https://github.com/DerrickWawerumuturi)
 - [Mohaddis Khan](https://github.com/mohaddiskhan)
 - [Ali Ejaz](https://github.com/AliEjaz24)
 - [mohammed bilal d](https://github.com/md-bilal-d)
@@ -1842,6 +1847,7 @@ nathan practice here
 - [Pete Barb](https://github.com/DPB22)
 - [Mujtaba](https://github.com/mujtaba1-1)
 - [Jaysen Jondhale](https://github.com/jays3n)
+- [luca andreoli]
 - [jaivik Patoliya] 
 - [Sandip Panigrahi](https://github.com/sandip13579)
 - [Jacob Cherian](https://github.com/JC230903)
@@ -6729,3 +6735,4 @@ Jd
 -[gyd1010](https://github.com/gyd1010)-My first open-source contribution!!!
 
 - [svoid666](https://github.com/svoid666) - My first open-source contribution.
+- [646767661](https://github.com/646767661) - My first open-source contribution, practising the standard fork → branch → pull-request workflow.
