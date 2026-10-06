@@ -472,6 +472,7 @@ GSL32
 - [Madhumitha A](https://github.com/madhu250205)
 - satyrcons
 - [Abirami](https://github.com/Abirami-26)
+- [Yuki Nakano](https://github.com/yuki-nakano-520)
 - [Kwabena Twumasi](https://github.com/angelotheman)
 - [Cid Kagenou](https://github.com/cidkagenou198)
 - [Mateu](https://github.com/mateupac-ux)
