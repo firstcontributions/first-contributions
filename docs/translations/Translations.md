@@ -84,30 +84,29 @@
 | <img alt="Tükmençe" title="Türkmençe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tm.svg" width="22"> | [Türkmençe](README.tm.md) |
 | <img alt="հայերեն" title="հայերեն" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22"> | [հայերեն](README.arm.md) |
 | <img title="Монгол хэл" alt="Монгол хэл" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22"> | [Монгол хэл](README.mn.md) |
-
-* [Assamese](README.assamese.md)
-* [Belarusian](README.be.md)
-* [Colognian](README.col.md)
-* [Ecuadorian Spanish](README.ec.md)
-* [Esperanto](README.eo.md)
-* [Ewe](README.ewe.md)
-* [Filipino](README.fil.md)
-* [Irish](README.ga.md)
-* [Ghanaian](README.gh.md)
-* [Croatian](README.hr.md)
-* [Armenian](README.hy.md)
-* [Khmer](README.kh.md)
-* [Kyrgyz](README.ky.md)
-* [Lingala](README.ln.md)
-* [Luganda](README.lug.md)
-* [Maithili](README.ma.md)
-* [Montenegrin](README.me.md)
-* [Malagasy](README.mg.md)
-* [Maldivian](README.mli.md)
-* [Portuguese (Angola)](README.pt-ao.md)
-* [Sindhi](README.sindhi.md)
-* [Slovak](README.sk.md)
-* [Swahili](README.sw.md)
-* [Setswana](README.tn.md)
-* [Gheg Albanian](README.un-aln.md)
-* [Uzbek](README.uz.md)
+| <img alt="Assamese" title="Assamese" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [Assamese](README.assamese.md) |
+| <img alt="Belarusian" title="Belarusian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22"> | [Belarusian](README.be.md) |
+| <img alt="Colognian" title="Colognian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/de.svg" width="22"> | [Colognian](README.col.md) |
+| <img alt="Ecuadorian Spanish" title="Ecuadorian Spanish" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ec.svg" width="22"> | [Ecuadorian Spanish](README.ec.md) |
+| <img alt="Esperanto" title="Esperanto" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Esperanto.svg" width="22"> | [Esperanto](README.eo.md) |
+| <img alt="Ewe" title="Ewe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tg.svg" width="22"> <img alt="Ewe" title="Ewe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gh.svg" width="22"> | [Ewe](README.ewe.md) |
+| <img alt="Filipino" title="Filipino" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ph.svg" width="22"> | [Filipino](README.fil.md) |
+| <img alt="Irish" title="Irish" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ie.svg" width="22"> | [Irish](README.ga.md) |
+| <img alt="Ghanaian" title="Ghanaian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/gh.svg" width="22"> | [Ghanaian](README.gh.md) |
+| <img alt="Croatian" title="Croatian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/hr.svg" width="22"> | [Croatian](README.hr.md) |
+| <img alt="Armenian" title="Armenian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/am.svg" width="22"> | [Armenian](README.hy.md) |
+| <img alt="Khmer" title="Khmer" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kh.svg" width="22"> | [Khmer](README.kh.md) |
+| <img alt="Kyrgyz" title="Kyrgyz" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kg.svg" width="22"> | [Kyrgyz](README.ky.md) |
+| <img alt="Lingala" title="Lingala" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cd.svg" width="22"> <img alt="Lingala" title="Lingala" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cg.svg" width="22"> | [Lingala](README.ln.md) |
+| <img alt="Luganda" title="Luganda" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ug.svg" width="22"> | [Luganda](README.lug.md) |
+| <img alt="Maithili" title="Maithili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> <img alt="Maithili" title="Maithili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/np.svg" width="15"> | [Maithili](README.ma.md) |
+| <img alt="Montenegrin" title="Montenegrin" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/me.svg" width="22"> | [Montenegrin](README.me.md) |
+| <img alt="Malagasy" title="Malagasy" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mg.svg" width="22"> | [Malagasy](README.mg.md) |
+| <img alt="Maldivian" title="Maldivian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mv.svg" width="22"> | [Maldivian](README.mli.md) |
+| <img alt="Portuguese (Angola)" title="Portuguese (Angola)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ao.svg" width="22"> | [Portuguese (Angola)](README.pt-ao.md) |
+| <img alt="Sindhi" title="Sindhi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/pk.svg" width="22"> <img alt="Sindhi" title="Sindhi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22"> | [Sindhi](README.sindhi.md) |
+| <img alt="Slovak" title="Slovak" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/sk.svg" width="22"> | [Slovak](README.sk.md) |
+| <img alt="Swahili" title="Swahili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tz.svg" width="22"> <img alt="Swahili" title="Swahili" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ke.svg" width="22"> | [Swahili](README.sw.md) |
+| <img alt="Setswana" title="Setswana" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bw.svg" width="22"> | [Setswana](README.tn.md) |
+| <img alt="Gheg Albanian" title="Gheg Albanian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/al.svg" width="22"> <img alt="Gheg Albanian" title="Gheg Albanian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/xk.svg" width="22"> | [Gheg Albanian](README.un-aln.md) |
+| <img alt="Uzbek" title="Uzbek" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/uz.svg" width="22"> | [Uzbek](README.uz.md) |
