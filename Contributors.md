@@ -5549,6 +5549,7 @@ Nici30067
 - [Michael_Tucker](https://github.com/micheal-tucker)
 - [Gaurav Giri Goswami](https://github.com/gaurav-goswamii)
 - [Julien Roussel](https://github.com/JRG22)
+- [Jason Liu](https://github.com/Jason-Liu-SE)
 - [Ayushman Bhardwaj](https://github.com/Ayushman-00)
 - [jinseo-ai](https://github.com/jinseo-ai)
 | Satya Bhargav Teki | [@satyabhargavteki25-sudo](https://github.com/satyabhargavteki25-sudo) | My first ECE contribution! |
@@ -6723,4 +6724,8 @@ Jd
 
 - [Andrii Korotchuk](https://github.com/Andriy29k) - This is my first contribution in open source.
 -[daymylife](https://github.com/daymylife)-My first open-source contribution!
+<<<<<<< HEAD
 - [ItWjf](https://github.com/ItWjf) - 2026-10-06 My first open-source contribution!
+=======
+-[gyd1010](https://github.com/gyd1010)-My first open-source contribution!!!
+>>>>>>> main
