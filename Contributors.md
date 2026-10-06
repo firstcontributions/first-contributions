@@ -102,6 +102,7 @@ John Doe 2026
 - [A1Lab](https://github.com/mahmad786-cloud/a1lab-learning-resources) - Free Interactive Learning Resources & Courses
 [hercules5564] https://github.com/hercules5564
 - [Krishival](https://github.com/krishival09)
+- [fergomes76](https://github.com) - My first open source contribution!
 - [Mohitha G](https://github.com/Mohitha-Gm) - My first One! Gotta do more contibutions from now on.
 - [saveitinstant.site] (YouTube Thumbnail Downloader)
 new change
