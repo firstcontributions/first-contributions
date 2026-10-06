@@ -2516,6 +2516,7 @@ Jim Bollinger
 - [JGGY521 ](https://github.com/JGGY521)
 - [pH-1491](https://github.com/pH-1491/first-contributions)
 - [Hamza Haji](https://github.com/HMZ-H)
+- minwoolee
 - [Shambhavi Singh](https://github.com/Shambhavigith)
 - [Krishna Vijaywargiya](github.com/v-krishna07)
 - [Srujan Kumar](https://github.com/SrujanNampally)
