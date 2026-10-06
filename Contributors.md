@@ -668,6 +668,7 @@ vijyot silare
 - [TaeHo Lee](https://github.com/anton061311)
 - [Miguel R B Reis](https://github.com/MiguelReisB)
 - [Anos999](https://github.com/Anos999)
+- [DerrickWawermuturi](https://github.com/DerrickWawerumuturi)
 - [Mohaddis Khan](https://github.com/mohaddiskhan)
 - [Ali Ejaz](https://github.com/AliEjaz24)
 - [mohammed bilal d](https://github.com/md-bilal-d)
