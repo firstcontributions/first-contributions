@@ -3344,6 +3344,7 @@ andrewcodess
 - [Jeev Dharshan](https://github.com/Jeev4i)
 - [Thanksman](https://github.com/jupitermhl-cloud) - Hello from Korea! My first open-source contribution.
 - [Jesse Wu](https://github.com/Gungnir-01)
+- [Mantaka Mahir](https://github.com/MantakaMahir)
 - [mtedium](https://github.com/mtedium)
 - [Jeo](https://github.com/jeomarisaez)
 - [Jeff Chiang](https://github.com/FuJen0980)
