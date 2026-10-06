@@ -62,6 +62,7 @@
 - [Orkun Olcal](https://orkunolcal.github.io/) - Hello World!
  add-lury
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
+- [Venkata VigneshA](https://github.com/vigneshtryingtobebetter) - Hello, My first starting point to my open-source journey hoping to do better
 - [orignlkartik1](https://github.com/orignlkartik1) - Hello,friends! My first open-source contribution!
 -[Joya]: hello,this is my first open source contribution!
 - [amalsunny-cloud] (https://github.com/amalsunny-cloud) - Hello Everyone, This is my first open-source contribution.
