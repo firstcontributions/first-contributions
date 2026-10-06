@@ -6735,6 +6735,9 @@ Jd
 
 -[CHM585](https://github.com/CHM585)-My first open-source contribution!
 
+ add-khaled
+- [Khaled-7J](https://github.com/Khaled-7J)
+
 -[Marcelo Ramirez](https://github.com/ramirez-mj)-Mi primera contribucion codigo abierto!!!
    [Arshiya Shaik](https://github.com/arshiya7777)
 
@@ -6746,3 +6749,4 @@ Jd
 - [646767661](https://github.com/646767661) - My first open-source contribution, practising the standard fork → branch → pull-request workflow.
 - [Jakob Žagar](https://github.com/jakobzagar)
 - [Tahmina Khanam](https://github.com/TahminaKhanNipa10-Codes)
+ main
