@@ -6695,7 +6695,7 @@ Jd
 -[ps] - Hello World!
 - [Baha](https://github.com/YngJesus) - My first open-source contribution
 -[Kunal_net]
-
+-[Chuckcha1] (https://github.com/Chuckcha1) - My first public contribution!
 [Diya](https://github.com/msdiya11223344-coder)
 - [Aditi Bhagat](https://github.com/aditi-0926) - My first open source contribution!
 - [git17-hub](https://github.com/git17-hub) - My first open-source contribution!
