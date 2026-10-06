@@ -1844,6 +1844,7 @@ nathan practice here
 - [Pete Barb](https://github.com/DPB22)
 - [Mujtaba](https://github.com/mujtaba1-1)
 - [Jaysen Jondhale](https://github.com/jays3n)
+- [luca andreoli]
 - [jaivik Patoliya] 
 - [Sandip Panigrahi](https://github.com/sandip13579)
 - [Jacob Cherian](https://github.com/JC230903)
