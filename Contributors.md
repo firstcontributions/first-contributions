@@ -3267,6 +3267,7 @@ andrewcodess
 - [German Morelli](https://github.com/GermanMorelli)
 - [Ghosty33](https://github.com/ghostyaq)
 - [Giorgio Bellia](https://github.com/GiorgioBellia)
+- [Leo Carroll](https://github.com/Leo-Carroll)
 - [Gisele Medina](https://github.com/code-medina)
 - [Gladwin Ly](https://github.com/gladwin-ly)
 - [Glen Reynolds](https://github.com/glenr37)
