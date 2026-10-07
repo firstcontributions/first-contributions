@@ -279,6 +279,7 @@ Arc hie Boswelll
 - Jorge Fuentes
 - Anisse Assane
 -[Tenzing Gyalpo Tamang](https://github.com/Tachhen)
+-[KishanJungi](https://github.com/kishanjungi)
 - [Adrita Bhowmik](https://github.com/adrita-dev404)
 - [Bol Bol](https://github.com/boyib9090k-prog) Enjoying
 - [Jess Hosfelt](https://github.com/JessH0516) My first open-source contribution!
