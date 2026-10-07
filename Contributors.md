@@ -93,6 +93,7 @@ John Doe 2026
 - [Sujan Sagar](https://github.com/SUJANSAGAR77)-Beginning of a crazy coders era i am comingggg!!!
 - [Meng Jichang](https://github.com/Mike-ail)
 - [Uday Pratap Singh](https://github.com/Uday-6145) - Hello Everyone
+- [Renan Verissimo](https://github.com/ReVerissimo) - This is my first contribution to open source.
 - [Kaustav5505g](https://github.com/Kaustav5505g)
 - - this is the beggining of my open source journey!
 - [Aradhys](https://github.com/aradhys/)
