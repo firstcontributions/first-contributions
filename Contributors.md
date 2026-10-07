@@ -1,4 +1,6 @@
-``
+- [Neha Sawant](https://github.com/nehasawant99)``That my first open contribution on github
+- [Abdullah Bin Nasir](https://github.com/SheikhAbdullahNasir) -- Hi!, starting my open-source contribution journey from here
+- [Nguyen Dang Hoang Long](https://github.com/Nguyen-Dang-Hoang-Long) -- YOOOOOO my first Open-Source Contribution (value to world == 0 BUT WHO CARES BABYYY
 - [Sarath Kumar Navarajan](https://github.com/nsarathk) -- Hello world !!
 - [Francois Saint Jean](https://github.com/K3YB04RD-w4rri0r) -- Heyaaaaaaaaaa !!
 -[HRSH](https://github.com/hrshalive-potato) -- Watashi 
@@ -6775,3 +6777,5 @@ Jd
 - [lizao1022](https://github.com/lizao1022)
 - [Vieta100-omo](https://github.com/Vieta100-omo)-Hi! Nice to meet you on the list.
 - [ST120](https://github.com/cpnchauffeur-sudo) -- Hello! This is my first open-source contribution.
+- [kashishs2310](https://github.com/kashishs2310)
+- [LakshmiPriya006](https://github.com/LakshmiPriya006/first-contributions.git)
