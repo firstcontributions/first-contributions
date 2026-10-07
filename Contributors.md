@@ -668,6 +668,7 @@ vijyot silare
 - [Ali Wael Mohamed Ali](https://github.com/Ali-w908)
 - [Arda Aras Çavdur](https://github.com/Arda-Aras103)
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
+- - [rauxxen](https://github.com/rauxxen) - My first open-source contribution!
 - [Veeradev](https://github.com/Cveerababu15)
 - [Nashiru Muniru] (https://github.com/nashtgc)
 - [Fahidul Islam Taspi](https://github.com/taspuu)
