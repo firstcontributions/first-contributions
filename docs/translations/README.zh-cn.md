@@ -5,7 +5,8 @@
 
 # 第一次参与开源项目
 
-万事开头难。特别是和其他人合作时，出错往往会令人不适。不过，开源的本质就是和他人合作。这个项目的初衷就是为初学者提供一个简单的方法去学习以及参与开源项目。
+万事开头难。尤其是和他人协作时，出错难免让人感到不适。不过开源的本质就是协作，本项目旨在为初学者提供简单的途径，学习并参与开源项目。
+
 
 你可以通过阅读文章和观看教程来得到帮助，但上手实操才是最好的学习方式。本项目旨在简化并指导初学者参与他们的第一次开源。记住：过程越轻松，学习效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。这将会是一个很有趣的过程 :)
 
@@ -144,7 +145,7 @@ git push -u origin <新分支的名称>
 
 如果你想进行更多练习，请查看 [code contributions](https://github.com/roshanjossey/code-contributions)。
 
-接下来，让我们带你开始参与到其他项目中来。我们整理了一份包含一些简单入门问题的项目清单，方便你快速上手。请查看这个 [项目清单](https://firstcontributions.github.io/#project-list)。
+接下来，我们带你参与其他开源项目。我们整理了一份带有简单入门任务的项目清单，方便你快速上手，请查看这个 [项目清单](https://firstcontributions.github.io/#project-list)。
 
 ### [附加材料](../additional-material/git_workflow_scenarios/additional-material.md)
 
