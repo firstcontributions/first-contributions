@@ -169,6 +169,7 @@ Rahul Aggarwal
 - [Manish Yadav](https://github.com/manishY-iitm)
 - [Rueee820](https://github.com/Rueee820)
 - [Adeleloff](https://github.com/Adeleloff)
+- [Dylan Hodgson](https://github.com/dhodgson615)
 - [Sushant Soni](https://github.com/2k24cs1p2410210-cmd)
 - [Aditi Patil](https://github.com/AditiPatil31)
 - [Raj Paramanik](https://github.com/rajparamanik)-First Contribution-hello world!
