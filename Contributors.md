@@ -3314,6 +3314,7 @@ andrewcodess
 - [Ignvvcio254](https://github.com/Ignvvcio254)
 - [Ihsanullah Lemar](https://github.com/ihsanlemar-blip)
 - [Ingeborg Marie Lende](https://github.com/IngeborgMarieLende)
+- [Jonathan O'Neal](https://github.com/jdoneal2)
 - [ImLUJM](https://github.com/ImLUJM)
 - [Imane](https://github.com/kimaneeee00-gif)
 - [Indranil Roy](https://github.com/nilreflects)
