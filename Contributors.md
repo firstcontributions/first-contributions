@@ -6780,4 +6780,9 @@ Jd
 - [Vieta100-omo](https://github.com/Vieta100-omo)-Hi! Nice to meet you on the list.
 - [ST120](https://github.com/cpnchauffeur-sudo) -- Hello! This is my first open-source contribution.
 - [kashishs2310](https://github.com/kashishs2310)
+<<<<<<< HEAD
+- [LakshmiPriya006](https://github.com/LakshmiPriya006/first-contributions.git)
+-[Nihalpandey1308](https://github.com/Nihalpandey1308) - Hello! this is Nihal 
+=======
 - [MahmoudAsadi97](https://github.com/MahmoudAsadi97) -- Hello! my first open-source contribution leading to the most advancement in human kind!(I am being honest)
+>>>>>>> upstream/main
