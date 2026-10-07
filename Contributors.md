@@ -6781,3 +6781,4 @@ Jd
 - [ST120](https://github.com/cpnchauffeur-sudo) -- Hello! This is my first open-source contribution.
 - [kashishs2310](https://github.com/kashishs2310)
 - [LakshmiPriya006](https://github.com/LakshmiPriya006/first-contributions.git)
+-[Nihalpandey1308](https://github.com/Nihalpandey1308) - Hello! this is Nihal 
