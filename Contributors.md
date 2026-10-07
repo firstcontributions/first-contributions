@@ -6782,3 +6782,8 @@ Jd
 - [ST120](https://github.com/cpnchauffeur-sudo) -- Hello! This is my first open-source contribution.
 - [kashishs2310](https://github.com/kashishs2310)
 - [MahmoudAsadi97](https://github.com/MahmoudAsadi97) -- Hello! my first open-source contribution leading to the most advancement in human kind!(I am being honest)
+
+-[Yuvika](https://github.com/Yuvika08G) --
+Hello ALL, This is my firts contribution towrads we development , hope to get into GSOC
+Trying to learn new things 
+
