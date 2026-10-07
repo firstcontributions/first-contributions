@@ -17,6 +17,7 @@
 - [Simran Bajaj](https://github.com/simranbajaj06) My first open source contribution😊
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
 - [Aditya Rai](https://github.com/aditya-rai-5) --hello world!!!
+- - [Raushan Kumar](https://github.com/anurohan) - My first open-source contribution!
 - [Himanshu Pathak](https://github.com/Himanshu-5680) - Jetzt bin ich auch ein Open-Source-Contributor bei [first-contributions](https://github.com/firstcontributions/first-contributions)!
 - [Karolina Zuber](https://github.com/Platyniak) - Czołem Wszystkim poczatkujacym :fire: :monocle_face: :)
 - [Shivansh Garg](https://github.com/shivansh1251) - Hiii,Bonjour! my first contribution, 4-10-2026
