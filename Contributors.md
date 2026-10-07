@@ -6771,3 +6771,4 @@ Jd
 - [_tanmaya-os-odisha]
 - [lizao1022](https://github.com/lizao1022)
 - [Vieta100-omo](https://github.com/Vieta100-omo)-Hi! Nice to meet you on the list.
+- [ST120](https://github.com/cpnchauffeur-sudo) -- Hello! This is my first open-source contribution.
