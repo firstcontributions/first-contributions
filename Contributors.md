@@ -6800,3 +6800,4 @@ add-Testing
 -[Vikas MV](https://github.com/Vikasmv2007/first-contributions)- Hey! This is my first open source contribution
 -main
 - [Goutam Powar](https://github.com/Powar-Goutxm) - Majo pailo open source contribution - Goa
+-[Ashmit Verma](https://github.com/ash0124-raze) - Bonjour!! my first open source
