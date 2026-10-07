@@ -6798,3 +6798,5 @@ add-Testing
   main
 - [Vidushi Kochhar](https://github.com/vidushikochharug24-sud) - hey! this is my first open source contribution
 -[Vikas MV](https://github.com/Vikasmv2007/first-contributions)- Hey! This is my first open source contribution
+-main
+- [Goutam Powar](https://github.com/Powar-Goutxm) - Majo pailo open source contribution - Goa
