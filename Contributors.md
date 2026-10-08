@@ -28,6 +28,7 @@ Mahisha K
 - [Teja Sree Dasoju](https://github.com/Tejasree731) - HeyLooo!!
 - [Jai Gupta](https://github.com/JaiG1998) - This is my first contribution to open source.
 - [anabau2017-max](https://github.com/anabau2017-max) - Hello! This is my first open-source contribution.
+- [Mohammad Amaan Bhat](https://github.com/Friedayy) - Hello! This is my first open-source contribution.
 - [kunaal] (https://github.com/kunaalxoxo/first-contributions.git)
 - [Aayush Maharjan] (https://github.com/Aayush99910) - Hello! This is my first open-source contribution. First of many and I am motivated to do more!
 adrian ccoicca
