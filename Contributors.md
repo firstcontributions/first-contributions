@@ -25,6 +25,7 @@ adrian ccoicca
 - [Kunal] (https://github.com/Kunal988-gif) ``First contribution😭🙏
 - [Abhishek Gautam](https://github.com/abhishekgautam95) - Hello World! This is Abhishek gautam. And this is my firrst open source contribution 😊 . 
 - [Rock]
+- # Hey, so excited to make my first contribution- Girisha-https://github.com/Girisha1908/❤️😊
 - [Ugwunweze Eze C.](https://github.com/ChidiebubeUgwunweze) Hi future 👋😊. This is my first Open Source Contribution. 
 - [Simran Bajaj](https://github.com/simranbajaj06) My first open source contribution😊
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
