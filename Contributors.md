@@ -411,6 +411,7 @@ GSL32
 - [dabidai](https://github.com/dabidai) First Contribution :)
 - Rajesh Shivarama
 --AbhinavGS
+- [Raffaele Cocucci](https://github.com/rcocucci649)
 - [Aamir Jamadar](https://github.com/AamirJamadar)
 - [Jhordano](https://github.com/Jhordancito)
 - [Anish](https://github.com/anish5671)
