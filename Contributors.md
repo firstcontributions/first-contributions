@@ -3391,6 +3391,7 @@ andrewcodess
 - [J-K-Yuan](https://github.com/J-k-yuan)
 - [JASP-R](https://github.com/JASP-R)
 - [JJS](https://github.com/jsng23)
+- [Tanisha-Dhiman](https://github.com/Tanisha800)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
 - [Jahnavi Kareti](https://github.com/jahnavi-kareti)
 - [Jacoy yu](https://github.com/meloer101)
