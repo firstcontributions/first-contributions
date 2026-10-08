@@ -10,6 +10,7 @@
 - [Francois Saint Jean](https://github.com/K3YB04RD-w4rri0r) -- Heyaaaaaaaaaa !!
 -[HRSH](https://github.com/hrshalive-potato) -- Watashi 
 - [Bhavy Ranka](https://github.com/Bhavy-Ranka) - Hello World!!
+- [Shachita](https://github.com/shachita05) -- Hello!!this is  my first open contribution
 - [kalvin Osoro] (https://github.com/kalvin-osoro) - Feel free to reach aout and follow me. Happy to work on projects together
 - [pgauravparashar](https://github.com/pgauravparashar) -- Hello! This is my first open-source contribution.
 - [Nimesh Kumar Kashyap](https://github.com/Nimesh1205) - Hello! Nimesh Here👋, This is my first open source contribution.
