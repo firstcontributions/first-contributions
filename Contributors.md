@@ -188,6 +188,7 @@ B05U3-
 -[Gopika Harshitha](https://github.com/Gopi-0707-eng)-First Contribution!
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
+- [Ryan]
 - [Pratham Joseph]
 - [Prakhar Shakya]
 - [Vivek Agrawal](https://github.com/VivekAgrawal10)
