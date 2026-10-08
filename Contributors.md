@@ -21,6 +21,7 @@
 Mahisha K
 - Khuslen Tsedenbal FIRST CONTRIBUTION
 - [Blaise Massa](https://github.com/massa-ngl) — Just a tech.
+- [Teja Sree Dasoju](https://github.com/Tejasree731) - HeyLooo!!
 - [Jai Gupta](https://github.com/JaiG1998) - This is my first contribution to open source.
 - [anabau2017-max](https://github.com/anabau2017-max) - Hello! This is my first open-source contribution.
 - [kunaal] (https://github.com/kunaalxoxo/first-contributions.git)
