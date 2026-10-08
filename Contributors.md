@@ -47,6 +47,7 @@ adrian ccoicca
 - [loopstation1024](https://github.com/loopstation1024) - 06-10-2026, First Contribution
 - [Shourya Chauhan](https://github.com/Lethargic-Lion) - 07-10-2026, First Contribution
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
+- [William](https://github.com/aglish) - 08-10-2026, First Contribution day 1 all the way.
 - [zhang](https://github.com/zhangjinchi0013/first-contribution) - My first Open-Source contribution. Let's start the journey.
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
 - [Purvardh Kaushik](https://github.com/Purvardh)
