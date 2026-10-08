@@ -6847,3 +6847,4 @@ add-Testing
 -[Reeti Gupta](https://github.com/reetig) - First oss contribution , thanks to codess cohort 8!
 -[Saksham Nilajkar](https://github.com/saks635/first-contributions)- Hey! This is my first open source contribution
 - [Taner Kaynar](https://github.com/tanerkaynar) - Hello World!
+- [Ignacio Montero Gil](https://github.com/iggykimi) - ¡Hola desde Zaragoza! Data scientist & AI engineer.
