@@ -1030,6 +1030,7 @@ siddhu
 - [Tushar Gupta](https://github.com/tushar-G-8572)
  - [harish](https://github.com/vharish1701-creator/first-contributions.git)
 - [Swanand salwe] (https://github.com/swanand-salwe/first-contributions.git)
+- [Randy Sam](https://github.com/RandySam) -- Hello, let's contribute together!!!
 - [Jawad Noori](https://github.com/Jawadnoori1718)
 -[Meher](https://github.com/Meher38)
 - [amdeldacc]
