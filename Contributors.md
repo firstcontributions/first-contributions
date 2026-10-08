@@ -6822,3 +6822,4 @@ add-Testing
 - [Сергей](https://github.com/19serg58-tech)
 -[Prathamesh-checks]-my first open source contribution
 - [Trafikk&a](https://github.com/trafik9300-pixel)
+- [Hana Solomon](https://github.com/hanasolomon86-jpg) - Hello world! Excited for my first open-source contribution! 😊
