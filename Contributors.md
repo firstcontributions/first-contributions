@@ -6823,3 +6823,4 @@ add-Testing
 -[Prathamesh-checks]-my first open source contribution
 - [Trafikk&a](https://github.com/trafik9300-pixel)
 - [Hana Solomon](https://github.com/hanasolomon86-jpg) - Hello world! Excited for my first open-source contribution! 😊
+-[Reeti Gupta](https://github.com/reetig) - First oss contribution , thanks to codess cohort 8!
