@@ -10,6 +10,7 @@
 - [pgauravparashar](https://github.com/pgauravparashar) -- Hello! This is my first open-source contribution.
 - [Nimesh Kumar Kashyap](https://github.com/Nimesh1205) - Hello! Nimesh Here👋, This is my first open source contribution.
 - [Kvin]
+Mahisha K
 - [Blaise Massa](https://github.com/massa-ngl) — Just a tech.
 - [Jai Gupta](https://github.com/JaiG1998) - This is my first contribution to open source.
 - [anabau2017-max](https://github.com/anabau2017-max) - Hello! This is my first open-source contribution.
