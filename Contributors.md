@@ -6763,9 +6763,9 @@ Jd
 - [tanya saini](https://github.com/tanya88) - My first contribution
 - [Seyoung Park](https://github.com/parkseyoung1215-netizen)
 - [Rohan Prasen Kedari](https://github.com/rohan-prasen) - Contributing for fun :D
-  - [Shriya Madgula](https://github.com/shriyamadgula29) - First GIT Pushhh :D
-  
+- [Shriya Madgula](https://github.com/shriyamadgula29) - First GIT Pushhh :D
 - [DARPrA2908](https://github.com/DARPrA2908) - My first open-source contribution!
+- [smallishbat](https//github.com/smallishbat) - "I have not failed. I have simply found 1000 ways that won't work." ~Thomas Edison
 - [Doni Leong](https://github.com/donileong) - Hello world!
 - [Michail Cheklin](https://github.com/michailcheklin/) - Thank you for providing a training place to understand and try out the GitHub open source contribution workflow.
 - [nandisneha20005-max](https://github.com/nandisneha20005-max)
