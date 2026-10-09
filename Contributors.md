@@ -706,6 +706,7 @@ vijyot silare
 [Deep Jagtap](https://github.com/deepjagtap11)
 - Davide
 - Jacopo
+- [Fazlullah] (https://github.com/fazlullah96)
 - [Xaek-08] (https://github.com/xaek-08)
 - [Kritika Vikram](https://github.com/melsparrow)
 - [Lancelot](https://github.com/ayushhchavhan-bot)
