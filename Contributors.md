@@ -1096,6 +1096,7 @@ siddhu
 [Anita Demo 814]
 - [RFangelo]
 - Dhruv Shetty
+- Devender Reddy (I am ready)
 -[nikhil](https://github.com/nikhilkyumar)
 - [Akhtar Ali] (https://github.com/Akhtar-tech786)
 [Evan 0818]
