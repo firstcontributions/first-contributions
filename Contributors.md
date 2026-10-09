@@ -1,4 +1,5 @@
 -[suchal](https://github.com/saisuchal/first-contributions)
+-[Sampreeti Ghosh](https://github.com/sampreetialive/first-contributions.git)- My first contribution to the open source world
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
 -[Praveen gandikota](https://github.com/PraveenGandikota/first-contributions)
