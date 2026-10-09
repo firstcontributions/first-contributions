@@ -1,5 +1,6 @@
 -[bmscomp](https://bmscomp.github.io)
 -[suchal](https://github.com/saisuchal/first-contributions)
+-[Sampreeti Ghosh](https://github.com/sampreetialive/first-contributions.git)- My first contribution to the open source world
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
 -[Ajay Kumar](https://github.com/AjRana09/first-contributions-demo)
