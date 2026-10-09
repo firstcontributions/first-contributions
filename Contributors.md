@@ -4025,6 +4025,7 @@ andrewcodess
 - [Samuel Cardoso](https://github.com/samuellcardoso)
 - [Samuel Hill](https://github.com/Sam-Hill69) I hope you have a great day!
 - [Samuel Mueses](https://github.com/Samxss)
+- [Samuel Schill](https://github.com/sstech02)
 - [Samuel Wright](samw46)
 - [Rishab Nagota](https://github.com/nagotarishab)
 - [Sanchita Gupta](https://github.com/SanchitaGupta7)
