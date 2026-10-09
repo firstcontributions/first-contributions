@@ -1,7 +1,8 @@
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 - [Aashna Anand](https://github.com/Aashna-Anand)
 - [pplehanov161-star](https://github.com/pplehanov161-star) - My first open source contribution!
--[Nikhil](https://github.com/NIKHIL2K5/first-contributions.git) - 👨‍💻 Here is my contribution to the open source world 
+-[Nikhil](https://github.com/NIKHIL2K5/first-contributions.git) - 👨‍💻 Here is my contribution to the open source world
+-[Arpita Samanta] 
 - [Uzair khan <img title="India" alt="India" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">](https://github.com/lohith889) - # 🚀 The Ultimate Open Source Journey has has begun with thiis beautiful quote  ```One serious start can erase years of delay.``` 
  
 -[vyshnavi](https://github.com/Vyshnavi2026/first-contributions.git)
