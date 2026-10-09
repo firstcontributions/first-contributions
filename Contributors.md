@@ -5770,6 +5770,7 @@ Adarsh
 - [Rafael de Moraes](https://github.com/advrafaeldemoraes-cell)
 - [Shivani Alajingi](https://github.com/shivanialajingi-prog)
 - [AlbertJesu10](https://github.com/AlbertJesu10)
+- [Manohar Kota](https://github.com/manoharkota1)
 - [yorkyang2333](https://github.com/yorkyang2333)
 - [Fabian Graef](https://github.com/fabiangraef001-wq)
 - [Maroyan Putros](https://github.com/maroyanp)
@@ -6873,7 +6874,8 @@ add-Testing
 - [Ignacio Montero Gil](https://github.com/iggykimi) - ¡Hola desde Zaragoza! Data scientist & AI engineer.
 - [ace-cat](https://github.com/ace-cat) - My first open source contribution! 第一次参与开源。
 - [Savit21](https://github.com/Savit21) - Hello world 2026-10-09
-
+- [Veer Shah](https://github.com/veershah90210-alt/)- first open source lessgo 09/10/2026
 - [ace-cat](https://github.com/ace-cat) - My second contribution! 
 - [Amogh Kashyap](https://github.com/amoghkashyap1427) - My First Contribution....YAYY!!
--[Arsenii Morozov](https://github.com)
+-[Arsenii Morozov](https://github.com) This is my first contribution
+- [Burak Dutar] (https://github.com/burakdutar) - open source yesss
