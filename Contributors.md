@@ -646,7 +646,7 @@ github.com/zeeshan2266
 - Umair Ashraf
 - [Abdelillah CHIKH](https://github.com/abdelillahx9)
 - [Abhishek Dixit](https://github.com/Abhi2oo3)
-- [Tiffany Biggs](https://github.com/jamathdoc)
+- [bhuvanvishal](https://github.com/jamathdoc)
 - [AaronRoggenland](https://github.com/Tryndaron)
 - [Rushikesh Rathod](https://github.com/rushirathod22)
 - [Aryan Shivhare](https://github.com/aryanshivhare62)
