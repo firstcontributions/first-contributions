@@ -29,6 +29,7 @@
 - [Nimesh Kumar Kashyap](https://github.com/Nimesh1205) - Hello! Nimesh Here👋, This is my first open source contribution.
 - [Kvin]
 Mahisha K
+- [Lohithnath](https://github.com/Lohithnath2910) - Hi y'all, this is my first contribution!!
 - [Manu Bhardwaj](https://github.com/dranzerrrr) - Hi! Starting off with my first open source contribution. Would be starting contribute more and more.
 - Khuslen Tsedenbal FIRST CONTRIBUTION
 - [Blaise Massa](https://github.com/massa-ngl) — Just a tech.
