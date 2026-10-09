@@ -5768,6 +5768,7 @@ Adarsh
 - [Sumin Lee](https://github.com/leesuminmin2116-pixel)
 - [Moh. Zainur Rozy](https://github.com/Xeerodev)
 - [Rafael de Moraes](https://github.com/advrafaeldemoraes-cell)
+- [Shivani Alajingi](https://github.com/shivanialajingi-prog)
 - [AlbertJesu10](https://github.com/AlbertJesu10)
 - [yorkyang2333](https://github.com/yorkyang2333)
 - [Fabian Graef](https://github.com/fabiangraef001-wq)
