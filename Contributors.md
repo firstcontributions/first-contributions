@@ -1,4 +1,5 @@
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
+-[Praveen gandikota](https://github.com/PraveenGandikota/first-contributions)
 - [Aashna Anand](https://github.com/Aashna-Anand)
 - [pplehanov161-star](https://github.com/pplehanov161-star) - My first open source contribution!
 -[Nikhil](https://github.com/NIKHIL2K5/first-contributions.git) - 👨‍💻 Here is my contribution to the open source world 
