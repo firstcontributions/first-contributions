@@ -6862,3 +6862,4 @@ add-Testing
 - [ace-cat](https://github.com/ace-cat) - My first open source contribution! 第一次参与开源。
 - [Savit21](https://github.com/Savit21) - Hello world 2026-10-09
 
+- [ace-cat](https://github.com/ace-cat) - My second contribution! 
