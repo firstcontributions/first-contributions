@@ -52,6 +52,7 @@ adrian ccoicca
 - [Mazen Mekky](https://github.com/Mazen-Abdelfattah) - My first open-source contribution
 - [Aniket bhardwaj](https://github.com/aniketbhardwajhere-rgb) - Hello there , Aniket bhardwaj this side and the phase of open source contribution starts from today ⚡.
 - [Tizih Mark-PrinceWill](https://github.com/TIZIHMARKP) - Hello! Bonjour! Hola! This is my first open-source contribution. Computer engineering student specializing in backend development and I'm inpired to do more. I'm open for connections 🦅 ***06-10-2026***
+- [SHREY JHA]- My first open contribution lets see how it goes . my linkedin to connect https://www.linkedin.com/in/shrey-jha-/
 - [Shaik Mohammad Ameer](https://github.com/Ameer77-tech) - 4-10-2026, First Contribution
 - [loopstation1024](https://github.com/loopstation1024) - 06-10-2026, First Contribution
 - [Shourya Chauhan](https://github.com/Lethargic-Lion) - 07-10-2026, First Contribution
