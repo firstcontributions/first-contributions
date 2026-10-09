@@ -62,6 +62,7 @@ Migeen Magar - let'sss gooooooo
 - [Aditya Rai](https://github.com/aditya-rai-5) --hello world!!!
 - - [Raushan Kumar](https://github.com/anurohan) - My first open-source contribution!
 - [Himanshu Pathak](https://github.com/Himanshu-5680) - Jetzt bin ich auch ein Open-Source-Contributor bei [first-contributions](https://github.com/firstcontributions/first-contributions)!
+- [Guilherme Canina](https://github.com/GuilhermeCanina) - Olaaa, minha primeira contribuicao, quero entender e melhorar 
 - [Karolina Zuber](https://github.com/Platyniak) - Czołem Wszystkim poczatkujacym :fire: :monocle_face: :)
 - [Shivansh Garg](https://github.com/shivansh1251) - Hiii,Bonjour! my first contribution, 4-10-2026
 - [Manmohit Bisht](https://github.com/manmohit-bisht) - Hello, my first open source contribution !!
