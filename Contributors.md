@@ -5,6 +5,7 @@
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
 Im Fabio Uvinha
+- [Kaustubh](https://github.com/KaustubhChattar)
 -[Ajay Kumar](https://github.com/AjRana09/first-contributions-demo)
 -[Abdishakur](https://github.com/abdishakur700/first-contributions.git)
 -[Praveen gandikota](https://github.com/PraveenGandikota/first-contributions)
