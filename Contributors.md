@@ -521,6 +521,7 @@ GSL32
 - [Kim-202](https://github.com/Kim-202)
 - [Ahmad Fouad](https://github.com/a-adel-dev)
 - [Mamadou Sow](https://github.com/matpromax8-hue)
+- [SK SK](https://github.com/sravanthik1-crypto)
 - [Ketul Makwana](https://github.com/ktul15)
 - [Agustín Ré](https://github.com/AgusRe)
 - [Manish Mani Dinkar](https://github.com/moneyyiiss)
@@ -6943,4 +6944,9 @@ add-Testing
 - [Trinabh Mitra](https://github.com/trinabh12)
 - [Pradesha P](https://github.com/PradeshaP)
 - [RomanP27](https://github.com/RomanP27) - Fly me to the moon.. - Rei Ayanami.
-- [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions- [abhijeetfokmare](https://github.com/abhijeetfokmare)
+- [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions
+- [abhijeetfokmare](https://github.com/abhijeetfokmare)
+- [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions
+- [igorsilvawinning](https://github.com/igorsilvawinning)
+- [Pintu Kumar](https://github.com/pintukumaryadavji)
+main
