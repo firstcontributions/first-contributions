@@ -109,6 +109,7 @@ Migeen Magar - let'sss gooooooo
 - [Ben Hasteen B](https://github.com/humidyfier)- Hey, people! how y'll doing good!! lets connect, reach me out in instagram: Benhasteen10!!!
 - [josueisabelm-art](https://github.com/josueisabelm-art) - ¡Hola! Mi primera contribución open source.
 - [Soumen](https://github.com/soumen-tech) - Hello! This is my first open-source contribution!
+- [Akash Roy](https://github.com/royspaceship) - My first open-source contribution!
 - [itigo0802](https://github.com/itigo0802) - My first open-source contribution!
 - [Andrii Balan] (https://github.com/andriibalan) - Hello everyone (This is my start in Open Source)
 - [NamanTiwari](https://github.com/namantiwari26) - Hello! This is my first open-source contribution!
