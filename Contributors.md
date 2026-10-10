@@ -40,6 +40,7 @@ Hi myself Anish A R this is my first contribution. Lets see where life takes me 
 - [Nguyen Dang Hoang Long](https://github.com/Nguyen-Dang-Hoang-Long) -- YOOOOOO my first Open-Source Contribution (value to world == 0 BUT WHO CARES BABYYY
 - [BlueLi66](https://github.com/BlueLi66) -- Hello! my first open-source contribution.
 - [Sarath Kumar Navarajan](https://github.com/nsarathk) -- Hello world !!
+- [David Cruz] (https://github.com/aledash3)
 -[Yazmin Lopez-Munoz](https://github.com/yazmlop) -- First contribution :D
 - [Francois Saint Jean](https://github.com/K3YB04RD-w4rri0r) -- Heyaaaaaaaaaa !!
 -[HRSH](https://github.com/hrshalive-potato) -- Watashi 
