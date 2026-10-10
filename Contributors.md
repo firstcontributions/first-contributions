@@ -1,3 +1,4 @@
+-[cucumba44](https://github.com/cucumba44/first-contributions)
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
 -[bmscomp](https://bmscomp.github.io)
 -[pan-nie](https://github.com/pan-nie)I am ready to get rid of AI.
