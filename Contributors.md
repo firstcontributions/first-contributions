@@ -6941,3 +6941,4 @@ add-Testing
 - [Trinabh Mitra](https://github.com/trinabh12)
 - [Pradesha P](https://github.com/PradeshaP)
 - [RomanP27](https://github.com/RomanP27) - Fly me to the moon.. - Rei Ayanami.
+- [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions
