@@ -34,6 +34,7 @@ Im Fabio Uvinha
 -[Yazmin Lopez-Munoz](https://github.com/yazmlop) -- First contribution :D
 - [Francois Saint Jean](https://github.com/K3YB04RD-w4rri0r) -- Heyaaaaaaaaaa !!
 -[HRSH](https://github.com/hrshalive-potato) -- Watashi 
+- [Amey Bobade](https://github.com/Amey-0806) - First PR, many more to come
 - [Bhavy Ranka](https://github.com/Bhavy-Ranka) - Hello World!!
 - [Shachita](https://github.com/shachita05) -- Hello!!this is  my first open contribution
 - [kalvin Osoro] (https://github.com/kalvin-osoro) - Feel free to reach aout and follow me. Happy to work on projects together
