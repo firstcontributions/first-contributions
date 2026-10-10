@@ -35,6 +35,7 @@ Hi myself Anish A R this is my first contribution. Lets see where life takes me 
 - [Mohith] (https://github.com/mohith2025) - That is my first open source contribution on github
 - sai sreekar(https://github.com/talankisai/first-contributions.git)This is my demo open contribution.
 - [Abdullah Bin Nasir](https://github.com/SheikhAbdullahNasir) -- Hi!, starting my open-source contribution journey from here
+-[Anitha A]
 - [Nguyen Dang Hoang Long](https://github.com/Nguyen-Dang-Hoang-Long) -- YOOOOOO my first Open-Source Contribution (value to world == 0 BUT WHO CARES BABYYY
 - [BlueLi66](https://github.com/BlueLi66) -- Hello! my first open-source contribution.
 - [Sarath Kumar Navarajan](https://github.com/nsarathk) -- Hello world !!
@@ -6406,6 +6407,7 @@ sar](https://github.com/AchmadKautsar-developer)
 - [Shardul Desai] (https://github.com/Shardul-Desai10)
 - [Haymanot Getachew](https://github.com/HaymiG)
 - [As9Xm] (https://github.com/As9xm)
+
 - [Sathi Deb](https://github.com/sathideb)
 - [ng4298-hub](https://github.com/ng4298-hub)
 - [jnp335-sudo](https://github.com/jnp335-sudo).
