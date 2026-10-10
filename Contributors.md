@@ -1,5 +1,6 @@
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
 -[bmscomp](https://bmscomp.github.io)
+-[pan-nie](https://github.com/pan-nie)I am ready to get rid of AI.
 -[suchal](https://github.com/saisuchal/first-contributions)
 -[Sampreeti Ghosh](https://github.com/sampreetialive/first-contributions.git)- My first contribution to the open source world
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
