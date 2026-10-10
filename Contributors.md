@@ -930,6 +930,7 @@ vijyot silare
 - Mohamed Aradaib
 - Ashmit 
 - [jaswanth-ganesh](https://github.com/jaswanthganesh12)
+- [Mahak Gupta](https://github.com/2k24cs1j2411302-commits)
 - [Maher-Dagestani](https://github.com/Maher-Dagestani)
 - [John Lyu](https://github.com/Darth-S1d1ous)
 - 姜志福
