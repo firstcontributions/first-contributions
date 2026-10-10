@@ -1,3 +1,4 @@
+-[Rajalakshmi K](https://github.com/rajideepa2009-ui)
 -[cucumba44](https://github.com/cucumba44/first-contributions)
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
 -[bmscomp](https://bmscomp.github.io)
@@ -19,6 +20,7 @@ Im Fabio Uvinha
 - [Uzair khan <img title="India" alt="India" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" width="22">](https://github.com/lohith889) - # 🚀 The Ultimate Open Source Journey has has begun with thiis beautiful quote  ```One serious start can erase years of delay.``` 
  
 -[vyshnavi](https://github.com/Vyshnavi2026/first-contributions.git)
+-[Shams Tahmid] 
 -[Booja Devi](https://github.com/BoojaDevi-A) -- Hello world! This is Booja - It's my first open-source contribution.I'm an ECE student learning software engineering, and this PR is my first step into open source. Looking forward to contributing more!
 
 -[Anish-A-R](https://github.com/Anish-A-R/first-contributions)
@@ -928,6 +930,7 @@ vijyot silare
 - Mohamed Aradaib
 - Ashmit 
 - [jaswanth-ganesh](https://github.com/jaswanthganesh12)
+- [Mahak Gupta](https://github.com/2k24cs1j2411302-commits)
 - [Maher-Dagestani](https://github.com/Maher-Dagestani)
 - [John Lyu](https://github.com/Darth-S1d1ous)
 - 姜志福
@@ -6940,4 +6943,5 @@ add-Testing
 - [Trinabh Mitra](https://github.com/trinabh12)
 - [Pradesha P](https://github.com/PradeshaP)
 - [RomanP27](https://github.com/RomanP27) - Fly me to the moon.. - Rei Ayanami.
+- [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions
 - [igorsilvawinning](https://github.com/igorsilvawinning)
