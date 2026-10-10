@@ -2997,6 +2997,7 @@ Florent
 - [Ali Aldaghishy](https://github.com/alide123321)
 - [Alejandro Serna](https://github.com/AlejandroSernaTovar)
   [Alejandro Serna](https://github.com/AlejandroSernaTovar)
+- [Malte170582](https://github.com/Malte170582) - My first contribution, made with Claude Code
 - [datta852](https://github.com/datta852)
 - [Assaf Lewin](https://github.com/Assaf1713)
 - [Atharva Ghayal](https://github.com/atharvaghayal)
