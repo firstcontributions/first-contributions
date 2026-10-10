@@ -6950,4 +6950,5 @@ add-Testing
 - [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions
 - [igorsilvawinning](https://github.com/igorsilvawinning)
 - [Pintu Kumar](https://github.com/pintukumaryadavji)
+- [Anshu Choudhary](https://github.com/anshuch1306)— C++ developer learning open-source contribution
 main
