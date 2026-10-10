@@ -20,6 +20,10 @@ Im Fabio Uvinha
  
 -[vyshnavi](https://github.com/Vyshnavi2026/first-contributions.git)
 -[Booja Devi](https://github.com/BoojaDevi-A) -- Hello world! This is Booja - It's my first open-source contribution.I'm an ECE student learning software engineering, and this PR is my first step into open source. Looking forward to contributing more!
+
+-[Anish-A-R](https://github.com/Anish-A-R/first-contributions)
+Hi myself Anish A R this is my first contribution. Lets see where life takes me in these years.
+
 -[yvs-krishna](https://github.com/yvs-prasanna)
 -[Dhurgham Alsaadi](https://github.com/dhurghamCreation).
 -[TauYip](https://github.com/TauYip) - 
