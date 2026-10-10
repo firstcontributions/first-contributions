@@ -3447,6 +3447,7 @@ andrewcodess
 - [Janvi Chetan Patel](https://github.com/JanviChetanPatel)
 - [Ojas Poswal](https://github.com/Ojas-Poswal)
 - [Abdullah Arshad](https://github.com/Abdul00YO)
+- [Pavithira Rajkumar](https://github.com/Pavithira-R) - My first open source contribution!
 - [Janvi Prajapati](https://github.com/JanviPrajapati0210)
 - [Jashanjit Kaur](https://github.com/JashanjitKaur007)
 - Romir Gupta
