@@ -6511,6 +6511,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [rafaelcanedo65](https://github.com/rafaelcanedo65)
 - [Bouke_eerste_contributie]
 - [Gnanesh](https://github.com/bgnanesh932-cell)
+- [Anshu Choudhary](https://github.com/anshuch1306)— C++ developer learning open-source contribution
 - [confidon](https://github.com/confidon)
 - [Vo Trong Canh](https://github.com/canhtrong26-dev)
 - [Bob Li](https://github.com/BobXingcaiLi)
@@ -6950,5 +6951,4 @@ add-Testing
 - [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions
 - [igorsilvawinning](https://github.com/igorsilvawinning)
 - [Pintu Kumar](https://github.com/pintukumaryadavji)
-- [Anshu Choudhary](https://github.com/anshuch1306)— C++ developer learning open-source contribution
 main
