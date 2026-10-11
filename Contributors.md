@@ -1093,6 +1093,7 @@ siddhu
 - [Vikka]
 - [hi-there]
 - [yigedu]
+- [Shaindy M]
 - [Shaoqiu Chen]
 - [Elijah](https://github.com/ElijahAvril)
 - [Nidhish K K](https://github.com/nidhishkk)
