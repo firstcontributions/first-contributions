@@ -1,4 +1,6 @@
+- [Esti](https://github.com/3256483-lab)
 -[Aditya Kumar](https://github.com/Aditya-kumar-yadav)-- Hello world. Aditya Kumar here, pushing my first open-source commit. Every long game starts with a single move; let's see where my final PR eventually lands
+-[Nandini Singh](https://github.com/Nandinisingh-05) - Hi, this is my first contribution!
 -[surajorg48](https://github.com/surajorg48)
 -[Pablo Ribeiro](https://github.com/PabLoSWeB)
 [DEVORA KELETI](https://github.com/dvori27385)
@@ -17,6 +19,7 @@
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
 I'm Deepika K("https://github.com/deepika19-byte")
+-[Saanvi Jonnalagadda](https://github.com/saanvi-jy6318)
 Im Fabio Uvinha
 - [Kaustubh](https://github.com/KaustubhChattar)
 -[Ajay Kumar](https://github.com/AjRana09/first-contributions-demo)
@@ -108,6 +111,7 @@ Migeen Magar - let'sss gooooooo
 - [Manmohit Bisht](https://github.com/manmohit-bisht) - Hello, my first open source contribution !!
 - [Mazen Mekky](https://github.com/Mazen-Abdelfattah) - My first open-source contribution
 - [Aniket bhardwaj](https://github.com/aniketbhardwajhere-rgb) - Hello there , Aniket bhardwaj this side and the phase of open source contribution starts from today ⚡.
+-[Ayesha](https://github.com/4007ayesha)
 - [Tizih Mark-PrinceWill](https://github.com/TIZIHMARKP) - Hello! Bonjour! Hola! This is my first open-source contribution. Computer engineering student specializing in backend development and I'm inpired to do more. I'm open for connections 🦅 ***06-10-2026***
 - [SHREY JHA]- My first open contribution lets see how it goes . my linkedin to connect https://www.linkedin.com/in/shrey-jha-/
 - [Shaik Mohammad Ameer](https://github.com/Ameer77-tech) - 4-10-2026, First Contribution
@@ -6999,5 +7003,7 @@ add-Testing
 - [GarvitSurana](https://github.com/GarvitSurana) - ..
 - [Adarsh Dubey](https://github.com/adarshd5673-afk)
 - [Jean Matos](https://github.com/Jeanmatos2021/) - Better then yesterday!
+- [Sophia T.](https://github.com/SophiaT7) Olá Mundo! Very happy to get started in the open source world    
 - [Yassen Ibrahim](https://github.com/Yassen717)
 - [Faruk T.](https://github.com/farukttbasar) Hello World!
+  
