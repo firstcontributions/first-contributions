@@ -6968,6 +6968,7 @@ add-Testing
 - [arhemzaad](https://github.com/arhemzaad)
 - [SanchitKRai](https://github.com/SanchitKRai)
 - [tshedup](https://github.com/Tscanta)
+- [Khushi Pandey](https://github.com/KhushiPandey04)
 - [Hejin0-0](https://github.com/Hejin0-0)
 - [sameekshasingh007](https://github.com/sameekshasingh007)
 - [Bhavan Raj](https://github.com/BhavanRaj1716) - My first open source Contribution, very excited to explore more.
@@ -6982,10 +6983,10 @@ add-Testing
 - [VaradNigade](https://github.com/VaradNigade) - Stepping into world of open source contributions
 - [igorsilvawinning](https://github.com/igorsilvawinning)
 - [Pintu Kumar](https://github.com/pintukumaryadavji)
-main
 - [SubhrajeetShaw](https://github.com/subhrajeetshaw008-bit) - Starting my journey in Open Source Contributions
-[JuaneX](https://github.com/juanitogit)
+- [JuaneX](https://github.com/juanitogit)
 - [Abdelrahman-Elnagar](https://github.com/Abdelrahman-Elnagar)
 - [tov-debug](https://github.com/tov-debug) - Believing in less syntax and more logic
 - [baaska-23](https://github.com/baaska23) - Hope i will get skill improvement
 - [GarvitSurana](https://github.com/GarvitSurana) - ..
+
