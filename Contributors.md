@@ -316,6 +316,7 @@ Cateline Ouma(https://github.com/Cateline)
 - [Anmol Kumar](https://github.com/anmol-96)
 - [Victor Franchet] (https://github.com/Victor-Franchet)
 - [Apoorv Srivastav] (https://github.com/apoorv-srivastav)
+- [Rachel Rosenbaum](https://github.com/rachel7442-max)
 - [mgyaychan][https://github.com/mgyaychan]
 - [EmanIsDead](https://github.com/EmanIsDead)
 - [SANDHYAM](github)
