@@ -340,6 +340,7 @@ Cateline Ouma(https://github.com/Cateline)
 - [Melissa](https://github.com/melissaclark820914) First Contribution!
 [Anup][Anup]
 - claude
+- [Rahul De](https://github.com/rahulde2007) - Hello World!
 -[Deepak Sing](https://github.com/CodeWithDks)
 -[Gopinath Athiappan](https://github.com/Gopinath-athiappan/first-contributions)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
