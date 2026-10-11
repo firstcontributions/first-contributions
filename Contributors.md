@@ -6965,4 +6965,4 @@ main
 - [SubhrajeetShaw](https://github.com/subhrajeetshaw008-bit) - Starting my journey in Open Source Contributions
 [JuaneX](https://github.com/juanitogit)
 - [Abdelrahman-Elnagar](https://github.com/Abdelrahman-Elnagar)
-
+- [tov-debug](https://github.com/tov-debug) - Believing in less syntax and more logic
