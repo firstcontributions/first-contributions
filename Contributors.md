@@ -16,6 +16,7 @@
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
 I'm Deepika K("https://github.com/deepika19-byte")
+-[Saanvi Jonnalagadda](https://github.com/saanvi-jy6318)
 Im Fabio Uvinha
 - [Kaustubh](https://github.com/KaustubhChattar)
 -[Ajay Kumar](https://github.com/AjRana09/first-contributions-demo)
