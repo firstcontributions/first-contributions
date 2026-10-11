@@ -62,6 +62,7 @@ Hi this is my first contribution
 - [Kvin]
 Mahisha K
 - Mohammad Sami, This is my first contribution
+- [isca sheli](https://github.com/IscaSheli) - Hello!
 - [Lohithnath](https://github.com/Lohithnath2910) - Hi y'all, this is my first contribution!!
 - [Manu Bhardwaj](https://github.com/dranzerrrr) - Hi! Starting off with my first open source contribution. Would be starting contribute more and more.
 - Khuslen Tsedenbal FIRST CONTRIBUTION
