@@ -17,7 +17,6 @@
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
 I'm Deepika K("https://github.com/deepika19-byte")
--[Saanvi Jonnalagadda](https://github.com/saanvi-jy6318)
 Im Fabio Uvinha
 - [Kaustubh](https://github.com/KaustubhChattar)
 -[Ajay Kumar](https://github.com/AjRana09/first-contributions-demo)
@@ -6997,3 +6996,4 @@ add-Testing
 - [Adarsh Dubey](https://github.com/adarshd5673-afk)
 - [Jean Matos](https://github.com/Jeanmatos2021/) - Better then yesterday!
 - [Yassen Ibrahim](https://github.com/Yassen717)
+- [Faruk T.](https://github.com/farukttbasar) Hello World!
