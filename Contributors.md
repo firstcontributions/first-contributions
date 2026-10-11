@@ -6999,5 +6999,7 @@ add-Testing
 - [GarvitSurana](https://github.com/GarvitSurana) - ..
 - [Adarsh Dubey](https://github.com/adarshd5673-afk)
 - [Jean Matos](https://github.com/Jeanmatos2021/) - Better then yesterday!
+- [Sophia T.](https://github.com/SophiaT7) Olá Mundo! Very happy to get started in the open source world    
 - [Yassen Ibrahim](https://github.com/Yassen717)
 - [Faruk T.](https://github.com/farukttbasar) Hello World!
+  
