@@ -3498,6 +3498,7 @@ andrewcodess
 - [Leonardo Herédia](https://github.com/LeoHeredia2004)
 - [Sarthak Aggarwal](https://github.com/sarthak98765)
 - [Juan Escobar]
+- [Dhanush](https://github.com/ddhanush-2006)
 - [Jo Kershaw](https://github.com/jo-kershaw)
 - [Joey Statz](https://github.com/jstatz42)
 - [Harsh RK](https://github.com/harsh-rk28)
@@ -6963,3 +6964,4 @@ main
 - [SubhrajeetShaw](https://github.com/subhrajeetshaw008-bit) - Starting my journey in Open Source Contributions
 [JuaneX](https://github.com/juanitogit)
 - [Abdelrahman-Elnagar](https://github.com/Abdelrahman-Elnagar)
+
