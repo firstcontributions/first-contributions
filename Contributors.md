@@ -103,6 +103,7 @@ Migeen Magar - let'sss gooooooo
 - [Tizih Mark-PrinceWill](https://github.com/TIZIHMARKP) - Hello! Bonjour! Hola! This is my first open-source contribution. Computer engineering student specializing in backend development and I'm inpired to do more. I'm open for connections 🦅 ***06-10-2026***
 - [SHREY JHA]- My first open contribution lets see how it goes . my linkedin to connect https://www.linkedin.com/in/shrey-jha-/
 - [Shaik Mohammad Ameer](https://github.com/Ameer77-tech) - 4-10-2026, First Contribution
+- [Pnina Kaplan] (https://github.com/pninakpln-pixel)
 - [loopstation1024](https://github.com/loopstation1024) - 06-10-2026, First Contribution
 - [Shourya Chauhan](https://github.com/Lethargic-Lion) - 07-10-2026, First Contribution
 - [Fazlur Rehman](https://github.com/25dco04-jpg)
