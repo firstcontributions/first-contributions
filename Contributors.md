@@ -9,6 +9,7 @@
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
+-[NAGIREDDY](https://github.com/NAGIREDDY-ETHICAL/) my first contribution in a REPO...
 -[Mohan Krishna](https://github.com/mohankrishna2008vetsa-debug/)my first contribution in git
 -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
 -[HADAS LUBIN](https://github.com/HADASLUB)
