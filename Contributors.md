@@ -41,6 +41,7 @@
 - [Odo Kingsley Uchenna] (https://github.com/RealKingHubs)
 - [Nolan Berg] (https://github.com/NolanBerg)
 - [Aman Jha] ([23f2003233](https://github.com/23f2003233))
+- [Aman Kushwaha] (https://github.com/MaxCoder07)
 - [Eduardo Nunes] (https://github.com/eduardonunesfvm)
 - [Xiaochun Bai](https://github.com/Bingtagui404)
 - [M_Rizwan](https://github.com/rizwan749)
