@@ -4,6 +4,7 @@
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
 - [sreekar](https://github.com/talankisai) Hello Git
+-[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
 -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
@@ -29,7 +30,7 @@
 -[iamvaibhav37] - Namaskar from Ambajogai!
 -[pan-nie](https://github.com/pan-nie)I am ready to get rid of AI.
 -[suchal](https://github.com/saisuchal/first-contributions)
-
+- [Satvik Mishra](https://github.com/0carespal)-- First contribution made
 -[lujain jumaa](https://github.com/lujainjumaa)- From Syria | Unblock tech for everyone!
 
 -[Sampreeti Ghosh](https://github.com/sampreetialive/first-contributions.git)- My first contribution to the open source world
