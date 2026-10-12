@@ -4335,11 +4335,4 @@ the world is a stand
 - [Duxl-Ai](https://github.com/Duxl-Ai)
 - [Konstantin](https://github.com/Konstantinzjej)
 - [İremsu](https://github.com/iremsu-umit35)
-- [Marco Peduto / marcopeduto](https://github.com/marcopeduto)
-<<<<<<< HEAD
-- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast, repeat..."*
-=======
-- [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast."*
-- [Japheth Jorquia](https://https://github.com/Japhethnothere)
-
->>>>>>> 843d240b32be8d185166cf1c394eabb5d1bb3288
+- [Marco Peduto](https://github.com/marcopeduto)
