@@ -7033,3 +7033,4 @@ Hello xyz
 -[Akash Gupta](https://github.com/guptaak1167-prog) - My first open-source contribution!
 
 - KKA 😗
+- [Samet Findik](https://github.com/fndksamet)
