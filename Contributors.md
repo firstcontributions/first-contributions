@@ -13,6 +13,9 @@
 -[iamvaibhav37] - Namaskar from Ambajogai!
 -[pan-nie](https://github.com/pan-nie)I am ready to get rid of AI.
 -[suchal](https://github.com/saisuchal/first-contributions)
+
+-[lujain jumaa](https://github.com/lujainjumaa)- From Syria | Unblock tech for everyone!
+
 -[Sampreeti Ghosh](https://github.com/sampreetialive/first-contributions.git)- My first contribution to the open source world
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
