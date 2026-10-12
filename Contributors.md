@@ -38,7 +38,7 @@
 -[suchal](https://github.com/saisuchal/first-contributions)
 - [Satvik Mishra](https://github.com/0carespal)-- First contribution made
 -[lujain jumaa](https://github.com/lujainjumaa)- From Syria | Unblock tech for everyone!
-
+-[ScarletRuby](https://github.com/ScarletRubyx)- Let's begin
 -[Sampreeti Ghosh](https://github.com/sampreetialive/first-contributions.git)- My first contribution to the open source world
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
