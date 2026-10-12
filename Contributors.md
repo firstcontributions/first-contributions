@@ -89,6 +89,7 @@ Hi my name is Aung Khant Moe and this is my very first contribution on github.
 - [Sarath Kumar Navarajan](https://github.com/nsarathk) -- Hello world !!
 - [David Cruz] (https://github.com/aledash3)
 -[Yazmin Lopez-Munoz](https://github.com/yazmlop) -- First contribution :D
+- [Alan Ruelas](https://github.com/AlanRuro)
 - [Francois Saint Jean](https://github.com/K3YB04RD-w4rri0r) -- Heyaaaaaaaaaa !!
 -[HRSH](https://github.com/hrshalive-potato) -- Watashi 
 - [Amey Bobade](https://github.com/Amey-0806) - First PR, many more to come
@@ -7055,4 +7056,3 @@ Hello xyz
 - [Yumxl](https://github.com/yumxl)
 - [Lilima](https://github.com/lilima07)
 - [Sandeep](https://github.com/incognito-28)
-- [Kedar Mashalkar](https://github.com/kedar4real) - Just getting started 
