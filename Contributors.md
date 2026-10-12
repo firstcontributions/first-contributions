@@ -3,7 +3,7 @@
 - [sreekar](https://github.com/talankisai) Hello Git
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
--[NAGIREDDY](https://github.com/NAGIREDDY-ETHICAL/) my first contribution in a REPO...
+-[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first contribution!
 -[HADAS LUBIN](https://github.com/HADASLUB)
 [Esti Steinhous](https://github.com/e0548567836-cmd) my first open code!!!!!!!!!
 [Mahandar Khatri] (https://github.com/mk-2007) first open source contribution
