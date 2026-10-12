@@ -704,6 +704,7 @@ Jainil Chavda
 - [Aaryan C Gole](https://github.com/)
 - [Aditya](https://github.com/ADITYA-2005-LANG)
 - [Samuele Niccolai](https://github.com/SamueleNiccolai)
+- [Sanya] (https://github.com/thesaanya7-del)
 - [Huy Dat Le](https://github.com/CheeseNacho2)
 - [Venkata Sri Sai Surya Mandava](https://github.com/VenkataSriSaiSuryaMandava)
 - [Anand Kumar]
