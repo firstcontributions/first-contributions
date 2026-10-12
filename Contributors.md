@@ -1,3 +1,4 @@
+
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
 -[HADAS LUBIN](https://github.com/HADASLUB)
@@ -7026,4 +7027,6 @@ Hello xyz
 - [Rishu Kumar Singh](https://github.com/singhrishukumar329)
 - [maoqiu-zhang](https://github.com/maoqiu-zhanggit)
 - [Kushagra Goyal](https://github.com/kushagra-goyal-01)
-- [Jakob Rozman](https://github.com/JakobR01)
+- [Jakob Rozman](https://github.com/JakobR01)-
+-[Akash Gupta](https://github.com/guptaak1167-prog) - My first open-source contribution!
+- 
