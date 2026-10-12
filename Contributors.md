@@ -1,3 +1,17 @@
+- [jiuze2007](https://github.com/jiuze2007)
+- [Jeevan] (https://github.com/Sangchi-ui)
+- [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
+-[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
+- [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
+- [sreekar](https://github.com/talankisai) Hello Git
+-[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
+- [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
+-[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
+-[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
+-[HADAS LUBIN](https://github.com/HADASLUB)
+[Esti Steinhous](https://github.com/e0548567836-cmd) my first open code!!!!!!!!!
+[Mahandar Khatri] (https://github.com/mk-2007) first open source contribution
+- [Ritesh Singh] (https://github.com/Ritesh-977) -- My first Contributions
 - [Esti](https://github.com/3256483-lab)
 -[Aditya Kumar](https://github.com/Aditya-kumar-yadav)-- Hello world. Aditya Kumar here, pushing my first open-source commit. Every long game starts with a single move; let's see where my final PR eventually lands
 -[Nandini Singh](https://github.com/Nandinisingh-05) - Hi, this is my first contribution!
@@ -9,12 +23,16 @@
 -[cucumba44](https://github.com/cucumba44/first-contributions)
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
 -YOU FIRST
+-[Hardik Maheshwari](https://github.com/X0T1CK-LY) --- Hey this is my first fork, kinda nervous
 -[bmscomp](https://bmscomp.github.io)
 -[Chaitanya](https://github.com/chaitanya103103/first-contributions) - Hello from Ambajogai...
-
+-[Azwa32]https://github.com/Azwa32/first-contributions ---Hello everyone---
 -[iamvaibhav37] - Namaskar from Ambajogai!
 -[pan-nie](https://github.com/pan-nie)I am ready to get rid of AI.
 -[suchal](https://github.com/saisuchal/first-contributions)
+- [Satvik Mishra](https://github.com/0carespal)-- First contribution made
+-[lujain jumaa](https://github.com/lujainjumaa)- From Syria | Unblock tech for everyone!
+
 -[Sampreeti Ghosh](https://github.com/sampreetialive/first-contributions.git)- My first contribution to the open source world
 -[jahnavi murari](https://github.com/jahnavimurari/first-contributions)
 Im in rajam
@@ -38,7 +56,8 @@ Im Fabio Uvinha
 
 -[Anish-A-R](https://github.com/Anish-A-R/first-contributions)
 Hi myself Anish A R this is my first contribution. Lets see where life takes me in these years.
-
+--[https://github.com/pathananas2007] 
+hi guys
 
 -[Max Kaiser](https://github.com/maxkaiser11)
 Hi this is my first contribution 
@@ -47,6 +66,9 @@ Hi this is my first contribution
 
 -[AungKhantMoe](https://github.com/aungkhantm0e)
 Hi my name is Aung Khant Moe and this is my very first contribution on github.
+
+-[Yaren Deveci] (https://github.com/Yaren144)
+
 
 -[yvs-krishna](https://github.com/yvs-prasanna)
 -[Dhurgham Alsaadi](https://github.com/dhurghamCreation).
@@ -205,7 +227,8 @@ John Doe 2026
 - [Nyrqel](https://github.com/Nyrqel) - My first open-source contribution!
 - [Satya Mahesh](https://github.com/satyamahesh03) - First Open Source Contribution!
 - [Pratyaksh Tomar](https://github.com/Pratyaksh0x1) - My first open Source Contribution!!
-- [Md Mizan](https://github.com/mizan989)
+- [Md Mizan](https://github.com/msaimanish)
+- [Sai Manish M](https://github.com/mizan989)
 - [Dvorah Fishman](https://github.com/DvorahFishman)
 - [balliolon](https://github.com/balliolon2) - My first open Source Contribution!!
 - [Karberg](https://github.com/Karberg) - My first open-source contribution!!
@@ -1074,7 +1097,7 @@ siddhu
 - Aaditya Pala
 - [Luna]
 - [Bandi Anand Rogit] (https://github.com/BandiAnandRohit)
-
+- Prashant G.C.
  - [Rahat Kabir](https://github.com/Rahat-Kabir)
 - Vedansh & Yug 
 - [dumbSahaj](https://github.com/dumbSahaj)
@@ -3573,6 +3596,7 @@ andrewcodess
 - [Sharan Lakshetty](https://github.com/Sharan4405)
 - [Kaushik Balaji](https://github.com/KaushikBalaji05)
 - [Kaushik Kumar](https://github.com/kaushikbargaway)
+- [Vikas B] This is my first contribution
 - [Amos](https://github.com/Amos10436)
 - [Khushi Chitlange](https://github.com/Khushi-Chitlange)
 - [Khushi R](https://github.com/Khushisri05)
@@ -4597,6 +4621,8 @@ andrewcodess
 - [Ron Shigeta](https://github.com/iAccelTech)
 - [xleftee](https://github.com/xleftee)
 - [MANOJ](https://github.com/Manojuio)
+- [Rivka](https://github.com/RivkiGA)
+
 - [nitikpsn](https://github.com/Nitikpsn)
 - [Evarline Mipata](https://github.com/Evarline)
 - [rightruth7](https://github.com/rightruth7)
@@ -6016,6 +6042,7 @@ Raphael Karani
 - [Duxl-Ai](https://github.com/Duxl-Ai)
 - [Konstantin](https://github.com/Konstantinzjej)
 - [İremsu](https://github.com/iremsu-umit35)
+- [Marco Peduto](https://github.com/marcopeduto)
 - [Nikita](https://github.com/nikitameena0408)
 - [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast, repeat..."*
 - [Rishit Raman](https://github.com/ramanrishit448-RR) - Backend Engineer & Full stack Developer | *"Make it work, make it right, make it fast."*
@@ -7007,3 +7034,19 @@ add-Testing
 - [Sophia T.](https://github.com/SophiaT7) Olá Mundo! Very happy to get started in the open source world    
 - [Yassen Ibrahim](https://github.com/Yassen717)
 - [Faruk T.](https://github.com/farukttbasar) Hello World!
+[Reza Saputra Desky](https://github.com/rezadesky)
+- [Dinastía Harzu](https://github.com/Dinastia-Harzu) - and the universe said I love you because you are love
+-[Priyanka Mondal](https://github.com/sm8699135-design)
+Hello xyz
+- [Avinash Trivedi](https://github.com/avinashtrivedix)
+- [Rishu Kumar Singh](https://github.com/singhrishukumar329)
+- [maoqiu-zhang](https://github.com/maoqiu-zhanggit)
+- [Kushagra Goyal](https://github.com/kushagra-goyal-01)
+- [Jakob Rozman](https://github.com/JakobR01)-
+-[Akash Gupta](https://github.com/guptaak1167-prog) - My first open-source contribution!
+- [BraveTonni](https://github.com/BraveTonni)
+
+
+- KKA 😗
+- [Yumxl](https://github.com/yumxl)
+- [Lilima](https://github.com/lilima07)
