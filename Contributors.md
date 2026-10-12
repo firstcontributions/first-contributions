@@ -1,5 +1,6 @@
 - [Punc](https://github.com/Punc1962)
 - [jiuze2007](https://github.com/jiuze2007)
+- [pankaj-2708](https://github.com/pankaj-2708)
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
@@ -10,7 +11,7 @@
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
--[NAGIREDDY](https://github.com/NAGIREDDY-ETHICAL/) my first contribution in a REPO...
+-[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first contribution!
 -[Mohan Krishna](https://github.com/mohankrishna2008vetsa-debug/)my first contribution in git
 -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
 -[HADAS LUBIN](https://github.com/HADASLUB)
@@ -194,6 +195,7 @@ Migeen Magar - let'sss gooooooo
  add-lury
 - [Alden Rosario](https://github.com/ROSRAR20) - Hello!! this is also my first open-source contribution!
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
+-[Rushikesh Fulmali](https://github.com/rushikeshfulmali27) - hi friends , this is my first contibution !
 - [Venkata VigneshA](https://github.com/vigneshtryingtobebetter) - Hello, My first starting point to my open-source journey hoping to do better
 - [orignlkartik1](https://github.com/orignlkartik1) - Hello,friends! My first open-source contribution!
 -[Joya]: hello,this is my first open source contribution!
@@ -2861,6 +2863,7 @@ Jim Bollinger
 - [Akhil Saklani](https://github.com/Akhildev7)
 -[oce0917-beep](https://github.com/oce0917-beep)
 - [Deva Sri]
+-[Carol]
 - [solargland]
 - [heringston](https://github.com/heringston)
 - [ljc-1222](https://github.com/ljc-1222)
@@ -7057,9 +7060,10 @@ Hello xyz
 
 - KKA 😗
 - [Yumxl](https://github.com/yumxl)
-<<<<<<< HEAD
 - [Manasa](https://github.com/beesapumanasa14-code) — My first contribution 
-=======
 - [Lilima](https://github.com/lilima07)
 - [Sandeep](https://github.com/incognito-28)
->>>>>>> 1fbc71a66ee1f9e048bb5e51cf778a61bafd637b
+- [keerthana](https://github.com/keerthana-chowdary-aiml) — My first contribution
+- [Sailu](https://github.com/sailendrakumar-sudo)
+- [Ashish](https://github.com/ashish7n)
+- [Bruchy](https://github.com/bruchy0548558789-arch)
