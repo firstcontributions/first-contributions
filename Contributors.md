@@ -209,7 +209,8 @@ John Doe 2026
 - [Nyrqel](https://github.com/Nyrqel) - My first open-source contribution!
 - [Satya Mahesh](https://github.com/satyamahesh03) - First Open Source Contribution!
 - [Pratyaksh Tomar](https://github.com/Pratyaksh0x1) - My first open Source Contribution!!
-- [Md Mizan](https://github.com/mizan989)
+- [Md Mizan](https://github.com/msaimanish)
+- [Sai Manish M](https://github.com/mizan989)
 - [Dvorah Fishman](https://github.com/DvorahFishman)
 - [balliolon](https://github.com/balliolon2) - My first open Source Contribution!!
 - [Karberg](https://github.com/Karberg) - My first open-source contribution!!
