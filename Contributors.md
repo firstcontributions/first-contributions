@@ -17,7 +17,7 @@
 -[Hardik Maheshwari](https://github.com/X0T1CK-LY) --- Hey this is my first fork, kinda nervous
 -[bmscomp](https://bmscomp.github.io)
 -[Chaitanya](https://github.com/chaitanya103103/first-contributions) - Hello from Ambajogai...
-
+-[Azwa32]https://github.com/Azwa32/first-contributions ---Hello everyone---
 -[iamvaibhav37] - Namaskar from Ambajogai!
 -[pan-nie](https://github.com/pan-nie)I am ready to get rid of AI.
 -[suchal](https://github.com/saisuchal/first-contributions)
