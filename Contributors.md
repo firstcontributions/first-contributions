@@ -2,6 +2,7 @@
 -[HADAS LUBIN](https://github.com/HADASLUB)
 [Esti Steinhous](https://github.com/e0548567836-cmd) my first open code!!!!!!!!!
 
+- [Ritesh Singh] (https://github.com/Ritesh-977) -- My first Contributions
 - [Esti](https://github.com/3256483-lab)
 -[Aditya Kumar](https://github.com/Aditya-kumar-yadav)-- Hello world. Aditya Kumar here, pushing my first open-source commit. Every long game starts with a single move; let's see where my final PR eventually lands
 -[Nandini Singh](https://github.com/Nandinisingh-05) - Hi, this is my first contribution!
