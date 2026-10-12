@@ -25,10 +25,10 @@ Sekarang kloning repositori yang sudah Anda _fork_ ke komputer Anda. Pergi ke ak
 Buka sebuah terminal dan jalankan perintah git berikut:
 
 ```
-git clone "url yang telah Anda disalin"
+git clone "url yang telah Anda salin"
 ```
 
-bagian "url yang telah Anda disalin" (tanpa tanda petik) adalah url ke repositori ini (proyek yang telah Anda _fork_ ini). Lihat langkah sebelumnya untuk mendapatkan url.
+bagian "url yang telah Anda salin" (tanpa tanda petik) adalah url ke repositori ini (proyek yang telah Anda _fork_ ini). Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="salin URL ke papan klip" />
 
