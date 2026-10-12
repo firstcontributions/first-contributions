@@ -26,6 +26,7 @@
 [DEVORA KELETI](https://github.com/dvori27385)
 -[Rajalakshmi K](https://github.com/rajideepa2009-ui)
 -[Youssef Halawany](https://github.com/y0usefhalawany)
+-[Surya Teja](https://github.com/aforapple936-art/first-contributions.git) -- Hi everyone
 -[cucumba44](https://github.com/cucumba44/first-contributions)
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
 -YOU FIRST
