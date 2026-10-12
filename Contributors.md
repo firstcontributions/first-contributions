@@ -4610,6 +4610,8 @@ andrewcodess
 - [Ron Shigeta](https://github.com/iAccelTech)
 - [xleftee](https://github.com/xleftee)
 - [MANOJ](https://github.com/Manojuio)
+- [Rivka](https://github.com/RivkiGA)
+
 - [nitikpsn](https://github.com/Nitikpsn)
 - [Evarline Mipata](https://github.com/Evarline)
 - [rightruth7](https://github.com/rightruth7)
