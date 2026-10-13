@@ -479,7 +479,9 @@ Arc hie Boswelll
 - [2HB25CS114](https://github.com/2HB25CS114)
 - [2HB25CS104](https://github.com/2HB25CS104)
 - [Sangmesh Bailannavar](https://github.com/sangmeshbailannavar10)
-2-[2HB25CS105](https://github.com/2HB25CS105)
+-[2HB25CS105](https://github.com/2HB25CS105)
+-[fujisaki henry](https://github.com/henri-quereis)
+-
 - [walakesanika371](https://github.com/walakesanika371)
 - [2HB25CS091] (https://github.com/2HB25CS091)
 - [dearsvag132](https://github.com/dearsvag132)
