@@ -84,6 +84,8 @@ Hi this is my first contribution
 
 -[AungKhantMoe](https://github.com/aungkhantm0e)
 Hi my name is Aung Khant Moe and this is my very first contribution on github.
+-[dev-clam](https://github.com/dev-clam)
+This is my first open source contribution.
 
 -[Yaren Deveci] (https://github.com/Yaren144)
 -[Aditya Kumbhar] (https://github.com/IMMORTAL-ADI)
