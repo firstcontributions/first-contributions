@@ -7123,3 +7123,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Tran Quoc Phu](https://github.com/tranquocphuxl32-cell)
 
 [Milan Sharma](https://github.com/MilannSharma)
+[Aditya Pujari](https://github.com/lextleo)
