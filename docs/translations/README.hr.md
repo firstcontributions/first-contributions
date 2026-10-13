@@ -22,7 +22,7 @@ Forkajte ovaj repozitorij tako da kliknete na dugme _fork_ na vrhu stranice. Ova
 
 Sada klonirajte repozitorij koji ste prethodno forkali. Posjetite svoj GitHub profil, otvorite repozitorij koji ste forkali, kliknite na _clone_ (kloniraj) dugme i kliknite na ikonicu _copy to clipboard_.
 
-Otvorite terminal i upišite slijedeće git naredbe:
+Otvorite terminal i upišite sljedeće git naredbe:
 
 ```bash
 git clone "url koji ste upravo kopirali"
@@ -49,7 +49,7 @@ Prebacite se u radni direktorij na Vašem računalu (ukoliko već niste tamo):
 cd first-contributions
 ```
 
-Pa zatim napravite novu granu _branch_ koristeći `git switch` comandu:
+Pa zatim napravite novu granu _branch_ koristeći `git switch` naredbu:
 
 ```bash
 git switch -c dodaj-svoje-ime
