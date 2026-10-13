@@ -21,7 +21,7 @@
 -[chandu](https://github.com/chanduanga/first-contributions.git) my first code....
 -[Sachin](https://github.com/sachingupta20097-cloud/)my first git !
 -[Manjusha](https://github.com/manjushapirati030) my first contribution
--[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first contribution!
+-[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first  contribution!
 -[Ramcharan](git clone https://github.com/kodrothuramcharan327-code)-this my first git! 
 -[Mohan Krishna](https://github.com/mohankrishna2008vetsa-debug/)my first contribution in git
 -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
@@ -89,6 +89,7 @@ Hi my name is Aung Khant Moe and this is my very first contribution on github.
 
 -[Yaren Deveci] (https://github.com/Yaren144)
 -[Aditya Kumbhar] (https://github.com/IMMORTAL-ADI)
+-[Amaravathi Abuthiren] (https://github.com/SimplySignificant )
 
 -[yvs-krishna](https://github.com/yvs-prasanna)
 -[Dhurgham Alsaadi](https://github.com/dhurghamCreation).
