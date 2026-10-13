@@ -18,10 +18,22 @@ The first requisite is to have:
 
 Now we need to install the `github-cli` tool in our system by following the [official documentation](https://github.com/cli/cli#installation)
 
-After that, we need to login in the CLI, so enter this command:
+After that, log in to GitHub CLI by entering this command:
 
 ```bash
 gh auth login
+```
+
+You can verify that you are logged in successfully by running:
+
+```bash
+gh auth status
+```
+
+Then save and run:
+
+```bash
+git diff
 ```
 
 Follow the instructions and we are ready!
