@@ -1,10 +1,13 @@
+- [Latha](https://github.com/Vyshnavi2026)"This is my first contribuatation on github
 - [starbaag](https://github.com/starbag)
 - [sveta](https://github.com/sergeigood)
 - [Saiq Kamran](https://github.com/SaiqKamran)
+- [Bharath](https://github.com/bharathchandragorli-spec/) MY CONTRIBUTION
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Punc](https://github.com/Punc1962)
 - [Adharsh K O](https://github.com/adharshko-369z)
 - [jiuze2007](https://github.com/jiuze2007)
+- [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 - [pardu](https://github.com/pardhusade77-commits/first-contributions.git)my first contribution
 -[eeshanth-sai](eeshanthsairajanala2009-creator) my first contribution...
@@ -31,6 +34,7 @@
 - [Komal](https://github.com/komal1101-ngs) My first Hacktober
 - [Komal](https://github.com/komal1101-ngs) My Trail
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
+-[veera-siva](https://github.com/veerasivapampana-cloud/)My first contribution to hacktoberfest
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
 -[chandu] (https://github.com/chanduanga) my first code...
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
@@ -40,6 +44,7 @@
 - [Stefan Petrovici](https://github.com/petrovicistefan)
 -[Manjusha](https://github.com/manjushapirati030) my first contribution
 -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first  contribution!
+-[ayyappa](https://github.com/rajuenduva-pixel)-hlo this is my first git!
 -[Ramcharan](git clone https://github.com/kodrothuramcharan327-code)-this my first git! 
 -[Mohan Krishna](https://github.com/mohankrishna2008vetsa-debug/)my first contribution in git
 -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
@@ -7107,6 +7112,8 @@ Hello xyz
 
 
 - KKA 😗
+- [Yumxl](https://github.com/yumxl)
+-[Thanuja](https://github.com/vootalakshmigovindam-netizen)
 - [Samet Findik](https://github.com/fndksamet)
 - [Kang Yue](https://github.com/yuekanga)
 - [Yumxl](https://github.com/yumxl)
@@ -7127,12 +7134,16 @@ Hello xyz
 https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[WuuGee](https://github.com/WuuGee)
 - [lan222222](https://github.com/lan222222) - my first contribution main
+- [AMIT PADHAN](https://github.com/amitpadhan525)
+- [mahesh babu](https://github.com/maheshbabutalabattula-lang)
 - [AMIT PADHAN](https://github.com/amitpadhan525) 
 -[hemanth](https://github.com/hemanthrambhukta-ops)
 - [Tran Quoc Phu](https://github.com/tranquocphuxl32-cell)
 
 [Milan Sharma](https://github.com/MilannSharma)
 [Aditya Pujari](https://github.com/lextleo)
+- [Vanshika Singh](https://github.com/VanshikaSingh888)
 [Shafique Kadri](https://github.com/Shafiquekadri)
 [dragpk247](https://github.com/dragpk247)
 - [Saranya](https://github.com/ippilisaranya84-cpu)  
+[prabha]https://github.com/prabhakatta12-oss/first-contributions.git
