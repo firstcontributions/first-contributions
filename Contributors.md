@@ -16,6 +16,7 @@
 [vijay](https://github.com/vijaykumarmungi7-droid) My first contribution
 - [sreekar](https://github.com/talankisai) Hello Git
 - [Komal](https://github.com/komal1101-ngs) My first Hacktober
+- [Komal](https://github.com/komal1101-ngs) My Trail
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
 -[chandu] (https://github.com/chanduanga) my first code...
