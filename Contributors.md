@@ -2,7 +2,8 @@
 - [Saiq Kamran](https://github.com/SaiqKamran)
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Punc](https://github.com/Punc1962)
-- [jiuze2007](https://github.com/jiuze2007
+- [Adharsh K O](https://github.com/adharshko-369z)
+- [jiuze2007](https://github.com/jiuze2007)
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 - [pardu](https://github.com/pardhusade77-commits/first-contributions.git)my first contribution
 -[eeshanth-sai](eeshanthsairajanala2009-creator) my first contribution...
