@@ -16,6 +16,7 @@
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Bhargav] (https://github.com/bhargavambati09-crypto/) My first contributions-Hackober
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
+- [Aditya Narayan Laha](https://github.com/ADxSD-143)
 -[veeru naidu] (https://github.com/singampalliveerunaidu-bit) My new contribution in this project
 -[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
 -[Sayyad Abu Basha] (https://github.com/abu-124/first-contributions_abu.git) My First contribution_2026
