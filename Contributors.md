@@ -15,8 +15,10 @@
 - [sreekar](https://github.com/talankisai) Hello Git
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
+-[chandu] (https://github.com/chanduanga) my first code...
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
+-[chandu](https://github.com/chanduanga/first-contributions.git) my first code....
 -[Sachin](https://github.com/sachingupta20097-cloud/)my first git !
 -[Manjusha](https://github.com/manjushapirati030) my first contribution
 -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first contribution!
