@@ -121,6 +121,7 @@ git push origin <add-your-name>
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="پل ریکویسٹ بنائیں" />
 
 <div dir="rtl"> اب پل درخواست جمع کروائیں. </div>
+یقینی بنائیں کہ بیس برانچ `main` ہے نہ کہ `master`.
 
 <img style="float: left;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="پل ریکویسٹ جمع کروائیں" />
 
