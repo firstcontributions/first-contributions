@@ -193,7 +193,7 @@ git push -u origin your-branch-name
 replacing `your-branch-name` with the name of the branch you created earlier.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>if you still get any errors while pushing, click here:</strong> </summary>
 
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
