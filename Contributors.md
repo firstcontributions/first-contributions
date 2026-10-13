@@ -7067,6 +7067,8 @@ Hello xyz
 
 
 - KKA 😗
+- [Samet Findik](https://github.com/fndksamet)
+- [Kang Yue](https://github.com/yuekanga)
 - [Yumxl](https://github.com/yumxl)
 - [Manasa](https://github.com/beesapumanasa14-code) — My first contribution 
 - [Lilima](https://github.com/lilima07)
