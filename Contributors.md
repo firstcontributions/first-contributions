@@ -7109,6 +7109,8 @@ Hello xyz
 - [Jakob Rozman](https://github.com/JakobR01)-
 -[Akash Gupta](https://github.com/guptaak1167-prog) - My first open-source contribution!
 - [BraveTonni](https://github.com/BraveTonni)
+- [Yumxl](https://github.com/yumxl)
+- [mani kanat](https://github.com/kmanikanta-mk)
 
 
 - KKA 😗
