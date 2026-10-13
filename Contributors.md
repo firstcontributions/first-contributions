@@ -36,6 +36,9 @@
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
 -YOU FIRST
 -[Hardik Maheshwari](https://github.com/X0T1CK-LY) --- Hey this is my first fork, kinda nervous
+-[Kishore Sirikonda](https://github.com/Kishoresirikonda)------my First contribution
+-[Kishore Sirikonda](https://github.com/Kishoresirikonda)------my Second contribution
+-[Kishore Sirikonda](https://github.com/Kishoresirikonda)------my third contribution
 -[bmscomp](https://bmscomp.github.io)
 -[Chaitanya](https://github.com/chaitanya103103/first-contributions) - Hello from Ambajogai...
 -[Azwa32]https://github.com/Azwa32/first-contributions ---Hello everyone---
