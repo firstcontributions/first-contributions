@@ -1,10 +1,11 @@
 - [Saiq Kamran](https://github.com/SaiqKamran)
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Punc](https://github.com/Punc1962)
-- [jiuze2007](https://github.com/jiuze2007)
+- [jiuze2007](https://github.com/jiuze2007
+- [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 - [pankaj-2708](https://github.com/pankaj-2708)
-- [manideep](https://github.com/firstcontributions/first-contributions.git)this is my first contribution
 - [surendra naidu](https://github.com/firstcontributions/first-contributions.git)this is my first contrubution
+-[manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)let's begain
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
