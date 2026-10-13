@@ -7125,3 +7125,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 
 [Milan Sharma](https://github.com/MilannSharma)
 [Aditya Pujari](https://github.com/lextleo)
+[Shafique Kadri](https://github.com/Shafiquekadri)
