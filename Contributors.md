@@ -6898,6 +6898,7 @@ Jd
 - [raghvendrasingh-01](https://github.com/raghvendrasingh-01) - My first open source contribution
 - [zakkelya](https://github.com/zakkelya) - Hello World!
 - [charlieleexz](https://github.com/charlieleexz)
+- [Amano](https://github.com/Amano-L) - Hello World!
 - [Spig100](https://github.com/Spig100)
 - [JenYang100989](https://github.com/JenYang891009)
 - [johnjohn1207](https://github.com/johnjohn1207) - first open source ya
@@ -6988,7 +6989,7 @@ Jd
 - [Md Danish](https://github.com/DanishDeveloper1) - Beginner to open source contribution.
 - [Tahmina Khanam](https://github.com/TahminaKhanNipa10-Codes)
  main
- -[smurfsexyv2] (https://github.com/salgincienis07) First open source contribution
+  -[smurfsexyv2] (https://github.com/salgincienis07) First open source contribution
 - [Tianyinmia](https://github.com/Tianyinmai) - When a story is about to end, we always think of its beginning -- "Hello World!"
 - [dingqiheng-6356](https://github.com/dingqiheng-6356)- My first open-source contribution!!!
 - [_tanmaya-os-odisha]
