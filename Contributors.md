@@ -1,9 +1,9 @@
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
 - [sreekar](https://github.com/talankisai) Hello Git
+- [komal](https://github.com/komal1101-ngs/) my first Contibution in  Hacktober fest
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
--[komal](https://github.com/komal1101-ngs/) my first Contibution in  Hacktober fest
 -[HADAS LUBIN](https://github.com/HADASLUB)
 [Esti Steinhous](https://github.com/e0548567836-cmd) my first open code!!!!!!!!!
 [Mahandar Khatri] (https://github.com/mk-2007) first open source contribution
