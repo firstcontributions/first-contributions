@@ -1,6 +1,7 @@
 - [Punc](https://github.com/Punc1962)
 - [jiuze2007](https://github.com/jiuze2007)
 - [pankaj-2708](https://github.com/pankaj-2708)
+- [manideep](https://github.com/firstcontributions/first-contributions.git)this is my first contribution
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Bhargav] (https://github.com/bhargavambati09-crypto/) My first contributions-Hackober
@@ -13,6 +14,7 @@
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
+-[Manjusha](https://github.com/manjushapirati030) my first contribution
 -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first contribution!
 -[Mohan Krishna](https://github.com/mohankrishna2008vetsa-debug/)my first contribution in git
 -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
@@ -76,7 +78,7 @@ Hi this is my first contribution
 Hi my name is Aung Khant Moe and this is my very first contribution on github.
 
 -[Yaren Deveci] (https://github.com/Yaren144)
-
+-[Aditya Kumbhar] (https://github.com/IMMORTAL-ADI)
 
 -[yvs-krishna](https://github.com/yvs-prasanna)
 -[Dhurgham Alsaadi](https://github.com/dhurghamCreation).
@@ -7072,7 +7074,10 @@ Hello xyz
 - [Sailu](https://github.com/sailendrakumar-sudo)
 - [Ashish](https://github.com/ashish7n)
 - [Bruchy](https://github.com/bruchy0548558789-arch)
+add-my-contribution
+- [srinu](https://github.com/srinutallavalasa25-hash)
 - [sailu2](https://github.com/sailendrakumar-sudo)
 - [harini02](https://github.com/Harinipaidisetti)
 https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[WuuGee](https://github.com/WuuGee)
+- [lan222222](https://github.com/lan222222) - my first contribution main
