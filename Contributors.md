@@ -7,6 +7,7 @@
 -[eeshanth-sai](eeshanthsairajanala2009-creator) my first contribution...
 - [pankaj-2708](https://github.com/pankaj-2708)
 - [obul-reddy](https://github.com/nallareddyobulreddy177-afk)hello world
+- [mary-amadi](https://github.com/maryokafor28)
 - [surendra naidu](https://github.com/firstcontributions/first-contributions.git)this is my first contrubution
 -[manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)let's begain
 - [Jeevan] (https://github.com/Sangchi-ui)
