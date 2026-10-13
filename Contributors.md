@@ -1,10 +1,10 @@
--[yeswanthgundu](https://github.com/yeswanthgundu) My first contribution to git
 - [Punc](https://github.com/Punc1962)
 - [jiuze2007](https://github.com/jiuze2007)
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
+- [yeswanthgundu](https://github.com/yeswanthgundu) My first contribution to gitbub hacktoberfest-2026
 - [sreekar](https://github.com/talankisai) Hello Git
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
