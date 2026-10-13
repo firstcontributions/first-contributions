@@ -12,6 +12,7 @@
 -[Sayyad Abu Basha] (https://github.com/abu-124/first-contributions_abu.git) My First contribution_2026
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
 [Manjith](https://github.com/narayanasettymanjith08-cmyk) My first contribution
+[vijay](https://github.com/vijaykumarmungi7-droid) My first contribution
 - [sreekar](https://github.com/talankisai) Hello Git
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
