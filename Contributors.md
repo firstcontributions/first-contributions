@@ -7074,6 +7074,14 @@ Hello xyz
 
 
 - KKA 😗
+ my-first-contribution
+ my-first-contribution
+- [Samet Findik](https://github.com/fndksamet)
+-[Reshma Adsul](https://github.com/reshma-adsul)Gonna try and learn
+
+- [Yumxl](https://github.com/yumxl)
+ main
+
 - [Samet Findik](https://github.com/fndksamet)
 - [Kang Yue](https://github.com/yuekanga)
 - [Yumxl](https://github.com/yumxl)
@@ -7094,3 +7102,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[WuuGee](https://github.com/WuuGee)
 - [lan222222](https://github.com/lan222222) - my first contribution main
 - [AMIT PADHAN](https://github.com/amitpadhan525) 
+ main
