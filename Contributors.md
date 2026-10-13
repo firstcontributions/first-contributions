@@ -2228,7 +2228,6 @@ Aalli
 -[Srishti K R](https://github.com/srishti-m-cmd)
 --[Anurag Pal](https://github.com/Anuxragg)
 - [Legus](https://github.com/Legus-Yeung)
-- [trivediaayush89-cell](https://github.com/trivediaayush89-cell)
 - [Mamilla R Anjali](https://github.com/Mamilla-R-Anjali)
 - [Alok Gupta](https://github.com/Alok-0601)
 - [Raghav Lath](https://github.com/Raghav09445)
