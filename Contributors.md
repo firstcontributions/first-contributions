@@ -28,6 +28,7 @@
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
 -[chandu](https://github.com/chanduanga/first-contributions.git) my first code....
 -[Sachin](https://github.com/sachingupta20097-cloud/)my first git !
+- [Stefan Petrovici](https://github.com/petrovicistefan)
 -[Manjusha](https://github.com/manjushapirati030) my first contribution
 -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first  contribution!
 -[Ramcharan](git clone https://github.com/kodrothuramcharan327-code)-this my first git! 
