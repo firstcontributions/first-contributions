@@ -7,6 +7,7 @@
 - [surendra naidu](https://github.com/firstcontributions/first-contributions.git)this is my first contrubution
 -[manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)let's begain
 - [Jeevan] (https://github.com/Sangchi-ui)
+- [N.V.S.manikanta] (https://github.com/nvsmanikanta2009-cell/hacktocteberfest.git) My first contributer
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 -[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
