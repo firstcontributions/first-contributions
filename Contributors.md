@@ -105,6 +105,7 @@ This is my first open source contribution.
 -#Abhishek Jha
 - [Vinay Kalva] (https://github.com/vinnu382910)``That my first open contribution on github
 - [Neha Sawant](https://github.com/nehasawant99)``That my first open contribution on github
+- [Aviraj Singh] 
 - [Mohith] (https://github.com/mohith2025) - That is my first open source contribution on github
 - sai sreekar(https://github.com/talankisai/first-contributions.git)This is my demo open contribution.
 - [Abdullah Bin Nasir](https://github.com/SheikhAbdullahNasir) -- Hi!, starting my open-source contribution journey from here
