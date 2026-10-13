@@ -31,6 +31,8 @@ git clone "kopyaladığınız-url"
 ```
 "kopyaladığınız-url" (tırnak işaretleri olmadan) yerine bu deponun GitHub sayfasından aldığınız linki kopyalayın.
 
+Not: git clone komutu, yazdığımız bağlantıdaki reponun bi kopyasını bilgisayara indirmemizi sağlayan komuttur.
+
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Bu bağlantının (linkin) URL adresini panoya kopyalayın" />
 
 Örneğin:
