@@ -3,6 +3,7 @@
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
+-[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
 - [sreekar](https://github.com/talankisai) Hello Git
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
