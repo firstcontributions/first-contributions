@@ -6821,7 +6821,7 @@ main
 - [Noah Kolda] (https://github.com/NoKolda98) Hello github!
 - [AlimKhaybulaev] (https://github.com/AlimKhaybulaev)
 -[Chaithra E] 
-
+- [Jingdi Zhou](https://github.com/WaldInsel) My first Contribution! :>
 
 Jd
 - [y0konad](https://github.com/y0konad) Full Stack Developer
