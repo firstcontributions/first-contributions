@@ -5,6 +5,7 @@
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
+-[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
 -[Sayyad Abu Basha] (https://github.com/abu-124/first-contributions_abu.git) My First contribution_2026
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
 [Manjith](https://github.com/narayanasettymanjith08-cmyk) My first contribution
@@ -7070,6 +7071,7 @@ Hello xyz
 - [Manasa](https://github.com/beesapumanasa14-code) — My first contribution 
 - [Lilima](https://github.com/lilima07)
 - [Sandeep](https://github.com/incognito-28)
+-[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
 - [keerthana](https://github.com/keerthana-chowdary-aiml) — My first contribution
 - [Sailu](https://github.com/sailendrakumar-sudo)
 - [Ashish](https://github.com/ashish7n)
