@@ -2,6 +2,7 @@
 - [jiuze2007](https://github.com/jiuze2007)
 - [pankaj-2708](https://github.com/pankaj-2708)
 - [Jeevan] (https://github.com/Sangchi-ui)
+- [N.V.S.manikanta] (https://github.com/nvsmanikanta2009-cell/hacktocteberfest.git) My first contributer
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 -[Sayyad Abu Basha] (https://github.com/abu-124/first-contributions_abu.git) My First contribution_2026
