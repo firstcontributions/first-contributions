@@ -231,6 +231,7 @@ Migeen Magar - let'sss gooooooo
 - [bharat karnik]
 - [cxl92](https://github.com/cxl92) - My first open-source contribution!!!
 - [ssarode1410](https://github.com/ssarode1410) - My first open source contribution, Let's go !!!
+- [Tyler M] - Hi!
 - [Ztirmau](https://github.com/ztirmau) - Its my firts public contribution! Let's go!
 - [chethan-kumar-FSE](https://github.com/chethan-kumar-FSE) - Let's get started with open source contribution .
 [Priyanshu Bhandari](https://github.com/bPriyanshu07)- This is my first contribution in Open Source [Hira Iftikhar]
