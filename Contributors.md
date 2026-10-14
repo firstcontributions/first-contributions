@@ -33,6 +33,7 @@
 - [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - mckayla ashley
 - Ankit Patel
+- [pkc0des](https://github.com/pkc0des)
 - [Vihaan](https://github.com/vdtp69-dev)
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 -[Harsha](https://github.com/chokkariharsha-py/)"contribution of hacktober"
