@@ -103,7 +103,7 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+## Clone the repository or open this project on Codespace
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
@@ -126,6 +126,13 @@ git clone git@github.com:this-is-you/first-contributions.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+
+### Open with Codespace
+
+<img align="right" width="300" src="assets/img/img_screen_code_space.png" alt="Image of the steps" />
+
+You can open the project olso on the Codespace of Github is a online code editor. You can access on this resource the following form:
+
 
 ## Create a branch
 
