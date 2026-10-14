@@ -7182,3 +7182,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [0nsku](https://github.com/0nsku)
 - [Leezi]
 - chanchalprajapati1457-design
+- [Morali-x](https://github.com/Morali-x)
