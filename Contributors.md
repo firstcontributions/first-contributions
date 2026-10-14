@@ -1,17 +1,26 @@
-
+-[Sirivennela](https://github.com/kancharlasirivennela723-pixel)"Thi is my first contribution on github"
+- [Sujal Negi](https://github.com/SujalNegi2007) - My First Contribution.
+- [yvs-prasanna-new] - This is my Contribution
+- [megaezgo] - mega mega mega
 - [mrmohdjbr](https://github.com/mrmohdjbr) - Study tip: Review notes after each class and practice regularly.
+- [Anita Demo 1014] -anita anita anita
+- [Vivien Demo 1014] -test1234
+- [Arjun Rathod](https://github.com/arjunrathod91)
 - [Latha](https://github.com/Vyshnavi2026)"This is my first contribuatation on github
 - [Mohammed Zaki Bhojani](https://github.com/mzb2599)"Trying open source contribution"
+ -[Rohith](https://github.com/gorlerohith2008-cmd/)"contribution"
 - [starbaag](https://github.com/starbag)
 - [sveta](https://github.com/sergeigood)
 - [Saiq Kamran](https://github.com/SaiqKamran)
 - [Bharath](https://github.com/bharathchandragorli-spec/) MY CONTRIBUTION
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
+- [Kevin] hello
 - [Punc](https://github.com/Punc1962)
 - [Adharsh K O](https://github.com/adharshko-369z)
 - [jiuze2007](https://github.com/jiuze2007)
 - [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - mckayla ashley
+- Ankit Patel
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 - [pardu](https://github.com/pardhusade77-commits/first-contributions.git)my first contribution
 -[eeshanth-sai](eeshanthsairajanala2009-creator) my first contribution...
@@ -24,6 +33,7 @@
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [N.V.S.manikanta] (https://github.com/nvsmanikanta2009-cell/hacktocteberfest.git) My first contributer
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
+-[Swaroop](https://github.com/swaroopgupta52-commits/gupta-16) My first contribution in hacktober
 -[Bhargav] (https://github.com/bhargavambati09-crypto/) My first contributions-Hackober
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 -[veeru naidu] (https://github.com/singampalliveerunaidu-bit) My new contribution in this project
@@ -37,6 +47,7 @@
 - [Sahithi](https://github.com/dhavalisahithi466) My First Contribution
 [Lokeshwar](https://github.com/Lokeshwar07-hub) My First Contribution 
 - [sreekar](https://github.com/talankisai) Hello Git
+- [korraimaheshbabu60-max](https://github.com/korraimaheshbabu60-max) My first contribution
 - [Komal](https://github.com/komal1101-ngs) My first Hacktober
 - [Komal](https://github.com/komal1101-ngs) My Trail
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
@@ -66,6 +77,7 @@
 [DEVORA KELETI](https://github.com/dvori27385)
 -[Rajalakshmi K](https://github.com/rajideepa2009-ui)
 -[Youssef Halawany](https://github.com/y0usefhalawany)
+-[Eunhoc2](https://github.com/Eunhoc2)
 -[cucumba44](https://github.com/cucumba44/first-contributions)
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
 -YOU FIRST
@@ -108,7 +120,7 @@ Im Fabio Uvinha
 Hi myself Anish A R this is my first contribution. Lets see where life takes me in these years.
 --[https://github.com/pathananas2007] 
 hi guys
-
+-[Simply significant](https://github.com/simplysignificant/first-contributions)
 -[Max Kaiser](https://github.com/maxkaiser11)
 Hi this is my first contribution 
 
@@ -118,7 +130,7 @@ Hi this is my first contribution
 Hi my name is Aung Khant Moe and this is my very first contribution on github.
 -[dev-clam](https://github.com/dev-clam)
 This is my first open source contribution.
-
+-[Vinsent Boiar](https://github.com/Vinsent2405) Glubako Tyrnir Jojo Kaguya
 -[Yaren Deveci] (https://github.com/Yaren144)
 -[Aditya Kumbhar] (https://github.com/IMMORTAL-ADI)
 -[Amaravathi Abuthiren] (https://github.com/SimplySignificant )
@@ -3498,6 +3510,7 @@ andrewcodess
 - [HaidarAbbas](https://github.com/Haidarabbas731)
 - [Haiqal Hasly](https://github.com/haiqalhasly)
 - [Hamad Ullah](https://github.com/hammadaiy/)
+- [cheube54](https://github.com/cheube54)
 - [Han](https://github.com/vy088473)
 - [Haneesh Reddy](https://github.com/Haneesh99)
 - [Hannah Bee] (https://github.com/hanbeecodes)
@@ -7157,3 +7170,5 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 [prabha]https://github.com/prabhakatta12-oss/first-contributions.git
 [ferdos](https://github.com/Ferdos98)
 - [Gede Bagus Wirayasa](https://github.com/HatsuharuYasa)
+- [0nsku](https://github.com/0nsku)
+- [Leezi]
