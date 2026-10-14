@@ -24,6 +24,7 @@
 - [Jeevan] (https://github.com/Sangchi-ui)
 - [N.V.S.manikanta] (https://github.com/nvsmanikanta2009-cell/hacktocteberfest.git) My first contributer
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
+-[Swaroop](https://github.com/swaroopgupta52-commits/gupta-16) My first contribution in hacktober
 -[Bhargav] (https://github.com/bhargavambati09-crypto/) My first contributions-Hackober
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 -[veeru naidu] (https://github.com/singampalliveerunaidu-bit) My new contribution in this project
