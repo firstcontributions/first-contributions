@@ -3498,7 +3498,6 @@ andrewcodess
 - [H-crowe](https://github.com/H-crowe)
 - [Hafsa Irfan](https://github.com/hafxa)
 - [HaidarAbbas](https://github.com/Haidarabbas731)
-- [dagechengryc-gif](https://github.com/dagechengryc-gif) My first contribution!
 - [Haiqal Hasly](https://github.com/haiqalhasly)
 - [Hamad Ullah](https://github.com/hammadaiy/)
 - [cheube54](https://github.com/cheube54)
@@ -7161,4 +7160,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 [prabha]https://github.com/prabhakatta12-oss/first-contributions.git
 [ferdos](https://github.com/Ferdos98)
 - [0nsku](https://github.com/0nsku)
-Leezi
+- [Leezi]
