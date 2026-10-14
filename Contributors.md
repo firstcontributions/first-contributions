@@ -12,6 +12,7 @@
 - [jiuze2007](https://github.com/jiuze2007)
 - [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - mckayla ashley
+- Ankit Patel
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 - [pardu](https://github.com/pardhusade77-commits/first-contributions.git)my first contribution
 -[eeshanth-sai](eeshanthsairajanala2009-creator) my first contribution...
