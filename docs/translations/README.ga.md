@@ -107,7 +107,7 @@ agus cuir `your-branch-name` do snátha a chruthaigh tú roimhe seo.
 - ### Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
 </details>
@@ -135,7 +135,7 @@ Comhghairdeas! Chríochnaigh tú an tslí ríthábhachtach  _fork -> clone -> ed
 
 Ceiliúraigh do chionta agus roinne é le do chairde agus le do leanúnaigh trí dul go dtí an aip ghréasáin. [web app](https://firstcontributions.github.io/#social-share).
 
-Más mian leat níos mó cleachtas, seiceáil. [code contributions](https://roshanjossey.github.io/code-contributions/).
+Más mian leat níos mó cleachtas, seiceáil. [code contributions](https://github.com/roshanjossey/code-contributions).
 
 
 Anois, lig dúinn tú a thosú ag tacú le tionscadail eile. Tá liosta againn de thionscadail le faidhéideanna éasca a d'fhéadfá tosú orthu. Féach ar liosta na dtionscadal san aip ghréasáin.

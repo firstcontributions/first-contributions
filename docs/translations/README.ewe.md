@@ -9,7 +9,7 @@ Esesẽna ɣesiaɣi ne èwɔ nane zi gbãtɔ.Vɔvɔ̃ be yeawɔ vodadawo meɖea 
 
 Nyatiwo kple nufiamewo xexlẽ ate ŋu akpe ɖe ŋuwò, gake nukae nyo wu be nàdze agbagba eye màte ŋu awɔ vodada o? Dɔ sia ƒe taɖodzinue nye be wòana mɔfiame eye wòana alesi dɔsrɔ̃viwo wɔa woƒe nudzɔdzɔ gbãtɔ nanɔ bɔbɔe.Ðo ŋku edzi be: zi alesi nèfa tu la, zi nenemae nèsrɔ̃a nu nyuie wu.Ne èdi vevie be yeadzɔ nu gbãtɔ la, ɖeko nàwɔ ɖe afɔɖeɖe siawo dzi.Medo ŋugbe be anye modzakaɖeɖe.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ŋe asi ɖe nu sia ŋu" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Wɔ nudzraɖoƒe sia ƒe kɔpi" />
 
 Ne git mele wò kɔmpiuta dzi o, [ tsɔe de wò kɔmpiuta dzi ]( https://help.github.com/articles/set-up-git/ ).
 
@@ -20,7 +20,7 @@ Esia ana be woaŋlɔ nyatakaka siwo le nyatakakadzraɖoƒea ɖe wò asitelefon d
 
 ## Wɔ numekugbalẽvi sia ƒe kɔpi
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Wɔ numekugbalẽvi sia ƒe kɔpi" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Kɔpi nudzraɖoƒe sia" />
 
 Azɔ wɔ agbalẽdzraɖoƒe sia ƒe nɔnɔmetata ɖe wò kɔmpiuta dzi. Zi clone ƒe dzesi dzi emegbe nàzi dzesi la dzi</b> *kɔpi ɖe agbalẽƒomɔ̃ me*.
 
@@ -31,7 +31,7 @@ git clone "url si nèwɔ kɔpi na fifia"
 ```
 afisi "url si nèwɔ kɔpi teti koe nye ema" (si me nyayɔyɔawo mele o) nye url si le agbalẽdzraɖoƒea. Kpɔ akpa si do ŋgɔ be nàxɔ url la.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kpia URL la ɖe clipboard me" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Kɔpi URL la ɖe clipboard me" />
 
 Le kpɔɖeŋu me :
 ```bash
@@ -59,7 +59,11 @@ git checkout -b add-abdou-raouf-atarmla
 
 ## Wɔ tɔtrɔ siwo hiã eye nàtsɔ wo ana
 
-Azɔ ʋu nuŋlɔɖia `Contributors.md` de wò ŋkɔ ɖe etame eye nàŋlɔe ɖi. Ne èʋu sedede ƒe nyatakakadzraɖoƒea eye nèwɔ sededea  `git status`, àkpɔe be tɔtrɔwo li. Tsɔ tɔtrɔ siawo kpe ɖe alɔdze si nèwɔ fifia kple sededea ŋu  `git add` :
+Azɔ ʋu nuŋlɔɖia `Contributors.md` de wò ŋkɔ ɖe etame eye nàŋlɔe ɖi.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="Git ƒe nɔnɔme" />
+
+Ne èʋu sedede ƒe nyatakakadzraɖoƒea eye nèwɔ sededea  `git status`, àkpɔe be tɔtrɔwo li. Tsɔ tɔtrɔ siawo kpe ɖe alɔdze si nèwɔ fifia kple sededea ŋu  `git add` :
 ```bash
 git add Contributors.md
 ```
@@ -82,11 +86,11 @@ tsɔ alɔdze si wowɔ va yi ƒe ŋkɔ ɖɔli `<wò-ŋkɔ>`.
 
 Ne èyi wò nudzraɖoƒe le Github la, àkpɔ `Compare & pull request` ƒe dzesi. Zi dzesi sia dzi.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Wɔ pull request aɖe." />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="Wɔ Pull Request aɖe" />
 
 Azɔ tsɔ hehe ƒe biabiaa ɖo ɖa.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Fia pull request la ɖa." />
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Ɖo Pull Request la ɖa" />
 
 Eteƒe madidi o, maƒo miaƒe tɔtrɔwo katã nu ƒu ɖe dɔ sia ƒe alɔdze vevitɔ me. Àxɔ nyatakaka to e-mail dzi ne wonya wu ƒoƒo ɖekae nu ko.
 
@@ -137,4 +141,5 @@ Esia mehiã o, gake alɔdzedɔwɔƒea ƒe ŋkɔ ɖee fia be eƒe taɖodzinua nye
 
 ## Afikae míayi emegbe?
 
-Àte ŋu awɔ ɖeka kple míaƒe ƒuƒoƒoa hã le Slack nenye be èhiã kpekpeɖeŋu alo nyabiase aɖewo le asiwò.  [Wɔ ɖeka kple ƒuƒoƒoa le Slack dzi](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
+Ne èdi be nàkpɔ alesi nàte ŋu akpe ɖe dɔ sia ŋu le nu bubuwo me, kpɔ kɔdɔwo ƒe kpekpeɖeŋu siwo le agbalẽdzraɖoƒe sia me.
+[Kpɔ alesi nàte ŋu akpe ɖe kɔdɔ ŋu](https://github.com/roshanjossey/code-contributions)

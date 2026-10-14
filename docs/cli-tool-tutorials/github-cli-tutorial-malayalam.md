@@ -1,7 +1,3 @@
-
-
-
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 [![ലൈസൻസ്: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -92,5 +88,3 @@ git push origin <branch-name>
 അത് അമർത്തി **Pull Request** തുറക്കുക. 🎉
 
 ---
-
- വേണോ ഞാൻ മുഴുവൻ ഗൈഡും (പിന്നിലെ pull request ഭാഗം വരെ) മലയാളത്തിലേക്ക് convert ചെയ്ത് തരട്ടേ?

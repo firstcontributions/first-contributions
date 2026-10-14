@@ -1,5 +1,4 @@
 [![Αγάπη για το Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![Άδεια: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Βοηθοί Open Source](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -93,7 +92,6 @@ gh pr create --repo firstcontributions/first-contributions
 
 ρμογής](https://firstcontributions.github.io/#social-share).
 
-Μπορείτε να εγγραφείτε στην ομάδα μας στο Slack αν χρειάζεστε βοήθεια ή έχετε οποιεσδήποτε ερωτήσεις. [Εγγραφή στην ομάδα Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-vchl8cde-S0KstI_jyCcGEEj7rSTQiA).
 
 Τώρα ας ξεκινήσουμε με τη συνεισφορά σας σε άλλα έργα. Έχουμε συγκεντρώσει μια λίστα με έργα με εύκολα ζητήματα με τα οποία μπορείτε να ξεκινήσετε. Ρίξτε μια ματιά στη [λίστα των έργων στην ιστοσελίδα εφαρμογής](https://firstcontributions.github.io/#project-list).
 

@@ -72,4 +72,4 @@ Use this with caution! It deletes the branch even if it has unmerged changes.
 
 ## Additional Resources
 - [Git Branching Guide (Atlassian)](https://www.atlassian.com/git/tutorials/using-branches)
-- [Removing a Branch from Your Repository](https://github.com/jashnimje/first-contributions/blob/7dcae72208e4b42fcf834b4f189fa8ee78238077/additional-material/git_workflow_scenarios/removing-branch-from-your-repository.md)
+- [Removing a Branch from Your Repository](removing-branch-from-your-repository.md)

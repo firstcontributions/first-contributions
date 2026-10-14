@@ -48,16 +48,16 @@ Pindah ke direktori repositori yang terdapat pada komputer Anda (jika Anda belum
 cd first-contributions
 ```
 
-Sekarang buatlah sebuah _branch_ menggunakan perintah `git checkout`:
+Sekarang buatlah sebuah _branch_ menggunakan perintah `git switch`:
 
 ```
-git checkout -b <tambahkan-nama-branch-baru>
+git switch -c <tambahkan-nama-branch-baru>
 ```
 
 Contohnya:
 
 ```
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 <details>
@@ -100,7 +100,7 @@ Ubah bagian `<nama-anda>` dengan nama Anda.
 _Push_ perubahan menggunakan perintah `git push`:
 
 ```
-git push origin <tambahkan-nama-cabang-baru>
+git push -u origin <tambahkan-nama-cabang-baru>
 ```
 
 ganti bagian `<tambahkan-nama-cabang-baru>` dengan nama cabang yang sebelumnya Anda buat.
@@ -109,11 +109,9 @@ ganti bagian `<tambahkan-nama-cabang-baru>` dengan nama cabang yang sebelumnya A
 <summary> <strong>Jika Anda mendapatkan kesalahan saat melakukan <i>push</i>, klik disini:</strong> </summary>
 
 - ### Kesalahan Autentikasi
-
-       <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-
+  <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
   Buka [tutorial GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) untuk menghasilkan dan mengkonfigurasi sebuah kunci SSH ke akun Anda.
 
   Jika kelihatannya seperti ini:
