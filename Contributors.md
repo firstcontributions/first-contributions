@@ -1,4 +1,4 @@
-
+-[Aaron](https://github.com/aaron-fareed) "This is my first project"
 -[kalyan](https://github.com/kalyan08-hub)"this is my first project"
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
@@ -207,6 +207,7 @@ Migeen Magar - let'sss gooooooo
 - [Ugwunweze Eze C.](https://github.com/ChidiebubeUgwunweze) Hi future 👋😊. This is my first Open Source Contribution. 
 - [Simran Bajaj](https://github.com/simranbajaj06) My first open source contribution😊
 - [Tirth Patel](https://github.com/Tirthpatel20)  Hey!!, This is my first open source contribution 11-10-2026
+- [Rishabh Sharma](https://github.com/rishabhsharma33) Hi, this is my first open source contribution!
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
 - [Aditya Rai](https://github.com/aditya-rai-5) --hello world!!!
 - - [Raushan Kumar](https://github.com/anurohan) - My first open-source contribution!
@@ -214,6 +215,7 @@ Migeen Magar - let'sss gooooooo
 - [Achiknight](https://github.com/Achiknight) - first open source contribution
 - [krishnakasaudhan](https://github.com/krishnakasaudhan) - My first open source contribution . i want to be a software developer and i will become the best developer over time ! 
 - [Guilherme Canina](https://github.com/GuilhermeCanina) - Olaaa, minha primeira contribuicao, quero entender e melhorar 
+- [Kareem Abdelrahman](https://github.com/Kareem-opps) - My first open source contribution😊❤️
 - [Karolina Zuber](https://github.com/Platyniak) - Czołem Wszystkim poczatkujacym :fire: :monocle_face: :)
 - [Shivansh Garg](https://github.com/shivansh1251) - Hiii,Bonjour! my first contribution, 4-10-2026
 - [Manmohit Bisht](https://github.com/manmohit-bisht) - Hello, my first open source contribution !!
@@ -3660,6 +3662,7 @@ andrewcodess
 - [Johnny Dunal](https://github.com/johnnydunal)
 - [Avi Mathur](https://github.com/avi-mathur-007)
 - [Johny Tran](https://github.com/EarliestHippo27)
+- [johnyjohnyeee-dot](https://github.com/johnyjohnyeee-dot)
 - [Jonmino](https://github.com/jonmino)
 - [Josman Dev](https://github.com/jmaldama8110)
 - [Joseph Lucas (Gert)](https://github.com/Joseph-Ramon-Lucas)
@@ -7149,7 +7152,7 @@ Hello xyz
 - [Yumxl](https://github.com/yumxl)
 - [mani kanat](https://github.com/kmanikanta-mk)
 
-
+- [mukul khanna] (https://github.com/crusader-knight)
 - KKA 😗
 - [Yumxl](https://github.com/yumxl)
 -[Thanuja](https://github.com/vootalakshmigovindam-netizen)
@@ -7197,3 +7200,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [João Pereira](https://github.com/pereiraa900)
 
 - [Eugene](https://github.com/Fineturkey)
+
+- [Pragyan Neupane](https://github.com/neupanepragyan)
+
+- [Hasini](https://github.com/hasinirouthu15-cpu)
