@@ -1,10 +1,14 @@
+
 -[kalyan](https://github.com/kalyan08-hub)"this is my first project"
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
+- [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
+- [@shlokgit-04](https://github.com/shlokgit-04)
 -[Vamsi](https://github.com/kambapuvamsi1845-cloud/)
 -[Sirivennela](https://github.com/kancharlasirivennela723-pixel)"Thi is my first contribution on github"
 - [Sujal Negi](https://github.com/SujalNegi2007) - My First Contribution.
 - [yvs-prasanna-new] - This is my Contribution
 - [megaezgo] - mega mega mega
+-[shanmukh](https://github.com/SHANMUKH-WEB)
 - [mrmohdjbr](https://github.com/mrmohdjbr) - Study tip: Review notes after each class and practice regularly.
 - [Anita Demo 1014] -anita anita anita
 - [Vivien Demo 1014] -test1234
@@ -14,13 +18,16 @@
  -[Rohith](https://github.com/gorlerohith2008-cmd/)"contribution"
 - [starbaag](https://github.com/starbag)
 - [sveta](https://github.com/sergeigood)
+- [Neethu](https://github.com/neethureddysettipalli)
 - [Saiq Kamran](https://github.com/SaiqKamran)
 - [Bharath](https://github.com/bharathchandragorli-spec/) MY CONTRIBUTION
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Kevin] hello
+- [MaxNoahLukas](https://github.com/HackerMaske) I feel like a real programmer now
 - [Punc](https://github.com/Punc1962)
 - [Adharsh K O](https://github.com/adharshko-369z)
 - [jiuze2007](https://github.com/jiuze2007)
+-Avishkar saste 
 - [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - mckayla ashley
 - Ankit Patel
@@ -7169,6 +7176,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [mahesh babu](https://github.com/maheshbabutalabattula-lang)
 - [AMIT PADHAN](https://github.com/amitpadhan525) 
 -[hemanth](https://github.com/hemanthrambhukta-ops)
+- [varun vaddi](https://github.com/varunvaddi07-a11y)
 - [Tran Quoc Phu](https://github.com/tranquocphuxl32-cell)
 
 [Milan Sharma](https://github.com/MilannSharma)
@@ -7183,3 +7191,5 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [0nsku](https://github.com/0nsku)
 - [Leezi]
 - chanchalprajapati1457-design
+- [Morali-x](https://github.com/Morali-x)
+- [João Pereira](https://github.com/pereiraa900)
