@@ -22,7 +22,6 @@
 - mckayla ashley
 - Ankit Patel
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
-- [pardu](https://github.com/pardhusade77-commits/first-contributions.git)my first contribution -[eeshanth-sai](eeshanthsairajanala2009-creator) my first contribution...
 - [pankaj-2708](https://github.com/pankaj-2708)
 - [obul-reddy](https://github.com/nallareddyobulreddy177-afk)hello world
 - [mary-amadi](https://github.com/maryokafor28)
@@ -37,13 +36,10 @@
 - [Sahithi](https://github.com/dhavalisahithi466) My First Contribution
   [Lokeshwar](https://github.com/Lokeshwar07-hub) My First Contribution
 - [sreekar](https://github.com/talankisai) Hello Git
+- [chilukuririshi-gif](https://github.com/chilukuririshi-gif) it's my first contribution
 - [korraimaheshbabu60-max](https://github.com/korraimaheshbabu60-max) My first contribution
 - [Komal](https://github.com/komal1101-ngs) My first Hacktober
-- [Komal](https://github.com/komal1101-ngs) My Trail -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution -[veera-siva](https://github.com/veerasivapampana-cloud/)My first contribution to hacktoberfest -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution -[chandu] (https://github.com/chanduanga) my first code...
-- [chengyuanz0519-code](https://github.com/chengyuanz0519-code) -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO... -[chandu](https://github.com/chanduanga/first-contributions.git) my first code.... -[Sachin](https://github.com/sachingupta20097-cloud/)my first git !
-- [Stefan Petrovici](https://github.com/petrovicistefan) -[Manjusha](https://github.com/manjushapirati030) my first contribution -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first contribution! -[ayyappa](https://github.com/rajuenduva-pixel)-hlo this is my first git! -[Ramcharan](git clone https://github.com/kodrothuramcharan327-code)-this my first git! -[Mohan Krishna](https://github.com/mohankrishna2008vetsa-debug/)my first contribution in git -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git -[HADAS LUBIN](https://github.com/HADASLUB)
-  [Esti Steinhous](https://github.com/e0548567836-cmd) my first open code!!!!!!!!!
-  [Mahandar Khatri] (https://github.com/mk-2007) first open source contribution
+
 - [Ritesh Singh] (https://github.com/Ritesh-977) -- My first Contributions
 - [Esti](https://github.com/3256483-lab) -[Aditya Kumar](https://github.com/Aditya-kumar-yadav)-- Hello world. Aditya Kumar here, pushing my first open-source commit. Every long game starts with a single move; let's see where my final PR eventually lands -[Nandini Singh](https://github.com/Nandinisingh-05) - Hi, this is my first contribution! -[surajorg48](https://github.com/surajorg48) -[Pablo Ribeiro](https://github.com/PabLoSWeB)
   [DEVORA KELETI](https://github.com/dvori27385) -[Rajalakshmi K](https://github.com/rajideepa2009-ui) -[Youssef Halawany](https://github.com/y0usefhalawany) -[Eunhoc2](https://github.com/Eunhoc2) -[cucumba44](https://github.com/cucumba44/first-contributions) -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
@@ -158,6 +154,7 @@ This is my first open source contribution. -[Vinsent Boiar](https://github.com/V
 - [bharat karnik]
 - [cxl92](https://github.com/cxl92) - My first open-source contribution!!!
 - [ssarode1410](https://github.com/ssarode1410) - My first open source contribution, Let's go !!!
+- [Tyler M] - Hi!
 - [Ztirmau](https://github.com/ztirmau) - Its my firts public contribution! Let's go!
 - [chethan-kumar-FSE](https://github.com/chethan-kumar-FSE) - Let's get started with open source contribution .
   [Priyanshu Bhandari](https://github.com/bPriyanshu07)- This is my first contribution in Open Source [Hira Iftikhar]
