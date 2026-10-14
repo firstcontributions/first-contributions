@@ -14,6 +14,7 @@
 -[Bhargav] (https://github.com/bhargavambati09-crypto/) My first contributions-Hackober
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 -[veeru naidu] (https://github.com/singampalliveerunaidu-bit) My new contribution in this project
+-[samit] (https://github.com/singisettisamitchandra-stack) this is my first contribution
 -[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
 -[Sayyad Abu Basha] (https://github.com/abu-124/first-contributions_abu.git) My First contribution_2026
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
