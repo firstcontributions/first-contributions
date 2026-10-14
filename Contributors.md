@@ -7170,6 +7170,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [mahesh babu](https://github.com/maheshbabutalabattula-lang)
 - [AMIT PADHAN](https://github.com/amitpadhan525) 
 -[hemanth](https://github.com/hemanthrambhukta-ops)
+- [varun vaddi](https://github.com/varunvaddi07-a11y)
 - [Tran Quoc Phu](https://github.com/tranquocphuxl32-cell)
 
 [Milan Sharma](https://github.com/MilannSharma)
