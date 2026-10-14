@@ -7194,3 +7194,5 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - chanchalprajapati1457-design
 - [Morali-x](https://github.com/Morali-x)
 - [João Pereira](https://github.com/pereiraa900)
+
+- [Eugene](https://github.com/Fineturkey)
