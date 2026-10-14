@@ -7196,5 +7196,6 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [João Pereira](https://github.com/pereiraa900)
 
 - [Eugene](https://github.com/Fineturkey)
--[Pragyan Neupane](https://github.com/neupanepragyan)
+
+- [Pragyan Neupane](https://github.com/neupanepragyan)
 
