@@ -164,6 +164,10 @@ git checkout -b your-new-branch-name
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
+> **Note for Beginners:** If you are unsure whether to use a GUI (like GitHub Desktop) or the Git CLI, we recommend using the command line for this tutorial. On Windows, please specifically open **Git Bash** to run these commands.
+
+> **💡 Tip for VS Code Users:** Make sure your single line of text doesn't accidentally become multiple lines visually due to 'Word Wrap'. You can toggle Word Wrap by pressing `Alt + Z` (Windows) or `Option + Z` (Mac) to ensure your addition remains strictly one logical line before committing.
+
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
