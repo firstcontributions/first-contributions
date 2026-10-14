@@ -207,6 +207,7 @@ Migeen Magar - let'sss gooooooo
 - [Ugwunweze Eze C.](https://github.com/ChidiebubeUgwunweze) Hi future 👋😊. This is my first Open Source Contribution. 
 - [Simran Bajaj](https://github.com/simranbajaj06) My first open source contribution😊
 - [Tirth Patel](https://github.com/Tirthpatel20)  Hey!!, This is my first open source contribution 11-10-2026
+- [Rishabh Sharma](https://github.com/rishabhsharma33) Hi, this is my first open source contribution!
 - [Tanushri Bamane](https://github.com/tanushribamane) -- 𝙃𝙚𝙡𝙡𝙤 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙤𝙧𝙨 👋😊
 - [Aditya Rai](https://github.com/aditya-rai-5) --hello world!!!
 - - [Raushan Kumar](https://github.com/anurohan) - My first open-source contribution!
