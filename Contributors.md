@@ -1,4 +1,5 @@
 - [phani](https://github.com/phani77726-hub)"This is my first contribution on github open resource
+-[Challa Jaswanth](https://github.com/ChallaJaswanth-jpg)"This is my first open source contribution on github
 - [DeviPrasad] (https://ithub.com/dsp-code-enthusiastgit)"This is my first open source contribution on github here for the first time"
 - [VarunSandesh](https://github.com/varunsandesh0425-VK) "This is my first open source contribution on github"
 -[somendra dixit] (https://github.com/somendra-dixit1120) "This is my first contribution for the project"
@@ -545,7 +546,6 @@ Arc hie Boswelll
 - [Sangmesh Bailannavar](https://github.com/sangmeshbailannavar10)
 -[2HB25CS105](https://github.com/2HB25CS105)
 -[fujisaki henry](https://github.com/henri-quereis)
--
 - [walakesanika371](https://github.com/walakesanika371)
 - [2HB25CS091] (https://github.com/2HB25CS091)
 - [dearsvag132](https://github.com/dearsvag132)
