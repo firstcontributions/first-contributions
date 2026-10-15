@@ -885,6 +885,7 @@ github.com/zeeshan2266
 - [Mhamad Mostafa](https://github.com/moudzx)
 - [Vishwanth Prathi](https://github.com/vishawanthprathi-eng/first-contributions.git)
 - [Ayesha Zaheer](https://github.com/Ayesha-zaheer-123)
+- [Pratik Wani](https://github.com)
 - [vishal kumar sinha](https://github.com/vishalsinha1602)
 - [Leonid Shraybman](https://github.com/lshraybman)
 - [Abhinab Chhetri](https://github.com/ABHINAB-CHHETRI)
