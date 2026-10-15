@@ -1,4 +1,5 @@
-- [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
+-[Asiya](https://github.com/shaikasiya1209-rgb)"this is my first open source contribution on github"
+ -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Vamsi](https://github.com/kambapuvamsi1845-cloud/)
 -[Sirivennela](https://github.com/kancharlasirivennela723-pixel)"Thi is my first contribution on github"
 - [Sujal Negi](https://github.com/SujalNegi2007) - My First Contribution.
@@ -228,7 +229,7 @@ Migeen Magar - let'sss gooooooo
 - [abdulwahid](https://github.com/abduIwahid)
 - [Abhinav Karthik Sripada](https://github.com/abhinavkarthiksripada-prog/first-contributions.git) - My first open-source contribution. Let us see how far I can go.
 - [Syed Alauddin Bukhari](https://github.com/syedbuk)- Yo, My Fourth Contribution to Open Source?.
-- [Preeti Singh](https://github.com/Pr241singh/first-contributions) - Hello! my first contribution.
+- [Preeti Singh](https://github.comgi/Pr241singh/first-contributions) - Hello! my first contribution.
 - [Pablo Guzman](https://github.com/urMix) - Hello! my first contribution.
 - [Tanja Zwergnase](https://github.com/Tanjazwergnase-ui) - Hallo! Ich bin auch da!
 - [Artur Fedosiuk](https://github.com/artur-fedosiuk) - My first open-source contribution!
