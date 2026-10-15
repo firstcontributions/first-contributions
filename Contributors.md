@@ -1,4 +1,5 @@
-- [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
+-[avinashkukkala373-cyber](https://github.com/firstcontributions/first-contributions.git)-- Hello world! This is avinash - It's my first open-source contribution.I'm an aiml student learning software engineering, and this Project is my first step into open source. Looking forward to contributing more!
+ [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Vamsi](https://github.com/kambapuvamsi1845-cloud/)
 -[Sirivennela](https://github.com/kancharlasirivennela723-pixel)"Thi is my first contribution on github"
 - [Sujal Negi](https://github.com/SujalNegi2007) - My First Contribution.
