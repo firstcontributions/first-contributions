@@ -2,6 +2,7 @@
 -[laxmiram](https://github.com/balukota9494-sudo)
 [Abdul Haq](https://github.com/Haque-98)
 -[bhanu](https://github.com/samudralabhanuteja65-ctrl)"This is my first open souece contribution"
+[Yash]will become great
 -[Pabitra](https://github.com/Pabitraojha)
 -[Anusha](https://github.com/bharaiahchattu)''This is my first open source contribution on github 
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
@@ -110,6 +111,7 @@
 - [Stefan Petrovici](https://github.com/petrovicistefan)
 -[Manjusha](https://github.com/manjushapirati030) my first contribution
 -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first  contribution!
+-[uday](https://github.com/udayseeram1020-jpg)-hi this is my first hackathon$
 -[ayyappa](https://github.com/rajuenduva-pixel)-hlo this is my first git!
 -[Ramcharan](git clone https://github.com/kodrothuramcharan327-code)-this my first git!
 -[bhavesh](https://github.com/gidijalabhavesh)-this is my first hackathon$ 
@@ -7264,3 +7266,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 
 - [Sweeta-w](https://github.com/Sweeta-w) " This is my first open source contribution"
 - [mourya chandan](https://github.com/momuryachandan)
+- [Divyatej](https://github.com/divyatej2009-debug)
