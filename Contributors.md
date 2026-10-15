@@ -7273,3 +7273,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Qu](https://github.com/qskOnly) "这是我的第一次开源贡献!很开心."
 - [Divyatej](https://github.com/divyatej2009-debug)
 - [mourya chandan](https://github.com/momuryachandan)
+- [Nevil Amraniya](https://github.com/nevil-codes)
