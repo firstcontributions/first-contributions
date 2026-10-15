@@ -1,4 +1,4 @@
-- [phani](https://github.com/phani77726-hub)"This is my first contribution on github
+- [phani](https://github.com/phani77726-hub)"This is my first contribution on github open resource
 "
 - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Vamsi](https://github.com/kambapuvamsi1845-cloud/)
