@@ -110,6 +110,7 @@
 - [Stefan Petrovici](https://github.com/petrovicistefan)
 -[Manjusha](https://github.com/manjushapirati030) my first contribution
 -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first  contribution!
+-[uday](https://github.com/udayseeram1020-jpg)-hi this is my first hackathon$
 -[ayyappa](https://github.com/rajuenduva-pixel)-hlo this is my first git!
 -[Ramcharan](git clone https://github.com/kodrothuramcharan327-code)-this my first git!
 -[bhavesh](https://github.com/gidijalabhavesh)-this is my first hackathon$ 
