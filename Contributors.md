@@ -7265,5 +7265,6 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - - [Ziaul Hoque Ripon](https://github.com/zhbdripon) - just testing it
 
 - [Sweeta-w](https://github.com/Sweeta-w) " This is my first open source contribution"
-- [mourya chandan](https://github.com/momuryachandan)
+- [Qu](https://github.com/qskOnly) "这是我的第一次开源贡献!很开心."
 - [Divyatej](https://github.com/divyatej2009-debug)
+- [mourya chandan](https://github.com/momuryachandan)
