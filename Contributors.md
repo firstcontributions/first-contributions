@@ -13,6 +13,7 @@
 -[Aaron](https://github.com/aaron-fareed) "This is my first project"
 -[pradeep](https://github.com/vyavaharapupradeepsai-bot)my first project
 -[kalyan](https://github.com/kalyan08-hub)"this is my first project"
+- [jingyin623](https://github.com/jingyin623)
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 
 - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
