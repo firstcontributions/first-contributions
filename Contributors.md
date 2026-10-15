@@ -1,4 +1,5 @@
-- [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
+-[rupesh](https://github.com/rupeshchandana48)"This is my first open source contribution on github
+ - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Vamsi](https://github.com/kambapuvamsi1845-cloud/)
 -[Sirivennela](https://github.com/kancharlasirivennela723-pixel)"Thi is my first contribution on github"
 - [Sujal Negi](https://github.com/SujalNegi2007) - My First Contribution.
@@ -22,7 +23,7 @@
 - [jiuze2007](https://github.com/jiuze2007)
 - [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - mckayla ashley
-- Ankit Patel
+- Ankit Patel0
 - [Vihaan](https://github.com/vdtp69-dev)
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 -[Harsha](https://github.com/chokkariharsha-py/)"contribution of hacktober"
