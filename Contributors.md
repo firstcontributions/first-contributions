@@ -2,6 +2,7 @@
 -[laxmiram](https://github.com/balukota9494-sudo)
 [Abdul Haq](https://github.com/Haque-98)
 -[bhanu](https://github.com/samudralabhanuteja65-ctrl)"This is my first open souece contribution"
+[Yash]will become great
 -[Pabitra](https://github.com/Pabitraojha)
 -[Anusha](https://github.com/bharaiahchattu)''This is my first open source contribution on github 
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
