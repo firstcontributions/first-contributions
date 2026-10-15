@@ -41,6 +41,7 @@
 - mckayla ashley
 - Ankit Patel
 - [Vihaan](https://github.com/vdtp69-dev)
+- [Saqib](https://github.com/Saqib-develops/)
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
 -[Harsha](https://github.com/chokkariharsha-py/)"contribution of hacktober"
 - [pardu](https://github.com/pardhusade77-commits/first-contributions.git)my first contribution
