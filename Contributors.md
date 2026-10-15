@@ -158,6 +158,7 @@ I'm Deepika K("https://github.com/deepika19-byte")
 Im Fabio Uvinha
 - [Kaustubh](https://github.com/KaustubhChattar)
 -[Ajay Kumar](https://github.com/AjRana09/first-contributions-demo)
+-[Mohammed Zain Ateeq](https://github.com/instinctone7/first-contributions)
 -[Abdishakur](https://github.com/abdishakur700/first-contributions.git)
 -[Praveen gandikota](https://github.com/PraveenGandikota/first-contributions)
 - [Aashna Anand](https://github.com/Aashna-Anand)
