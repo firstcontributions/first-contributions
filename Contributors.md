@@ -2,6 +2,7 @@
 -[Dharani](https://github.com/2401050195)"This is my first contribution for the project"
 -[Sushant](https://github.com/SKSalunkhe)
 -[Aaron](https://github.com/aaron-fareed) "This is my first project"
+-[pradeep](https://github.com/vyavaharapupradeepsai-bot)my first project
 -[kalyan](https://github.com/kalyan08-hub)"this is my first project"
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
@@ -89,6 +90,7 @@
 -[Mohan Krishna](https://github.com/mohankrishna2008vetsa-debug/)my first contribution in git
 -[Naga chaitanya](https://github.com/Chaitanya-416/) my first contribution in git
 -[HADAS LUBIN](https://github.com/HADASLUB)
+-[pradeep](https://github.com/vyavaharapupradeepsai-bot)my first project 
 [Esti Steinhous](https://github.com/e0548567836-cmd) my first open code!!!!!!!!!
 [Mahandar Khatri] (https://github.com/mk-2007) first open source contribution
 - [Ritesh Singh] (https://github.com/Ritesh-977) -- My first Contributions
