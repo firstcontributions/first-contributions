@@ -6153,6 +6153,7 @@ Raphael Karani
 - [Hari](https://github.com/Hari-00x)
 - WZY(https://github.com/AAApfwang)
 - [Ankit Pal](https://github.com/icyfire8)
+- MaxSDev
 - [Antony Alves](https://github.com/antonyalvesofc1-arch)
 - [Artem Kremko](https://github.com/trustkrem)
 - [Manoj Dewda](https://github.com/Manoj-Dewda)
