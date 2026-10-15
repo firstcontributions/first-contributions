@@ -1,5 +1,11 @@
+
 -[Sirivennela ](https://github.com/kancharlasirivennela723-pixel)"This is my first contribution on github here we go"
 -[Sujal Negi](https://github.com/SujalNegi2007) - My First Contribution.
+- [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
+-[Vamsi](https://github.com/kambapuvamsi1845-cloud/)
+-[Sirivennela](https://github.com/kancharlasirivennela723-pixel)"Thi is my first contribution on github"
+- [Sujal Negi](https://github.com/SujalNegi2007) - My First Contribution.
+
 - [yvs-prasanna-new] - This is my Contribution
 - [megaezgo] - mega mega mega
 - [mrmohdjbr](https://github.com/mrmohdjbr) - Study tip: Review notes after each class and practice regularly.
@@ -21,7 +27,9 @@
 - [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - mckayla ashley
 - Ankit Patel
+- [Vihaan](https://github.com/vdtp69-dev)
 - [manideep](https://github.com/manideepvanimina/firstcontributions-first-contributions.git)Let's Start
+-[Harsha](https://github.com/chokkariharsha-py/)"contribution of hacktober"
 - [pardu](https://github.com/pardhusade77-commits/first-contributions.git)my first contribution
 -[eeshanth-sai](eeshanthsairajanala2009-creator) my first contribution...
 - [pankaj-2708](https://github.com/pankaj-2708)
@@ -47,6 +55,7 @@
 - [Sahithi](https://github.com/dhavalisahithi466) My First Contribution
 [Lokeshwar](https://github.com/Lokeshwar07-hub) My First Contribution 
 - [sreekar](https://github.com/talankisai) Hello Git
+- [chilukuririshi-gif](https://github.com/chilukuririshi-gif) it's my first contribution
 - [korraimaheshbabu60-max](https://github.com/korraimaheshbabu60-max) My first contribution
 - [Komal](https://github.com/komal1101-ngs) My first Hacktober
 - [Komal](https://github.com/komal1101-ngs) My Trail
@@ -56,6 +65,7 @@
 -[chandu] (https://github.com/chanduanga) my first code...
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
 -[Owais](https://github.com/OWAIS-SHAIKH-1) my first Contribution in a REPO...
+-[Satvik](https://github.com/sathwikkorada2009-eng/)my first project.
 -[chandu](https://github.com/chanduanga/first-contributions.git) my first code....
 -[Sachin](https://github.com/sachingupta20097-cloud/)my first git !
 - [Stefan Petrovici](https://github.com/petrovicistefan)
@@ -77,6 +87,7 @@
 [DEVORA KELETI](https://github.com/dvori27385)
 -[Rajalakshmi K](https://github.com/rajideepa2009-ui)
 -[Youssef Halawany](https://github.com/y0usefhalawany)
+-[Surya Teja](https://github.com/aforapple936-art/first-contributions.git) -- Hi everyone
 -[Eunhoc2](https://github.com/Eunhoc2)
 -[cucumba44](https://github.com/cucumba44/first-contributions)
 -[THEMANnt](https://github.com/THEMANnt/first-contributions)-hello there
@@ -230,6 +241,7 @@ Migeen Magar - let'sss gooooooo
 - [bharat karnik]
 - [cxl92](https://github.com/cxl92) - My first open-source contribution!!!
 - [ssarode1410](https://github.com/ssarode1410) - My first open source contribution, Let's go !!!
+- [Tyler M] - Hi!
 - [Ztirmau](https://github.com/ztirmau) - Its my firts public contribution! Let's go!
 - [chethan-kumar-FSE](https://github.com/chethan-kumar-FSE) - Let's get started with open source contribution .
 [Priyanshu Bhandari](https://github.com/bPriyanshu07)- This is my first contribution in Open Source [Hira Iftikhar]
@@ -7142,6 +7154,7 @@ Hello xyz
 - beno
 - [Lilima](https://github.com/lilima07)
 - [Sandeep](https://github.com/incognito-28)
+- [Sailu](https://github.com/sailendrakumar-sudo)
 -[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
 - [keerthana](https://github.com/keerthana-chowdary-aiml) — My first contribution
 - [Sailu](https://github.com/sailendrakumar-sudo)
@@ -7169,5 +7182,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Saranya](https://github.com/ippilisaranya84-cpu)  
 [prabha]https://github.com/prabhakatta12-oss/first-contributions.git
 [ferdos](https://github.com/Ferdos98)
+- [Gede Bagus Wirayasa](https://github.com/HatsuharuYasa)
 - [0nsku](https://github.com/0nsku)
 - [Leezi]
+- chanchalprajapati1457-design
