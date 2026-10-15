@@ -6866,6 +6866,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Olivia Wang](https://github.com/Oliruirui) My first open-source contribution!
 - [Shi Er](https://github.com/123EFD) My first open-source contribution!
 - [Md. Naiyer Hussain](https://github.com/Saqquibkhan00)
+- [rajnandini1203](https://github.com/rajnandini1203)
 - [karloows](https://github.com/karloows)
 - [Suhana Chauhan](https://github.com/Suhana783)
 - [Joao Giacometti](https://github.com/joaogiacometti)
