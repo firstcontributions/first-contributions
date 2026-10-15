@@ -1016,6 +1016,7 @@ vijyot silare
 - [Gunadeep Reddy](https://github.com/alpinestarzjn)
 - [Wai Yan Min](https://github.com/weiyanmin/)
 - [Miler](https://github.com/ohmiler)
+- [inf333nity](https://github.com/inf333nity)
 - [Dipu Kalwar](https://github.com/dipukalwar)
 - [Sourav Kumar](https://github.com/souravkumar-dev)
 - [aum] (https://github.com/gameotiw1209)
