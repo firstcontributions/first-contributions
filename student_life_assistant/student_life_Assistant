@@ -1,0 +1,79 @@
+tasks = []
+
+print("=" * 35)
+print("  AI STUDENT LIFE ASSISTANT")
+print("=" * 35)
+
+while True:
+    print("\n1. Add Study Task")
+    print("2. View Study Tasks")
+    print("3. Complete a Task")
+    print("4. Study Question Helper")
+    print("5. Exit")
+
+    choice = input("\nEnter your choice: ")
+
+    if choice == "1":
+        subject = input("Enter subject: ")
+        task = input("Enter study task: ")
+
+        tasks.append({
+            "subject": subject,
+            "task": task,
+            "done": False
+        })
+
+        print("Task added successfully!")
+
+    elif choice == "2":
+        if not tasks:
+            print("No tasks added yet.")
+        else:
+            for i, item in enumerate(tasks, start=1):
+                status = "Done" if item["done"] else "Pending"
+                print(
+                    f"{i}. {item['subject']} - "
+                    f"{item['task']} [{status}]"
+                )
+
+            completed = sum(t["done"] for t in tasks)
+            print(f"Progress: {completed}/{len(tasks)} completed")
+
+    elif choice == "3":
+        for i, item in enumerate(tasks, start=1):
+            print(f"{i}. {item['task']}")
+
+        if tasks:
+            try:
+                number = int(input("Enter task number: "))
+                if 1 <= number <= len(tasks):
+                    tasks[number - 1]["done"] = True
+                    print("Task completed!")
+                else:
+                    print("Invalid task number.")
+            except ValueError:
+                print("Please enter a number.")
+        else:
+            print("No tasks to complete.")
+
+    elif choice == "4":
+        question = input("Ask a study question: ").lower()
+
+        if "ai" in question or "artificial intelligence" in question:
+            print("AI means Artificial Intelligence.")
+            print("It helps computers perform intelligent tasks.")
+        elif "python" in question:
+            print("Python is a beginner-friendly programming language.")
+        elif "study" in question or "exam" in question:
+            print("Tip: Make a timetable and revise topics regularly.")
+        else:
+            print("Try asking about AI, Python, or study tips.")
+
+        print("(This is a basic rule-based helper, not a real AI model.)")
+
+    elif choice == "5":
+        print("Good luck with your studies!")
+        break
+
+    else:
+        print("Invalid choice. Enter a number from 1 to 5.")
