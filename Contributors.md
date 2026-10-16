@@ -25,6 +25,7 @@
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Kevin] hello
 - [Jenny] Huzzah!
+- [Leeza] I am feeling pretty kewl
 - [MaxNoahLukas](https://github.com/HackerMaske) I feel like a real programmer now
 - [Punc](https://github.com/Punc1962)
 - [Adharsh K O](https://github.com/adharshko-369z)
