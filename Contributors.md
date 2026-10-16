@@ -101,6 +101,7 @@ SANKALP PANDEY
 - [chilukuririshi-gif](https://github.com/chilukuririshi-gif) it's my first contribution
 - [korraimaheshbabu60-max](https://github.com/korraimaheshbabu60-max) My first contribution
 - [Komal](https://github.com/komal1101-ngs) My first Hacktober
+- [HinanawiTenshi](https//github.com/HinanawiTenshi104/) - Even celestial wants to make open source contribution~
 - [Komal](https://github.com/komal1101-ngs) My Trail
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
 
