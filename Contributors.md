@@ -1,4 +1,4 @@
-
+-[phani](https://github.com/phani77726-hub)"This is my first contribution on github open resource
 -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
 - [Rudraksh Agarwal](https://github.com/rudrakshagarwal4200-ai)
 i-[Adeia](https://github.com/AdeiaSaif/)
@@ -27,7 +27,6 @@ rohithravindran
 -[kalyan](https://github.com/kalyan08-hub)"this is my first project"
 - [jingyin623](https://github.com/jingyin623)
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
-
 - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 - [ider](https://github.com/ider-zh) "This is a awesome project"
 - [Mayank](https://github.com/marskingdom9)
@@ -573,7 +572,6 @@ Arc hie Boswelll
 - [Sangmesh Bailannavar](https://github.com/sangmeshbailannavar10)
 -[2HB25CS105](https://github.com/2HB25CS105)
 -[fujisaki henry](https://github.com/henri-quereis)
--
 - [walakesanika371](https://github.com/walakesanika371)
 - [2HB25CS091] (https://github.com/2HB25CS091)
 - [dearsvag132](https://github.com/dearsvag132)
