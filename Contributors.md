@@ -13,7 +13,8 @@ rohithravindran
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Varshini](https://github.com/Varsha3235)"This is my first open source contribution on github"
 -[NLuffy](https://github.com/NLuffy) First commit
-- [nani](https://github.com/nanigenai8-creator)"This is my first open source contribuation0n github
+- [nani](https://github.com/nanigenai8-creator)"This is my first open source contribuatio 0n github"
+- [Ibrahim Danjuma](https://github.com/ufidscript)"This is my first open source contribution on github"
 - [Neetu Nawani](https://github.com/neetunawani11)"This is my first open source contribution on github"
 -[sathish]( https://github.com/sathiiishnaidu-lab)"This is my first open source contribution on github here"
 -[Challa Jaswanth](https://github.com/ChallaJaswanth-jpg)"This is my first open source contribution on github
