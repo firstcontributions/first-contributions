@@ -135,17 +135,19 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command:
+Now create a branch using the `git switch` command. Use a short, descriptive branch name that reflects your contribution. For this tutorial, use the `add-<your-github-username>` convention, replacing the placeholder with your GitHub username.
 
 ```bash
-git switch -c your-new-branch-name
+git switch -c add-your-github-username
 ```
 
-For example:
+For example, if your GitHub username is `alonzo-church`, run:
 
 ```bash
 git switch -c add-alonzo-church
 ```
+
+Use the same branch name in the later commands that push your branch to GitHub.
 
 <details>
 <summary> <strong>If you get any errors using git switch, click here:</strong> </summary>
@@ -190,7 +192,7 @@ Push your changes using the command `git push`:
 git push -u origin your-branch-name
 ```
 
-replacing `your-branch-name` with the name of the branch you created earlier.
+Replace your-branch-name with the exact branch name you created earlier. For example, if you created add-alonzo-church, run git push -u origin add-alonzo-church.
 
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
