@@ -8,6 +8,7 @@ i-[Adeia](https://github.com/AdeiaSaif/)
 [Yash]will become great
 rohithravindran
 [Tanvi](https://github.com/tanvisingh20073004-star)
+- [Mayuri Patil](https://github.com/mayuripatil-dev)
 -[Pabitra](https://github.com/Pabitraojha)
 -[Anusha](https://github.com/bharaiahchattu)''This is my first open source contribution on github 
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
