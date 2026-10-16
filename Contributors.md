@@ -7284,7 +7284,8 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [mourya chandan](https://github.com/momuryachandan)
 - [Yash Thakur](https://github.com/Musafir69) - My first open-source contribution ~ many more to come...
 - [Nevil Amraniya](https://github.com/nevil-codes)
-
+- [Tanisha](https://github.com/Tanishasharma11) My 2nd contribution :)
 - [Çiğdem Aydın](https://github.com/cigdem-aydin)
 - [Bhargavi](https://github.com/bhargavisangareddi)
 - [AKSHAYA](https://github.com/akshya018) - My first open-source contribution!
+-[Siddhanth](https://github.com/siddhanth77)
