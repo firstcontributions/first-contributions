@@ -28,7 +28,7 @@ rohithravindran
 -[kalyan](https://github.com/kalyan08-hub)"this is my first project"
 - [jingyin623](https://github.com/jingyin623)
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
-- [Dhanushree Rajangam](https://github.com/Dhanuraj-22)
+
 - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 - [ider](https://github.com/ider-zh) "This is a awesome project"
 - [Mayank](https://github.com/marskingdom9)
@@ -371,6 +371,7 @@ John Doe 2026
 - [Md Mizan](https://github.com/msaimanish)
 - [Sai Manish M](https://github.com/mizan989)
 - [Dvorah Fishman](https://github.com/DvorahFishman)
+- [Dhanushree Rajangam](https://github.com/Dhanuraj-22)
 - [balliolon](https://github.com/balliolon2) - My first open Source Contribution!!
 - [Karberg](https://github.com/Karberg) - My first open-source contribution!!
 - [Lukas0808988](https://github.com/Lukas0808988)
