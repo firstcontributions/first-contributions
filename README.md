@@ -135,7 +135,7 @@ Change to the repository directory on your computer (if you are not already ther
 cd first-contributions
 ```
 
-Now create a branch using the `git switch` command. Use a short, descriptive branch name that reflects your contribution. For this tutorial, use the `add-<your-github-username>` convention, replacing the placeholder with your GitHub username.
+Now create a branch using the `git switch` command. Use a short, descriptive branch name that reflects your contribution. For this tutorial, use the `add-your-github-username` convention, replacing `your-github-username` with your GitHub username.
 
 ```bash
 git switch -c add-your-github-username
@@ -164,7 +164,13 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open the `Contributors.md` file in a text editor and add your name using the following format:
+
+```markdown
+- [Your Name](https://github.com/your-github-username)
+```
+
+Replace `Your Name` with your name and `your-github-username` with your GitHub username. Add your entry among the existing entries, not at the beginning or end of the file, and save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
