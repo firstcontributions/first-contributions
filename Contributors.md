@@ -7287,3 +7287,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 
 - [Çiğdem Aydın](https://github.com/cigdem-aydin)
 - [Bhargavi](https://github.com/bhargavisangareddi)
+- [AKSHAYA](https://github.com/akshya018) - My first open-source contribution!
