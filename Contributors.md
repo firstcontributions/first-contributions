@@ -1,3 +1,5 @@
+
+-[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
 - [Rudraksh Agarwal](https://github.com/rudrakshagarwal4200-ai)
 i-[Adeia](https://github.com/AdeiaSaif/)
 -[laxmiram](https://github.com/balukota9494-sudo)
@@ -16,7 +18,7 @@ rohithravindran
 -[Challa Jaswanth](https://github.com/ChallaJaswanth-jpg)"This is my first open source contribution on github
 - [DeviPrasad] (https://ithub.com/dsp-code-enthusiastgit)"This is my first open source contribution on github here for the first time"
 - [VarunSandesh](https://github.com/varunsandesh0425-VK) "This is my first open source contribution on github"
--[somendra dixit] (https://github.com/somendra-dixit1120) "This is my first contribution for the project"
+-[somendra di] (https://github.com/somendra-dixit1120) "This is my first contribution for the project"
 -[Dharani](https://github.com/2401050195)"This is my first contribution for the project"
 -[Abhishek-Sahu](https://github.com/101010watson)"This is the starting of my open source contribution"
 -[Sushant](https://github.com/SKSalunkhe)
