@@ -5745,7 +5745,7 @@ Adarsh
 
 - [Sathi Chaitanya Sai Durga](https://github.com/sathichaitanyasaidurga)
 - [Roshni M](https://github.com/Roshni13102007)
-- [Eswar T](https://github.com/eswart627) Let's see...
+- [Eswar T](https://github.com/eswart627) Let's see
 - [Sourabh Kumar](https://github.com/sourabhku88) -[Aashi Srivastava](https://github.com/AashiSrivastava411)
 - [JoaoMenoli](https://github.com/JoaoMenoli)
 - [Aniket](https://github.com/AniketXcode)
