@@ -7265,6 +7265,8 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Naginder](https://github.com/Naginder)
 - [Mubashir Mohamed] (https://github.com/Mubashir-Mohamed)
 - [TigerInTaiga](https://github.com/BitBranchi)
+- [Meghana](https://github.com/yerukolameghana-aiml)
+=======
 
 - - [Aryan Maurya](https://github.com/aryan-maurya-07) - My first open-source contribution
 
