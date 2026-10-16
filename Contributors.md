@@ -7256,7 +7256,10 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
   [def]: https://github.com/nanigenai8-creator
 - [Morali-x](https://github.com/Morali-x)
 - [João Pereira](https://github.com/pereiraa900)
-
+< main
+- KKA 😗
+- [Yumxl](https://github.com/yumxl)
+-[Dharani](https://github.com/dharanipotnuru20-source)
 - [Eugene](https://github.com/Fineturkey)
 
 - [Pragyan Neupane](https://github.com/neupanepragyan)
@@ -7267,7 +7270,6 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Mubashir Mohamed] (https://github.com/Mubashir-Mohamed)
 - [TigerInTaiga](https://github.com/BitBranchi)
 - [Meghana](https://github.com/yerukolameghana-aiml)
-=======
 
 - - [Aryan Maurya](https://github.com/aryan-maurya-07) - My first open-source contribution
 
@@ -7283,4 +7285,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Nevil Amraniya](https://github.com/nevil-codes)
 
 - [Çiğdem Aydın](https://github.com/cigdem-aydin)
-- [Bhargavi](https://github.com/bhargavisangareddi)
+- [Bhargavi](https://github.com/bhargavisangareddi) main
