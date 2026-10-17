@@ -7310,13 +7310,9 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [TigerInTaiga](https://github.com/BitBranchi)
 - [Meghana](https://github.com/yerukolameghana-aiml)
 =======
-
 - - [Aryan Maurya](https://github.com/aryan-maurya-07) - My first open-source contribution
-
 - [Fahim Hossain](https://github.com/Alter80)
 - - [Ziaul Hoque Ripon](https://github.com/zhbdripon) - just testing it
-
-
 - [Sweeta-w](https://github.com/Sweeta-w) " This is my first open source contribution"
 - [Qu](https://github.com/qskOnly) "这是我的第一次开源贡献!很开心."
 - [Divyatej](https://github.com/divyatej2009-debug)
@@ -7346,10 +7342,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Sayan Mahata](https://github.com/sayan9168) - System Architect & Security Researcher |
 - kdant-bit zyc hello world first PR
 - [sundar-codes](https://github.com/sundar-codes) - My first open-source contribution!
-
-  - [nya712](https://github.com/nya712)
+- [nya712](https://github.com/nya712)
 - [Ashutosh Shelar]((https://github.com/ashutoshshelar2409-prog)) - My first open-source contribution!
-
-
-
 - [koushik4475](https://github.com/koushik4475)
+- [David Carlos Miranda Delgado]((https://github.com/davidelgado28)) - My second open-source contribution!
