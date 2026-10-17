@@ -7319,3 +7319,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[Alexey Chumachenko](https://github.com/alexeychumachenko) - Мой первый вклад в открытый исходный код!
 -[Elias Glick](https://github.com/alphafetch) - First open source contrib!
 - [Kritika Singh](https://github.com/KritikaaSinghh) - My first open source contribution
+-[Aarya Joshi](https://github.com/Aarya1777)
