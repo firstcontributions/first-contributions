@@ -690,6 +690,7 @@ GSL32
 - [vinayak chavan](https://github.com/vin1987)
 - [ringoalo](https://github.com/AlossoRingo)
 - [Kishor Rajbanshi](https://github.com/kishor-rajbanshi)
+- Nakum Milan
 - [Nikhil kumar](https://github.com/N1kh1lKumar)
 - Muthumanickam V
 - Annanya
