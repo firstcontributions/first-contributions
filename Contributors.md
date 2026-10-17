@@ -7314,3 +7314,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[Vignesh](https://github.com/Vignesh06j)
 -[Ansh Awasthy](https://github.com/anshawasthy)-lesgo
 -[Alexey Chumachenko](https://github.com/alexeychumachenko) - Мой первый вклад в открытый исходный код!
+-[Elias Glick](https://github.com/alphafetch) - First open source contrib!
