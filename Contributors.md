@@ -292,6 +292,7 @@ Migeen Magar - let'sss gooooooo
 - [Pranav](https://github.com/pranav003-kr) - My first Open-Source contribution. Let's start the journey.
 - [abdulwahid](https://github.com/abduIwahid)
 - [Abhinav Karthik Sripada](https://github.com/abhinavkarthiksripada-prog/first-contributions.git) - My first open-source contribution. Let us see how far I can go.
+-[osneks](https://github.com/osneks)
 - [Syed Alauddin Bukhari](https://github.com/syedbuk)- Yo, My Fourth Contribution to Open Source?.
 - [Preeti Singh](https://github.com/Pr241singh/first-contributions) - Hello! my first contribution.
 - [Pablo Guzman](https://github.com/urMix) - Hello! my first contribution.
