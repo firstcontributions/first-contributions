@@ -1,4 +1,5 @@
 Abhyuday Singh
+-[Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 -[Udit Shrivastava](https://github.com/Udit-Shrivastava01)
 -[Om Bhadri](https://github.com/ombhadri)
