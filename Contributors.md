@@ -14,6 +14,7 @@ i-[Adeia](https://github.com/AdeiaSaif/)
 rohithravindran
 I am Anuj [https://github.com/Anuj222345/first-contributions.git] "This is my first contribution"
 -I am Mohit [https://github.com/mohitqx/first-contributions.git] "this is my first contribution"
+- [Tanush Vaish](https://github.com/Tanu2808) 
 [Tanvi](https://github.com/tanvisingh20073004-star)
 - [Mayuri Patil](https://github.com/mayuripatil-dev)
 -[shauryaaamulik](https://github.com/shauryaaamulik)
