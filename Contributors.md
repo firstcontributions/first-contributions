@@ -16,6 +16,7 @@ I am Anuj [https://github.com/Anuj222345/first-contributions.git] "This is my fi
 -I am Mohit [https://github.com/mohitqx/first-contributions.git] "this is my first contribution"
 [Tanvi](https://github.com/tanvisingh20073004-star)
 - [Mayuri Patil](https://github.com/mayuripatil-dev)
+-[shauryaaamulik](https://github.com/shauryaaamulik)
 -[Pabitra](https://github.com/Pabitraojha)
 -[Anusha](https://github.com/bharaiahchattu)''This is my first open source contribution on github 
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
