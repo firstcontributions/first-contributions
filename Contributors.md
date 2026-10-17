@@ -19,6 +19,7 @@ I am Anuj [https://github.com/Anuj222345/first-contributions.git] "This is my fi
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Varshini](https://github.com/Varsha3235)"This is my first open source contribution on github"
 -[Raghvendra](https://github.com/raghvendrag4203)"This is my first open source conribution"
+-[Snehal Badgujar](https://github.com/snehalbadgujar85-ui) - "This is my First Contribution"
 -[NLuffy](https://github.com/NLuffy) First commit
 - [nani](https://github.com/nanigenai8-creator)"This is my first open source contribuatio 0n github"
 - [Ibrahim Danjuma](https://github.com/ufidscript)"This is my first open source contribution on github"
