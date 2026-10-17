@@ -7328,4 +7328,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - - [GrandhiSanjana](https://github.com/GrandhiSanjana)
 - [Ha Nhat Khoa](https://github.com/khoahaaoj)
 - [GabaniHasti](https://github.com/GabaniHasti)
-
+- [Diya Waja](https://github.com/diyawaja)
