@@ -44,6 +44,7 @@ I am Anuj [https://github.com/Anuj222345/first-contributions.git] "This is my fi
 - [jingyin623](https://github.com/jingyin623)
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 - [Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
+- [Dheekshika S](https://github.com/Dheekshi-07)
 - [ider](https://github.com/ider-zh) "This is a awesome project"
 - [Mayank](https://github.com/marskingdom9)
 - [Fenthy Thula](https://github.com/afr0d8ta)
