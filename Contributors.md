@@ -594,7 +594,7 @@ Arc hie Boswelll
 -[shifakotwal](https://github.com/shifakotwal)
 - [Luffy](https://github.com/shivanand20072007)
 - [2HB25CS088](https://github.com/2HB25CS088)
-
+- 
 -[2HB25CS127](https://github.com/2HB25CS127)
 -[LiliesInLakes](https://github.com/LiliesInLakes)
 - I am Ghada,this is my first contribution!
@@ -2559,7 +2559,7 @@ niceshowmini
 - [cronus](https://gitgub.com)
 - [Test] (https://github.com/)
 - Hongy
-
+- [ClintonDailey] (https://github.com/ClintonDailey)
 - [Test] (https://github.com/)
 - [James Rouse]
 - Bhavya
@@ -3648,6 +3648,7 @@ andrewcodess
 - [Wiiya]
   (https://github.com/Wiiya)
 - [饶羽墨](https://github.com/seekforluv)
+- [Kevin Joshua](https://github.com/kevinjosh10)
 - [Ishan Edlabadkar](https://github.com/IshanEdlabadkar)
 - [Ishan Gupta](https://github.com/developer-ishan)
 - [Tej Deep Masina](https://github.com/TejDeepM)
@@ -6002,6 +6003,7 @@ Adarsh
 
 - [Sathi Chaitanya Sai Durga](https://github.com/sathichaitanyasaidurga)
 - [Roshni M](https://github.com/Roshni13102007)
+- [Eswar T](https://github.com/eswart627) Let's see...
 - [Sourabh Kumar](https://github.com/sourabhku88)
 -[Aashi Srivastava](https://github.com/AashiSrivastava411)
 - [JoaoMenoli](https://github.com/JoaoMenoli)
@@ -7300,4 +7302,5 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[Siddhanth](https://github.com/siddhanth77)
 -[Saathwik](https://github.com/Saathwik43)
 -[shilong Wang](https://github.com/shilongWang1107)
-[Chandan Pandey](https://github.com/thepandey94)
+-[Radovan Bralović](https://github.com/rasabralovic)
+-[Chandan Pandey](https://github.com/thepandey94)
