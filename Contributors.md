@@ -1,6 +1,5 @@
--[samme3000](https://github.com/samme3000)"First time" -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
-
-- [Gaurav Nandgowli](https://github.com/GauravNandgowli) Hello All, This is my first contribution to open source!!!
+-[samme3000](https://github.com/samme3000)"First time"
+[Gaurav Nandgowli](https://github.com/GauravNandgowli) Hello All, This is my first contribution to open source!!! -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
 
 - [Rudraksh Agarwal](https://github.com/rudrakshagarwal4200-ai)
   i-[Adeia](https://github.com/AdeiaSaif/) -[laxmiram](https://github.com/balukota9494-sudo)
