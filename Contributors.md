@@ -7322,4 +7322,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Kritika Singh](https://github.com/KritikaaSinghh) - My first open source contribution
 -[Aarya Joshi](https://github.com/Aarya1777)
 - [Lei Zhao](https://github.com/zhaol8421)
-- grandhi sanjana
+- - [GrandhiSanjana](https://github.com/GrandhiSanjana)
