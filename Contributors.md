@@ -1,7 +1,8 @@
 -[Jhon Brayan Tineo Tapullima](https://github.com/jhontineot23-png)
+-[Jeyavartha V](https://github.com/jeyavarthaahal-web)
 -[samme3000](https://github.com/samme3000)"First time"
 -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
-- [Rudraksh Agarwal](https://github.com/rudrakshagarwal4200-ai)
+- [Rudraksh Agar[wal](https://github.com/rudrakshagarwal4200-ai)
 i-[Adeia](https://github.com/AdeiaSaif/)
 -[laxmiram](https://github.com/balukota9494-sudo)
 [Abdul Haq](https://github.com/Haque-98)
@@ -5464,6 +5465,7 @@ aaaa
 - [Sajal test](https://github.com/SajalBharadwaj)
 - [Sajal Bharadwaj](https://github.com/SajalBharadwaj)
 - [Ye Yixing](https://github.com/yyx024314/first-contributions)
+- [Chanakya Gidipally](https://github.com/ChanakyaG2004)
 - [scan252]
 - [YJ-6777](https://github.com/YJ-6777)
 - [Borja Alvarez](https://github.com/borjaalvglez-beep)
@@ -7316,4 +7318,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[Ansh Awasthy](https://github.com/anshawasthy)-lesgo
 -[Alexey Chumachenko](https://github.com/alexeychumachenko) - Мой первый вклад в открытый исходный код!
 -[Elias Glick](https://github.com/alphafetch) - First open source contrib!
-- [Aarya Joshi](https://github.com/Aarya1777)
+-[Aarya Joshi](https://github.com/Aarya1777)
