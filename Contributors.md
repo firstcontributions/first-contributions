@@ -7320,3 +7320,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[Elias Glick](https://github.com/alphafetch) - First open source contrib!
 - [Kritika Singh](https://github.com/KritikaaSinghh) - My first open source contribution
 -[Aarya Joshi](https://github.com/Aarya1777)
+- [Lei Zhao](https://github.com/zhaol8421) 
