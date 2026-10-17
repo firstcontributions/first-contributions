@@ -7348,6 +7348,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [sundar-codes](https://github.com/sundar-codes) - My first open-source contribution!
 
   - [nya712](https://github.com/nya712)
+- [Ashutosh Shelar]((https://github.com/ashutoshshelar2409-prog)) - My first open-source contribution!
 
 
 
