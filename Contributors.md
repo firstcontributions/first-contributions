@@ -1,9 +1,10 @@
+-[Udit Shrivastava](https://github.com/Udit-Shrivastava01)
 -[Om Bhadri](https://github.com/ombhadri)
 -[Jhon Brayan Tineo Tapullima](https://github.com/jhontineot23-png)
 -[Jeyavartha V](https://github.com/jeyavarthaahal-web)
 -[samme3000](https://github.com/samme3000)"First time"
 -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
-- [Rudraksh Agar[wal](https://github.com/rudrakshagarwal4200-ai)
+-[Rudraksh Agarwal](https://github.com/rudrakshagarwal4200-ai)
 i-[Adeia](https://github.com/AdeiaSaif/)
 -[laxmiram](https://github.com/balukota9494-sudo)
 [Abdul Haq](https://github.com/Haque-98)
