@@ -110,6 +110,7 @@ SANKALP PANDEY
 [vijay](https://github.com/vijaykumarmungi7-droid) My first contribution
 - [Sahithi](https://github.com/dhavalisahithi466) My First Contribution
 - Harsh Amin here..
+.kanak here -this is my first contribution
 [Lokeshwar](https://github.com/Lokeshwar07-hub) My First Contribution 
 - [sreekar](https://github.com/talankisai) Hello Git
 - [shekhar](https://github.com/vaanakulashekhar-dotcom/)My first Contribution
