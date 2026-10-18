@@ -22,6 +22,7 @@ i-[Adeia](https://github.com/AdeiaSaif/)
 [Yash]will become great
 rohithravindran
 I am Anuj [https://github.com/Anuj222345/first-contributions.git] "This is my first contribution"
+- [Kushagra Dave](https://github.com/davekushagra)
 I am V I HEMASHREE [https://github.com/HemashreeVI] "THIS IS MY FIRST CONTRIBUTION"
 -I am Mohit [https://github.com/mohitqx/first-contributions.git] "this is my first contribution"
 [Tanvi](https://github.com/tanvisingh20073004-star)
