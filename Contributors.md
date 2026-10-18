@@ -12,6 +12,7 @@
 -[Mask](https://github.com/ggmask)
 -[Jhon Brayan Tineo Tapullima](https://github.com/jhontineot23-png)
 -[Jeyavartha V](https://github.com/jeyavarthaahal-web)
+-[Karveti Geethika](https://github.com/geethikakarveti1-source)
 -[samme3000](https://github.com/samme3000)"First time"
 -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
 -[Rudraksh Agarwal](https://github.com/rudrakshagarwal4200-ai)
