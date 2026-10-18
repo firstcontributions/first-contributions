@@ -4294,6 +4294,7 @@ andrewcodess
 - [Sagar Gupta](https://github.com/Sagargupta16)
 - [Sagar Tayde](https://github.com/sagartaydedev)
 - [Sagasra](https://github.com/Sagasra20)
+-[V RAHUL](https://github.com/V-Rahul-Krishna)
 - [Sahar Mahmoudi](https://github.com/saharmahmoudi)
 - [Sahil Ghag](https://github.com/Sahilghagg)
 - [Sahil Hossain](https://github.com/Sahil-Hossain-1429)
@@ -7377,6 +7378,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 
 - [Sakib Raza](https://github.com/sakibraza-dev) — My first contribution
 - [xdsky](https://github.com/xdsky)
+- [Samiullah Yousufi](https://github.com/Samiullah-deve)
 - [Mayank Jaglan](http://github.com/mayank5-cmd)
 - [Mayank Jaglan](http://github.com/mayank5-cmd)
 My first Open Source Contribution
@@ -7392,5 +7394,5 @@ add-pranav
 -[Adhi Narayanan](https://github.com/Adhinarayanansaravanan)
 -[Bhupesh zode](https://github.com/Bhupesh-zode)
 -[Devang](https://github.com/ybuisbuevap)
--[Satyam](https://github.com/Skay7verse)-I am coming...
+-[Satyam](https://github.com/Skay7verse) - I am coming...
 
