@@ -220,6 +220,7 @@ Hi this is my first contribution
 
 -[AungKhantMoe](https://github.com/aungkhantm0e)
 Hi my name is Aung Khant Moe and this is my very first contribution on github.
+-[Suraj Kumar Rao](https://github.com/SKR1-ux) Hello , This is my first contribution.
 -[dev-clam](https://github.com/dev-clam)
 This is my first open source contribution.
 -[Vinsent Boiar](https://github.com/Vinsent2405) Glubako Tyrnir Jojo Kaguya
