@@ -7369,6 +7369,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Mayank Jaglan](http://github.com/mayank5-cmd)
 - [Mayank Jaglan](http://github.com/mayank5-cmd)
 My first Open Source Contribution
+- [Priyanshu Jain](https://github.com/paralexxy)
 - [Xdhh296](https://github.com/Xdhh296)
 
 - [AlekGayko](https://github.com/AlekGayko)
