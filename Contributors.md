@@ -34,6 +34,7 @@ I am V I HEMASHREE [https://github.com/HemashreeVI] "THIS IS MY FIRST CONTRIBUTI
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Varshini](https://github.com/Varsha3235)"This is my first open source contribution on github"
 -[Raghvendra](https://github.com/raghvendrag4203)"This is my first open source conribution"
+- [Krushna Sonar](https://github.com/Krushna-Sonar-04)
 -[Snehal Badgujar](https://github.com/snehalbadgujar85-ui) - "This is my First Contribution"
 -[NLuffy](https://github.com/NLuffy) First commit
 - [nani](https://github.com/nanigenai8-creator)"This is my first open source contribuatio 0n github"
