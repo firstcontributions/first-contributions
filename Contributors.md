@@ -30,6 +30,7 @@ I am V I HEMASHREE [https://github.com/HemashreeVI] "THIS IS MY FIRST CONTRIBUTI
 -[LAWITHANX](https://github.com/jevonzeev) "persistence and determination surpass talent, genius, and education in achieving success."
 - [Dev Gaglani](https://github.com/Quantum-Coded)
 -[Pabitra](https://github.com/Pabitraojha)
+- [Talha Ahmad](https://github.com/Professorlegit-66)
 -[Anusha](https://github.com/bharaiahchattu)''This is my first open source contribution on github 
 -[Kiran](https://github.com/kalepuravikiran-ai/S-K-D.git)
 -[Varshini](https://github.com/Varsha3235)"This is my first open source contribution on github"
