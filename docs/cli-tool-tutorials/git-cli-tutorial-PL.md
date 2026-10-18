@@ -10,7 +10,7 @@
 
 To jest przewodnik dla nas, geeków terminala, którzy chcą robić wszystko w terminalu. Dzięki [Github-CLI](https://cli.github.com/), możemy to osiągnąć, pamiętając, że Twoja pierwsza kontrybucja powinna być przyjemna, satysfakcjonująca i motywować do dalszego działania\!
 
-Ten przewodnik jest nieco trudniejszy, ponieważ w ogóle nie używamy żadnego interfejsu graficznego, ale nadal jest naprawdę fajny i na pewno możesz za nim podążać\!
+Ten przewodnik jest nieco trudniejszy, ponieważ w ogóle nie używamy żadnego interfejsu graficznego, ale nadal jest naprawdę fajny i na pewno możesz za nim podążać\!rwrwrerqwererwe
 
 Pierwszymi wymaganiami jest posiadanie:
 
