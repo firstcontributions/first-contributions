@@ -7374,4 +7374,7 @@ My first Open Source Contribution
 - [Xdhh296](https://github.com/Xdhh296)
 
 - [AlekGayko](https://github.com/AlekGayko)
+add-pranav
+- [Pranav](https://github.com/Pranav15-coder) My first open source contribution
 - [Prajyot Ambarwele](https://github.com/2skyrider6) - This is my real contribution and many more to come
+ main
