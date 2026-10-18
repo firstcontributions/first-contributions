@@ -1,4 +1,4 @@
-- [Priyanshu Singh](https://github.com/priyanshu2838)
+- [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
 - [Abhyuday Singh]
 - [Aditya Raj](https://github.com/me-adityaraj8)
 -[Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
