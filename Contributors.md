@@ -331,6 +331,7 @@ Migeen Magar - let'sss gooooooo
 - [William](https://github.com/aglish) - 08-10-2026, First Contribution day 1 all the way.
 - [zhang](https://github.com/zhangjinchi0013/first-contribution) - My first Open-Source contribution. Let's start the journey.
 - [Prithvi](https://github.com/Kotturi-Prithvi-Kumar)
+- [Sonia Nanwani](https://github.com/Itssonia7)
 - [Purvardh Kaushik](https://github.com/Purvardh)
 - [wyhlyh913](https://github.com/wyhlyh913) - My first open-source contribution.
 - [Pranav](https://github.com/pranav003-kr) - My first Open-Source contribution. Let's start the journey.
