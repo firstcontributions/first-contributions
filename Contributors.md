@@ -2,7 +2,6 @@
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Resshh](https://github.com/Resshh)
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
-- [Ismail Mansuri](https://github.com/beyondruntime) "This is my very first open-source contribution on GitHub! As a beginner, I'm excited to learn, improve my skills, and connect with others in the community. Every great developer starts by taking that first step, and I'm looking forward to growing one commit at a time."
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
 - [Priyadharshini K](https://github.com/Priya117K) "This's my very first contribution , really excited :>"
 - [ADITYA kumar roy](https://githu/b.com/adityakumarroy67)"first contibution",,,,,,,,,,,,
