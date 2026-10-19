@@ -958,6 +958,7 @@ github.com/zeeshan2266
 - [RIVF](https://github.com/RIVF-ISAT-Fan)
 - [Jake Domabyl] (https://github.com/jpd254)
 -DG hiii
+- [Varun Joshi](https://github.com/varunjoshi)
 - [Augusto Lúe](https://github.com/auguslue)
 - [Kovtun Taras](https://github.com/DonutUE/first-contributions)
 - [TpointTech-000] (https://github.com/tpointtech-000)
