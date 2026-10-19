@@ -2003,6 +2003,7 @@ nathan practice here
 - [Sandeep Mahato](https://github.com/sandeepmahato1)
 - [Vladyslav Hrabovskyi](https://github.com/grabych-jr3)
 - [Dinesh](https://github.com/ad-Dinesh)
+- [Rome](https://github.com/RoaminGuy)
 - [Atharv Shukla](https://github.com/atharvshukla24)
 - [Yashwanth Patil](https://github.com/Yashwanthpatil2005)
 - [KYS Yaswanth] (https://github.com/yaswanth-kadire1012)
