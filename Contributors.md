@@ -248,7 +248,7 @@ This is my first open source contribution.
 -[Yaren Deveci] (https://github.com/Yaren144)
 -[Aditya Kumbhar] (https://github.com/IMMORTAL-ADI)
 -[Amaravathi Abuthiren] (https://github.com/SimplySignificant )
-
+-[Parimala_B](https://github.com/Parimala2705)
 -[yvs-krishna](https://github.com/yvs-prasanna)
 -[Dhurgham Alsaadi](https://github.com/dhurghamCreation).
 -[TauYip](https://github.com/TauYip) - 
