@@ -24,7 +24,7 @@ Code is the heart of any open source project, but don't think that writing code 
 Maintenance of code and the systems surrounding the code often are neglected in the rush to create new features and to fix bugs.
 Look to these areas as an easy way to get your foot into a project.
 Most projects have a publicly visible trouble ticket system, linked from the front page of the project's website and included in the documentation.
-It's the primary conduit of communication between the users and the developers. Keeping it current is a great way to help the project.
+It's the primary conduit of communication between users and the developers. Keeping it current is a great way to help the project.
 You may need to get special permissions in the ticketing system, which most project leaders will be glad to give you when you say you want to help clean up the tickets.
 
 4. **Diagnose a bug**: Bugs are often poorly reported.
@@ -73,14 +73,14 @@ It's a good idea to add a test to the test suite to test the spot of code you fi
 Use a test coverage tool like gcov for C, or Devel::Cover for Perl to identify areas in the source code that aren't tested by the test suite.
 Then, add a test to the suite to cover it.
 
-9. **Silence a compiler warning**: The build process for many C-based projects often spew the odd compiler warning flag to the screen.
+9. **Silence a compiler warning**: The build process for many C-based projects often spews the odd compiler warning flag to the screen.
 These warnings are usually not indicators of a problem, but they can look like it.
 Having too many warnings can make the compiler sound like it's crying wolf.
-Check to see if the code could actually be hiding a bug. If not, modifying the source to silence helps to hide these false positives.
+Check to see if the code could actually be hiding a bug. If not, modifying the source to silence the warnings helps hide these false positives.
 
 10. **Add a comment**:
 When you're digging through the code, you may find some spots that are confusing.
-Chances are if you were confused, others will be  as well. Document them in the code and submit a patch.
+Chances are if you were confused, others will be as well. Document them in the code and submit a patch.
 Work with Documentation
 Documentation is typically the part of a project that gets short shrift.
 It also can suffer from having been written from the point of view of those who are familiar with the project, rather than through the eyes of someone just getting into it.
@@ -115,12 +115,12 @@ Perhaps the project could use a graphic overhaul, or a logo to identify the proj
 These may be skills lacking in the community. I know I'd love it if I could get some graphic design help on my projects' websites.
   
 15. **Write technical documentation**
-If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain English, the better. The best part, you don't have to be a programmer to write technical docs.
+If you can write about how an application or piece of software works, you could write technical documentation about it. Especially open source projects that are looking to update, revamp, expand, or create technical docs for the general public to read. The more you write in plain English, the better. The best part is that you don't have to be a programmer to write technical docs.
 
 Most of all, listen to what people around you discuss. See if you can recognize a pressing need. For instance, recently on the Parrot developers' mailing list, it was decided to use GitHub as the trouble ticket system, abandoning the old Trac installation they had. Some people were against the move because there was no way to convert the tickets to GitHub's system. After a day of back and forth arguing, I piped up and said "How about if I write a converter?" People were thrilled at the idea. I spent the time to write a conversion program for the 450+ tickets, so we lost none of our ticket history. It was a great success.  I got to pitch in, and the core developers stayed focused on the business of working on Parrot.
 
 16. **Teach and Help others**:
-The best way to learn more about a topic is to try to teach it.
+The best way to learn more about a topic is to teach it.
 The best teacher is the one who can explain complex stuff with simple examples. So you need to try to be the best teacher to be the best learner and the best in your programming world. Teaching others will make you feel better about yourself and it will help you get better skills and knowledge in your profession. When you get help from someone don't keep it to yourself; share it with others. Make the world a better place to live.
 
 17. **Improve Accessibility** 
