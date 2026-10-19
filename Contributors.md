@@ -2,6 +2,7 @@
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
 - [Priyadharshini K](https://github.com/Priya117K) "This's my very first contribution , really excited :>"
+- [ADITYA kumar roy](https://githu/b.com/adityakumarroy67)"first contibution",,,,,,,,,,,,
 - [Abhyuday Singh]
 - [Aditya Raj](https://github.com/me-adityaraj8)
 - [Sharan GK](https://github.com/gksharan) "This is my very first contribution!"
