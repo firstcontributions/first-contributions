@@ -338,6 +338,7 @@ Migeen Magar - let'sss gooooooo
 - [Purvardh Kaushik](https://github.com/Purvardh)
 - [wyhlyh913](https://github.com/wyhlyh913) - My first open-source contribution.
 - [Pranav](https://github.com/pranav003-kr) - My first Open-Source contribution. Let's start the journey.
+- [Nima Sltn](https://github.com/Nima-sltn) - Hello world!
 - [abdulwahid](https://github.com/abduIwahid)
 - [Abhinav Karthik Sripada](https://github.com/abhinavkarthiksripada-prog/first-contributions.git) - My first open-source contribution. Let us see how far I can go.
 -[osneks](https://github.com/osneks)
