@@ -18,6 +18,7 @@
 - [Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [Mayank Gaur](https://github.com/Mayank-CS50)
+- [Radhika Kandalkar](https://github.com/radhika817)
 -[Udit Shrivastava](https://github.com/Udit-Shrivastava01)
 -[Om Bhadri](https://github.com/ombhadri)
 -[Mask](https://github.com/ggmask)
