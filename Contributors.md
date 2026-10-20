@@ -247,6 +247,7 @@ hi guys
 -[Max Kaiser](https://github.com/maxkaiser11)
 Hi this is my first contribution 
 - JorgeC: This is my first contribution
+- Vincent J.
 - [LeandroMarc <img title="India" alt="India" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/br.svg" width="22">](https://github.com/leandro-msp) - I tried so hard and got so far - é simples, mas esta é minha primeira contribuição open source
 
 -[AungKhantMoe](https://github.com/aungkhantm0e)
