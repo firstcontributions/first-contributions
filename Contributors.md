@@ -7039,6 +7039,7 @@ Jd
 - [dhruv-creates69](https://github.com/dhruv-creates69)
 - [Sadvik](https://github.com/sadvik-asus)
 - [Ayush Tiwari](https://github.com/ayushtiwari5489) My first Contribution
+- [Riya](https://www.youtube.com/@bethebeats1716)
 - [mahenoorsalat](https://github.com/mahenoorsalat)
 -[Cyril Alfred](https://github.com/cyrilalfred317)
 -[Creepersans](https://github.com/CreepersansDev) My first Contribution LOL!!
@@ -7359,7 +7360,6 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Mubashir Mohamed] (https://github.com/Mubashir-Mohamed)
 - [TigerInTaiga](https://github.com/BitBranchi)
 - [Meghana](https://github.com/yerukolameghana-aiml)
-=======
 
 - - [Aryan Maurya](https://github.com/aryan-maurya-07) - My first open-source contribution
 
