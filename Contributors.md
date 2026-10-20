@@ -108,7 +108,7 @@ SANKALP PANDEY
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Kevin] hello
 - [Jenny] Huzzah!
-- 
+- [milo carter](https://github.com/Ab-misa) My beloved haibara ai,it's my first PR
 - [Leeza] I am feeling pretty kewl
 - [MaxNoahLukas](https://github.com/HackerMaske) I feel like a real programmer now
 - [Punc](https://github.com/Punc1962)
