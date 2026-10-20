@@ -7476,4 +7476,4 @@ add-pranav
 -[Avinash](https://github.com/Avinash130212)-My first open source contribution 
 - [Dylan S] - first open source contribution
 - [James Smith](https://github.com/jamessmith)
-- [Shashank Appana](https://github.com/shashank0302) - my first OSS.
+- [Shashank Appana](https://github.com/shashank0302) - my first OSS.- [Luis Francisco Martinez Araya](https://github.com/franzeq)
