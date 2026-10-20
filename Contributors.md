@@ -9,6 +9,7 @@
 - [Abhyuday Singh]
 - [Sunloid](https://github.com/Sunloid)
 - [Aditya Raj](https://github.com/me-adityaraj8)
+- [Ibrahim Kazi](https://github.com/Ibrahimkazi18) "My first Open Source contribution, MOre to Come!!!"
 - [Sharan GK](https://github.com/gksharan) "This is my very first contribution!"
 [Rahul](https://github.com/Rahulll066/first-contributions)"This is my first contribution!"
 - [Bruce Mutsinzi](https://github.com/Bruce-the-dev) - "The beginning of Life"
