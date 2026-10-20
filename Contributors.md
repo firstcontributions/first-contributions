@@ -1,6 +1,7 @@
 -[mubashir amin](mygit)"
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Resshh](https://github.com/Resshh)
+- [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Yuzu](https://github.com/YuzuLemonn)
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
