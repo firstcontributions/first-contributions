@@ -7464,5 +7464,6 @@ add-pranav
 - hey je suis https://github.com/HYPNOTYZEDCHART
 - [Arihant Jain](https://github.com/ArihantJainWebDev) - My first step towards open source contribution  
 - [wca-ART](https://github.com/wca-ART) - my first contribution
+- [Bianca]
 - [Wania khan](https://github.com/waniiaa)- My first open source contribution
 
