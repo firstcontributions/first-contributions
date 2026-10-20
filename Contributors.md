@@ -1,4 +1,4 @@
-- [Sarthak sharma](https://github.com/Sarthak9291) "lets start doing some open source"
+-[mubashir amin](mygit)"
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Resshh](https://github.com/Resshh)
 - [Yuzu](https://github.com/YuzuLemonn)
