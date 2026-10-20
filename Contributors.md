@@ -7454,4 +7454,4 @@ add-pranav
 - LUOcheng06, Practice for good first issue
 - [Love Kumar Todawat](https://github.com/love995077)
 - hey je suis https://github.com/HYPNOTYZEDCHART
-  
+- [Arihant Jain](https://github.com/ArihantJainWebDev) - My first step towards open source contribution  
