@@ -1,5 +1,6 @@
-- [mubashir amin](mygit)"
-- [NT](https://github.com/c1-001)
+- [Manish Singh](https://github.com/manishs72660-collab)
+-[mubashir amin](mygit)"
+-[NT](https://github.com/c1-001)
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
 - [Resshh](https://github.com/Resshh)
@@ -1152,6 +1153,7 @@ vijyot silare
 - Aditi Mishra
 - [Saad Malik](https://github.com/DAAS2)
 - [Sangeeth Kumar LM](https://github.com/SangeethkumarLM)
+- [Marcus Rocco](https://github.com/MarcusJRocco)
 - [Philip](https://github.com/vitorbjcc)
 - [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
@@ -2783,6 +2785,7 @@ Jim Bollinger
 - [MissBombastic](https://github.com/MissBombastic)
 - Tanvi
 - [Thejas Shetty](https://github.com/thejasshetty05)
+- [Suman Kumari](https://github.com/suman1902)
 - [Vedant S. Kadam](https://github.com/vedant331)
 - [Mr-Zulki](https://github.com/Mr-Zulki/) -[kaurharleen21](https://github.com/KaurHarleen21)
   [Nankund Lilian](https://github.com/Nandalily)
@@ -7467,4 +7470,4 @@ add-pranav
 - [wca-ART](https://github.com/wca-ART) - my first contribution
 - [Bianca]
 - [Wania khan](https://github.com/waniiaa)- My first open source contribution
-
+-[Avinash](https://github.com/Avinash130212)-My first open source contribution 
