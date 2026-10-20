@@ -522,6 +522,7 @@ B05U3-
 - [Ryan]
 - [Pratham Joseph]
 - [Prakhar Shakya]
+- [Swapnil D]
 - [Vivek Agrawal](https://github.com/VivekAgrawal10)
 - [Vishwajit Dusunge] (https://github.com/mr-hacker39)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
