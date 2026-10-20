@@ -7240,3 +7240,4 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [TigerInTaiga](https://github.com/BitBranchi)
 
 - - [Aryan Maurya](https://github.com/aryan-maurya-07) - My first open-source contribution
+- [Arihant Jain](https://github.com/ArihantJainWebDev) - My first step towards open source contribution
