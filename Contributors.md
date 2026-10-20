@@ -2429,6 +2429,7 @@ Aalli
 - [Suraj Patil] - [https://github.com/SurajPatil2645]
 - [조민석](https://github.com/borntobefarmer)
 - Shuvashree Baisya - [https://github.com/shuva-shree]
+- [Jalil Cooper](https://github.com/Jcoop184)
 -jai akash k
 - [LevelVoid] (https://github.com/LevelVoid)
 - [cyx89032-dot](https://github.com/cyx89032-dot)
