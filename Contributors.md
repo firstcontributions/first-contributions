@@ -7437,8 +7437,9 @@ add-pranav
 -[Bhupesh zode](https://github.com/Bhupesh-zode)
 -[Devang](https://github.com/ybuisbuevap)
 -[Ansh Patel](https://github.com/anshpatel181)
--[Satyam](https://github.com/Skay7verse) - I am coming...                                                            
-     -[Anastasia](https://github.com/ustuzaninanasta613-dotcom) - That`s REDRED
+-[Satyam](https://github.com/Skay7verse) - I am coming...                                                         - [Amit Singh](add-amit21671)-My first contribution
+
+-[Anastasia](https://github.com/ustuzaninanasta613-dotcom) - That`s REDRED
 -[Apoorv Singh] (https://github.com/Apoorv932) - DONE!!
 -[KasiFr](https://github.com/Kasii00)
 - [Md Salek Miah](https://github.com/muhammadsalek) - My first open-source contribution! 🚀
