@@ -1151,6 +1151,7 @@ vijyot silare
 - Aditi Mishra
 - [Saad Malik](https://github.com/DAAS2)
 - [Sangeeth Kumar LM](https://github.com/SangeethkumarLM)
+- [Marcus Rocco](https://github.com/MarcusJRocco)
 - [Philip](https://github.com/vitorbjcc)
 - [Aditya Yadav](https://github.com/Aditya00010)
 - [Manuel Riascos](https://github.com/Manuelr0107)
