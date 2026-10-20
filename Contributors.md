@@ -1,6 +1,7 @@
--[mubashir amin](mygit)"
--[NT](https://github.com/c1-001)
+- [mubashir amin](mygit)"
+- [NT](https://github.com/c1-001)
 - [Baljit Panda](https://github.com/olympus-mons26)
+- [Skyla Patterson](https://github.com/skylahp)"First contribution!"
 - [Resshh](https://github.com/Resshh)
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Yuzu](https://github.com/YuzuLemonn)
