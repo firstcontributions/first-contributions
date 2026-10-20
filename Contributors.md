@@ -7417,6 +7417,8 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [OrdinalUser](https://github.com/OrdinalUser) - This is **my** first open-source contribution! Hopefully, it's far from the last!
 - [suman-goit](https://github.com/suman-goit)
 
+-[Kartik-rAWAT](https://github.com/Kartik-rAWAT/)-learning open source contribution .
+
 - [Sakib Raza](https://github.com/sakibraza-dev) — My first contribution
 - [Abhinav-Pathak](https://github.com/abhinavkumarpathak1-coder) - my first contribution,many more to come.
 
