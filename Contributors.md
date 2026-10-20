@@ -17,6 +17,7 @@
 [Rahul](https://github.com/Rahulll066/first-contributions)"This is my first contribution!"
 - [Bruce Mutsinzi](https://github.com/Bruce-the-dev) - "The beginning of Life"
 - [Sahana M](https://github.com/sahana-m21)
+- [Mehak Gupta](https://github.com/mehakguptaptk) - "The begining of open source contribution"
 - [Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [Mayank Gaur](https://github.com/Mayank-CS50)
