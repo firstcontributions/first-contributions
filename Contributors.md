@@ -3741,6 +3741,7 @@ andrewcodess
 - [JASP-R](https://github.com/JASP-R)
 - [JJS](https://github.com/jsng23)
 - [Jaanvi Chouhan](https://github.com/Jaanvichouhan34)
+- [Rohit](https://github.com/Rohit-Solanki1890)
 - [Jahnavi Kareti](https://github.com/jahnavi-kareti)
 - [Jacoy yu](https://github.com/meloer101)
 - [Wong Hok Kan](https://github.com/hkwongax)
