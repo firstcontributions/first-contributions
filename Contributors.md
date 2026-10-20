@@ -6946,6 +6946,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Iraa Garg](https://github.com/iraagarg)
 - [Gustavo Milão](https://github.com/Gustavex24)
 - [Vanshdeep arya](https://github.com/Vansh432)
+- [Behdad Jahad](https://github.com/behdadjahad)
 - [Henil](https://github.com/henil1718)
 - [SK . Satoshi Kaito](https://github.com/SksatoshiKaito)
 - [Ulucbey Terek](https://github.com/wizard12641)
@@ -7459,3 +7460,4 @@ add-pranav
 - [wca-ART](https://github.com/wca-ART) - my first contribution
 - [Wania khan](https://github.com/waniiaa)- My first open source contribution
 - [Kajal Gupta] (https://github.com/kgupta9115/first-contributions) - My first contribution
+- [Prajwal Dabhade](https://github.com/prajwaldabhade07-web)-looking toward great future.
