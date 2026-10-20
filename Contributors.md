@@ -18,6 +18,7 @@
 [Rahul](https://github.com/Rahulll066/first-contributions)"This is my first contribution!"
 - [Bruce Mutsinzi](https://github.com/Bruce-the-dev) - "The beginning of Life"
 - [Sahana M](https://github.com/sahana-m21)
+- [Mehak Gupta](https://github.com/mehakguptaptk) - "The begining of open source contribution"
 - [Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
 - [Mayank Gaur](https://github.com/Mayank-CS50)
@@ -7417,6 +7418,8 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [OrdinalUser](https://github.com/OrdinalUser) - This is **my** first open-source contribution! Hopefully, it's far from the last!
 - [suman-goit](https://github.com/suman-goit)
 
+-[Kartik-rAWAT](https://github.com/Kartik-rAWAT/)-learning open source contribution .
+
 - [Sakib Raza](https://github.com/sakibraza-dev) — My first contribution
 - [Abhinav-Pathak](https://github.com/abhinavkumarpathak1-coder) - my first contribution,many more to come.
 
@@ -7438,8 +7441,9 @@ add-pranav
 -[Bhupesh zode](https://github.com/Bhupesh-zode)
 -[Devang](https://github.com/ybuisbuevap)
 -[Ansh Patel](https://github.com/anshpatel181)
--[Satyam](https://github.com/Skay7verse) - I am coming...                                                            
-     -[Anastasia](https://github.com/ustuzaninanasta613-dotcom) - That`s REDRED
+-[Satyam](https://github.com/Skay7verse) - I am coming...                                                         - [Amit Singh](add-amit21671)-My first contribution
+
+-[Anastasia](https://github.com/ustuzaninanasta613-dotcom) - That`s REDRED
 -[Apoorv Singh] (https://github.com/Apoorv932) - DONE!!
 -[KasiFr](https://github.com/Kasii00)
 - [Md Salek Miah](https://github.com/muhammadsalek) - My first open-source contribution! 🚀
@@ -7460,4 +7464,4 @@ add-pranav
 - [Arihant Jain](https://github.com/ArihantJainWebDev) - My first step towards open source contribution  
 - [wca-ART](https://github.com/wca-ART) - my first contribution
 - [Wania khan](https://github.com/waniiaa)- My first open source contribution
-- [Prajwal Dabhade](https://github.com/prajwaldabhade07-web)-looking toward great future.
+
