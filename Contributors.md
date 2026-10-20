@@ -7352,7 +7352,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[hemanth](https://github.com/hemanthrambhukta-ops)
 - [varun vaddi](https://github.com/varunvaddi07-a11y)
 - [Tran Quoc Phu](https://github.com/tranquocphuxl32-cell)
-
+- [Jae Hyun Kim](https://github.com/jaehyunkim2020)
 [Milan Sharma](https://github.com/MilannSharma)
 [Aditya Pujari](https://github.com/lextleo)
 - [Vanshika Singh](https://github.com/VanshikaSingh888)
