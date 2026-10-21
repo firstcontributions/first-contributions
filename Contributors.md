@@ -7514,4 +7514,5 @@ add-pranav
 - [Ayush Nandi](https://github.com/ayushnandi718-dev) - my first open source contribution!
 - [Ismail Mansuri](https://github.com/beyondruntime) "This is my very first open-source contribution on GitHub! As a beginner, I'm excited to learn, improve my skills, and connect with others in the community. Every great developer starts by taking that first step, and I'm looking forward to growing one commit at a time."
 - [Iva Plavec](https://github.com/ivck30)
-- [flkrdze] (https://github.com/flkrdze) 
+- [flkrdze] (https://github.com/flkrdze)
+- [Syed Mujtaba Abbas](https://github.com/mujtbabbas)
