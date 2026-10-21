@@ -7483,6 +7483,7 @@ add-pranav
 -[Avinash](https://github.com/Avinash130212)-My first open source contribution 
 - [Dylan S] - first open source contribution
 - [James Smith](https://github.com/jamessmith)
+- [Arnam](https://github.com/Arnam-arch)
 - [Shashank Appana](https://github.com/shashank0302) - my first OSS.
 - [Ilham Ramadhan](https://github.com/firstcontributions/first-contribution) - my first Contributions.
 - [Alex Fatkhi](https://github.com/alexfatkhi)
