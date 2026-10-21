@@ -25,6 +25,7 @@
 - [Mehak Gupta](https://github.com/mehakguptaptk) - "The begining of open source contribution"
 - [Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
 - [Kumar Harsh](https://github.com/kumarharsh21112003)
+- [Hrithic Krishnan L](https://github.com/hk-crypto)
 - [Mayank Gaur](https://github.com/Mayank-CS50)
 - [Radhika Kandalkar](https://github.com/radhika817)
 -[Udit Shrivastava](https://github.com/Udit-Shrivastava01)
@@ -104,6 +105,9 @@ SANKALP PANDEY
 - [mrmohdjbr](https://github.com/mrmohdjbr) - Study tip: Review notes after each class and practice regularly.
 - [Anita Demo 1014] -anita anita anita
 - [Vivien Demo 1014] -test1234
+
+- [Rocky_S contr](https://github.com/shubhamodi)
+
 - [GK] - hello Git
 - [DevBhatnagar] - (https://github.com/devvramb)
 - [RikkaNotFound](https://github.com/RikkaNotFound) "This is my first open source contribution!"
@@ -164,6 +168,7 @@ SANKALP PANDEY
 - Harsh Amin here..
 .kanak here -this is my first contribution
 [Lokeshwar](https://github.com/Lokeshwar07-hub) My First Contribution 
+- [Likhith Kumar Reddy Yeramareddy](https://github.com/likhithreddy9) This is my first contribution
 - [sreekar](https://github.com/talankisai) Hello Git
 - [shekhar](https://github.com/vaanakulashekhar-dotcom/)My first Contribution
 - [chilukuririshi-gif](https://github.com/chilukuririshi-gif) it's my first contribution
@@ -7463,7 +7468,7 @@ add-pranav
 - [Rubeha](https://github.com/Rubeha)
 - [AozakiAoko1977](https://github.com/AozakiAoko1977)
 - [Jerow0206](https://github.com/Jerow0206)
-- [Vikash031](https://github.com/Vikash031)
+- [Vikash Maurya](https://github.com/Vikash031)
 - [Sadeen](https://github.com/Sad3nwl)
 - [Ishwari Walewadikar](https://github.com/Ishwarisw)
 - Mika G
@@ -7479,7 +7484,12 @@ add-pranav
 -[Avinash](https://github.com/Avinash130212)-My first open source contribution 
 - [Dylan S] - first open source contribution
 - [James Smith](https://github.com/jamessmith)
+- [Arnam](https://github.com/Arnam-arch)
 - [Shashank Appana](https://github.com/shashank0302) - my first OSS.
 - [Ilham Ramadhan](https://github.com/firstcontributions/first-contribution) - my first Contributions.
 - [Alex Fatkhi](https://github.com/alexfatkhi)
 - [Canna](https://github.com/Canna52) - first contributions
+- [Fariz Irza](https://github.com/farizirza)
+- [yunxiaoxiao12](https://github.com/yunxiaoxiao12) "My first open source contribution!"
+
+
