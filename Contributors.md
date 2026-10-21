@@ -7,6 +7,7 @@
 - [Resshh](https://github.com/Resshh)
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Yuzu](https://github.com/YuzuLemonn)
+- [7ahseeen](https://github.com/7ahseeen)
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
 - [Jaya Chandra Vennam](https://github.com/jayachandra2003)"This is my first open source contribution on github"
