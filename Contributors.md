@@ -7482,3 +7482,4 @@ add-pranav
 - [Shashank Appana](https://github.com/shashank0302) - my first OSS.
 - [Ilham Ramadhan](https://github.com/firstcontributions/first-contribution) - my first Contributions.
 - [Alex Fatkhi](https://github.com/alexfatkhi)
+- [Fariz Irza](https://github.com/farizirza)
