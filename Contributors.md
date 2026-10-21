@@ -290,6 +290,7 @@ This is my first open source contribution.
 -[P.Guhan] (https://github.com/guhan9a-marker)'''That my first open contribution on github
 -#Abhishek Jha
 - [Apriorhythm](https://github.com/Apriorhythm) "I WANT TO PLAY A GAME"
+- [HarshithaGanti](https://github.com/HarshithaGanti) "Beginning Open Source Contribution."
 -[z.ALD](https://github.com/Zenaldiry) "first open contribution"
 - [Vinay Kalva] (https://github.com/vinnu382910)``That my first open contribution on github
 - [Neha Sawant](https://github.com/nehasawant99)``That my first open contribution on github
