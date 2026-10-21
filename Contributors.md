@@ -7518,3 +7518,4 @@ add-pranav
 - [Iva Plavec](https://github.com/ivck30)
 - [flkrdze] (https://github.com/flkrdze)
 - [Syed Mujtaba Abbas](https://github.com/mujtbabbas)
+- [Kuldeep Singh] (https://github.com/kuldeepbtu) "My 1st open source contribution ( ^__^ ) ."
