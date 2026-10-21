@@ -3866,6 +3866,7 @@ andrewcodess
 - [Kevin Liao](https://github.com/kevintheliao)
 - [Krish Jariwala](https://github.com/krishj17)
 - [kpstasikowska](https://github.com/kpstasikowska)
+- [Nate Hu](https://github.com/nightflow2439)
 - [Krishan Malhotra](https://github.com/krishan2005op)
 - [Kutbuddin Moiz Attarwala](https://github.com/Kutbuddin1110)
 - [Kyle Gossage](https://github.com/KGossage11)
