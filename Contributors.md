@@ -7508,3 +7508,4 @@ add-pranav
 - [YYDW](https://github.com/YYDW-i)
 - [HyogaBR](https://github.com/HyogaBR) "The Commits will be with you. Always!"
 - [Ayush Nandi](https://github.com/ayushnandi718-dev) - my first open source contribution!
+- [Iva Plavec](https://github.com/ivck30)
