@@ -7488,6 +7488,7 @@ add-pranav
 - [Shashank Appana](https://github.com/shashank0302) - my first OSS.
 - [Ilham Ramadhan](https://github.com/firstcontributions/first-contribution) - my first Contributions.
 - [Alex Fatkhi](https://github.com/alexfatkhi)
+- [Canna](https://github.com/Canna52) - first contributions
 - [Fariz Irza](https://github.com/farizirza)
 - [yunxiaoxiao12](https://github.com/yunxiaoxiao12) "My first open source contribution!"
-- [Anjali Yadav] (https://github.com/aienje1409) "My 1st open source contribution."
+- [Anjali Yadav](https://github.com/aienje1409) "My 1st open source contribution."
