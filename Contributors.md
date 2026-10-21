@@ -3936,6 +3936,7 @@ andrewcodess
 - [Madhushree Mirji](https://github.com/madhushree-mirji/)
 - [Davy Jones](https://github.com/davyjones7321)
 - [Ganesh Chandra](https://github.com/ganeshchandra111)
+- [Hiroyuki Tanaka]
 - [Arman Borkhani](https://github.com/arman-borkhani)
 - [Anandakrishnan H](https://github.com/anandak19)
 - [Maged Ibrahim](https://github.com/I-Maged)
