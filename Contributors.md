@@ -22,6 +22,7 @@
 [vijay](https://github.com/vijaykumarmungi7-droid) My first contribution
 - [Sahithi](https://github.com/dhavalisahithi466) My First Contribution
 [Lokeshwar](https://github.com/Lokeshwar07-hub) My First Contribution 
+- [Likhith Kumar Reddy Yeramareddy](https://github.com/likhithreddy9) This is my first contribution
 - [sreekar](https://github.com/talankisai) Hello Git
 - [Komal](https://github.com/komal1101-ngs) My first Hacktober
 - [Komal](https://github.com/komal1101-ngs) My Trail
