@@ -7511,6 +7511,7 @@ add-pranav
 - [yunxiaoxiao12](https://github.com/yunxiaoxiao12) "My first open source contribution!"
 - [Anjali Yadav](https://github.com/aienje1409) "My 1st open source contribution."
 - [shan-gui-yao](https://github.com/shan-gui-yao)
+- [Boudrick]
 - [therealgglggl](https://github.com/therealgglggl)
 - [YYDW](https://github.com/YYDW-i)
 - [HyogaBR](https://github.com/HyogaBR) "The Commits will be with you. Always!"
