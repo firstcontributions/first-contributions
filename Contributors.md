@@ -1,6 +1,7 @@
 - [Aisiri Rajashekar](https://github.com/AisiriMR) — Taking my first step into open source!
 - [Manish Singh](https://github.com/manishs72660-collab)
 -[mubashir amin](mygit)"
+20261022 sxy
 -[NT](https://github.com/c1-001)
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
