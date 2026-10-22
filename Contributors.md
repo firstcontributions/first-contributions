@@ -7541,3 +7541,4 @@ add-pranav
 [Krishan Kant Jha](https://github.com/krishankantjha)
 - [BentAmigo14](https://github.com/Austind16)
 - [Kleesuran](https://github.com/Kleesuran) - My first open source contribution!
+- [Rashtra Bhushan](https://github.com/Rashtra03) - My first open-source contribution!
