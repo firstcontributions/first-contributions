@@ -17,6 +17,7 @@
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
 - [Jaya Chandra Vennam](https://github.com/jayachandra2003)"This is my first open source contribution on github"
 - [Priyadharshini K](https://github.com/Priya117K) "This's my very first contribution , really excited :>"
+- [Dilli Prasad Mogarala](https://github.com/dilliprasadm)
 - [ADITYA kumar roy](https://githu/b.com/adityakumarroy67)"first contibution",,,,,,,,,,,,
 - [Abhyuday Singh]
 - [Sunloid](https://github.com/Sunloid)
