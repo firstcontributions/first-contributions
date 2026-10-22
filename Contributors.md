@@ -328,6 +328,7 @@ This is my first open source contribution.
 Mahisha K
 [Rethabile Mabaso](https://github.com/rethabile-mabaso) - Hello! Rethabile here👋. This is my first open source contribution.
 - Mohammad Sami, This is my first contribution
+- [Sidax](https://github.com/sidax) Hello, this is my first contribution
 - [isca sheli](https://github.com/IscaSheli) - Hello!
 - [Lohithnath](https://github.com/Lohithnath2910) - Hi y'all, this is my first contribution!!
 - [Manu Bhardwaj](https://github.com/dranzerrrr) - Hi! Starting off with my first open source contribution. Would be starting contribute more and more.
@@ -426,7 +427,7 @@ Migeen Magar - let'sss gooooooo
 - [Krishna Malhotra](https://github.com/krishna2707) - Hi This is my first contribution
 - [Orkun Olcal](https://orkunolcal.github.io/) - Hello World!
  add-lury
--[Adesh Singh](https://github.com/adesh-singh596) - Hello World!! this is Adesh and it's my first open-source contribution!
+ -[Adesh Singh](https://github.com/adesh-singh596) - Hello World!! this is Adesh and it's my first open-source contribution!
 - [Alden Rosario](https://github.com/ROSRAR20) - Hello!! this is also my first open-source contribution!
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
 -[Rushikesh Fulmali](https://github.com/rushikeshfulmali27) - hi friends , this is my first contibution !
