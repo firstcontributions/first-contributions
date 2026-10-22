@@ -7482,6 +7482,7 @@ add-pranav
 - [Ishwari Walewadikar](https://github.com/Ishwarisw)
 - Mika G
 - [Dan](https://github.com/Productguy1)
+- [Manav Goel](https://github.com/manavgoel2004)
 - [GitDanyaUser](https://github.com/GitDanyaUser) - I like trains
 - LUOcheng06, Practice for good first issue
 - [Love Kumar Todawat](https://github.com/love995077)
