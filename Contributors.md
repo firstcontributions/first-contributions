@@ -126,6 +126,7 @@ nathan practice here
 - [Madhavi Porte](https://github.com/madhaviporte)
 - [Navin Choudhary](https://github.com/Navin-Choudhary)
 - [Sandeep Mahato](https://github.com/sandeepmahato1)
+- [Terry Madi Lund]
 - [Dinesh](https://github.com/ad-Dinesh)
 - [Yashwanth Patil](https://github.com/Yashwanthpatil2005)
 - [Ashraf Naeem](https://github.com/ashrafnaeem1)
