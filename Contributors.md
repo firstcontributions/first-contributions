@@ -6,6 +6,7 @@
 - [Manish Singh](https://github.com/manishs72660-collab)
 -[mubashir amin](mygit)"
 -[NT](https://github.com/c1-001)
+- [Mohammed Huzaifa Khan](https://github.com/Huzaifacode-dot) - Glad to say, it's my first contribution
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Bairon Villar](https://github.com/baironvillar)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
