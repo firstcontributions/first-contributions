@@ -7529,3 +7529,4 @@ add-pranav
 - [Reet Gupta](https://github.com/reetgupta25-stack) - My first open-source contribution!
 - [vinodharshini](https://github.com/vino-dharshini) - My first open-source contribution!
 - [anupgitH] (https://github.com/anupgitH) - "My First OPEN Source"
+- [Mayur] (https://github.com/mayuur-naik)
