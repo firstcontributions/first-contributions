@@ -6122,7 +6122,7 @@ jismh1
 
 Adarsh
 - [Adarsh](https://github.com/AdarshHule)
-
+- [Sanshay](first osc lessgoo)
 - [Mustapha Yusuf](https://github.com/Mustaphayinka)
 
 - [Sathi Chaitanya Sai Durga](https://github.com/sathichaitanyasaidurga)
@@ -6130,7 +6130,7 @@ Adarsh
 - [Eswar T](https://github.com/eswart627) Let's see...
 - [Sourabh Kumar](https://github.com/sourabhku88)
 -[Aashi Srivastava](https://github.com/AashiSrivastava411)
-- [JoaoMenoli](https://github.com/JoaoMenoli)
+- [JoaoMenoli](https://github.com/JoaoMenoli)S
 - [Aniket](https://github.com/AniketXcode)
 - [rm4x1](https://github.com/rm4x1)
 - [Lucas Bruno](https://github.com/lucasklimaschenski1-dotcom)
