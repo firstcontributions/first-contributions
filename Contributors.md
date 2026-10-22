@@ -3768,6 +3768,7 @@ andrewcodess
 - [Ishan Edlabadkar](https://github.com/IshanEdlabadkar)
 - [Ishan Gupta](https://github.com/developer-ishan)
 - [Famoussa](https://github.com/famoussdev007)
+- [Rafael Scar](https://github.com/RRRRafa7) - My first open source contribution 🚀
 - [Tej Deep Masina](https://github.com/TejDeepM)
 - [Juhani1104](https://github.com/Juhani1104) :0
 - [Ishan Verma](https://github.com/ishan4432)
