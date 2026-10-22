@@ -324,6 +324,7 @@ This is my first open source contribution.
 - [Nimesh Kumar Kashyap](https://github.com/Nimesh1205) - Hello! Nimesh Here👋, This is my first open source contribution.
 - [Kvin]
 Mahisha K
+[Rethabile Mabaso](https://github.com/rethabile-mabaso) - Hello! Rethabile here👋. This is my first open source contribution.
 - Mohammad Sami, This is my first contribution
 - [isca sheli](https://github.com/IscaSheli) - Hello!
 - [Lohithnath](https://github.com/Lohithnath2910) - Hi y'all, this is my first contribution!!
