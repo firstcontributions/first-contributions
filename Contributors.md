@@ -8,6 +8,7 @@
 - [Aisiri Rajashekar](https://github.com/AisiriMR) — Taking my first step into open source!
 - [Manish Singh](https://github.com/manishs72660-collab)
 -[mubashir amin](mygit)"
+20261022 sxy
 -[NT](https://github.com/c1-001)
 -[Ashok G] (https://github.com/USERASHOKG) - Ever since the decade Engineers
 - [Mohammed Huzaifa Khan](https://github.com/Huzaifacode-dot) - Glad to say, it's my first contribution
