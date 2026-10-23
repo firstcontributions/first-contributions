@@ -1042,6 +1042,7 @@ King
 zzang001
 Rishabh Gupta
 vijyot silare
+-Shiki ryoughi
 - [jenish](https://github.com/jenish-321)
 -[ruthvika](https://github.com/ruthvikaniathyderabad-maker)
 - [Cristian](https://github.com/Cristian212502)
