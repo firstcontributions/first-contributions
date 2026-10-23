@@ -7590,3 +7590,4 @@ add-pranav
 - [Puneet V](https://github.com/puneet0817-RS)
  main
 - [Ashutosh Kumar Baraik](https://github.com/AshutoshKumarBaraik)
+- [Muhammad Atiq](https://github.com/muhammadatiq1)
