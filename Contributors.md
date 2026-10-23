@@ -2479,6 +2479,7 @@ kalyani
 - [Khushi Gupta](https://github.com/khushiiiguptaa06-hub)
 - [tanve13](https://github.com/tanve13) #Contributor -[Sori](https://github.com/iam-sori)
 - [sangsu](https://github.com/sangsu745)
+- [Pendyala Shashank](https://github.com/Shnk22)
 - [Dipal Radadiya](https://github.com/DipalRadadiya)
 - S K
 - [Thejas K](https://github.com/thejas-1999)
