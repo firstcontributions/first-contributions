@@ -7569,3 +7569,4 @@ add-pranav
 - [Anjali Tayhande (https://github.com/anjalip2008tayhande-spec) - Not my first Repo though ----- GOOO CHECKOUTT CURRYKRUST!!!!!!!
  - [Wu Wenmao](https://github.com/what881)
 - [Ekrem Çakır](https://github.com/ekrmcakir)
+- [Anurag Kulkarni](https://github.com/anuragkulk)
