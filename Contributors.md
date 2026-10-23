@@ -15,6 +15,7 @@
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Mostafa Mamdouh](https://github.com/MostafaL2003) "First Contribution W"
 - [Yuzu](https://github.com/YuzuLemonn)
+- [Raying](https://github.com/Raying520)
 - [mamayuquero](https://github.com/mamayuquero)
 - [7ahseeen](https://github.com/7ahseeen)
 - [Jeryco Fabriant](https://github.com/Briant242) - Russia I'm Coming!!!!
