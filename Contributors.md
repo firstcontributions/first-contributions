@@ -13,6 +13,7 @@ Atharv Singh
 - [Tommy Wong](https://github.com/tommy012hk-coder)
 - [Aisiri Rajashekar](https://github.com/AisiriMR) — Taking my first step into open source!
 - [Manish Singh](https://github.com/manishs72660-collab)
+- [Prakash](https://github.com/Prakash29-arch)
 -[mubashir amin](mygit)"
 -[NT](https://github.com/c1-001)
 -[Ashok G] (https://github.com/USERASHOKG) - Ever since the decade Engineers
