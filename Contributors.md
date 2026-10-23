@@ -1,7 +1,12 @@
+
 Atharv Singh
+
+- [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
+ upstream/main
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
-- | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :) 
+- | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
+- 
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
 - [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
@@ -91,6 +96,7 @@ I am V I HEMASHREE [https://github.com/HemashreeVI] "THIS IS MY FIRST CONTRIBUTI
 -[NLuffy](https://github.com/NLuffy) First commit
 - [pranay kawadkar](https://github.com/pranaykawadkar06)"This is my first open source contribution on github"
 - [nani](https://github.com/nanigenai8-creator)"This is my first open source contribuatio 0n github"
+- [Deivid Santos](https://github.com/starfingar).
 - [Gowtham](https://github.com/Gowtham-30507)
 - [Ibrahim Danjuma](https://github.com/ufidscript)"This is my first open source contribution on github"
 - [Neetu Nawani](https://github.com/neetunawani11)"This is my first open source contribution on github"
@@ -7580,5 +7586,7 @@ add-pranav
 - [Fathima Nuha](https://github.com/nuha-mhmf)
 
 - [Sagar Tambole](https://github.com/Sagar-856)
+- [Suryansh](https://github.com/Suryansh)
 - [Puneet V](https://github.com/puneet0817-RS)
  main
+- [Ashutosh Kumar Baraik](https://github.com/AshutoshKumarBaraik)
