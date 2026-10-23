@@ -155,6 +155,7 @@ SANKALP PANDEY
 - [Bharath](https://github.com/bharathchandragorli-spec/) MY CONTRIBUTION
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Kevin] hello
+Arise
 - [Jenny] Huzzah!
 - [milo carter](https://github.com/Ab-misa) My beloved haibara ai,it's my first PR
 - [Leeza] I am feeling pretty kewl
