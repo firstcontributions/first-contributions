@@ -6,6 +6,8 @@ Atharv Singh
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
+- [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
+
 - 
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
@@ -13,6 +15,7 @@ Atharv Singh
 - [Tommy Wong](https://github.com/tommy012hk-coder)
 - [Aisiri Rajashekar](https://github.com/AisiriMR) — Taking my first step into open source!
 - [Manish Singh](https://github.com/manishs72660-collab)
+- [Prakash](https://github.com/Prakash29-arch)
 -[mubashir amin](mygit)"
 -[NT](https://github.com/c1-001)
 -[Ashok G] (https://github.com/USERASHOKG) - Ever since the decade Engineers
@@ -139,6 +142,7 @@ SANKALP PANDEY
 - [Vivien Demo 1014] -test1234
 - Wozniak
 - [Rocky_S contr](https://github.com/shubhamodi)
+- [Venkata Sai Sabbineni](https://github.com/venkatasaisabbineni) - "First Contribution for practicing Open-Source Contributions"
 - [Pratap Patra](https://github.com/pratappatra078) - "First contribution , Life goal 12+ LPA "
 - [GK] - hello Git
 - [DevBhatnagar] - (https://github.com/devvramb)
@@ -155,6 +159,7 @@ SANKALP PANDEY
 - [Bharath](https://github.com/bharathchandragorli-spec/) MY CONTRIBUTION
 - [Fu Yuhao](https://github.com/WEEZZ-admin) Hi there, this is my first contribution.
 - [Kevin] hello
+Arise
 - [Jenny] Huzzah!
 - [milo carter](https://github.com/Ab-misa) My beloved haibara ai,it's my first PR
 - [Leeza] I am feeling pretty kewl
@@ -7590,4 +7595,8 @@ add-pranav
 - [Puneet V](https://github.com/puneet0817-RS)
  main
 - [Ashutosh Kumar Baraik](https://github.com/AshutoshKumarBaraik)
+  feature/agregar-nombre
 - [Alexander](https://github.com/alexander1992a)
+
+- [Muhammad Atiq](https://github.com/muhammadatiq1)
+ main
