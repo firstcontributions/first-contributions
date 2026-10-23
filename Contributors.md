@@ -7555,3 +7555,4 @@ add-pranav
 - sanath waraikar
 - [Laksh Kumar Singh](https://github.com/lkghost327-afk)
 - ⁠[Tasibul Hasan](https://github.com/tsblhsn)
+- [李旭](https://github.com/2949176557) - My first open source contribution!
