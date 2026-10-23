@@ -7595,8 +7595,12 @@ add-pranav
 - [Puneet V](https://github.com/puneet0817-RS)
  main
 - [Ashutosh Kumar Baraik](https://github.com/AshutoshKumarBaraik)
+  feature/contribucion-alexander
+- [Alexander](https://github.com/alexander1992a)
+
   feature/agregar-nombre
 - [Alexander](https://github.com/alexander1992a)
 
 - [Muhammad Atiq](https://github.com/muhammadatiq1)
+ main
  main
