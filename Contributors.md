@@ -6,6 +6,8 @@ Atharv Singh
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
+- [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
+
 - 
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
