@@ -8,6 +8,7 @@
 - [Manish Singh](https://github.com/manishs72660-collab)
 -[mubashir amin](mygit)"
 -[NT](https://github.com/c1-001)
+-[Ashok G] (https://github.com/USERASHOKG) - Ever since the decade Engineers
 - [Mohammed Huzaifa Khan](https://github.com/Huzaifacode-dot) - Glad to say, it's my first contribution
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Bairon Villar](https://github.com/baironvillar)
@@ -7561,3 +7562,4 @@ add-pranav
 - [李旭](https://github.com/2949176557) - My first open source contribution!
 - [Priya Prachi](https://github.com/Priya393-hash) - My first open source contribution!
 - [Kurokaori](https://github.com/Kurokaori) - My first open source contribution!
+- [N Mogesh](https://github.com/mogesh-n)
