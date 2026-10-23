@@ -1,3 +1,4 @@
+- [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
