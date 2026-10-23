@@ -12,7 +12,7 @@ Atharv Singh
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
 - [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
-- [Tommy Wong](https://github.com/tommy012hk-coder)
+- [Brandon kipkirui yegon](https://github.com/tommy012hk-coder)
 - [Aisiri Rajashekar](https://github.com/AisiriMR) — Taking my first step into open source!
 - [Manish Singh](https://github.com/manishs72660-collab)
 - [Prakash](https://github.com/Prakash29-arch)
