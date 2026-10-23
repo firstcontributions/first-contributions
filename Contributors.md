@@ -7561,5 +7561,6 @@ add-pranav
 - ⁠[Tasibul Hasan](https://github.com/tsblhsn)
 - [李旭](https://github.com/2949176557) - My first open source contribution!
 - [Priya Prachi](https://github.com/Priya393-hash) - My first open source contribution!
+- [Qianyu Yang](https://github.com/qianyu15) - ファースト
 - [Kurokaori](https://github.com/Kurokaori) - My first open source contribution!
 - [N Mogesh](https://github.com/mogesh-n)
