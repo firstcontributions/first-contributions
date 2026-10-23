@@ -54,6 +54,7 @@
 -[Gomathi U](https://github.com/GOMATHI-U) "Hello!! my name is open source contribution and this is my first Gomathi!! I am glad that I found this gem"
 -[Jeyavartha V](https://github.com/jeyavarthaahal-web)
 -[Lorena](https://github.com/lorenaedwin08-hub)
+-[Haritha B](https://github.com/harithabalaji28)
 -[Karveti Geethika](https://github.com/geethikakarveti1-source)
 -[samme3000](https://github.com/samme3000)"First time"
 -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
