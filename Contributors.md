@@ -1,5 +1,5 @@
-- [brajesh-kushwaha] (https://github.com/brajeshkushwa9089-lgtm) -> 1st step of learning open source contribution 🚀
-- [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
+- [Brajesh-Kushwaha] (https://github.com/brajeshkushwa9089-lgtm) -> first  step of learning open source contribution 🚀corontrobution
+- [Salvatore Flores](https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :) 
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
