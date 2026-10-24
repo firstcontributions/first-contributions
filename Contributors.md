@@ -37,6 +37,7 @@ Atharv Singh
 -[mubashir amin](mygit)"
 - [Mihir Kumar Tiwari] (https://github.com/MihirKrTiwari) -- This is my first open source contribution
 -[NT](https://github.com/c1-001)
+-[yasin shaikh](https://github.com/Yasin152-sketch)
 -[Ashok G] (https://github.com/USERASHOKG) - Ever since the decade Engineers
 - [Mohammed Huzaifa Khan](https://github.com/Huzaifacode-dot) - Glad to say, it's my first contribution
 -[Rijul Kathpal](https://github.com/rijulkathpalnitw-sys)
