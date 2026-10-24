@@ -772,6 +772,7 @@ Arc hie Boswelll
 - [2HB25CS006](hhtps://github.com/2HB25CS006)
   [GioPs](https://github.com/01giopaixao)
 - [Chethan DB](https://github.com/CHETHANDB123)
+- [Jishnu]
 - [Sachin Kumar](https://github.com/ST-SACHIN-KUM)
    [Sanju Kurma](https://github.com/sanjeevkurma867-maker)
 - [HarshithVardhan](https://github.com/Harshithvardhan)
