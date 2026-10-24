@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-- [kashish] (https://github.com/kashishmakode848-web) -> 1st step of learning open source contribution 🚀
-=======
-<<<<<<< HEAD
-- [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
-=======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
@@ -15,8 +9,6 @@ Atharv Singh
 - [Abhijit-ops0903](https://github.com/Abhijit-ops0903) - lol
 - [itspremsingh101-byte](https://github.com/itspremsingh101-byte) - mardo mujhe
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
->>>>>>> upstream/main
->>>>>>> upstream/main
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
 - [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
