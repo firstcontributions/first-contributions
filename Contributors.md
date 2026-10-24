@@ -220,7 +220,7 @@ Arise
 - [Thanfighter] (https://github.com/Thanfighter/first-contributions.git)
 -[Swaroop](https://github.com/swaroopgupta52-commits/gupta-16) My first contribution in hacktober
 -[Bhargav] (https://github.com/bhargavambati09-crypto/) My first contributions-Hackober
--[devsplixy](https://github.com/devsplixy)
+-[devsplixy](https://github.com/devsplixy) Contributing is fun!
 -[Dharma Rochis] (https://github.com/rochismarts189-dot) My first contribution-2026
 -[veeru naidu] (https://github.com/singampalliveerunaidu-bit) My new contribution in this project
 -[Sheharyar Humayun]
