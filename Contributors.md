@@ -2958,6 +2958,7 @@ Jim Bollinger
 - [JasWanth]---
 - [Raheem] (https://github.com/raheem-ui)
 - [Kamalesh] (https://github.com/kamaleshpanda)
+- [Fuad Hassan Faruk] (https://github.com/fuadfaruk)
 - [Code-Dev] (https://github.com/code-devkmd)
 - [NithinKommi] (https://github.com/KOMMINITHIN)
 - [Tabiq Zargar](https://github.com/TabiqZargar)
