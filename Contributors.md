@@ -3948,6 +3948,7 @@ andrewcodess
 - [Kavin](https://github.com/atomthedark)
 - [Kishan Pokar](https://github.com/Kishan-Pokar)
 - [Kevin Liao](https://github.com/kevintheliao)
+- [Kevin Nguyen](https://github.com/kevinNguyen101) They don't know I did my first contributions here
 - [Krish Jariwala](https://github.com/krishj17)
 - [kpstasikowska](https://github.com/kpstasikowska)
 - [Nate Hu](https://github.com/nightflow2439)
