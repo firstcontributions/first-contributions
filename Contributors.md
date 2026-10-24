@@ -1,4 +1,5 @@
-- [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
+- [MITIL CHAKRABORTY](https://github.com/Mitil08) - # 🚀 The Ultimate Open Source Journey has has begun with this beautiful quote  ```One serious start can erase years of delay.``` 
+ [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :) 
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
@@ -267,7 +268,7 @@ Im Fabio Uvinha
 -[Ajay Kumar](https://github.com/AjRana09/first-contributions-demo)
 -[Mohammed Zain Ateeq](https://github.com/instinctone7/first-contributions)
 -[Abdishakur](https://github.com/abdishakur700/first-contributions.git)
--[Praveen gandikota](https://github.com/PraveenGandikota/first-contributions)
+-[Praveen gandikota](https://github.com/PraveenGandikota/first-contributions)`
 - [Aashna Anand](https://github.com/Aashna-Anand)
 - sai sreekar(https://github.com/talankisai/My-work.git) Made changes
 - [pplehanov161-star](https://github.com/pplehanov161-star) - My first open source contribution!
