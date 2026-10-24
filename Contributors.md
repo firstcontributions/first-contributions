@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+[(VishvBadarya)](https://github.com/VishvBadarya) - >“Learning in public, contributing to open source, and growing with every commitsssss. 🚀”cle
+=======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
@@ -7,6 +10,7 @@ Atharv Singh
 
 - [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
 - [Abhijit-ops0903](https://github.com/Abhijit-ops0903) - lol
+>>>>>>> upstream/main
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
