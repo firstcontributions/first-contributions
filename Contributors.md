@@ -1,4 +1,4 @@
-- [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
+
  
 Atharv Singh
 - [Abrar](https://github.com/mohabhab786-hue) - My first open-source contribution!
@@ -34,6 +34,7 @@ Atharv Singh
 - [Raying](https://github.com/Raying520)
 - [mamayuquero](https://github.com/mamayuquero)
 - [7ahseeen](https://github.com/7ahseeen)
+- [itspremsingh101-byte](https://github.com/itspremsingh101-byte) - First open source contribution!
 - [Jeryco Fabriant](https://github.com/Briant242) - Russia I'm Coming!!!!
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
