@@ -3829,6 +3829,7 @@ andrewcodess
 - [Juhani1104](https://github.com/Juhani1104) :0
 - [Ishan Verma](https://github.com/ishan4432)
 - [Ishit](https://github.com/ishitGsigma)
+- [Mohit Sharma](https://github.com/mohitsharma) - My first open-source contribution!
 - [Ishita Singh](https://github.com/codeishitech)
 - [Ishita](https://github.com/elekish)
 - [Ishita Sajeev](https://github.com/IshitaSajeev)
