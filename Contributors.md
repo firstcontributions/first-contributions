@@ -1,4 +1,4 @@
-- [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
+- [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 
 <<<<<<< HEAD
 =======
