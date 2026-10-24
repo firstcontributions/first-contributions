@@ -1,3 +1,5 @@
+- [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution
+  
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
  
 Atharv Singh
