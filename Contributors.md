@@ -979,6 +979,7 @@ Jainil Chavda
 - [Kuba Slowikowski](https://github.com/JhonMerchan)
 - [Alejandro Merchan]
 - [Aaryan C Gole](https://github.com/)
+- [DSVG Pranay](https://github.com/dsvgpranay-alt)
 - [Aditya](https://github.com/ADITYA-2005-LANG)
 - [Samuele Niccolai](https://github.com/SamueleNiccolai)
 - [Sanya] (https://github.com/thesaanya7-del)
@@ -7612,3 +7613,4 @@ add-pranav
 - [M-yhx](https://github.com/M-yhx)
 - [kiki111-code](https://github.com/kiki111-code)
 - [Altamash Ahmad](https://github.com/AltamashAhmad)
+
