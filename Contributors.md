@@ -416,6 +416,7 @@ Migeen Magar - let'sss gooooooo
 - [Liu050916](https://github.com/Liu050916) - hello！这是我的第一个开源贡献!
 - [CloaRK](https://github.com/CloaRK) - 你好！这是我的第一个开源贡献！
 - [bharat karnik]
+- [SaKi-AYaSe555](https://github.com/SaKi-AYaSe555)
 - [cxl92](https://github.com/cxl92) - My first open-source contribution!!!
 - [ssarode1410](https://github.com/ssarode1410) - My first open source contribution, Let's go !!!
 - [Tyler M] - Hi!
@@ -974,6 +975,7 @@ Jainil Chavda
 - [Kuba Slowikowski](https://github.com/JhonMerchan)
 - [Alejandro Merchan]
 - [Aaryan C Gole](https://github.com/)
+- [DSVG Pranay](https://github.com/dsvgpranay-alt)
 - [Aditya](https://github.com/ADITYA-2005-LANG)
 - [Samuele Niccolai](https://github.com/SamueleNiccolai)
 - [Sanya] (https://github.com/thesaanya7-del)
@@ -7607,3 +7609,5 @@ add-pranav
 - [M-yhx](https://github.com/M-yhx)
 - [kiki111-code](https://github.com/kiki111-code)
 - [Altamash Ahmad](https://github.com/AltamashAhmad)
+
+- [kami2837](https://github.com/kami2837) - My first open-source contribution!
