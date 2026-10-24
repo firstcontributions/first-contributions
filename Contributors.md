@@ -1,4 +1,4 @@
-- [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
+- [Rangesh Kumar])(https://github.com/babusaheb0001) - This is for my assignment
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
 - [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
@@ -11,7 +11,7 @@
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Bairon Villar](https://github.com/baironvillar)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
-- [Resshh](https://github.com/Resshh)
+- [Resshh](https://github.com/Ressh)
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Mostafa Mamdouh](https://github.com/MostafaL2003) "First Contribution W"
 - [Yuzu](https://github.com/YuzuLemonn)
