@@ -7619,4 +7619,4 @@ add-pranav
 
 - [kami2837](https://github.com/kami2837) - My first open-source contribution!
 - [Rishi-K-0714](https://github.com/Rishi-K-0714)
-
+- [Kiritiaajd](https://github.com/Kiritiaajd) - My first open-source contribution!
