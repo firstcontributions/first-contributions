@@ -81,6 +81,7 @@ Atharv Singh
 - [Mayank Gaur](https://github.com/Mayank-CS50)
 - [Radhika Kandalkar](https://github.com/radhika817)
 -[Udit Shrivastava](https://github.com/Udit-Shrivastava01)
+-[Isha Bilu](https://github.com/ivantagedev-code)
 -[Om Bhadri](https://github.com/ombhadri)
 -[Mask](https://github.com/ggmask)
 -[João Victor Machado Sperle](https://github.com/Sperlee)
