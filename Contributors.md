@@ -3530,6 +3530,7 @@ ooo
 - [Daniel Kuhn](https://github.com/DanielUmedaKuhn)
 - [Dante Uchofen](https://github.com/dantexuchofen)
 - [coolwent](https://github.com/coolwent)
+- [Mayank Singh](https://github.com/mayanksingh-7974)
 - [Darshika Shrivastava](https://github.com/darshika140)
 - [Dave Herr](https://github.com/dave-herr)
 - [Caleb Herrera](https://github.com/CalebJHerrera)
