@@ -1,16 +1,22 @@
+<<<<<<< HEAD
 - [psj727079-source](https://github.com/psj727079-source) - First open source contribution!
+=======
+- [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
+  
+- [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
+>>>>>>> upstream/main
  
 Atharv Singh
 - [Abrar](https://github.com/mohabhab786-hue) - My first open-source contribution!
 
 - [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
-
+- [Abhijit-ops0903](https://github.com/Abhijit-ops0903) - lol
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
 - [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
 - [Bala Saastha B](https://github.com/bbs-669) - My first open-source contribution! Woohoo
-- 
+- [boob-min]-Begin begin
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Anirban Bhowmik](https://github.com/anirbanbhowmik27) -- My First Open Source Contribution
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
