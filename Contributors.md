@@ -10,6 +10,7 @@
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Bairon Villar](https://github.com/baironvillar)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
+- [Kushal Sharma](https://github.com/kushal-lab123)"first-contributions"
 - [Resshh](https://github.com/Resshh)
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Mostafa Mamdouh](https://github.com/MostafaL2003) "First Contribution W"
