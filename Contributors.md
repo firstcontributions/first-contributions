@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-- [MITIL CHAKRABORTY](https://github.com/Mitil08) - # 🚀 The Ultimate Open Source Journey has has begun with this beautiful quote  ```One serious start can erase years of delay.``` 
  [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
@@ -12,7 +10,6 @@ Atharv Singh
 - [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
 - [Abhijit-ops0903](https://github.com/Abhijit-ops0903) - lol
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
->>>>>>> upstream/main
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
 - [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
@@ -57,7 +54,8 @@ Atharv Singh
 - [Ibrahim Kazi](https://github.com/Ibrahimkazi18) "My first Open Source contribution, MOre to Come!!!"
 - [Sharan GK](https://github.com/gksharan) "This is my very first contribution!"
 [Rahul](https://github.com/Rahulll066/first-contributions)"This is my first contribution!"
-- [Bruce Mutsinzi](https://github.com/Bruce-the-dev) - "The beginning of Life"
+- [Bruce Mutsinzi](https://github.com/Bruce-the-dev) - "The beginning of Life
+[Mitil Chakraborty](https://github.com/Mitil08)-"The beginning of open source contribution"
 - [Sahana M](https://github.com/sahana-m21)
 - [Mehak Gupta](https://github.com/mehakguptaptk) - "The begining of open source contribution"
 - [Srinivasu](https://github.com/Srinu1178/first-contributions)"This is my first contribution"
