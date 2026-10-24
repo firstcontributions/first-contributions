@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-- [Bulbul kumaree] (https://github.com/subhibul24maker) -> 1st step of learning open source contribution 🚀
+- [Bulbul] (https://github.com/subhibul24maker) -> 1st step of learning open source contribution 🚀
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
