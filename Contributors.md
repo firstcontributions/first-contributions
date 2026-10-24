@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-- [khushwahaarun204-jpg] (https://github.com/khushwahaarun204-jpg) -> 1st step of learning open source contribution 🚀
+- [khushwahaarun204-jpg] (https://github.com/khushwahaarun204-jpg) -> First Open Source Contribution !!!!
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
