@@ -1,3 +1,5 @@
+- [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
+
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
