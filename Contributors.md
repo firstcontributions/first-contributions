@@ -7687,3 +7687,5 @@ yupipi
 - [li2861](https://github.com/li2861)
 Achal Nimkar
 ujjwal vishwakarma
+- [Shreya](https://github.com/shreya8-p) - My first open-source contribution!
+
