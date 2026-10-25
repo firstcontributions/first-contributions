@@ -55,6 +55,7 @@ Atharv Singh
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
 - [Nitish Kota](https://github.com/knitish91599-lgtm)"Finally!! first contribution"
 - [Resshh](https://github.com/Resshh)
+- [Satyaprakash](https://github.com/SatyaPrakash252)
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Mostafa Mamdouh](https://github.com/MostafaL2003) "First Contribution W"
 - [Jesse Francis](https://github.com/jessefrancis-glitch) "My first contributon , a humble beginning"
