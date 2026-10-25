@@ -14,6 +14,7 @@
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
  
 Atharv Singh
+- [Lafin Fibrish G](https://github.com/Fibrish) - My beginning🍀
 - [Abrar](https://github.com/mohabhab786-hue) - My first open-source contribution!
 - [Pradyumna Parida](https://github.com/Pradyumna-red) - First open source contribution!🚀
 - [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
