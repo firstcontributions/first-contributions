@@ -1384,6 +1384,7 @@ siddhu
 - [Faizan Ahmed](https://github.com/FaizanAhmed-RDVC1567)
 - [Mihsan Alam](https://github.com/mihsanalam)
 - Pandiyarajan
+- [Abhishek Shinde](https://github.com/Abhipatil0065)
 - [Mohd Zubair](https://github.com/Phenomenal46)
 - [Pranay Reddy Kondam](https://github.com/pranay8970)
 - [Mandar Vade](https://github.com/MandarVade)
