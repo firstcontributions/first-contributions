@@ -142,6 +142,7 @@ I am V I HEMASHREE [https://github.com/HemashreeVI] "THIS IS MY FIRST CONTRIBUTI
 - [nani](https://github.com/nanigenai8-creator)"This is my first open source contribuatio 0n github"
 -[hazzyadil] (https://github.com/hazzyadil/) "sup everyone lets beat elon, connect me on insta _adil_abdulla_"
 - [Ana Clara Barcelos](https://github.com/anacelos) "Hi Future Ana, nice to see you"
+- [Jordan Cao](https://github.com/JordanCa0)"First contribution check" 
 - [Deivid Santos](https://github.com/starfingar).
 - [Gowtham](https://github.com/Gowtham-30507)
 - [Ibrahim Danjuma](https://github.com/ufidscript)"This is my first open source contribution on github"
@@ -7702,4 +7703,3 @@ Harshit Bisht
 - [qqzzmm88](https://github.com/qqzzmm88)
 - [Shreya](https://github.com/shreya8-p) - My first open-source contribution!
 - [Nitin Kardam](https://github.com/Nitink420)
-
