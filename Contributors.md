@@ -7665,3 +7665,4 @@ add-pranav
 - [Yagya] (https://github.com/yagya0996) - My first open-source contribution!
 - [Md. Adib Abrar] - My first open-source contribution!
 - [kanye530](https://github.com/kanye530)
+- [Loki](https://github.com/lokeshwari4417) - My first open-source contribution!
