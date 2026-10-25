@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-- [khushwahaarun204-jpg] (https://github.com/khushwahaarun204-jpg) -> First Open Source Contribution of mine.....
+- [khushwahaarun204-jpg] (https://github.com/khushwahaarun204-jpg) -> First Open Source Contribution of Mine.
 =======
 - [kashish] (https://github.com/kashishmakode848-web) -> 1st step of learning open source contribution 🚀
 =======
