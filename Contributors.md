@@ -57,6 +57,7 @@ Atharv Singh
 - [Resshh](https://github.com/Resshh)
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Mostafa Mamdouh](https://github.com/MostafaL2003) "First Contribution W"
+- [Jesse Francis](https://github.com/jessefrancis-glitch) "My first contributon , a humble beginning"
 - [Yuzu](https://github.com/YuzuLemonn)
 - [Raying](https://github.com/Raying520)
 - [Kushal Patil](https://github.com/KushalPatil7)
