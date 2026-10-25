@@ -7672,3 +7672,4 @@ add-pranav
 - [Nishant Singh](https://github.com/NishantSingh-01) -- My first open-source contribution!
 
 - [Lipi Roy](https://github.com/lipiroy558-cloud)
+- [Zubair Ahmed](https://github.com/crypt-zubair) - My first open-source contribution!
