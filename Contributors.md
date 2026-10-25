@@ -12,7 +12,7 @@
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
- 
+ - [viessmanbessinger-ux](https://github.com/viessmanbessinger-ux) - My first open-source contribution!
 Atharv Singh
 - [Lafin Fibrish G](https://github.com/Fibrish) - My beginning🍀
 - [RobsHs](https://github.com/RobsHs) - First open source contribution!
