@@ -4869,6 +4869,7 @@ andrewcodess
 - [dolphin2468](https://github.com/dolphin2468)
 - [elliotdziemiela1](https://github.com/elliotdziemiela1)
 - [duckhash](https://github.com/duckhash)
+- [tarang-tp](https://github.com/tarang-tp)
 - [fahaddev](https://github.com/fahadkhandev)
 - [gavr malt](https://github.com/gavrmalt)
 - [gegi](https://github.com/gegi05)
