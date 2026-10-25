@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
-- [kashish] (https://github.com/kashishmakode848-web) -> 1st step of learning open source contribution 🚀
+- [kashish] (https://github.com/kashishmakode848-web) -> first step of learning open source contribution 
 =======
 <<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
