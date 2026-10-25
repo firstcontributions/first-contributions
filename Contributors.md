@@ -6946,7 +6946,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Avinash Kumar](https://github.com/avinash-git-24)
 - [Avinash Kumar](https://github.com/avinash-git-24/universe)
 - [Avinash Kumar](https://github.com/avinash-git-24) - Full Stack Developer
-
+- [Swetha](https://github.com/swetha-blip) - My first open-source contribution!
 -[Abhay Gupta](https://github.com/abhay-gupta-dev)-Full stack developer
 - [Deepanshu Pal](https://github.com/DeepanshuPal)
 -[zenitsu](https://github.com/siddhardha2007)
