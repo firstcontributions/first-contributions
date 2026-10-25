@@ -7666,3 +7666,5 @@ add-pranav
 - [Md. Adib Abrar] - My first open-source contribution!
 - [kanye530](https://github.com/kanye530)
 - [Loki](https://github.com/lokeshwari4417) - My first open-source contribution!
+- [Loki](https://github.com/lokeshwari4417) - My first open-source contribution!
+- [Nishant Singh](https://github.com/NishantSingh-01) -- My first open-source contribution!
