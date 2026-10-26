@@ -14,7 +14,7 @@
 * [Piyush Kumar] - This is my first open-source contribution.
 - [Jyotiprakash Panigrahi] - This is my first open-source contribution.
 
-
+- [Sai Vidith] - https://github.com/sai-vidith - "Welcome to contributions"
 
 - [Aayush Kumar Singh] - New lines to be added
 - [sayan kabiraj] - this is first contribution
