@@ -16,6 +16,7 @@
 - [Lakshya Saxena] - lakshyak
 
 * [Piyush Kumar] - This is my first open-source contribution.
+- [DevarshP610](https://github.com/DevarshP610) - Building [YardScout](https://github.com/DevarshP610/YardScout), my first open-source project.
 - [Jyotiprakash Panigrahi] - This is my first open-source contribution.
 
 - [Sai Vidith] - https://github.com/sai-vidith - "Welcome to contributions"
