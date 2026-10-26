@@ -2,6 +2,7 @@
 - [ keshav ] - Heyy Guys love from Jaipur !
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
+- [Yaksharth](https://github.com/yaksharth) - This is my first step in learning open source.
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
