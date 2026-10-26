@@ -7750,3 +7750,5 @@ Harshit Bisht
 - [ajayrajaajay48-code](https://github.com/ajayrajaajay48-code) - My first contribution and excited to learn more. 
 - [Rivino](https://github.com/Ri-Vino)  - My first contribution on a public repo :).
 * [sakshammalik260-cse](https://github.com/sakshammalik260-cse) - My first open-source contribution!
+
+- [Sindhu](https://github.com/Sindhu0012)
