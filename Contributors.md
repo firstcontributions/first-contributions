@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+[Kushagra Dwivedi](https://github.com/dkushagra077-byte) -> 1st step of learning open source contribution 🚀
 - [Kushagra Dwivedii](https://github.com/dkushagra077-byte) -> 1st step of learning open source contribution 🚀
 - [Salvatore Flores](https://github.com/Sflores155) - This is for my assignment
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :
