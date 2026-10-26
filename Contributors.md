@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-- [Darshit Nawange](https://github.com/darshitnawange6-cmd) - This is for my assignment
-=======
-
+- [Darshit Nawange](https://github.com/darshitnawange6-cmd) -My First Contribution!
+- [piyush kumar] - jai hind
+- [Lakshya Saxena] - lakshya
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
@@ -33,6 +32,7 @@ Atharv Singh
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 >>>>>>> upstream/main
 >>>>>>> upstream/main
+- [Shivam Kumar Mishra] (https://github.com/Bhagwan01) - This is my first contribution.
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - [Shreya Viraktamath](https://github.com/shreyavx) - first contribution 
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
@@ -41,7 +41,6 @@ Atharv Singh
 - [boob-min]-Begin begin
 - [Shikaru0](https://github.com/Shikaru0)
 - [Double](https://github.com/Double2007) - Let's see what can happen
->>>>>>> upstream/main
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Parth Bairagi](https://github.com/TITAN-beast) -- My First Open Source Contribution
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
@@ -75,6 +74,7 @@ Atharv Singh
 - [mamayuquero](https://github.com/mamayuquero)
 - [7ahseeen](https://github.com/7ahseeen)
 - [Jeryco Fabriant](https://github.com/Briant242) - Russia I'm Coming!!!!
+- [Ricky Vishwakarma](htttps://github.com/RickyCODT663847)
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
 - [Jaya Chandra Vennam](https://github.com/jayachandra2003)"This is my first open source contribution on github"
@@ -7713,4 +7713,5 @@ Harshit Bisht
 - [Shreya](https://github.com/shreya8-p) - My first open-source contribution!
 - [Nitin Kardam](https://github.com/Nitink420)
 - [ace1park01](https://github.com/ace1park01) - My first open-source contribution!
+- [sumit_kumar](https://github.com/sumitkumar112006) - This is my first contribution and i am really very excited to learn more this is very helfu to me because i actually understand the flow of opensource contribution!
 - [Abhishek](https://github.com/itsawesomeabhishek) - My first open-source contribution - Abhishek
