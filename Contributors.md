@@ -1,3 +1,4 @@
+- [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshya
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
