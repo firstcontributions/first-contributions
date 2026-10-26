@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+-| [CH SIBA9937](https://github.com/sivachinni9937-beep) My First Open Source Contribution 🚀
+=======
 - [anushka] - this is my first contribution
 - [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
@@ -18,6 +22,7 @@
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
+>>>>>>> upstream/main
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
@@ -34,8 +39,11 @@ Atharv Singh
 >>>>>>> upstream/main
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 >>>>>>> upstream/main
+<<<<<<< HEAD
+=======
 >>>>>>> upstream/main
 - [Shivam Kumar Mishra] (https://github.com/Bhagwan01) - This is my first contribution.
+>>>>>>> upstream/main
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
 - [Shreya Viraktamath](https://github.com/shreyavx) - first contribution 
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
@@ -62,8 +70,12 @@ Atharv Singh
 - [Mohammed Huzaifa Khan](https://github.com/Huzaifacode-dot) - Glad to say, it's my first contribution
 -[Rijul Kathpal](https://github.com/rijulkathpalnitw-sys)
 - [Baljit Panda](https://github.com/olympus-mons26)
+<<<<<<< HEAD
+- [Bairon Villar][def2]
+=======
 - [Shota Sotiris Oniani](https://shotaoniani.ge) - Check out my website ;)
 - [Bairon Villar](https://github.com/baironvillar)
+>>>>>>> upstream/main
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
 - [Nitish Kota](https://github.com/knitish91599-lgtm)"Finally!! first contribution"
 - [Resshh](https://github.com/Resshh)
@@ -7693,6 +7705,16 @@ yupipi
 
 - [kami2837](https://github.com/kami2837) - My first open-source contribution!
 - [Rishi-K-0714](https://github.com/Rishi-K-0714)
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+- [Wu Wenmao](https://github.com/what881)
+
+
+[def2]: https://github.com/baironvillar
+=======
+>>>>>>> upstream/main
+=======
 - [Keerthana Kumbar](https://github.com/Keerthanakumbar)
 - [Kiritiaajd](https://github.com/Kiritiaajd) - My first open-source contribution!
 - [esra](https://github.com/esra) - My first open-source contribution!
@@ -7723,3 +7745,4 @@ Harshit Bisht
 - [Abhishek](https://github.com/itsawesomeabhishek) - My first open-source contribution - Abhishek
 - [ivan-olivera](https://github.com/Ivan-olivera-dev) - My first public contribution -
 - [ajayrajaajay48-code](https://github.com/ajayrajaajay48-code) - My first contribution and excited to learn more. 
+>>>>>>> upstream/main
