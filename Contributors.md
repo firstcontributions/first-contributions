@@ -1,3 +1,4 @@
+- [ Ayush ] - Very good lecture
 - [ Ojas Pandya ] - Very boring lecture
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
