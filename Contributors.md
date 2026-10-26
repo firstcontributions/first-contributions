@@ -6,6 +6,10 @@
 <<<<<<< HEAD
 - [kashish] (https://github.com/kashishmakode848-web) -> first step of learning open source contribution 
 =======
+<<<<<<< HEAD
+- [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
+=======
+<<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
