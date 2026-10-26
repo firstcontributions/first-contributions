@@ -1,3 +1,4 @@
+-[Trial] -  This is a trial commit.
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
