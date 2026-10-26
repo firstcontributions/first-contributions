@@ -1,4 +1,4 @@
-[MILIND MUKATI](https://github.com/Sflores155](https://github.com/milindmukatisindra-oss/first-contributions.git)) - This is for my assignment
+[MILIND](https://github.com/Sflores155](https://github.com/milindmukatisindra-oss/first-contributions.git)) - This is for my assignment
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
 - [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
