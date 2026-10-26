@@ -6967,7 +6967,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [ibrahimali111](https://github.com/ibrahimali111)
 - [Rohan Patil](https://github.com/rohan-anil-patil)
 - [Mohammad Gazori](https://github.com/MGazori)
-
 - [alsgor89-ops](https://github.com/alsgor89-ops)
 - [kshroud1](https://github.com/kshroud1)
 - Victor Ornellas
