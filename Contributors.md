@@ -1,6 +1,4 @@
-- HEAD
-- main
-- [Sahil Sahu 1112345] (https://github.com/sahilsekhar11-cpu) -> 1st step of learning open source contribution 🚀
+- [Sahil Sahu 11] (https://github.com/sahilsekhar11-cpu) -> 1st step of learning open source contribution 🚀
 
 - HEAD
 - [kashish] (https://github.com/kashishmakode848-web) -> 1st step of learning open source contribution 🚀 HEAD
