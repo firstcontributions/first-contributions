@@ -12,6 +12,7 @@
 - [Lakshya Saxena] - lakshyak
 
 * [Piyush Kumar] - This is my first open-source contribution.
+- [Jyotiprakash Panigrahi] - This is my first open-source contribution.
 
 
 
