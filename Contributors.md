@@ -1,4 +1,5 @@
 - [Aayush Kumar Singh] - This is my first contribution 
+- [Aayush Kumar Singh] - New Miles have been unlocked
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
