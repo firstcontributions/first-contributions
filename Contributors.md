@@ -4096,6 +4096,7 @@ andrewcodess
 - [Matthew Means](https://github.com/MattyMeans19)
 - [Matty D](https://github.com/mdelisle-Qosina)
 - [Max Taunton](https://github.com/PepsiMaxT)
+- [Denys Benedis](https://github.com/DNiSB)
 - [Mayur Lad](https://github.com/mayurlad)
 - [izislesar] (https://github.com/izislesar)
 - [Megha Nyassa](https://github.com/mnya28)
