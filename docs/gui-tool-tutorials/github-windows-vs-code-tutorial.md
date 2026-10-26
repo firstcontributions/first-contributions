@@ -78,15 +78,15 @@ On the left side of VS Code is a menu with 5 icons displayed. Select the version
 
 The file explorer displays all files which were changed after the last commit. By hovering the files and clicking the `+` (plus) the files are staged.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit1.png" alt="Stashed Files">
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-commit1.png" alt="Staged changes" />
 
 Replace the top explorer line text with 'Add your-name to Contributors list' and press the checkmark. The changes are now committed to your local copy. Now the changes have to be pushed back to GitHub.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-push.png" alt="Stashed Files">
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-push.png" alt="Publish branch menu" />
 
 Use the three-dot icon to open up the menu where you select the `Publish Branch` option. This should open up a dialog to put your GitHub credentials in.
 
-<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-gh-auth.png" alt="Stashed Files">
+<img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-windows-vs-code-tutorial/vscode-2018-08-gh-auth.png" alt="GitHub authentication dialog" />
 
 ## Submit your changes for review
 
