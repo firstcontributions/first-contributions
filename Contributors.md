@@ -7739,3 +7739,4 @@ Harshit Bisht
 - [Abhishek](https://github.com/itsawesomeabhishek) - My first open-source contribution - Abhishek
 - [ivan-olivera](https://github.com/Ivan-olivera-dev) - My first public contribution -
 - [ajayrajaajay48-code](https://github.com/ajayrajaajay48-code) - My first contribution and excited to learn more. 
+- [Rivino](https://github.com/Ri-Vino)  - My first contribution on a public repo :).
