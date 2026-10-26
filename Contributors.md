@@ -1,15 +1,26 @@
+<<<<<<< HEAD
+- [AnshuMehta] (https://github.com/khushwahaarun204-jpg) -> First Open Source Contribution !!!
+=======
 - [anushka] - this is my first contribution
 - [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshya
+>>>>>>> upstream/main
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+- [khushwahaarun204-jpg] (https://github.com/khushwahaarun204-jpg) -> First Open Source Contribution !!!
+=======
+- [kashish] (https://github.com/kashishmakode848-web) -> 1st step of learning open source contribution 🚀
+=======
 =======
 <<<<<<< HEAD
 [Creative Sami]-- Jai hind 
 - [kashish] (https://github.com/kashishmakode848-web) -> first step of learning open source contribution 
+>>>>>>> upstream/main
 =======
 <<<<<<< HEAD
 - [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
@@ -18,6 +29,7 @@
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
+>>>>>>> upstream/main
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
@@ -33,6 +45,9 @@ Atharv Singh
 - [itspremsingh101-byte](https://github.com/itspremsingh101-byte) - mardo mujhe
 >>>>>>> upstream/main
 - [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
+>>>>>>> upstream/main
+<<<<<<< HEAD
+=======
 >>>>>>> upstream/main
 >>>>>>> upstream/main
 - [Shivam Kumar Mishra] (https://github.com/Bhagwan01) - This is my first contribution.
