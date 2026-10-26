@@ -4923,6 +4923,7 @@ andrewcodess
 - [Suryanshi-Singh](https://github.com/ssuryanshi)
 - [Zamir](https://github.com/456zamir8/)
 - [Zeon Dsouza](https://github.com/Zeonnn121)
+- [Jesse Ochoa] (https://github.com/OspreyDown)
 - [Ziba Imani](https://github.com/zibaimani)
 - [Zoraz](https://github.com/Zoraz01)
 - [aaryan padgilwar](https://github.com/aaryanpadgilwar-01)
