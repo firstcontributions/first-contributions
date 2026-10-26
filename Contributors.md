@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 - [bonthanaveen] this is myu first contribution
 - [anushka] - this is my first contribution
+=======
+- [ mayank ] - This is my first step of learning open source contribution
+- [kush] - this is my first contribution
+- [ak] - this is my first contribution
+- [ ashu ] - This is my first contribution
+>>>>>>> upstream/main
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
-- [Lakshya Saxena] - lakshya
+- [Lakshya Saxena] - lakshyak
+- [sayan kabiraj] - this is first contribution
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
@@ -17,6 +25,8 @@
 <<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
@@ -30,9 +40,10 @@ Atharv Singh
 - [Pradyumna Parida](https://github.com/Pradyumna-red) - First open source contribution!🚀
 - [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
 - [Abhijit-ops0903](https://github.com/Abhijit-ops0903) - lol
-- [itspremsingh101-byte](https://github.com/itspremsingh101-byte) - mardo mujhe
+- [itspremsingh101-byte](https://github.com/itspremsingh101-byte) - mard
+- [rahul05-up](https://github.com/rahul05-up) - mardo mujhe
 >>>>>>> upstream/main
-- [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
+- [sachin] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 >>>>>>> upstream/main
 >>>>>>> upstream/main
 - [Shivam Kumar Mishra] (https://github.com/Bhagwan01) - This is my first contribution.
@@ -2168,6 +2179,7 @@ nathan practice here
 - [Shiming Li](https://github.com/exusiai0asdfg)
 - [Odeya Yoskovitz](https://github.com/Odeya4367)
 - [Ankur Shinde](https://github.com/ankurshnde)
+- [Ankur Verma] (https://github.com/Ankur857)
 - [simble2k](https://github.com/simble2k)
 - [bycx725](https://github.com/bycx725)
 - [Lakshya Kumar](https://github.com/Code-Phoenixxx)
@@ -4090,6 +4102,7 @@ andrewcodess
 - [Matthew Means](https://github.com/MattyMeans19)
 - [Matty D](https://github.com/mdelisle-Qosina)
 - [Max Taunton](https://github.com/PepsiMaxT)
+- [Denys Benedis](https://github.com/DNiSB)
 - [Mayur Lad](https://github.com/mayurlad)
 - [izislesar] (https://github.com/izislesar)
 - [Megha Nyassa](https://github.com/mnya28)
@@ -7551,6 +7564,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[Alexey Chumachenko](https://github.com/alexeychumachenko) - Мой первый вклад в открытый исходный код!
 -[Elias Glick](https://github.com/alphafetch) - First open source contrib!
 - [Kritika Singh](https://github.com/KritikaaSinghh) - My first open source contribution
+- [Victor Pinero](https://github.com/VictorPinero21/) - My first open source contribution
 -[Aarya Joshi](https://github.com/Aarya1777)
 - [Lei Zhao](https://github.com/zhaol8421)
 - - [GrandhiSanjana](https://github.com/GrandhiSanjana)
