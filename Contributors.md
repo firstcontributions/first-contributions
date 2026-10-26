@@ -18,7 +18,7 @@
 - [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
 =======
 <<<<<<< HEAD
-- [Vaidehi] (https://github.com/pandeyvaidehi27/first-contributions) -> first step of learning open source contribution
+- [Vaidehii] (https://github.com/pandeyvaidehi27/first-contributions) -> first step of learning open source contribution
 =======
 <<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
