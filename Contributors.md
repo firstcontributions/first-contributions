@@ -1,3 +1,4 @@
+-[ Dev ] - This is my first first step of learning open source contribution
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
@@ -68,7 +69,8 @@ Atharv Singh
 - [Mohammed Huzaifa Khan](https://github.com/Huzaifacode-dot) - Glad to say, it's my first contribution
 -[Rijul Kathpal](https://github.com/rijulkathpalnitw-sys)
 - [Baljit Panda](https://github.com/olympus-mons26)
-- [Shota Sotiris Oniani](https://shotaoniani.ge) - Check out my website ;)
+-[devv12](https://github.com/devv12-hub) -This is my first open source contribution i am Gujarati gang
+- [Shota Sotiris Oniani](https://shotaoniani.ge) - Check out my website ;
 - [Bairon Villar](https://github.com/baironvillar)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
 - [Nitish Kota](https://github.com/knitish91599-lgtm)"Finally!! first contribution"
