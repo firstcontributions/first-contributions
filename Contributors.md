@@ -1,7 +1,5 @@
--[pranav] - This is my first contribution
-- [ keshav ] - Heyy Guys love from Jaipur !
 - [ mayank ] - This is my first step of learning open source contribution
-- [Khushi] - This is my first open source contribution.
+- [Yuvraj Srivastava] - THIS IS MY FIRST STEP INTO THE CODING WORLD!
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
@@ -9,7 +7,6 @@
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
 - [sayan kabiraj] - this is first contribution
-- [ziyadin](https://github.com/Ziyadin23) - "First contribution"
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
@@ -20,9 +17,6 @@
 =======
 <<<<<<< HEAD
 - [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
-=======
-<<<<<<< HEAD
-- [YASH] (https://github.com/yashm-0804) -> first step of learning open source contribution
 =======
 <<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
@@ -2226,7 +2220,6 @@ nathan practice here
 - [Pasham Godha] (https://github.com/Godha-2006/)
 - [P. Pradeep](https://github.com/pradeep123935)
 - [clypse](https://github.com/NaveenGadugina678)
-- [redbebero] (https://github.com/redbebero)
 - [dynvcc](https://github.com/dynvcc)
 - Vincent Arguelles Robinson
 - [Conner Andrews](https://github.com/candrew2)
@@ -6974,6 +6967,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [ibrahimali111](https://github.com/ibrahimali111)
 - [Rohan Patil](https://github.com/rohan-anil-patil)
 - [Mohammad Gazori](https://github.com/MGazori)
+
 - [alsgor89-ops](https://github.com/alsgor89-ops)
 - [kshroud1](https://github.com/kshroud1)
 - Victor Ornellas
