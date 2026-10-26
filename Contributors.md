@@ -11,6 +11,10 @@
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
 
+* [Piyush Kumar] - This is my first open-source contribution.
+
+
+
 - [Aayush Kumar Singh] - New lines to be added
 - [sayan kabiraj] - this is first contribution
 - [ziyadin](https://github.com/Ziyadin23) - "First contribution"
