@@ -1,12 +1,19 @@
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
+- [hardik] - This is my first contribution.
 - [ mayank ] - This is my first step of learning open source contribution
+- [Khushi] - This is my first open source contribution.
+- [Yaksharth](https://github.com/yaksharth) - This is my first step in learning open source.
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
+- [Yash Raj Singh] - First milstone achived 🍀🚀
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
+
+- [Aayush Kumar Singh] - New lines to be added
 - [sayan kabiraj] - this is first contribution
+- [ziyadin](https://github.com/Ziyadin23) - "First contribution"
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
@@ -19,6 +26,9 @@
 - [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
 =======
 <<<<<<< HEAD
+- [YASH] (https://github.com/yashm-0804) -> first step of learning open source contribution
+=======
+<<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
 =======
@@ -26,7 +36,7 @@
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
-  
+-[Lakshya Garg](https://github.com/Lakshya250506)
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
  - [viessmanbessinger-ux](https://github.com/viessmanbessinger-ux) - My first open-source contribution!
 Atharv Singh
@@ -41,6 +51,7 @@ Atharv Singh
 >>>>>>> upstream/main
 - [sachin] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 >>>>>>> upstream/main
+dehdlhl
 >>>>>>> upstream/main
 - [Shivam Kumar Mishra] (https://github.com/Bhagwan01) - This is my first contribution.
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
@@ -108,8 +119,11 @@ Atharv Singh
 - [Hrithic Krishnan L](https://github.com/hk-crypto)
 - [Mayank Gaur](https://github.com/Mayank-CS50)
 - [Radhika Kandalkar](https://github.com/radhika817)
+- [Shaaz](https://github.com/saleemqumrosh) - i did it ha
 
 -[Neelam Kumari] (295577420+neelamnk2112-spec@users.noreply.github.com)
+
+CXvxcvcxvcxv
 -[Udit Shrivastava](https://github.com/Udit-Shrivastava01)
 -[Isha Bilu](https://github.com/ivantagedev-code)
 -[Om Bhadri](https://github.com/ombhadri)
@@ -1820,6 +1834,7 @@ Suraj Kumar i am not gonna provide any link
 - [Cheng Han Shen](https://github.com/Alanshan0324)
 - [Liene31] (https://github.com/Liene31)
 - [Aman Kumar](https://aman-kumar-developer.github.io/)
+- [Aman Kumar](https://github.com/amankr-55)
 
 - [Yashvi Mehta]
   [aditya-gupta](https://github.com/aaditya0000007)
@@ -2220,6 +2235,7 @@ nathan practice here
 - [Pasham Godha] (https://github.com/Godha-2006/)
 - [P. Pradeep](https://github.com/pradeep123935)
 - [clypse](https://github.com/NaveenGadugina678)
+- [redbebero] (https://github.com/redbebero)
 - [dynvcc](https://github.com/dynvcc)
 - Vincent Arguelles Robinson
 - [Conner Andrews](https://github.com/candrew2)
@@ -7733,3 +7749,7 @@ Harshit Bisht
 - [Abhishek](https://github.com/itsawesomeabhishek) - My first open-source contribution - Abhishek
 - [ivan-olivera](https://github.com/Ivan-olivera-dev) - My first public contribution -
 - [ajayrajaajay48-code](https://github.com/ajayrajaajay48-code) - My first contribution and excited to learn more. 
+- [Rivino](https://github.com/Ri-Vino)  - My first contribution on a public repo :).
+* [sakshammalik260-cse](https://github.com/sakshammalik260-cse) - My first open-source contribution!
+
+- [Sindhu](https://github.com/Sindhu0012)
