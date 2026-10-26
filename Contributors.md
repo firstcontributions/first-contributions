@@ -1,4 +1,4 @@
-# - [Nikita Singh](https://github.com/nikitasingh1617) - FIRST CONTRIBUTION!!! Excited to contribute to open-source on a big scale one day, baby step #1. 
+# - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB GNGGGGGGGGGGGG i have officially landed here!! 
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
