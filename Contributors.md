@@ -1,5 +1,4 @@
-- [manas] - this is my first contribution
-- [brajesh] - this is my first contribution
+- [kush] - this is my first contribution
 - [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
