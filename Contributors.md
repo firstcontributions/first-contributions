@@ -1,9 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [sourav0607] (https://github.com/dassouravkumar926-beep) -> 1st step of learning open source contribution 🚀
 [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 =======
+=======
+- [brajesh] - this is my first contribution
+>>>>>>> upstream/main
 - [anushka] - this is my first contribution
+- [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshya
