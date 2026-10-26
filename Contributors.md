@@ -71,6 +71,7 @@ Atharv Singh
 - [mamayuquero](https://github.com/mamayuquero)
 - [7ahseeen](https://github.com/7ahseeen)
 - [Jeryco Fabriant](https://github.com/Briant242) - Russia I'm Coming!!!!
+- [Ricky Vishwakarma](htttps://github.com/RickyCODT663847)
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
 - [Priyanshu Singh](https://github.com/priyanshu2838)"my first contribution"
 - [Jaya Chandra Vennam](https://github.com/jayachandra2003)"This is my first open source contribution on github"
