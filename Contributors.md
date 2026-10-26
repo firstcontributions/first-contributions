@@ -1,4 +1,4 @@
-# - [Yashank Sogra] - Wassup gihub gng !!!!
+# - [Yashank Sogra] - Wassup github gng !!!! Finally here
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
