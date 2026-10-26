@@ -4,7 +4,8 @@
 - [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
-- [Lakshya Saxena] - lakshya
+- [Lakshya Saxena] - lakshyak
+- [sayan kabiraj] - this is first contribution
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
@@ -7553,6 +7554,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 -[Alexey Chumachenko](https://github.com/alexeychumachenko) - Мой первый вклад в открытый исходный код!
 -[Elias Glick](https://github.com/alphafetch) - First open source contrib!
 - [Kritika Singh](https://github.com/KritikaaSinghh) - My first open source contribution
+- [Victor Pinero](https://github.com/VictorPinero21/) - My first open source contribution
 -[Aarya Joshi](https://github.com/Aarya1777)
 - [Lei Zhao](https://github.com/zhaol8421)
 - - [GrandhiSanjana](https://github.com/GrandhiSanjana)
