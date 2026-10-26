@@ -1,11 +1,10 @@
-- [Aayush Kumar Singh] - This is my first contribution 
-- [Aayush Kumar Singh] - New Miles have been unlocked
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
+- [Aayush Kumar Singh] - New lines to be added
 - [sayan kabiraj] - this is first contribution
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
