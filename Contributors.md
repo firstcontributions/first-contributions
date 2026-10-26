@@ -19,6 +19,9 @@
 - [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
 =======
 <<<<<<< HEAD
+- [YASH] (https://github.com/yashm-0804) -> first step of learning open source contribution
+=======
+<<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
 =======
