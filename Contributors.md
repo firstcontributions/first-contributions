@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-- [Aditya  singh] (https://github.com/6549adityapratapsing-cmd) -> 1st step of learning open source contribution 🚀
+- [Aditya  pratap singh] (https://github.com/6549adityapratapsing-cmd) -> 1st step of learning open source contribution 🚀
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
