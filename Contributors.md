@@ -7765,5 +7765,6 @@ Harshit Bisht
 * [sakshammalik260-cse](https://github.com/sakshammalik260-cse) - My first open-source contribution!
 
 - [Sindhu](https://github.com/Sindhu0012)
+- [Simon](https://github.com/Simon-E-H)
 
 - [WilbertMarins](https://github.com/WilbertMarins) - My first step to open source contribution  :) Check my profile, let's connect.
