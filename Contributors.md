@@ -1,6 +1,6 @@
 - [manas] - this is my first contribution
 - [brajesh] - this is my first contribution
-- [anushka] - this is my first contribution
+- [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
@@ -19,6 +19,8 @@
 =======
 <<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
 =======
