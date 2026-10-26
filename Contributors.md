@@ -1,7 +1,12 @@
+<<<<<<< HEAD
+- [bonthanaveen] this is myu first contribution
+- [anushka] - this is my first contribution
+=======
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
 - [ ashu ] - This is my first contribution
+>>>>>>> upstream/main
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
