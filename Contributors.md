@@ -85,6 +85,7 @@ Atharv Singh
 - [Kushal Patil](https://github.com/KushalPatil7)
 - [mamayuquero](https://github.com/mamayuquero)
 - [7ahseeen](https://github.com/7ahseeen)
+- [Vaidehi] (https://github.com/pandeyvaidehi27/first-contributions) -> first step of learning open source contribution
 - [Jeryco Fabriant](https://github.com/Briant242) - Russia I'm Coming!!!!
 - [Ricky Vishwakarma](htttps://github.com/RickyCODT663847)
 - [Abhijeet](https://github.com/kapseabhijeet20-stack)"lets start with hope"
