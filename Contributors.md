@@ -6617,6 +6617,7 @@ Raphael Karani
 - [Soumyajit Ghosh](https://github.com/somuai)
 - [Fermin Rivero](https://github.com/ferminriv20) 
 - [Michel363601](https://github.com/Michel363601)
+- [Michel Duvier](https://github.com/MichelDuvier) - Hello from Berlin, my first contribution!
 - [bhdsousa-cmd](https://github.com/bhdsousa-cmd)
 - [wukaui](https://github.com/wukaui)
 - [knishka](https://github.com/Knishkaa/first-contributions.git)
