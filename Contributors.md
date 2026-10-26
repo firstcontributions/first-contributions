@@ -1,4 +1,4 @@
-- [Arjit Gupta](https://github.com/arjitgupta4979) - This is for my assignment
+- [Arjit ](https://github.com/arjitgupta4979) - This is for my assignment
 - [vxczyle](https://github.com/vxczyle) - That's pretty cool :)
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
 - [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
