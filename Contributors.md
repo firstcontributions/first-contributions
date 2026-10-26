@@ -1,4 +1,4 @@
-- [Steve Harrington] - Ahoy Ladies!!
+- [brajesh] - this is my first contribution
 - [anushka] - this is my first contribution
 - [ ashu ] - This is my first contribution
 - [pranvasoni] -my first contribution 
@@ -19,6 +19,8 @@
 <<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
 =======
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
@@ -32,9 +34,10 @@ Atharv Singh
 - [Pradyumna Parida](https://github.com/Pradyumna-red) - First open source contribution!🚀
 - [Archana Chaurasiya](https://github.com/Archanachaurasiya30) - My first open-source contribution! 
 - [Abhijit-ops0903](https://github.com/Abhijit-ops0903) - lol
-- [itspremsingh101-byte](https://github.com/itspremsingh101-byte) - mardo mujhe
+- [itspremsingh101-byte](https://github.com/itspremsingh101-byte) - mard
+- [rahul05-up](https://github.com/rahul05-up) - mardo mujhe
 >>>>>>> upstream/main
-- [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
+- [sachin] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 >>>>>>> upstream/main
 >>>>>>> upstream/main
 - [Shivam Kumar Mishra] (https://github.com/Bhagwan01) - This is my first contribution.
