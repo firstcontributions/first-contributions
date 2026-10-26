@@ -6,6 +6,7 @@
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
 - [sayan kabiraj] - this is first contribution
+- [ziyadin](https://github.com/Ziyadin23) - "First contribution"
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
