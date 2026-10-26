@@ -1,0 +1,224 @@
+---
+import IssueList from './IssueList.astro';
+
+export interface Props {
+  projectLink: string;
+  logoLink: string;
+  name: string;
+  description: string;
+  tags?: string[];
+  loadIssues?: boolean;
+}
+
+const { projectLink, logoLink, name, description, tags = [], loadIssues = false } = Astro.props;
+---
+
+<div class="Card-Container">
+  <a class="Card-Real-Link" href={projectLink} target="_blank">
+    <div class="Card-Header">
+      <img
+        class="Project-Logo"
+        alt="the framework or language that the project is build upon"
+        src={logoLink}
+        onerror="this.src='/default.png'"
+        width="60"
+        height="60"
+      />
+      <p class="Card-Title">{name}</p>
+    </div>
+    <div class="Card-Body">
+      <div class="Card-Tag">
+        {tags.map((tag) => (
+          <div key={tag}>
+            <p>{tag}</p>
+          </div>
+        ))}
+      </div>
+      <div class="Card-Description">
+        <p>{description}</p>
+      </div>
+    </div>
+  </a>
+  {loadIssues && (
+    <IssueList projectLink={projectLink} projectName={name} />
+  )}
+  <div class="Card-Link">
+    <a href={projectLink} target="_blank">
+      <span>Go to Project</span>
+    </a>
+  </div>
+</div>
+
+<style>
+  .Card-Container {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    overflow: hidden;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    height: auto;
+    min-height: 200px;
+    margin-bottom: 1.5rem;
+    position: relative;
+  }
+
+  .Card-Container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+    pointer-events: none;
+  }
+
+  .Card-Container:hover::before {
+    opacity: 1;
+  }
+
+  .Card-Container:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    border-color: rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.12);
+  }
+
+  .Card-Real-Link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 1;
+  }
+
+  .Card-Header {
+    padding: 1.5rem 1.5rem 1rem;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .Project-Logo {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  .Card-Title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+  }
+
+  .Card-Body {
+    padding: 1rem 1.5rem;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Card-Tag {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .Card-Tag p {
+    background: rgba(102, 126, 234, 0.2);
+    color: #a5b4fc;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    margin: 0;
+    border: 1px solid rgba(102, 126, 234, 0.3);
+  }
+
+  .Card-Description {
+    flex-grow: 1;
+  }
+
+  .Card-Description p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+
+  .Card-Link {
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.8) 0%, rgba(118, 75, 162, 0.8) 100%);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    text-align: center;
+    padding: 0.875rem;
+    font-weight: 600;
+    margin-top: auto;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .Card-Link::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.9) 0%, rgba(118, 75, 162, 0.9) 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .Card-Link:hover::before {
+    opacity: 1;
+  }
+
+  .Card-Link:hover {
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.9) 0%, rgba(118, 75, 162, 0.9) 100%);
+    border-color: rgba(255, 255, 255, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  }
+
+  .Card-Link span {
+    position: relative;
+    z-index: 1;
+  }
+
+  @media (max-width: 768px) {
+    .Card-Header {
+      padding: 1rem;
+    }
+    
+    .Card-Body {
+      padding: 0.75rem 1rem;
+    }
+    
+    .Project-Logo {
+      width: 50px;
+      height: 50px;
+    }
+    
+    .Card-Title {
+      font-size: 1.1rem;
+    }
+  }
+</style>
+

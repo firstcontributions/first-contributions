@@ -1,0 +1,130 @@
+---
+export interface Props {
+	title?: string;
+	description?: string;
+	keywords?: string;
+	image?: string;
+	url?: string;
+	type?: string;
+}
+
+const { 
+	title = "First Contributions - Make Your First Open Source Contribution in 5 Minutes", 
+	description = "Learn how to make your first open source contribution in just 5 minutes. Step-by-step guide for beginners with beginner-friendly projects and resources.",
+	keywords = "open source, github, contribute to open source, beginner programmer, first contribution, git, pull request, coding, software development, programming, learn to code",
+	image = "https://firstcontributions.github.io/og-image.svg",
+	url = "https://firstcontributions.github.io/",
+	type = "website"
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<!-- Favicon -->
+		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
+		<link rel="icon" type="image/png" sizes="256x256" href="/android-chrome-256x256.png" />
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#667eea" />
+		<meta name="msapplication-TileColor" content="#667eea" />
+		<meta name="msapplication-TileImage" content="/mstile-150x150.png" />
+		<meta name="theme-color" content="#667eea" />
+		
+		<!-- Web App Manifest -->
+		<link rel="manifest" href="/manifest.json" />
+		
+		<meta name="generator" content={Astro.generator} />
+		<meta name="description" content={description} />
+		<meta name="keywords" content={keywords} />
+		<meta name="author" content="First Contributions" />
+		<meta name="robots" content="index, follow" />
+		<title>{title}</title>
+		
+		<!-- Canonical URL -->
+		<link rel="canonical" href={url} />
+		
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content={type} />
+		<meta property="og:url" content={url} />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content={image} />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:site_name" content="First Contributions" />
+		
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content={url} />
+		<meta property="twitter:title" content={title} />
+		<meta property="twitter:description" content={description} />
+		<meta property="twitter:image" content={image} />
+		<meta property="twitter:creator" content="@firstcontrib" />
+		<meta property="twitter:site" content="@firstcontrib" />
+		
+		<!-- Structured Data / Schema.org -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "WebSite",
+			"name": "First Contributions",
+			"description": "Learn how to make your first open source contribution in just 5 minutes. Step-by-step guide for beginners with beginner-friendly projects and resources.",
+			"url": "https://firstcontributions.github.io/",
+			"potentialAction": {
+				"@type": "SearchAction",
+				"target": "https://firstcontributions.github.io/?q={search_term_string}",
+				"query-input": "required name=search_term_string"
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": "First Contributions",
+				"url": "https://firstcontributions.github.io/",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://firstcontributions.github.io/favicon.svg"
+				}
+			},
+			"mainEntity": {
+				"@type": "EducationalResource",
+				"name": "How to Make Your First Open Source Contribution",
+				"description": "A comprehensive guide for beginners to start contributing to open source projects",
+				"educationalLevel": "beginner",
+				"learningResourceType": "tutorial",
+				"teaches": ["Git", "GitHub", "Open Source", "Programming", "Software Development"],
+				"audience": {
+					"@type": "EducationalAudience",
+					"educationalRole": "student"
+				}
+			}
+		}
+		</script>
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
+
+<style>
+	html,
+	body {
+		margin: 0;
+		width: 100%;
+		height: 100%;
+		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+		background-color: #0a0a0a;
+		color: white;
+	}
+	
+	* {
+		box-sizing: border-box;
+	}
+</style>

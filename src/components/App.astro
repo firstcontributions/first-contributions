@@ -1,0 +1,86 @@
+---
+import Navbar from './Navbar.astro';
+import LinkButton from './LinkButton.astro';
+import ProjectList from './ProjectList.astro';
+import SocialShare from './SocialShare.astro';
+---
+
+<div class="App">
+  <Navbar />
+  <div class="App-header">
+    <h1>
+      Make your first <br/> 
+      <a href="https://firstcontributions.github.io/contribute-to-opensource"> 
+        open source <span>contribution</span> 
+      </a> 
+      <br/> in 5 minutes
+    </h1>
+  </div>
+  <LinkButton />
+  <ProjectList />
+  <SocialShare />
+</div>
+
+<style>
+  .App {
+    background-color: #0a0a0a;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  .App-header {
+    padding: 20px;
+    color: white;
+  }
+
+  .App-header a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .App-header > h1 {
+    font-size: 5.1rem;
+    letter-spacing: -0.05em;
+    font-weight: 700;
+    margin: 0 0 20px 0;
+    line-height: 1.2;
+  }
+
+  .App-header > h1 span {
+    background: linear-gradient(90deg, #60a5fa, #1d4ed8, #60a5fa);
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: gradientShift 4s ease infinite;
+  }
+
+  @keyframes gradientShift {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  @media (max-width: 700px) {
+    .App-header > h1 {
+      font-size: 3.1rem;
+      letter-spacing: -0.05em;
+      font-weight: 700;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .App-header > h1 {
+      font-size: 2.5rem;
+    }
+  }
+</style>

@@ -1,0 +1,213 @@
+---
+import ProjectCard from './ProjectCard.astro';
+import { projectList } from '../data/projects.js';
+
+// Get all unique tags for filtering
+const allTags = [...new Set(projectList.flatMap(project => project.tags || []))].sort();
+---
+
+<div id="container">
+  <div class="inputContainer">
+    <input
+      id="search"
+      type="text"
+      name="search"
+      placeholder="Search..."
+      aria-label="Search"
+    />
+  </div>
+  <div id="tag-selector-container" class="inputContainer">
+    <select id="tag-selector" aria-labelledby="tag-selector-container">
+      <option value="">Filter by tags</option>
+      {allTags.map(tag => (
+        <option value={tag.toLowerCase()}>{tag}</option>
+      ))}
+    </select>
+  </div>
+</div>
+
+<section id="project-list" class="containerLayout">
+  {projectList.map((item) => (
+    <ProjectCard
+      name={item.name}
+      logoLink={item.imageSrc}
+      projectLink={item.projectLink}
+      description={item.description}
+      tags={item.tags}
+      loadIssues={item.loadIssues}
+    />
+  ))}
+</section>
+
+<script>
+  // Get all projects data from the server-rendered content
+  const projectList = Array.from(document.querySelectorAll('.Card-Container')).map(card => {
+    const link = card.querySelector('.Card-Real-Link');
+    const title = card.querySelector('.Card-Title');
+    const description = card.querySelector('.Card-Description p');
+    const tags = Array.from(card.querySelectorAll('.Card-Tag p')).map(tag => tag.textContent);
+    const logo = card.querySelector('.Project-Logo');
+    
+    return {
+      name: title?.textContent || '',
+      projectLink: link?.href || '',
+      description: description?.textContent || '',
+      tags: tags,
+      imageSrc: logo?.src || '',
+      element: card // Keep reference to original element
+    };
+  });
+
+  // Initialize variables
+  let filteredProjects = [...projectList];
+  let searchValue = '';
+  let selectedTags = [];
+
+  // DOM elements
+  const searchInput = document.getElementById('search');
+  const tagSelector = document.getElementById('tag-selector');
+  const projectListContainer = document.getElementById('project-list');
+
+  // Filter projects function
+  function filterProjects() {
+    let filtered = [...projectList];
+
+    // Filter by search term
+    if (searchValue.trim()) {
+      const searchTerm = searchValue.toLowerCase();
+      filtered = filtered.filter(project =>
+        project.name.toLowerCase().includes(searchTerm) ||
+        project.description.toLowerCase().includes(searchTerm) ||
+        (project.tags && project.tags.some(tag => tag.toLowerCase().includes(searchTerm)))
+      );
+    }
+
+    // Filter by tags
+    if (selectedTags.length > 0) {
+      filtered = filtered.filter(project =>
+        project.tags && project.tags.some(tag => 
+          selectedTags.includes(tag.toLowerCase())
+        )
+      );
+    }
+
+    filteredProjects = filtered;
+    
+    // Hide/show cards instead of re-rendering
+    projectList.forEach(project => {
+      const isVisible = filteredProjects.includes(project);
+      project.element.style.display = isVisible ? 'block' : 'none';
+    });
+  }
+
+  // Event listeners
+  searchInput.addEventListener('input', (e) => {
+    searchValue = e.target.value;
+    filterProjects();
+  });
+
+  tagSelector.addEventListener('change', (e) => {
+    selectedTags = e.target.value ? [e.target.value] : [];
+    filterProjects();
+  });
+
+  // Initial filter (show all)
+  filterProjects();
+
+  // No JavaScript needed for masonry layout anymore!
+  // CSS Grid handles the masonry layout automatically
+</script>
+
+<style>
+  #container {
+    display: flex;
+    gap: 4rem;
+    margin: 2rem 0 3rem 0;
+    padding: 1.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .inputContainer {
+    flex: 1;
+    min-width: 250px;
+  }
+
+  #search {
+    width: 100%;
+    padding: 1rem 1.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 1rem;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+  }
+
+  #search::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  #search:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+  }
+
+  #tag-selector {
+    width: 100%;
+    padding: 1rem 1.25rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 1rem;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+  }
+
+  #tag-selector:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.2);
+  }
+
+  #tag-selector option {
+    background: #1a1a1a;
+    color: white;
+  }
+
+  .containerLayout {
+    columns: 3;
+    column-gap: 1.5rem;
+    padding: 2rem 1rem;
+    break-inside: avoid;
+  }
+
+
+  @media (max-width: 768px) {
+    #container {
+      flex-direction: column;
+      gap: 1rem;
+      padding: 1rem;
+      margin: 1rem 0 2rem 0;
+    }
+    
+    .inputContainer {
+      min-width: unset;
+    }
+    
+    #search, #tag-selector {
+      padding: 0.875rem 1rem;
+      font-size: 0.95rem;
+    }
+    
+    .containerLayout {
+      columns: 1;
+      column-gap: 1rem;
+      padding: 1rem 0.5rem;
+    }
+
+  }
+</style>

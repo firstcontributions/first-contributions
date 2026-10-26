@@ -1,0 +1,41 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Main Title -->
+  <text x="600" y="200" font-family="Arial, sans-serif" font-size="64" font-weight="bold" text-anchor="middle" fill="white">
+    First Contributions
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="36" text-anchor="middle" fill="url(#text)">
+    Make Your First Open Source Contribution
+  </text>
+  
+  <!-- Description -->
+  <text x="600" y="340" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#cccccc">
+    Learn in just 5 minutes • Beginner-friendly • Step-by-step guide
+  </text>
+  
+  <!-- GitHub Icon -->
+  <g transform="translate(500, 400)">
+    <circle cx="50" cy="50" r="40" fill="#333" stroke="#60a5fa" stroke-width="3"/>
+    <path d="M30 30c0-11 9-20 20-20s20 9 20 20c0 8.8-5.7 16.3-13.6 19l-1.4.4c-.6 0-1.1-.2-1.5-.6l-.1-.1c-.3-.3-.4-.7-.4-1.1v-3.1c-3.4.7-4.1-1.6-4.1-1.6-.5-1.4-1.3-1.8-1.3-1.8-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.3-3.2-.1-.3-.6-1.5.1-3.1 0 0 1.1-.3 3.6 1.2 1-.3 2.1-.4 3.2-.4s2.2.1 3.2.4c2.5-1.5 3.6-1.2 3.6-1.2.7 1.6.2 2.8.1 3.1.8.8 1.3 1.9 1.3 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.3c0 .4.2.8.4 1.1l-.1.1c-.4.4-.9.6-1.5.6l-1.4-.4c-7.9-2.7-13.6-10.2-13.6-19z" fill="white"/>
+  </g>
+  
+  <!-- URL -->
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#888888">
+    firstcontributions.github.io
+  </text>
+</svg>

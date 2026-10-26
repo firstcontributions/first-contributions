@@ -1,0 +1,27 @@
+{
+  "short_name": "First Contributions",
+  "name": "First Contributions - Make Your First Open Source Contribution",
+  "description": "Learn how to make your first open source contribution in just 5 minutes. Step-by-step guide for beginners with beginner-friendly projects and resources.",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#667eea",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "categories": ["education", "developer", "programming"],
+  "lang": "en"
+}

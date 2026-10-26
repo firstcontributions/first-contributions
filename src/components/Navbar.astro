@@ -1,0 +1,70 @@
+---
+// Navbar component for social links
+---
+
+<div class="topnav">
+  <a href="https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w" target="_blank" rel="noopener noreferrer">
+    <img src="/slack.svg" class="logo" alt="slack logo" />
+    <span>Slack</span>
+  </a>
+  <a href="https://www.youtube.com/channel/UCMXNFxCvyH5LhUwEcmY8qGQ" target="_blank" rel="noopener noreferrer">
+    <img src="/youtube.svg" class="logo" alt="youtube logo" />
+    <span>Youtube</span>    
+  </a>
+  <a href="https://twitter.com/1stContribution" target="_blank" rel="noopener noreferrer">
+    <img src="/twitter.svg" class="logo" alt="twitter logo" />
+    <span>Twitter</span>
+  </a>
+  <a href="https://github.com/firstcontributions/first-contributions" target="_blank" rel="noopener noreferrer">
+    <img src="/github.svg" class="logo" alt="github logo" />
+    <span>GitHub</span>
+  </a>
+</div>
+
+<style>
+  .topnav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .topnav a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+
+  .topnav a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .topnav .logo {
+    width: 24px;
+    height: 24px;
+  }
+
+  @media (max-width: 768px) {
+    .topnav {
+      gap: 1rem;
+      padding: 0.5rem;
+    }
+    
+    .topnav a {
+      padding: 0.25rem 0.5rem;
+    }
+    
+    .topnav span {
+      display: none;
+    }
+  }
+</style>

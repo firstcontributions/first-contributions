@@ -1,0 +1,52 @@
+---
+// LinkButton component for getting started
+---
+
+<div class="LinkButton-Wrapper">
+  <a class="LinkButton" href="https://github.com/firstcontributions/first-contributions/blob/main/README.md">
+    <span>Get started</span>
+  </a>
+</div>
+
+<style>
+  .LinkButton-Wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+  }
+
+  .LinkButton {
+    display: inline-block;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+  }
+
+  .LinkButton:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+  }
+
+  .LinkButton span {
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+
+  .LinkButton:hover span {
+    transform: scale(1.05);
+  }
+
+  @media (max-width: 768px) {
+    .LinkButton {
+      padding: 0.8rem 1.5rem;
+      font-size: 1rem;
+    }
+  }
+</style>

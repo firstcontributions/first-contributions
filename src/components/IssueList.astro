@@ -1,0 +1,315 @@
+---
+export interface Props {
+  projectLink: string;
+  projectName: string;
+}
+
+const { projectLink, projectName } = Astro.props;
+
+// Extract owner/repo from GitHub URL
+function extractRepoInfo(url: string) {
+  const match = url.match(/github\.com\/([^\/]+)\/([^\/]+)/);
+  if (match) {
+    return {
+      owner: match[1],
+      repo: match[2].replace(/\/$/, '') // Remove trailing slash
+    };
+  }
+  return null;
+}
+
+// Fetch issues from GitHub API on the server
+async function fetchIssues(owner: string, repo: string) {
+  try {
+    // Use GitHub token if available (for higher rate limits)
+    const githubToken = import.meta.env.GITHUB_TOKEN;
+    const headers: Record<string, string> = {
+      'Accept': 'application/vnd.github+json',
+      'User-Agent': 'FirstContributions'
+    };
+    
+    if (githubToken) {
+      headers['Authorization'] = `Bearer ${githubToken}`;
+    }
+    
+    // Try multiple requests for different label combinations
+    const labelCombinations = [
+      'good first issue,help wanted',  // Both labels
+      'good first issue',              // Just good first issue
+      'help wanted'                    // Just help wanted
+    ];
+    
+    let allIssues: any[] = [];
+    
+    for (const labels of labelCombinations) {
+      const encodedLabels = encodeURIComponent(labels);
+      const url = `https://api.github.com/repos/${owner}/${repo}/issues?labels=${encodedLabels}&state=open&per_page=10&sort=updated`;
+      
+      const response = await fetch(url, { headers });
+      
+      if (response.status === 403) {
+        return [];
+      }
+      
+      if (!response.ok) {
+        if (response.status === 404) {
+          continue; // Try next combination
+        }
+        continue; // Try next combination
+      }
+      
+      const issues = await response.json();
+      
+      allIssues = [...allIssues, ...issues];
+      
+      // If we found issues, break to avoid duplicates
+      if (issues.length > 0) {
+        break;
+      }
+    }
+    
+    // Remove duplicates based on issue number
+    const uniqueIssues = allIssues.filter((issue, index, self) => 
+      index === self.findIndex(i => i.number === issue.number)
+    );
+    
+    if (uniqueIssues.length === 0) {
+      return [];
+    }
+    
+    // Process and prioritize issues
+    const processedIssues = uniqueIssues.map((issue: any) => {
+      const hasGoodFirstIssue = issue.labels.some((label: any) => 
+        label.name.toLowerCase().includes('good first issue') ||
+        label.name.toLowerCase().includes('good-first-issue')
+      );
+      
+      return {
+        ...issue,
+        priority: hasGoodFirstIssue ? 'good first issue' : 'help wanted'
+      };
+    });
+    
+    // Sort: good first issue first, then help wanted
+    processedIssues.sort((a: any, b: any) => {
+      if (a.priority === 'good first issue' && b.priority !== 'good first issue') return -1;
+      if (a.priority !== 'good first issue' && b.priority === 'good first issue') return 1;
+      return 0;
+    });
+    
+    return processedIssues.slice(0, 3); // Show only 3 issues
+  } catch (error) {
+    return [];
+  }
+}
+
+// Fetch issues on the server
+const repoInfo = extractRepoInfo(projectLink);
+let issues: any[] = [];
+
+if (repoInfo) {
+  issues = await fetchIssues(repoInfo.owner, repoInfo.repo);
+}
+---
+
+<div class="Card-Issues">
+  <div class="Issues-Header">
+    <h4 class="Issues-Title">Open Issues</h4>
+  </div>
+  
+  {issues.length > 0 ? (
+    <div class="Issues-List">
+      {issues.map((issue) => (
+        <a href={issue.html_url} target="_blank" class="Issue-Card">
+          <div class="Issue-Content">
+            <div class="Issue-Title">{issue.title}</div>
+            <div class="Issue-Meta">
+              <span class="Issue-Number">#{issue.number}</span>
+              <span class="Issue-Date">
+                {new Date(issue.updated_at).toLocaleDateString()}
+              </span>
+            </div>
+          </div>
+          <div class="Issue-Labels">
+            <span class="Issue-Label {issue.priority === 'good first issue' ? 'good-first-issue' : 'help-wanted'}">
+              {issue.priority === 'good first issue' ? 'Good First Issue' : 'Help Wanted'}
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+  ) : (
+    <div class="no-issues">
+      <div class="no-issues-icon">🎉</div>
+      <div class="no-issues-text">No beginner-friendly issues</div>
+      <div class="no-issues-subtext">All good first issues and help wanted tasks are currently taken! Check back later for new opportunities.</div>
+    </div>
+  )}
+</div>
+
+<style>
+  .Card-Issues {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .Issues-Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .Issues-Title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0;
+  }
+
+  .Issues-Count {
+    background: rgba(102, 126, 234, 0.2);
+    color: #a5b4fc;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border: 1px solid rgba(102, 126, 234, 0.3);
+  }
+
+  .Issues-List {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .Issue-Card {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0.875rem;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease;
+    gap: 0.75rem;
+  }
+
+  .Issue-Card:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(102, 126, 234, 0.3);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .Issue-Content {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .Issue-Title {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.95);
+    margin: 0 0 0.5rem 0;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-weight: 500;
+  }
+
+  .Issue-Meta {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .Issue-Number {
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.125rem 0.375rem;
+    border-radius: 6px;
+    font-size: 0.7rem;
+  }
+
+  .Issue-Date {
+    font-size: 0.7rem;
+  }
+
+  .Issue-Labels {
+    flex-shrink: 0;
+  }
+
+  .Issue-Label {
+    font-size: 0.7rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 8px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+    white-space: nowrap;
+  }
+
+  .Issue-Label.good-first-issue {
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.2) 0%, rgba(34, 197, 94, 0.1) 100%);
+    color: #4ade80;
+    border: 1px solid rgba(34, 197, 94, 0.3);
+    box-shadow: 0 2px 4px rgba(34, 197, 94, 0.1);
+  }
+
+  .Issue-Label.help-wanted {
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.2) 0%, rgba(59, 130, 246, 0.1) 100%);
+    color: #60a5fa;
+    border: 1px solid rgba(59, 130, 246, 0.3);
+    box-shadow: 0 2px 4px rgba(59, 130, 246, 0.1);
+  }
+
+  .no-issues {
+    text-align: center;
+    padding: 2rem 1rem;
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .no-issues-icon {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+    opacity: 0.7;
+  }
+
+  .no-issues-text {
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  .no-issues-subtext {
+    font-size: 0.75rem;
+    opacity: 0.7;
+  }
+
+
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .Issue-Card {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0.5rem;
+    }
+
+    .Issue-Labels {
+      align-self: flex-start;
+    }
+
+    .Issue-Meta {
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+  }
+</style>
