@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-- [sourav06] (https://github.com/dassouravkumar926-beep) -> 1st step of learning open source contribution 🚀
+- [sourav0607] (https://github.com/dassouravkumar926-beep) -> 1st step of learning open source contribution 🚀
 [AayushRaj0505] (https://github.com/AayushRaj0505) -> 1st step of learning open source contribution 🚀
 =======
 - [anushka] - this is my first contribution
