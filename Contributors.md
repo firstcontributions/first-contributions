@@ -14,6 +14,7 @@
 - [kush] - this is my first contribution
 -[KOUHSIK](https://github.com/Koushik9973)- This is my first contrbution. Best of luck for myself and my future endeavours.
 - [ak] - this is my first contribution
+- [theprince404] - This is my first contribution
 - [ ashu ] - This is my first contribution
 - [Yash Raj Singh] - First milstone achived 🍀🚀
 - [pranvasoni] -my first contribution 
