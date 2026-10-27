@@ -1,4 +1,5 @@
-- [ Manasvi ]git add Contributors.md - Happy first contribution
+- [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
+[ Manasvi ]git add Contributors.md - Happy first contribution
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
@@ -7783,4 +7784,8 @@ Harshit Bisht
 - [WilbertMarins](https://github.com/WilbertMarins) - My first step to open source contribution  :) Check my profile, let's connect.
 - [Alexander](https://github.com/Alexander1992a) - My first open-source contribution!
 - [Jishan](https://github.com/jishanws)
+<<<<<<< HEAD
 - [Tristan](https://github.com/tristantyson) - love from the UK.
+=======
+- [Rup](https://github.com/mathwalerp)
+>>>>>>> 7a1ec2d7625b01962b85894ec66aedf3471ed250
