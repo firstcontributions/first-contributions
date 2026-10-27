@@ -1,6 +1,6 @@
 -[pranav] - This is my first contribution
 - [ keshav ] - Heyy Guys love from Jaipur !
-- [Yashank Sogra] - Wassup github gng !!!! Finally here
+- [Yashank Sogra] - Wassup github gng !!!! Finally here !
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
 - [kush] - this is my first contribution
