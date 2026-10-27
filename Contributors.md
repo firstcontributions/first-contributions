@@ -1,4 +1,4 @@
-- [Neelakshi-tech](https://github.com/Neelakshi-tech) - Heyyyooo! This is my first Open Source Conribution.I am Excited to start this Journey! Let's Goooo!!!!
+- [Neelakshi-tech](https://github.com/Neelakshi-tech) - Heyyyooo! This is my first Open Source Conribution.I am Excited to start this Open-Source Journey! Let's Goooo!!!!
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
