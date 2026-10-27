@@ -2,7 +2,7 @@
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshya
-- [nxliu sp] - nxliu spl
+- [nxliu sp] - nxliu spl add more
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
