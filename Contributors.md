@@ -3,6 +3,7 @@
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [hardik] - This is my first contribution.
+- [Yashik Bandhu](https://github.com/Yashik02) - Yashik was here. this is my first contribution!
 - [Yashank Sogra] - Wassup github gng !!!! Finally here !!
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
