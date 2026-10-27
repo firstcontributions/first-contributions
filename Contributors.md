@@ -7785,7 +7785,8 @@ Harshit Bisht
 - [Alexander](https://github.com/Alexander1992a) - My first open-source contribution!
 - [Jishan](https://github.com/jishanws)
 <<<<<<< HEAD
-- [Tristan](https://github.com/tristantyson) - love from the UK.
+- [Tristan](https://github.com/tristantyson) - love from Yorkshire, UK.
 =======
 - [Rup](https://github.com/mathwalerp)
+- [Arif Rahman](https://github.com/arifrhm) - My first open-source contribution!
 >>>>>>> 7a1ec2d7625b01962b85894ec66aedf3471ed250
