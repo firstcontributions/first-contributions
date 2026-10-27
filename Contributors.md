@@ -16,7 +16,7 @@
 - [pranvasoni] -my first contribution 
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
-
+- [Kalyan Bandaru] - This is my first ever open-source contribution
 * [Piyush Kumar] - This is my first open-source contribution.
 - [DevarshP610](https://github.com/DevarshP610) - Building [YardScout](https://github.com/DevarshP610/YardScout), my first open-source project.
 - [Jyotiprakash Panigrahi] - This is my first open-source contribution.
