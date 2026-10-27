@@ -7773,6 +7773,7 @@ yupipi
 - [Ak](https://github.com/heyitsak) - Student Developer · Modern Web & Systems Craftsman
 - [QuestraLabs](https://github.com/questralabs) - contribute in open source era
 - [li2861](https://github.com/li2861)
+- [kanish4677](https://github.com/kanish4677)
 Achal Nimkar
 ujjwal vishwakarma
 Duangjai
