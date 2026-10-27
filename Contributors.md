@@ -112,6 +112,7 @@ dehdlhl
 - [Satyaprakash](https://github.com/SatyaPrakash252) - First open-source contribution!!!!!!!
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Mostafa Mamdouh](https://github.com/MostafaL2003) "First Contribution W"
+- [Kapil Singh] - "Trying opensource"
 - [Jesse Francis](https://github.com/jessefrancis-glitch) "My first contributon , a humble beginning"
 - [Yuzu](https://github.com/YuzuLemonn)
 - [Raying](https://github.com/Raying520)
