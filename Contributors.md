@@ -7713,6 +7713,7 @@ add-pranav
 - [Saheb Sarkar](https://github.com/saheb1997)
 - [Rashtra Bhushan](https://github.com/Rashtra03) - My first open-source contribution!
 - sanath waraikar
+- [Niranjan Kumar Singh] (https://github.com/NiranjanKumarsing) - My first pr
 - [Laksh Kumar Singh](https://github.com/lkghost327-afk)
 - ⁠[Tasibul Hasan](https://github.com/tsblhsn)
 - [李旭](https://github.com/2949176557) - My first open source contribution!
