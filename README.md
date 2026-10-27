@@ -236,6 +236,81 @@ If you'd like more practice, checkout [code contributions](https://github.com/ro
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
+---
+
+## Your First Contribution Checklist
+
+Use this checklist to track your progress. Each step is covered in detail above — come back here to make sure you haven't missed anything!
+
+- [ ] I have a [GitHub account](https://github.com/signup)
+- [ ] I have [Git installed](https://docs.github.com/en/get-started/quickstart/set-up-git) on my machine
+- [ ] I forked this repository
+- [ ] I cloned my fork locally
+- [ ] I created a new branch for my changes
+- [ ] I added my name to `Contributors.md`
+- [ ] I committed my changes with a clear message
+- [ ] I pushed my branch to GitHub
+- [ ] I opened a Pull Request
+- [ ] I celebrated! :tada:
+
+---
+
+## How to Create an Issue
+
+Found a bug? Have a suggestion? Issues are the way to start a conversation.
+
+| Step | Action |
+|------|--------|
+| 1 | Go to the repo's **Issues** tab |
+| 2 | Click **New issue** |
+| 3 | Write a short, clear **title** (e.g., *"Typo in README: contrbution → contribution"*) |
+| 4 | In the description, include **what you expected**, **what happened**, and **steps to reproduce** |
+| 5 | Click **Submit new issue** |
+
+> **Pro tip:** Before creating a new issue, search the existing ones — someone may have already reported it!
+
+---
+
+## Quick Tips for Contributors
+
+<details>
+<summary><strong>Writing good commit messages</strong></summary>
+
+| Instead of | Write |
+|---|---|
+| `git commit -m "fix"` | `git commit -m "Fix typo in contributing guide"` |
+| `git commit -m "update"` | `git commit -m "Add Jane Doe to Contributors list"` |
+
+A good commit message answers: *"If applied, this commit will..."*
+</details>
+
+<details>
+<summary><strong>Keeping your fork up to date</strong></summary>
+
+After your PR is merged, sync your fork with the original repo:
+
+```bash
+git remote add upstream git@github.com:firstcontributions/first-contributions.git
+git fetch upstream
+git switch main
+git merge upstream/main
+git push
+```
+
+This prevents conflicts in future contributions.
+</details>
+
+<details>
+<summary><strong>What if my PR has merge conflicts?</strong></summary>
+
+1. Sync your fork (see above)
+2. Switch to your feature branch: `git switch your-branch-name`
+3. Merge main into it: `git merge main`
+4. Resolve conflicts in your editor, then commit and push
+</details>
+
+---
+
 ### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Using Other Tools
