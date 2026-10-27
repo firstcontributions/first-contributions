@@ -38,7 +38,8 @@
 =======
 <<<<<<< HEAD
 [Creative Sami]-- Jai hind 
-- [kashish] (https://github.com/kashishmakode848-web) -> first step of learning open source contribution 
+- [kashish] (https://github.com/kashishmakode848-web) -> first step of learning open source contribution
+- [Gitraj Chaudhari] -> now I start opensource
 =======
 <<<<<<< HEAD
 - [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
