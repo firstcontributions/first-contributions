@@ -7567,6 +7567,9 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Gede Bagus Wirayasa](https://github.com/HatsuharuYasa)
 - [0nsku](https://github.com/0nsku)
 - [Leezi]
+<<<<<<< HEAD
+- [chanchalprajapati1457](https://github.com/chanchalprajapati1457)
+=======
 - chanchalprajapati1457-design
   [def]: https://github.com/nanigenai8-creator
 - [Morali-x](https://github.com/Morali-x)
@@ -7801,3 +7804,4 @@ Harshit Bisht
 - [Arif Rahman](https://github.com/arifrhm) - My first open-source contribution!
 >>>>>>> 7a1ec2d7625b01962b85894ec66aedf3471ed250
 - [Gaspard](https://github.com/gasparddnz)
+>>>>>>> upstream/main
