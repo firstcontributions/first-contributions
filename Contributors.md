@@ -1,4 +1,4 @@
-- [Neelakshi-tech](https://github.com/Neelakshi-tech) - Heyyyooo! This is my first Open Source Conribution.I am Excited to start this Open-Source Journey! Let's Goooo!!!!
+- [Neelakshi-tech](https://github.com/Neelakshi-tech) - Heyyyooo! This is my first Open Source Conribution.I am Excited to start this Open-Source Journey! Let's Gooo!!!!
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
@@ -10,21 +10,21 @@
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 <<<<<<< HEAD
-=======
+
 <<<<<<< HEAD
 [Creative Sami]-- Jai hind 
 - [kashish] (https://github.com/kashishmakode848-web) -> first step of learning open source contribution 
-=======
+
 <<<<<<< HEAD
 - [Shubham] (https://github.com/Shubham-web-ai-web) -> first step of learning open source contribution
-=======
+
 <<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
-=======
+
 <<<<<<< HEAD
 - [Aditi Shree] (https://github.com/aditeaayyyy) -> 1st step of learning open source contribution 🚀
-=======
+=
 - [Saranyo Deyasi](https://github.com/DSaranyo) - First Open Source Contribution!!!!!1
   
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
