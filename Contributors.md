@@ -91,6 +91,7 @@ dehdlhl
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
 - [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
 - first contribuiton 78
+- [Cherry-uu](https://github.com/Cherry-uu)-First Contribution Yayyyy.
 - [Bala Saastha B](https://github.com/bbs-669) - My first open-source contribution! Woohoo
 - [boob-min]-Begin begin
 - [Shikaru0](https://github.com/Shikaru0)
