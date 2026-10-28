@@ -10,6 +10,7 @@
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 z54c6hf
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
+- [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [hardik] - This is my first contribution.
