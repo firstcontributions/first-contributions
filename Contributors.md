@@ -27,6 +27,7 @@ z54c6hf
 - [ ashu ] - This is my first contribution
 - [Yash Raj Singh] - First milstone achived 🍀🚀
 - [pranvasoni] -my first contribution 
+- [Krishna Kaushal] - This is my contribution
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
 - [Kalyan Bandaru] - This is my first ever open-source contribution
