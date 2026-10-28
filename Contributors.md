@@ -27,6 +27,7 @@ z54c6hf
 - [Taku] - This is my first open source contribution.
 - [Yeonjune0408] (https://github.com/Yeonjune0408) - my first open-source contribution! I'm a budding engineer!
 - [dapraws](https://github.com/dapraws)
+- [Ikthedar Chowdhury](https://github.com/ikthedar)
 - [Abdul Ahad](https://github.com/AbdulAhad1189) - This is my first open source contribution!
 - [Sachin] - Thanks for such a wonderful repo.
 - [Yaksharth](https://github.com/yaksharth) - This is my first step in learning open source.
