@@ -998,6 +998,7 @@ GSL32
 - [SK SK](https://github.com/sravanthik1-crypto)
 - [Ketul Makwana](https://github.com/ktul15)
 - [Agustín Ré](https://github.com/AgusRe)
+- [Vedant1442](https://github.com/Vedant1442) - This is my first Open Source Contribution!
 - [Manish Mani Dinkar](https://github.com/moneyyiiss)
 - [Mano J](https://github.com/mj)
 - Melissa Nougal
