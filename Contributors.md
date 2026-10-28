@@ -7727,7 +7727,7 @@ Achal Nimkar
 ujjwal vishwakarma
 Duangjai
 Harshit Bisht
-- [Aman kumar] - Restarted my  open-source contribution!
+- [Aman kumar](https://github.com/amankr-55) - Restarted my open-source contribution!
 - [36583](https://github.com/36583)
 - [qqzzmm88](https://github.com/qqzzmm88)
 - [Shreya](https://github.com/shreya8-p) - My first open-source contribution!
