@@ -20,6 +20,7 @@ z54c6hf
 - [Yashank Sogra] - Wassup github gng !!!! Finally here !!
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
+- [Taku] - This is my first open source contribution.
 - [dapraws](https://github.com/dapraws)
 - [Sachin] - Thanks for such a wonderful repo.
 - [Yaksharth](https://github.com/yaksharth) - This is my first step in learning open source.
