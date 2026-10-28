@@ -10,6 +10,7 @@
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 z54c6hf
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
+- [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [hardik] - This is my first contribution.
@@ -630,6 +631,7 @@ John Doe 2026
 - [Random Porcupine](https://github.com/random-porcupine)
 - [Vedant Sawant](https://github.com/Vedant-9105)
 - [ayuuXploits](https://github.com/ayuuXploits) - Hello! This is my first open-source contribution!
+- [Manjeeth S Padhmashali] (https://github.com/manjeeth-tech2277)- This is Manjeeth's contribution
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
 - [studytcmc107-del](https://github.com) - My second commit
 - [avzuh](https://github.com/avzuh)
@@ -7810,21 +7812,22 @@ Harshit Bisht
 - [WilbertMarins](https://github.com/WilbertMarins) - My first step to open source contribution  :) Check my profile, let's connect.
 - [Alexander](https://github.com/Alexander1992a) - My first open-source contribution!
 - [Jishan](https://github.com/jishanws)
-<<<<<<< HEAD
+
 - [Tristan](https://github.com/tristantyson) - love from Yorkshire, UK.
-=======
+
 - [Rup](https://github.com/mathwalerp)
 - [Brt]
 - [Arif Rahman](https://github.com/arifrhm) - My first open-source contribution!
->>>>>>> 7a1ec2d7625b01962b85894ec66aedf3471ed250
+
 - [Gaspard](https://github.com/gasparddnz)
 - [Saki Chen](https://github.com/sakisakichen)
->>>>>>> upstream/main
+
 ASChirag
 Aryan Khan
->>>>>>> 
 - [Sumith Kumar Gupta] (https://github.com/guptXbytes) - Hello everyone, Orewa Sumith!!
 ASchirag
 - [Kushal Arvind O](https://github.com/kushalarvindo) - Heyyyyy! :))
 - [Nabhanya](https://github.com/Nabhnyaaa) - Hello everyone!!
+
 - [Divyanshu Jha](https://github.com/divyanshuuu18) - My first open source contribution!
+
