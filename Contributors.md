@@ -50,6 +50,7 @@ z54c6hf
 - [Yuan ChengZhi](https://github.com/Hlf-cswz)"This is my first contribution"
 - [Juan Angulo] - "First steps in github"
 - [Riya Gupta](https://github.com/riyaRG04) - Hey! This is my first contribution.
+- [Swetha Priya](https://github.com/DamarlaSwetha) - My First Open Source Contribution!
 <<<<<<< HEAD 
 =======
 <<<<<<< HEAD
@@ -75,6 +76,7 @@ z54c6hf
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
  - [viessmanbessinger-ux](https://github.com/viessmanbessinger-ux) - My first open-source contribution!
 Atharv Singh
+
 - [Lafin Fibrish G](https://github.com/Fibrish) - My beginning🍀
 - [Joel Postrel](https://github.com/joelpostrel-source) - My first contribution!
 - [RobsHs](https://github.com/RobsHs) - First open source contribution!
