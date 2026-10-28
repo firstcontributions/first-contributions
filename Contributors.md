@@ -7812,20 +7812,22 @@ Harshit Bisht
 - [WilbertMarins](https://github.com/WilbertMarins) - My first step to open source contribution  :) Check my profile, let's connect.
 - [Alexander](https://github.com/Alexander1992a) - My first open-source contribution!
 - [Jishan](https://github.com/jishanws)
-<<<<<<< HEAD
+
 - [Tristan](https://github.com/tristantyson) - love from Yorkshire, UK.
-=======
+
 - [Rup](https://github.com/mathwalerp)
 - [Brt]
 - [Arif Rahman](https://github.com/arifrhm) - My first open-source contribution!
->>>>>>> 7a1ec2d7625b01962b85894ec66aedf3471ed250
+
 - [Gaspard](https://github.com/gasparddnz)
 - [Saki Chen](https://github.com/sakisakichen)
->>>>>>> upstream/main
+
 ASChirag
 Aryan Khan
->>>>>>> 
 - [Sumith Kumar Gupta] (https://github.com/guptXbytes) - Hello everyone, Orewa Sumith!!
 ASchirag
 - [Kushal Arvind O](https://github.com/kushalarvindo) - Heyyyyy! :))
 - [Nabhanya](https://github.com/Nabhnyaaa) - Hello everyone!!
+
+- [Divyanshu Jha](https://github.com/divyanshuuu18) - My first open source contribution!
+
