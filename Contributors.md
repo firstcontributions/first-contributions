@@ -7827,3 +7827,4 @@ Aryan Khan
 ASchirag
 - [Kushal Arvind O](https://github.com/kushalarvindo) - Heyyyyy! :))
 - [Nabhanya](https://github.com/Nabhnyaaa) - Hello everyone!!
+- [Divyanshu Jha](https://github.com/divyanshuuu18) - My first open source contribution!
