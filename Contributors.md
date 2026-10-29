@@ -514,6 +514,7 @@ Mahisha K
 - [Blaise Massa](https://github.com/massa-ngl) — Just a tech.
 - [Songshuo](https://github.com/songshuo)
 - [Teja Sree Dasoju](https://github.com/Tejasree731) - HeyLooo!!
+- [Alvaro](https://github.com/alvaroramireznieto-design)
 - [ZhaoLinDong](https://github.com/ZhaoLinDong) - Finally! I can push！！
 - [Jai Gupta](https://github.com/JaiG1998) - This is my first contribution to open source.
 - [anabau2017-max](https://github.com/anabau2017-max) - Hello! This is my first open-source contribution.
