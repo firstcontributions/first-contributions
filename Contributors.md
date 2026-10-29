@@ -14,7 +14,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - David M - I never dreamed one day I'd be an open-source contributor, but here I am killing it!
 - [Rishit Mishra](https://github.com/rishit314) - This is my first contribution!
 - [Nandan](https://github.com/21Nandan) - my first contribuation to the amazing world of open source!
-- [Test_dev]
+- [Rishav Raj](https://github.com/Rishav-2589) - this is my first contributions 
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
 >>>>>>> upstream/main
