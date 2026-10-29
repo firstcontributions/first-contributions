@@ -7889,4 +7889,4 @@ ASchirag
 - [BlueB] (https://github.com/blue42674-a11y) - Start of my Adventure !!!
 - [PalladionX](https://github.com) - add-itsnobly-name
 
-<!-- c -->
+- [Abubakar Abdullahi](https://github.com/youngdjab)
