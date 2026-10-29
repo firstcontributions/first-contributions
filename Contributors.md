@@ -7885,5 +7885,6 @@ ASchirag
 - [clennone] (https://github.com/clennone)
 - [ningyang] (https://github.com/2732258735wy-cell)
 - [BlueB] (https://github.com/blue42674-a11y) - Start of my Adventure !!!
+-[sruthi sri] (https://chatgpt.com/c/6ae17640-f8f0-83ee-b482-f07fc9aac63c)
 
 <!-- c -->
