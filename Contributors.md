@@ -5,6 +5,7 @@
 - [Sohail](https://github.com/sohailsq) - This is my first open source contribution!
 - [Pravej](https://github.com/pravej-786) - This is my first open source contribution!
 - David M - I never dreamed one day I'd be an open-source contributor, but here I am killing it!
+- [Rishit Mishra](https://github.com/rishit314) - This is my first contribution!
 - [Nandan](https://github.com/21Nandan) - my first contribuation to the amazing world of open source!
 - [Test_dev]
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
