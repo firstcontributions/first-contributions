@@ -4,6 +4,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 =======
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
+-  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
 - [LFD](https://github.com/Takatsuki-nana) - This is my first open source contribution!
 - [Panta](https://github.com/illogicallov3) - This is my first open source contribution!
