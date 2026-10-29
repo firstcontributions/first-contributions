@@ -1516,6 +1516,7 @@ siddhu
 - [Muhsin Erdem Keles](https://github.com/erdemnub)
  [Ashank](https://github.com/Ashank001/)
 - [Adri Katyayan](https://github.com/ad-kat/)
+- [Anant Raj](https://github.com/anant-rajj)
 - [Vlad Samsonov](https://github.com/tritich-vas)
 - [vartika](https://github.com/vartika2494)
 - [saswat kumar panda](https://github.com/saswat9658)
