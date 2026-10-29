@@ -7339,6 +7339,7 @@ Jd
 - [tsq157](https://github.com/tsq157) - My first contribution!
 - [Laxman S. Negi](https://github.com/negilaxu)
 - [Drish Jayee]( https://github.com/Drish-1208)
+- [Jack Frida]( https://github.com/jackfrida-git)
 - [MANASVI P](https://github.com/manasvviiii)
 - [Hari](https://github.com/HariP-git)
 - [riya](https://github.com/riyathakur228)
