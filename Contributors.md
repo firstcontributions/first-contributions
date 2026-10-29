@@ -261,6 +261,7 @@ piyush[Tanvi](https://github.com/tanvisingh20073004-star)
 - [Dheekshika S](https://github.com/Dheekshi-07)
 - [ider](https://github.com/ider-zh) "This is a awesome project"
 - [Mayank](https://github.com/marskingdom9)
+- hola soy juan
 - [Talha Ahmad](https://github.com/Professorlegit-66) "Software engineering student making my second open-source commit!"
 -[Akalp Mishra](https://github.com/akalp-mishra) "Making my first ever open source contribution, this repository is great!"
 - [Fenthy Thula](https://github.com/afr0d8ta)
