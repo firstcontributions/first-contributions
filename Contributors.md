@@ -6966,6 +6966,7 @@ Shreyansh
 - [jxyily](https://github.com/jxyily)
 - [Sabareeswaran](https://github.com/Sundarsabaree)
 - [JebastineE](https://github.com/JebastineE)
+- [Ishana Dajal] wassup
 - [Vithun T R](https://github.com/Vithun06)
 - [Muhammad Anas](https://github.com/codebyanas)
 - [Md Sultan Mahmud Munna](https://github.com/munnaa0)
