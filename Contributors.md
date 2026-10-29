@@ -7872,7 +7872,7 @@ ASchirag
 - [echosweta] (https://github.com/echosweta)
 
 - [clennone] (https://github.com/clennone)
-- [BlueB] (https://github.com/blue42674-a11y) - Start of my Adventure！！！
+- [BlueB] (https://github.com/blue42674-a11y) - Start of my Adventure!!!
 
 
 <!-- c -->
