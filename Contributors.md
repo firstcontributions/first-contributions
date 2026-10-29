@@ -6,6 +6,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
+- [sudip karki] (https://github.com/Sudipk007)
 - [LFD](https://github.com/Takatsuki-nana) - This is my first open source contribution!
 - [Panta](https://github.com/illogicallov3) - This is my first open source contribution!
 - [Sohail](https://github.com/sohailsq) - This is my first open source contribution!
