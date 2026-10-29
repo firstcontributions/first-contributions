@@ -7887,5 +7887,6 @@ ASchirag
 - [clennone] (https://github.com/clennone)
 - [ningyang] (https://github.com/2732258735wy-cell)
 - [BlueB] (https://github.com/blue42674-a11y) - Start of my Adventure !!!
+- [PalladionX](https://github.com) - add-itsnobly-name
 
 <!-- c -->
