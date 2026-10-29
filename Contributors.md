@@ -15,6 +15,7 @@
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 z54c6hf
 - [Kamelio0815](https://github.com/kamelio0815) - my first contribution
+- [Itsamam](https://github.com/itsamam) - This is my first open source contribution!
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
 - [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
