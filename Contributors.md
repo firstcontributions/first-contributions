@@ -7885,6 +7885,6 @@ ASchirag
 - [clennone] (https://github.com/clennone)
 - [ningyang] (https://github.com/2732258735wy-cell)
 - [BlueB] (https://github.com/blue42674-a11y)
-- [PalladionX](https://github.com)
+ - [PalladionX](https://github.com/PalladionX)
 
 - [Abubakar Abdullahi](https://github.com/youngdjab)
