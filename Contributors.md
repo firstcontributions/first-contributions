@@ -348,6 +348,7 @@ Nick
 - [Vraj Patel](https://github.com/VrajPatel105)
 - [Lucas Navarro](https://github.com/Durza71)
 - [Raghuram]
+- [junior]
 - [Reynhard](https://github.com/reybui)
 - [Sohail](https://github.com/sohail78692)
 - [VicciHz](https://github.com/VicciHz)
