@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 - [Apalak Patra](https://github.com/apk-ronnie) - my first open source contribution
-=======
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
 - [LFD](https://github.com/Takatsuki-nana) - This is my first open source contribution!
@@ -13,7 +12,6 @@
 - [Test_dev]
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
->>>>>>> upstream/main
 - [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [Ali Ozdas](https://github.com/ali0zdas) - Excited to make my first open source contribution!
 [ Manasvi ]git add Contributors.md - Happy first contribution
