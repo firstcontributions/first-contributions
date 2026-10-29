@@ -23,6 +23,7 @@ z54c6hf
 - [Kamelio0815](https://github.com/kamelio0815) - my first contribution
 - [Itsamam](https://github.com/itsamam) - This is my first open source contribution!
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
+- [Pranesh Kishan](https://github.com/PraneshKishan)
 - [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
