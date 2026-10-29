@@ -977,6 +977,7 @@ GSL32
 - [Muhammad Faisal Amir](https://github.com/amirisback)
 - [Mamela Maeruf] (https://github.com/hu-maeruf)
 - [Dan Booth] (https://github.com/DanBooth01)
+- [pathe] (https://github.com/twyt-egg)
 - [Dilan Sarwar](https://github.com/dsforcode)
 - [Cesar Hernandez](https://github.com/cesarjhernandez)
 - [Bouras Ioannis](https://github.com/SharkFace2310)
