@@ -283,6 +283,7 @@ SANKALP PANDEY
  -[Rohith](https://github.com/gorlerohith2008-cmd/)"contribution"
 - [Sukhdeep Singh Panesar](https://github.com/Sukhdeep-Singh-Panesar)
 - [Victor Liu](https://github.com/liu-jd9912) "My very first opensource PR!!!!"
+- [Jazib](https://github.com/jrza) "first opensource contribution in the bag!"
 - [starbaag](https://github.com/starbag)
 - [sveta](https://github.com/sergeigood)
 - [Neethu](https://github.com/neethureddysettipalli)
