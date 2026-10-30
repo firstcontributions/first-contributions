@@ -1,5 +1,4 @@
-- [Dollcy Jain](https://github.com/Dollcy-Jain) - Exicted to make my first contribution!!
-- [Apalak Patra](https://github.com/apk-ronnie) - my first open source contribution
+- [Dollcy jain](https://github.com/Dollcy-Jain) - Excited for my first contribution!!
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
 - [LFD](https://github.com/Takatsuki-nana) - This is my first open source contribution!
