@@ -7922,3 +7922,4 @@ ASchirag
 - [Apanka David](https://github.com/apankadavid)
 - [Anya Forger] - My first open source contribution
 - [Ngo Binh](https://github.com/ngo-binh0108) - Computer vision and satellite imagery developer
+- [Alan](https://github.com/t293573445) - student
