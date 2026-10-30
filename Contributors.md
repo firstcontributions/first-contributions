@@ -7,6 +7,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
+-  [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE 
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
 - [sudip karki] (https://github.com/Sudipk007)
 - [LFD](https://github.com/Takatsuki-nana) - This is my first open source contribution!
