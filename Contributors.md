@@ -7911,3 +7911,4 @@ ASchirag
 - [Caio](https://github.com/CaioStack) - Minha primeira contribuição open source!
 - [Apanka David](https://github.com/apankadavid)
 - [Anya Forger] - My first open source contribution
+- [Ngo Binh](https://github.com/ngo-binh0108) - Computer vision and satellite imagery developer
