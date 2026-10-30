@@ -7901,7 +7901,6 @@ ASchirag
 - [Kushal Arvind O](https://github.com/kushalarvindo) - Heyyyyy! :))
 - [Nabhanya](https://github.com/Nabhnyaaa) - Hello everyone!!
 - [Harixplorer](https://github.com/Harixplorer) - Hello everyone!! :)
-- [Siddarth] (https://github.com/youknowwho777)
 - [zero-invest](https://github.com/zero-invest)
 
 - [Sivamoorthy](https://github.com/SivamoorthyA)
@@ -7932,3 +7931,4 @@ ASchirag
 [Divisha Agarwal](https://github.com/divishaagarwal3006-maker)
 
 [Patrick Un] (https://github.com/patrickunp/first-contributions-fork)
+-[Siddarth] (https://github.com/youknowwho777)
