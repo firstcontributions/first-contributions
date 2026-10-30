@@ -29,6 +29,7 @@ z54c6hf
 - [Itsamam](https://github.com/itsamam) - This is my first open source contribution!
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
 - [Pranesh Kishan](https://github.com/PraneshKishan)
+- [Shirel Marino](https://github.com/shirelmr)
 - [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
 - [AKM123HKM](https://github.com/AKM123HKM) - First contribution!
