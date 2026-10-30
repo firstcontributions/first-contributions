@@ -67,7 +67,7 @@ z54c6hf
 * [Piyush Kumar] - This is my first open-source contribution.
 - [DevarshP610](https://github.com/DevarshP610) - Building [YardScout](https://github.com/DevarshP610/YardScout), my first open-source project.
 - [Jyotiprakash Panigrahi] - This is my first open-source contribution.
-
+- [Joanathan Packia Singh](https://github.com/JoanathanPS)
 - [Sai Vidith] - https://github.com/sai-vidith - "Welcome to contributions"
 - [Tirth Gaikwad] - https://github.com/tirthgaikwad - "I am very happy for my first contribution, and I am form INDIA."
 
