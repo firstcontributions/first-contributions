@@ -2,6 +2,10 @@
 - [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
 - [Abhiram Kosuru](https://github.com/abhiram274) - Be kind, Curious, Explore.
 - [Anastasia Ritus](https://github.com/kartoxaxa) - My first pull request
+<<<<<<< HEAD
+https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
+- [Apalak Patra](https://github.com/apk-ronnie) - my first open source contribution
+=======
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 -  [Harish Kumar](https://github.com/Harish1685) - my first step towards the world of open source
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
@@ -20,6 +24,7 @@
 - [Rishav Raj](https://github.com/Rishav-2589) - this is my first contributions 
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
+>>>>>>> upstream/main
 - [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [Ali Ozdas](https://github.com/ali0zdas) - Excited to make my first open source contribution!
 [ Manasvi ]git add Contributors.md - Happy first contribution
@@ -34,7 +39,6 @@ z54c6hf
 - [Shirel Marino](https://github.com/shirelmr)
 - [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
-- [Marcus Davis](https://github.com/MarcusDavis12) - Hello, World!
 - [AKM123HKM](https://github.com/AKM123HKM) - First contribution!
 - [Lekkso](https://github.com/Lekkso) - Hello from Georgia! ,
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
@@ -7876,7 +7880,7 @@ Harshit Bisht
 - [Sindhu](https://github.com/Sindhu0012)
 - [Simon](https://github.com/Simon-E-H)
 - [Joon] (https://github.com/joonalways)
-
+- [Marcus Davis](https://github.com/MarcusDavis12) - Hello, World!
 - [WilbertMarins](https://github.com/WilbertMarins) - My first step to open source contribution  :) Check my profile, let's connect.
 - [Alexander](https://github.com/Alexander1992a) - My first open-source contribution!
 - [Jishan](https://github.com/jishanws)
@@ -7916,6 +7920,7 @@ ASchirag
 - [ningyang] (https://github.com/2732258735wy-cell)
 - [BlueB] (https://github.com/blue42674-a11y) - Start of my Adventure !!!
 - [PalladionX](https://github.com) - add-itsnobly-name
+- [Mark Hollier](https://github.com/mhollier)
 
 <!-- c -->
 - [0xposa](https://github.com/0xposa)
@@ -7930,3 +7935,4 @@ ASchirag
 [Patrick Un] (https://github.com/patrickunp/first-contributions-fork)
 - [Anusha](https://github.com/codeNstruct)
 - [Taim](https://github.com/zreal1) - Building [ToolCart](https://toolscart.org) | My first open-source contribution!
+- [Priyanshu Ranjan](https://github.com/priyanshu0799)
