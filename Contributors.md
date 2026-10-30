@@ -1,9 +1,5 @@
 - [Dollcy Jain](https://github.com/Dollcy-Jain) - This is my first contribution!!
 - [Anastasia Ritus](https://github.com/kartoxaxa) - My first pull request
-<<<<<<< HEAD
-https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
-- [Apalak Patra](https://github.com/apk-ronnie) - my first open source contribution
-=======
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
@@ -20,7 +16,6 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Rishav Raj](https://github.com/Rishav-2589) - this is my first contributions 
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
->>>>>>> upstream/main
 - [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [Ali Ozdas](https://github.com/ali0zdas) - Excited to make my first open source contribution!
 [ Manasvi ]git add Contributors.md - Happy first contribution
@@ -47,6 +42,7 @@ z54c6hf
 - [Joyal Gigi] - First step to the world of Open Source!
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
+- [Sandip](https://github.com/SandipGiri-Developer) - Hello World!
 - [Taku] - This is my first open source contribution.
 - [Yeonjune0408] (https://github.com/Yeonjune0408) - my first open-source contribution! I'm a budding engineer!
 - [dapraws](https://github.com/dapraws)
