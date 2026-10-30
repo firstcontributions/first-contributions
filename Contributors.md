@@ -37,7 +37,7 @@ z54c6hf
 - [nxliu] - This is my first contribution.
 - [Gayathri]-This is my first contibution.
 - [Yashik Bandhu](https://github.com/Yashik02) - Yashik was here. this is my first contribution!
-- [Niqa Nabila](https://github.com/niqanabila16) - Niqa was here, looking forward to contribute more to the community!!!
+- [Niqa Nabila](https://github.com/niqanabila16) - Niqa Nabila was here, looking forward to contribute more to the community!!!
 - [Yashank Sogra] - Wassup github gng !!!! Finally here !!
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
