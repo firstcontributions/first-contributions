@@ -7920,6 +7920,7 @@ ASchirag
 - [ningyang] (https://github.com/2732258735wy-cell)
 - [BlueB] (https://github.com/blue42674-a11y) - Start of my Adventure !!!
 - [PalladionX](https://github.com) - add-itsnobly-name
+- [Mark Hollier](https://github.com/mhollier)
 
 <!-- c -->
 - [0xposa](https://github.com/0xposa)
