@@ -387,6 +387,7 @@ Arise
 - [HinanawiTenshi](https//github.com/HinanawiTenshi104/) - Even celestial wants to make open source contribution~
 - [Komal](https://github.com/komal1101-ngs) My Trail
 -[Siva-Sandeep](https://github.com/lighteningeditz-bot) My first contribution
+- [Nishant-Kumar](https://github.com/kumarnis89) My first contribution
 
 -[ShanmukhSai-tech09](https://github.com/ShanmukhSai-tech09) My first github Contribution
 
