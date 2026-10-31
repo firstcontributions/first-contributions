@@ -7437,6 +7437,7 @@ Jd
 - [abdrehmancs](https://github.com/abdrehmancs) - happy to make my first open source contribution
 - [cybertingzhen](https://github.com/cybertingzhen) - My first open-source contribution!
 - [raghvendrasingh-01](https://github.com/raghvendrasingh-01) - My first open source contribution
+- [Taxperia](https://github.com/Taxperia) - Passionate about web development, open source, and building creative projects. Happy to contribute!
 - [zakkelya](https://github.com/zakkelya) - Hello World!
 - [charlieleexz](https://github.com/charlieleexz)
 - [Amano](https://github.com/Amano-L) - Hello World!
