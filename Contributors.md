@@ -27,6 +27,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 >>>>>>> upstream/main
 - [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [Ali Ozdas](https://github.com/ali0zdas) - Excited to make my first open source contribution!
+- [hma](https://github.com/zeethee2906-droid) - Excited to make my first open source contribution!
 [ Manasvi ]git add Contributors.md - Happy first contribution
 - [Prashhh](https://github.com/prash22bit) - peru gurthupettuko, tarvatha matladadaam
 - [AbrshS (Abraham Shiferaw) 🇪🇹](https://github.com/AbrshS)
