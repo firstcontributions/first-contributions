@@ -18,6 +18,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
 - [sudip karki] (https://github.com/Sudipk007)
 - Pratham Tiwari - my first contribution
+- [Andrés](https://github.com/andresbama7) - Aprendiendo a contribuir con Git y GitHub.
 - [LFD](https://github.com/Takatsuki-nana) - This is my first open source contribution!
 - [Panta](https://github.com/illogicallov3) - This is my first open source contribution!
 - [Sohail](https://github.com/sohailsq) - This is my first open source contribution!
