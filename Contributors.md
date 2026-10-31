@@ -616,6 +616,7 @@ Migeen Magar - let'sss gooooooo
 - [Raghav Sathe](https://github.com/Raghav9git) - my first contribution!!!
 - [YuehuaMoon]
 - [xomnibot](https://github.com/xomnibot) - Hello from xomnibot! My first open source contribution.
+- [Akshay Kumar](https://github.com/AkshayKumar2211/) - This is my first open source contribution and i love doing if even if it is just a simple commit .
 - [Sushant Shrestha](https://github.com/Sushantstha2025) - Hello. This is my first contribution made. 
 - [Chani] (https://github.com/chanikr7) - שלום! My first open source contribution!
 - [DenissonVoid](https://github.com/DenissonVoid).
