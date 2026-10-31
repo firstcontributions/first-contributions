@@ -3970,6 +3970,7 @@ andrewcodess
 - [Hritika](https://github.com/Hritikadas)
 - [Hritvika Chunduri](https://github.com/HritvikaC)
 - [HuginnDani](https://github.com/HuginnDani)
+- [cxc0603](https://github.com/cxc0603) - My first open source contribution!
 - [HxxllanX](https://github.com/hxxlLAN)
 - [Liudmila A](https://github.com/nysib)
 - [I Kanapathipillai](https://github.com/KI-5/)
