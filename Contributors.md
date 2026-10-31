@@ -292,6 +292,7 @@ piyush[Tanvi](https://github.com/tanvisingh20073004-star)
 - [Mayank](https://github.com/marskingdom9)
 - [Talha Ahmad](https://github.com/Professorlegit-66) "Software engineering student making my second open-source commit!"
 -[Akalp Mishra](https://github.com/akalp-mishra) "Making my first ever open source contribution, this repository is great!"
+- [Joe Ziadeh](https://github.com/joeshipssw) "1st contribution from me to an opensource project !"
 - [Fenthy Thula](https://github.com/afr0d8ta)
 - [@shlokgit-04](https://github.com/shlokgit-04)
 -[Vamsi](https://github.com/kambapuvamsi1845-cloud/)
