@@ -86,7 +86,7 @@ Aditya Oraon
 - [Joanathan Packia Singh](https://github.com/JoanathanPS)
 - [Sai Vidith] - https://github.com/sai-vidith - "Welcome to contributions"
 - [Tirth Gaikwad] - https://github.com/tirthgaikwad - "I am very happy for my first contribution, and I am form INDIA."
-
+- [Nandhitha A] -[https://github.com/nandhithaanand] - My first PR
 - [Aayush Kumar Singh] - New lines to be added
 - [sayan kabiraj] - this is first contribution
 - [ziyadin](https://github.com/Ziyadin23) - "First contribution"
