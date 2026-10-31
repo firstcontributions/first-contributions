@@ -1905,6 +1905,7 @@ Suraj Kumar i am not gonna provide any link
 - [Tanisha](http://github.com/Tanisha800)
 - [Devaang Rastogi BT2024031] (https://github.com/Devaang-Rastogi) 
 [P Revanth Kumar](https://github.com/REVANTH-KUMAR-PEDADA)
+- [Sayan Dey](https://github.com/sayan-1907) - My first step toward GSoC!
 - Aryan Sharma BT2024212
 - Shashank Peddi BT2024210
 - Penumarti Hanish BT2024190
