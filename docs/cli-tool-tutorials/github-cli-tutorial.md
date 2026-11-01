@@ -36,6 +36,14 @@ gh repo fork firstcontributions/first-contributions
 
 **Important: It will prompt you if you want to clone it as well, select the "yes" option**
 
+After cloning, move into the newly created repository directory before running Git commands:
+
+```bash
+cd first-contributions
+```
+
+The following commands must be run inside your cloned repository, otherwise Git will report `fatal: not a git repository`.
+
 # Create your branch
 
 We will do this step with git, so enter this command replacing the name with your name, for example:
