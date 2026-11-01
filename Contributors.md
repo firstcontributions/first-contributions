@@ -13,6 +13,7 @@ hnbmc2003
 - [Dollcy Jain](https://github.com/Dollcy-Jain) - This is my first contribution!!
 - [Dharshini K](https://github.com/dharshukv06-cmd) -This is my first contribution!!
 - [Totorooooooo](https://github.com/Totoroooooo)
+- [Aadil Khan](https://github.com/aadilkhan085529) - Excited to make my first open source contribution!
 -  [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
 -  [ShanonZ](https://github.com/shannon333best)
 - [Anurag Dubey](https://github.com/anuragdubey2004) - My open source journey begins now.
