@@ -58,6 +58,7 @@ z54c6hf
 - [Yashik Bandhu](https://github.com/Yashik02) - Yashik was here. this is my first contribution!
 - [Niqa Nabila](https://github.com/niqanabila16) - Niqa Nabila was here, looking forward to contribute more to the community!!!
 - [Yashank Sogra] - Wassup github gng !!!! Finally here !!
+- [Rjzmsqh](https://github.com/yangbb2288) - This is my first open source contribution!
 - [Joyal Gigi] - First step to the world of Open Source!
 - [ mayank ] - This is my first step of learning open source contribution
 - [Khushi] - This is my first open source contribution.
