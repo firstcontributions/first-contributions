@@ -716,6 +716,7 @@ John Doe 2026
 - [aungthuHein](https://github.com/aHein007) -keep going and stay focus and stay strong in you CS student life!
 - [studytcmc107-del](https://github.com) - My second commit
 - [avzuh](https://github.com/avzuh)
+- [CaioSavoldi](...) - Hello! This is my first open-source contribution!
 - [Owen Schroth](https://github.com/OSchroth) - Hi Github!
 - [Pathum Chinthaka](https://github.com/PathumChinthaka) - My first open-source contribution.
 - [Athith](https://github.com/Athith216)
