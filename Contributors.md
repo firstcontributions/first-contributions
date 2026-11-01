@@ -12,6 +12,7 @@
 - [Dharshini K](https://github.com/dharshukv06-cmd) -This is my first contribution!!
 - [Totorooooooo](https://github.com/Totoroooooo)
 -  [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
+-  [ShanonZ](https://github.com/shannon333best)
 - [Anurag Dubey](https://github.com/anuragdubey2004) - My open source journey begins now.
 - [Abhiram Kosuru](https://github.com/abhiram274) - Be kind, Curious, Explore.
 - [Anastasia Ritus](https://github.com/kartoxaxa) - My first pull request
