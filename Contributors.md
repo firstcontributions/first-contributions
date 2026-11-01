@@ -8021,3 +8021,4 @@ Kunal Khallar - Learning to contribute :)
 - [Rupraj Datta](https://github.com/29rdx) - Backend & Security Systems Engineer
 - [Saksham Sharma](https://github.com/SAKSHAM237)
 - [Tripti Gurung](https://github.com/Trip25) - Making my first open source contribution on 1st November 2026 and many more to come!
+- [Ahmed Ferchichi](https://github.com/AhmedFerchich-i) -My first open source contribution . interested in data software and ai .
