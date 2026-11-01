@@ -15,6 +15,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 -  [Harish Kumar](https://github.com/Harish1685) - my first step towards the world of open source
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
 - [Muhammad Auf](https://github.com/Mfauf) - My first PR
+- [Gustavo Fraga Apellaniz](https://github.com/GustavoApellaniz)
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
 -  [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE 
