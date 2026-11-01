@@ -7935,6 +7935,7 @@ MY FIRST CONTRIBUTION DG
 - [Sumith Kumar Gupta] (https://github.com/guptXbytes) - Hello everyone, Orewa Sumith!!
 ASchirag
 - [Kushal Arvind O](https://github.com/kushalarvindo) - Heyyyyy! :))
+Kunal Khallar - Learning to contribute :)
 - [Nabhanya](https://github.com/Nabhnyaaa) - Hello everyone!!
 - [Harixplorer](https://github.com/Harixplorer) - Hello everyone!! :)
 - [zero-invest](https://github.com/zero-invest)
