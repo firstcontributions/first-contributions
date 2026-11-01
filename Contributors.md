@@ -7982,4 +7982,4 @@ ASchirag
 
 - [Thibello Letseka](https://github.com/TLetseka)
 - [Ray Joshua](https://github.com/rayjoshuaa)
-- [Suneet Bhardwaj] (https://github.com/suneetbhardwaj-art)
+- [Suneet Bhardwaj](https://github.com/suneetbhardwaj-art).
