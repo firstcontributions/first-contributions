@@ -1,4 +1,4 @@
-- [Buddie Powell](https://github.com/BuddiePowell) - This is my very first contribution with open source!
+<img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />- [Buddie Powell](https://github.com/BuddiePowell) - This is my very first contribution with open source!
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
@@ -7987,3 +7987,4 @@ Kunal Khallar - Learning to contribute :)
 - [Thibello Letseka](https://github.com/TLetseka)
 - [Ray Joshua](https://github.com/rayjoshuaa)
 - [Suneet Bhardwaj](https://github.com/suneetbhardwaj-art).
+- [Diksha Patil](https://github.com/dikshapatil0403-hash).
