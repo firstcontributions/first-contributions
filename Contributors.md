@@ -35,6 +35,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Nandan](https://github.com/21Nandan) - my first contribuation to the amazing world of open source!
 - [Rishav Raj](https://github.com/Rishav-2589) - this is my first contributions 
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
+- [Seymur Shiriyev](https://github.com/Codymur) - First contribution from me!
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
 - [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [Ali Ozdas](https://github.com/ali0zdas) - Excited to make my first open source contribution!
