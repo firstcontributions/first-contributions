@@ -4,6 +4,7 @@
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
 - [Abu Saif Kabbo](https://github.com/saifkabbo) - This is my first open source contribution !!
 - [Dollcy Jain](https://github.com/Dollcy-Jain) - This is my first contribution!!
+- [Dharshini K](https://github.com/dharshukv06-cmd) -This is my first contribution!!
 - [Totorooooooo](https://github.com/Totoroooooo)
 -  [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
 - [Anurag Dubey](https://github.com/anuragdubey2004) - My open source journey begins now.
