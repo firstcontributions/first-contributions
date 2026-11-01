@@ -1,8 +1,9 @@
 
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
 
-<img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />- [Buddie Powell]
-(https://github.com/BuddiePowell) - This is my very first contribution with open source!
+<img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />
+-[Samanvay Kumar Tadakamalla](https://github.com/samanvay-kumar) - Just getting started. There's a lot to learn and even more to build.
+- [Buddie Powell](https://github.com/BuddiePowell) - This is my very first contribution with open source!
 - [Vishal Singh](https://github.com/vishalz0879-cell) - This is my first open source contribution!
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
