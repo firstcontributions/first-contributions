@@ -7,6 +7,7 @@
 - [Baljit Panda](https://github.com/olympus-mons26)
 - [Bairon Villar](https://github.com/baironvillar)
 - [Skyla Patterson](https://github.com/skylahp)"First contribution!"
+- [Ayush Upadhyay](https://github.com/acodein)
 - [Resshh](https://github.com/Resshh)
 - [Shlok Thakkar](https://github.com/Shlok-ctrl4444)
 - [Yuzu](https://github.com/YuzuLemonn)
