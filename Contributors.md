@@ -1,5 +1,5 @@
 - [Buddie Powell](https://github.com/BuddiePowell) - This is my very first contribution with open source!
-- [Gowry P P](https://github.com/Gowry11/first-contributions)  This is my first open source contirbution.
+- [Gowry P P](https://github.com/Gowry11)  This is my first open source contirbution.
 -[Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
