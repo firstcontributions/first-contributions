@@ -14,7 +14,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Apalak Patra](https://github.com/apk-ronnie) - my first open source contribution
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 -  [Harish Kumar](https://github.com/Harish1685) - my first step towards the world of open source
-- [Gowri p](https://github.com/Gowry11) -  my first step towards the world of open source
+- [Gowri](https://github.com/Gowry11) -  my first step towards the world of open source
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
 - [Muhammad Auf](https://github.com/Mfauf) - My first PR
 - [Gustavo Fraga Apellaniz](https://github.com/GustavoApellaniz)
