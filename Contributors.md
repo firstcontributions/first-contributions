@@ -4,7 +4,8 @@
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
 - [Abu Saif Kabbo](https://github.com/saifkabbo) - This is my first open source contribution !!
 - [Dollcy Jain](https://github.com/Dollcy-Jain) - This is my first contribution!!
-- [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
+- [Totorooooooo](https://github.com/Totoroooooo)
+-  [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
 - [Abhiram Kosuru](https://github.com/abhiram274) - Be kind, Curious, Explore.
 - [Anastasia Ritus](https://github.com/kartoxaxa) - My first pull request
 https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
