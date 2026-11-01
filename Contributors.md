@@ -7045,7 +7045,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Bryan Ortega] (https://github.com/SantiOrtega125)
 - [Kuno] (https://github.com/Culneau)
 - [Kylian-supinfo] (firstcontributions/first-contributions:main)
-HEAD
 - [Vaishnavi Wadhale] (https://github.com/VaishnaviWadhale)
 
 - [Vishwanath] ()
