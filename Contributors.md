@@ -13,6 +13,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - David M - I never dreamed one day I'd be an open-source contributor, but here I am killing it!
 - [Rishit Mishra](https://github.com/rishit314) - This is my first contribution!
 - [Nandan](https://github.com/21Nandan) - my first contribuation to the amazing world of open source!
+- [Chandhini S](https://github.com/chandhinichandhu0123-arch) - This is my first open source contribution!
 - [Test_dev]
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
