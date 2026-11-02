@@ -1,15 +1,36 @@
-# Undo local commits 
+# Undo local commits
 
-To undo a local commit, all you need to do is
+## Undo the latest local commit while keeping your changes
+
+If you have not pushed your latest commit and want to redo it, run:
+
+```sh
+git reset --soft HEAD~1
 ```
+
+This moves the current branch back one commit and keeps your changes staged, ready to edit or commit again. `HEAD~1` means the parent of the current commit, so this command requires at least two commits on the branch.
+
+If you also want to unstage the changes, use `git reset --mixed HEAD~1` instead. Your files on disk remain unchanged with either option.
+
+If you have already pushed the commit to a shared branch, see [Reverting a commit](reverting-a-commit.md) to undo it with a new commit without rewriting shared history.
+
+## Unstage changes without undoing a commit
+
+To unstage all staged changes, run:
+
+```sh
 git reset
 ```
-This command will reset your staging area to your most recent commit, but the changes you made to your working directory will not change. So, you can still re-commit again what you've changed.
-Or, if you only want to remove one file from your previous commit. Then, you can do the command below
+
+This resets your staging area to your most recent commit without moving the branch or changing your files on disk. It does not undo a commit.
+
+To unstage only one file, run the following command, replacing `<file>` with its path:
+
+```sh
+git reset -- <file>
 ```
-git reset <file>
-```
-The command will remove only the specified file from the staging area, but changes made on the file will still remain.
+
+This unstages changes to the specified file while keeping those changes on disk. It does not remove the file from an existing commit.
 
 Example of ```git reset``` usage
 ```
@@ -25,6 +46,8 @@ $ git commit -m "Changed index.php"
 $ git add tutorial.php
 $ git commit -m "Changed tutorial.php"
 ```
+
+## Discard uncommitted changes to tracked files
 
 Let's say if you have messed up your local repository and you just want to reset it to your last commit.
 Then, you can run the command below.
