@@ -1955,6 +1955,7 @@ Suraj Kumar i am not gonna provide any link
 - [Jacob-Lee] (https://github.com/jacoblee216)
 - [Tarek-Rahman] (https://github.com/rahman-tarek)
 - [Jody Haynes]
+- [christopher-strings-justine](https://github.com/christopher-strings-justine) - My first open-source contribution! Looking forward for more.
 - yuvraj
 - Rafael Morales Sánchez
 - Dhanush BT2024169
