@@ -127,4 +127,4 @@ git checkout -b <όνομα-κλαδιού>
 
 ## Οδηγοί χρήσης άλλων εργαλείων
 
-[Πίσω στην κύρια σελίδα](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.gr.md#%CE%B5%CE%BA%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CF%8C-%CF%85%CE%BB%CE%B9%CE%BA%CF%8C-%CF%87%CF%81%CE%AE%CF%83%CE%B7%CF%82-%CE%AC%CE%BB%CE%BB%CF%89%CE%BD-%CE%B5%CF%81%CE%B3%CE%B1%CE%BB%CE%B5%CE%AF%CF%89%CE%BD)
+[Πίσω στην κύρια σελίδα](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.gr.md#%CE%B5%CE%BA%CF%80%CE%B1%CE%B9%CE%B4%CE%B5%CF%85%CF%84%CE%B9%CE%BA%CF%8C-%CF%85%CE%BB%CE%B9%CE%BA%CF%8C-%CF%87%CF%81%CE%AE%CF%83%CE%B7%CF%82-%CE%AC%CE%BB%CE%BB%CF%89%CE%BD-%CE%B5%CF%81%CE%B3%CE%B1%CE%BB%CE%B5%CE%AF%CF%89%CE%BD)

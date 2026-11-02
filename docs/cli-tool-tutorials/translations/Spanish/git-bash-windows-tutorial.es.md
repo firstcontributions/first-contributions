@@ -134,4 +134,4 @@ Celebra tu contribución compartiéndola con tus amigos o en redes. También pue
 
 ## Guías para otras herramientas
 
-[Volver a la página principal](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.es.md#material-de-apoyo-para-otras-herramientas)
+[Volver a la página principal](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.es.md#material-de-apoyo-para-otras-herramientas)
