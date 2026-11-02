@@ -127,6 +127,18 @@ git clone git@github.com:this-is-you/first-contributions.git
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
+## Quick Git Workflow
+
+The basic workflow for contributing to this project is:
+
+1. Fork the repository on GitHub.
+2. Clone your fork to your computer.
+3. Create a new branch.
+4. Make your changes.
+5. Commit your changes.
+6. Push the branch to GitHub.
+7. Create a Pull Request for review.
+
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
