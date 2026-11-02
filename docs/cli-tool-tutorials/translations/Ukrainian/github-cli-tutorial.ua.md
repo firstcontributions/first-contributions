@@ -94,7 +94,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 Тепер ви можете розпочати робити ваш внесок до інших проектів. Ми склали список проектів з легкими проблемами, з яких ви можете почати. [Посилання до списку проектів](https://firstcontributions.github.io/#project-list).
 
-### [Додатковий матеріал](https://github.com/firstcontributions/first-contributions/blob/main/additional-material/git_workflow_scenarios/additional-material.md)
+### [Додатковий матеріал](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Навчальні посібники з використанням інших інструментів
 

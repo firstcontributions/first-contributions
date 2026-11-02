@@ -123,7 +123,7 @@ git checkout -b <όνομα-κλαδιού>
 Γιορτάστε τη συνεισφορά σας και μοιραστείτε τη με τους φίλους και τους ακόλουθούς σας, πηγαίνοντας στην [ιστοσελίδα εφαρμογής](https://firstcontributions.github.io#social-share).
 
 
-### [Πρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Πρόσθετο υλικό](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Οδηγοί χρήσης άλλων εργαλείων
 

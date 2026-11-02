@@ -5,7 +5,7 @@ Yɛfa no sɛ woakenkan mfitiaseɛ nkyerɛkyerɛ no dedaw ansa na woaba ha.
 Saa krataafa yi bɛma wo nsɛm a ɛhia sɛ wobɛsesa commit wɔ akyirikyiri akoraeɛ:> Fa yei siesie commit a woayɛ.
 
 
-### [Git a Wɔrehyehyɛ](configuring-git.md)
+### [Git a Wɔrehyehyɛ](../../git_workflow_scenarios/configuring-git.md)
 Saa krataafa yi bɛma wo nsɛm a wuhia na wode asiesie ɔdefoɔ ho nsɛm ne akwan foforɔ a wobɛfa so wɔ git mu:> Fa yei di dwuma ma wo git nhyehyɛɛ no ​​so tumi yie.
 
 ### [Wo Fork a Wobɛma Ne Adekorabea no Ahyia a Ɛsono](forking-a-repository-twi.md)

@@ -120,7 +120,7 @@ GitHub-ல உங்கள் ரெப்போவில் சென்றா�
 
 எதையாவது உதவி வேண்டுமெனில் அல்லது கேள்விகள் இருந்தால் எங்கள் Slack குழுவில் சேருங்கள். [Slack குழுவில் சேரவும்](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [மேலும் படிக்க](../additional-material/git_workflow_scenarios/additional-material.md)
+### [மேலும் படிக்க](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## வேறு கருவிகள் பயன்படுத்தி உள்ள பயிற்சி பாடங்கள்
 

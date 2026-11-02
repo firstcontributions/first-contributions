@@ -108,7 +108,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 હવે તમને અન્ય પ્રોજેક્ટ્સમાં યોગદાન આપવાનું શરુ કરવું જોઈએ! અમે સરળ ઈશ્યૂઝ ધરાવતા પ્રોજેક્ટ્સની યાદી બનાવેલ છે, જેને તમે શરૂ કરી શકો. [પ્રોજેક્ટ્સની યાદી જુઓ](https://firstcontributions.github.io/#project-list).
 
-### [વધુ સામગ્રી](additional-material/git_workflow_scenarios/additional-material.md)
+### [વધુ સામગ્રી](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## અન્ય સાધનો સાથે ટ્યુટોરિયલ્સ
 

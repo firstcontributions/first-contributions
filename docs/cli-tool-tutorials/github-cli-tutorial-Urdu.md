@@ -97,7 +97,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 اب آئیے آپ کو دوسرے پروجیکٹس میں حصہ ڈالنا شروع کرتے ہیں۔ ہم نے آسان مسائل کے ساتھ پروجیکٹس کی ایک فہرست مرتب کی ہے جس پر آپ شروع کر سکتے ہیں۔ اس کو دیکھو [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-### [اضافی مواد](additional-material/git_workflow_scenarios/additional-material.md)
+### [اضافی مواد](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## دوسرے ٹولز کا استعمال کرتے ہوئے سبق
 
