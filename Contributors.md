@@ -74,6 +74,7 @@ z54c6hf
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [hardik] - This is my first contribution.
 - [fekojewan](https://github.com/kennedys0). - First step to the world of Open Source!
+- [Fred Besiktas](https://github.com/Fred1903) - My first open source contribution !! #Forza Carsi  
 - [Yanghwan Lim](https://github.com/cantor516) -My first source contribution!! 
 - [nxliu] - This is my first contribution.
 - [Gayathri]-This is my first contibution.
