@@ -226,6 +226,44 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## After Your Pull Request Is Merged
+
+Congratulations! Once your pull request has been merged, you can clean up your local Git branches and prepare for your next contribution.
+
+### 1. Update your local main branch
+
+Switch to your main branch and pull the latest changes from the original repository:
+
+```bash
+git switch main
+git pull upstream main
+```
+
+### 2. Delete your local feature branch
+
+After switching to `main`, delete the feature branch you used for your contribution:
+
+```bash
+git branch -d <branch-name>
+```
+
+Replace `<branch-name>` with your actual feature branch name. If Git says the branch is not fully merged, verify that your pull request was merged. If it was merged using a squash merge, you may need `git branch -D <branch-name>`. Use this command only when you are sure you no longer need the branch's changes.
+
+### 3. Clean up remote references
+
+Fetch the latest updates and remove stale remote-tracking references:
+
+```bash
+git fetch -p
+```
+If your feature branch still exists on your fork, you can delete it after confirming that your pull request has been merged and you no longer need it:
+
+```bash
+git push origin --delete <branch-name>
+```
+
+You're all set! Your local repository is ready for your next contribution.
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
