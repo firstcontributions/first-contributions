@@ -29,14 +29,14 @@ jobs:
             const isOnlyContributors = filenames.length === 1 && filenames[0] === 'Contributors.md';
 
             const { additions, deletions } = context.payload.pull_request;
-            const isLinesChangedUnderThreshod = (additions < 5 && deletions < 4);
+            const isLinesChangedUnderThreshold = (additions < 5 && deletions < 4);
 
-            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshod);
+            core.setOutput('only_contributors', isOnlyContributors && isLinesChangedUnderThreshold);
             core.setOutput('filenames', filenames.join(', '));
 
-            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshod)
+            const moreLineChanged = (isOnlyContributors && !isLinesChangedUnderThreshold)
 
-            // set true if multiple changed if only isOnlyContributors 
+            // set true if too many lines changed when only Contributors.md was touched
             core.setOutput('isMultipleLineChanged', moreLineChanged)
 
             // is multiple file changed
@@ -148,9 +148,6 @@ jobs:
               // Handle specific error cases based on status code
               if (error.status === 405 && error.response.data.message === "Pull Request is not mergeable") {
 
-              //  errMsg = `Hello @${context.payload.pull_request.user.login}, thank you for your pull request. We appreciate your contribution to the project. However, before we can merge it, there is a merge conflict with the target branch.  \n\n No worries! You can follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) on resolving merge conflicts. 
-              //  Once you've fixed the conflicts and pushed your changes, the repository will check the changes you made and proceed with the merge if everything looks good.  \n\n If you have any questions or need further assistance, don't hesitate to reach out. We're here to help!`
-              
               errMsg =  `### 🛠️ Merge Conflict\nHi @${username}, another contributor edited the file at the same time! Follow [this guide](https://github.com/firstcontributions/first-contributions/blob/main/docs/additional-material/git_workflow_scenarios/resolving-merge-conflicts.md) to resolve the conflict.`
 
               } else if (error.status === 409) {
@@ -180,7 +177,7 @@ jobs:
         if: steps.is_only_contributors_file_changed.outputs.only_contributors == 'false'
         uses: actions/github-script@v8
         env:
-          # keep fileames into the enviroment better prevent from any injection
+          # keep filenames in the environment to better prevent any injection
           RAW_FILES: ${{ steps.is_only_contributors_file_changed.outputs.filenames }}
           IS_MULTIPLES_LINES_CHANGES: ${{ steps.is_only_contributors_file_changed.outputs.isMultipleLineChanged}}
           IS_MULTIPLES_FILES_CHANGES: ${{steps.is_only_contributors_file_changed.outputs.isMultipleFilesChanged}}
@@ -196,22 +193,14 @@ jobs:
             let labels = [];
             let isReviewRequired = false;
 
+            if (isMultipleFilesChanged) {
 
-            if(isMultipleFilesChanged){
-              // Get files from env (safe from injection)
-              const filesString = process.env.RAW_FILES || "";
+              const rawFiles = process.env.RAW_FILES || '';
+              body = `### 👋 Hi @${username}! \n\nThanks for your pull request! It looks like it touches files other than \`Contributors.md\`:\n\n\`${rawFiles}\`\n\nThis workflow only auto-merges pull requests that exclusively modify \`Contributors.md\`. Please [follow the tutorial](https://github.com/firstcontributions/first-contributions?tab=readme-ov-file#make-necessary-changes-and-commit-those-changes) and update only that file, or a maintainer will review your changes manually.`;
+              labels = ['needs review'];
+              isReviewRequired = true;
 
-              // Format file list
-              const fileList = filesString
-                .split(', ')
-                .filter(f => f.trim() !== "")
-                .map(file => `- ${file}`)
-                .join('\n');
-
-              body = `### 🌟 Hello @${username}! \n\nThank you for this contribution. Since this PR modifies files beyond the tutorial (\`Contributors.md\`), I've flagged this for a **manual review** by our maintainers. \n\nThe following files were changed:\n\n${fileList} \n\nWe appreciate you helping improve the project!`;
-              labels = ['👩‍💻 waiting for review'];
-            
-            } else if (!isMultipleFilesChanged && isMultipleLinesChanged){
+            } else if (isMultipleLinesChanged) {
               
               const totalChanges = pr.additions + pr.deletions;
               let diffBlock = "";
@@ -232,12 +221,11 @@ jobs:
                 isReviewRequired = true;
             }
 
-
-            // get the existing comments.
+            // get the existing comments on the current PR (use pr.number, not context.payload.number, which is undefined on pull_request_target events)
             const {data: comments} = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.payload.number,
+              issue_number: pr.number,
             })
 
             // find any comment already made by the bot.                                                                                                    
