@@ -1,0 +1,123 @@
+name: PR Audit Workflow (pr-checker)
+run-name: "PR Audit #${{ github.event.pull_request.number || inputs.pr_number }} by @${{ github.actor }}"
+
+# ============================================================
+# 两种触发方式：
+#   1) pull_request_target：别人向这个仓库提 PR 时自动跑（含 Fork 提的 PR）
+#   2) workflow_dispatch   ：Action 页面手动跑，方便对历史 PR 复核
+# ============================================================
+on:
+  pull_request_target:
+    # 只在修改 Contributors.md 时触发（first-contributions 的经典场景）
+    # 如果你是 pr-checker 仓库自己调试，可以把 paths 这段注释掉让任何 PR 都跑
+    paths:
+      - "Contributors.md"
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - edited
+  workflow_dispatch:
+    inputs:
+      repo:
+        description: "目标仓库 (owner/repo)。默认当前仓库。"
+        required: false
+        default: ""
+      pr_number:
+        description: "必填：要审核的 PR 编号（整数）。"
+        required: true
+      expected_base:
+        description: "可选：显式期望的 base 仓库 (owner/repo)，留空自动推断。"
+        required: false
+        default: ""
+      post_comment:
+        description: "是否在 PR 下发审核报告评论？"
+        type: choice
+        options: ["true", "false"]
+        default: "true"
+      fail_on_failures:
+        description: "检查失败是否让 workflow job 标红失败？"
+        type: choice
+        options: ["true", "false"]
+        default: "true"
+
+# ============================================================
+# pull_request_target 事件下，只读的 checkout / 写 PR 评论 + 写 status 就够了。
+# 把权限收紧到最小，这也是 first-contributions 维护者最关心的一点。
+# ============================================================
+permissions:
+  contents: read
+  pull-requests: write
+  statuses: write
+  checks: write
+
+concurrency:
+  # 同一个 PR（workflow_dispatch 用 pr_number，pull_request_target 用 pull_request.number）
+  # 同时只允许一个 audit 在跑；新的推送会 cancel 旧的
+  group: "pr-audit-${{ github.event.pull_request.number || inputs.pr_number }}"
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    name: "Audit PR #${{ github.event.pull_request.number || inputs.pr_number }}"
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      # -----------------------------------------------------
+      # 用我们在仓库根定义的 composite action（./action.yml）
+      # —— 一行 uses 搞定 C1~C6 + 自动评论 + 失败标红
+      #
+      # 对外集成时 first-contributions 维护者只要写：
+      #   uses: PlayFakeGame/pr-checker@v1
+      #   with:
+      #     github_token: ${{ github.token }}
+      #     expected_base: firstcontributions/first-contributions
+      # 即可。
+      # -----------------------------------------------------
+      - name: Run pr-checker composite action
+        id: prchecker
+        uses: ./
+        with:
+          repo:               "${{ inputs.repo || github.repository }}"
+          pr_number:          "${{ github.event.pull_request.number || inputs.pr_number }}"
+          expected_base:      "${{ inputs.expected_base || '' }}"
+          github_token:       "${{ secrets.GITHUB_TOKEN }}"
+          post_comment:       "${{ inputs.post_comment || 'true' }}"
+          fail_on_failures:   "${{ inputs.fail_on_failures || 'true' }}"
+          python_version:     "3.12"
+
+      # -----------------------------------------------------
+      # 把 composite 的 outputs 打到 workflow summary，
+      # 即使不进 PR 评论区也能在 workflow 页面一眼看到结果
+      # -----------------------------------------------------
+      - name: Write job summary
+        if: always()
+        shell: bash
+        env:
+          REPORT_JSON: "${{ steps.prchecker.outputs.report_json }}"
+          ALL_PASSED:  "${{ steps.prchecker.outputs.all_passed }}"
+          PASSED:      "${{ steps.prchecker.outputs.passed }}"
+          FAILED:      "${{ steps.prchecker.outputs.failed }}"
+          REPO:        "${{ inputs.repo || github.repository }}"
+          PR_NUM:      "${{ github.event.pull_request.number || inputs.pr_number }}"
+        run: |
+          set -euo pipefail
+          {
+            echo "### 🔍 pr-checker 审核摘要"
+            echo ""
+            echo "- PR: [$REPO#$PR_NUM](https://github.com/$REPO/pull/$PR_NUM)"
+            echo "- 通过: **$PASSED** 项"
+            echo "- 失败: **$FAILED** 项"
+            echo "- 全通过: **$ALL_PASSED**"
+            echo ""
+            if [ -n "$REPORT_JSON" ] && [ -f "$GITHUB_WORKSPACE/$REPORT_JSON" ]; then
+              echo "<details><summary>📄 完整 JSON 报告</summary>"
+              echo ""
+              echo '```json'
+              jq -C . "$GITHUB_WORKSPACE/$REPORT_JSON" 2>/dev/null || cat "$GITHUB_WORKSPACE/$REPORT_JSON"
+              echo '```'
+              echo ""
+              echo "</details>"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
