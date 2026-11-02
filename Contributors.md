@@ -99,6 +99,7 @@ z54c6hf
 - [Yaksharth](https://github.com/yaksharth) - This is my first step in learning open source.
 - [kush] - this is my first contribution
 -[KOUHSIK](https://github.com/Koushik9973)- This is my first contrbution. Best of luck for myself and my future endeavours.
+-[SCHNEV THOMPSO](https://github.com/Schnev-dev) - This is my first contribution to an open-source project.
 
 Aditya Oraon
 
