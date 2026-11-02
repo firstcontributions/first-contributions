@@ -124,6 +124,7 @@ Aditya Oraon
 - [Nandhitha A] -[https://github.com/nandhithaanand] - My first PR
 - [Flexxy-07] - [https://github.com/flexxy-07] - First Contribution to OS.
 - [Aayush Kumar Singh] - New lines to be added
+- [Alex Cochrane] (https://github.com/shell0shock) - "first contribution"
 - [sayan kabiraj] - this is first contribution
 - [ziyadin](https://github.com/Ziyadin23) - "First contribution"
 - [Kevin](https://github.com/kew089) - "First contribution"
