@@ -12,7 +12,7 @@
 #### *जर आपल्याला कमांड लाईन (CLI) सोयीस्कर वाटत नसेल तर [GUI टूल्स वापरण्यासंदर्भात ट्यूटोरियल येथे आहेत.](#इतर-साधने-वापरण्याबाबतीत-ट्युटोरियल)*
 
 
-[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)
+[<img src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](README.en-pirate.md)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="ही रेपॉझिटरी फोर्क करा" />
 
