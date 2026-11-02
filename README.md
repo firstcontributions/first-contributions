@@ -249,3 +249,4 @@ This repository was used to demonstrate
 the GitHub Fork and Pull Request workflow.
 
 Contributor: Hariny A P
+This experiment demonstrates collaborative software development using GitHub.
