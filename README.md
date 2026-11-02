@@ -92,6 +92,18 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
+### Quick-Start Checklist
+
+Follow this checklist to track your progress:
+
+- [ ] **Fork** this repository (creates your own copy)
+- [ ] **Clone** your fork to your local machine
+- [ ] **Create a new branch** for your changes
+- [ ] **Edit** `Contributors.md` to add your name
+- [ ] **Commit** your changes with a descriptive message
+- [ ] **Push** your branch to your GitHub fork
+- [ ] **Open a Pull Request** to submit your changes
+
 _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
