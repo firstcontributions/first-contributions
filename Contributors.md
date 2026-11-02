@@ -8025,3 +8025,4 @@ Kunal Khallar - Learning to contribute :)
 - [Tripti Gurung](https://github.com/Trip25) - Making my first open source contribution on 1st November 2026 and many more to come!
 - [Ahmed Ferchichi](https://github.com/AhmedFerchich-i) -My first open source contribution . interested in data software and ai .
 - [Mikhail Baimanov](https://github.com/mikbaiman) - University of Alicante CS student. Single and 6'1 btw.
+- [Sai Siddarth](https://github.com/SaiSiddarth01)
