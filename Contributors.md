@@ -8034,3 +8034,4 @@ Kunal Khallar - Learning to contribute :)
 - [Mikhail Baimanov](https://github.com/mikbaiman) - University of Alicante CS student. Single and 6'1 btw.
 - [Sai Siddarth](https://github.com/SaiSiddarth01)
 -[Nethra Shree](https://github.com/nethrashree-code) - this is my first open source contribution!
+- [MrBeast2025](https://github.com/MrBeast2025) - My first open source contribution!
