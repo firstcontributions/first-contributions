@@ -57,6 +57,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [AbrshS (Abraham Shiferaw) 🇪🇹](https://github.com/AbrshS)
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 z54c6hf
+- [szakky](https://github.com/szakky) - My first open source contribution.
 - [Kamelio0815](https://github.com/kamelio0815) - my first contribution
 - [Itsamam](https://github.com/itsamam) - This is my first open source contribution!
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
