@@ -1,6 +1,8 @@
 # Things a non Programmer can do
 ## Start listening
 
+hello world 
+
 Everything in open source involves other people.
 You're looking to join a team, and that means understanding the community and how it works.
 Walking into a project and saying "Hi, here's what I think this project should be doing" is usually not taken as a good thing.
