@@ -8052,3 +8052,4 @@ Kunal Khallar - Learning to contribute :)
 - my name is xxw
 - [Kimani](https://github.com/kim-kimani) - my first open source contribution!
 - [S.Shrena Sam](https://github.com/shrena9933-oss)
+- [Manav Saxena](https://github.com/manavs-codes) - Learning and contributing to open source!
