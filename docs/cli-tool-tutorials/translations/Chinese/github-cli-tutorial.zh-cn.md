@@ -102,7 +102,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 现在你可以开始为其他项目做贡献了。我们收集了一些适合入门的项目，你可以在[the list of projects in the web app](https://firstcontributions.github.io/#project-list)上查看。
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+### [Additional material](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 使用其他工具的教程
 

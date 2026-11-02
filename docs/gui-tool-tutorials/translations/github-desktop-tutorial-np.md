@@ -16,7 +16,7 @@ We promise you, it will be fun.
 
 यदि तपाइँसँग तपाइँको कम्प्युटरमा GitHub Desktop छैन भने, [यहाँ बाट install गर्नुहोस् ](https://desktop.github.com/).
 
-यदि तपाइँ 1.0  भन्दा पहिले GitHub desktop को संस्करण(version) प्रयोग गर्दै हुनुहुन्छ भने, [यो tutorial हेर्नुहोस्](github-desktop-old-version-tutorial.md).
+यदि तपाइँ 1.0  भन्दा पहिले GitHub desktop को संस्करण(version) प्रयोग गर्दै हुनुहुन्छ भने, [यो tutorial हेर्नुहोस्](../github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -114,7 +114,7 @@ top right भएको `Publish` button मा क्लिक गर्नु�
 
 अब तपाईले अन्य प्रोजेक्टहरूमा योगदान दिन सुरु गर्नुहोस्। हामीले तपाईंले गर्न सक्नुहुने सजिलो समस्याहरू(issues)को साथमा प्रोजेक्टहरूको सूची संकलन गरेका छौ हेर्नुहोस् ।. [list of projects in the web app](https://firstcontributions.github.io/#project-list)।
 
-### [थप सामग्री](../additional-material/git_workflow_scenarios/additional-material.md)
+### [थप सामग्री](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## अन्य उपकरणहरू प्रयोग गर्ने tutorial हरु
 

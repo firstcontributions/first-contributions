@@ -108,7 +108,7 @@ GitHub 会记录你的仓库和你 fork 的源仓库之间的关系。你可以�
 
 你可以前往[网页应用](https://firstcontributions.github.io#social-share)庆祝你的贡献，并与你的朋友和关注者分享。
 
-### [附加材料](../additional-material/git_workflow_scenarios/additional-material.md)
+### [附加材料](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 使用其他工具的教程
 

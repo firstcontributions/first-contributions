@@ -28,4 +28,4 @@ git push origin --delete <isminizi-ekleyin>
 Artık dallarınızı nasıl toparlayacağınızı biliyorsunuz.
 Zamanla, kamuya açık arşivime birçok komisyon eklenecek. Hem yerel makinenizin ana dalları hem de GitHub çatalınız güncelliğini yitirecektir. Dolayısıyla, depolarınızı benimkilerle senkronize tutmak için şu adımları izleyin.
 
-#### [Çatalınızı bu depoyla senkronize tutma](keeping-your-fork-synced-with-this-repository.md)
+#### [Çatalınızı bu depoyla senkronize tutma](keeping-your-fork-synced-with-this-repository.tr.md)

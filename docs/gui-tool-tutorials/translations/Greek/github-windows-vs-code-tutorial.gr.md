@@ -107,7 +107,7 @@
 Γιορτάστε τη συνεισφορά σας και μοιραστείτε την με τους φίλους και τους ακόλουθούς σας πηγαίνοντας στη [web εφαρμογή](https://firstcontributions.github.io#social-share).
 
 
-### [Επιπλέον υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Επιπλέον υλικό](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Οδηγοί χρήσης με άλλα εργαλεία
 [Επιστροφή στην κύρια σελίδα](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)

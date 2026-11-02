@@ -130,8 +130,8 @@ Pronto tus cambios serán revisados e integrados al repositorio principal. Recib
 Celebra tu contribución compartiéndola con tus amigos o en redes. También puedes unirte al equipo en Slack para resolver dudas:  
 👉 [Únete al Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-### [Material adicional](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Material adicional](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Guías para otras herramientas
 
-[Volver a la página principal](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.es.md#material-de-apoyo-para-otras-herramientas)
+[Volver a la página principal](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.es.md#material-de-apoyo-para-otras-herramientas)

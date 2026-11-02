@@ -112,7 +112,7 @@ GitHub.com را در پنل سمت راست انتخاب کنید. زیر نام
 
 مشارکت خود را جشن بگیرید و با رفتن به [وب اپلیکیشن](https://firstcontributions.github.io/#social-share) آن را با دوستان و دنبال‌کنندگان خود به اشتراک بگذارید.
 
-### [مطالب اضافی](../additional-material/git_workflow_scenarios/additional-material.md)
+### [مطالب اضافی](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## آموزش‌ها با استفاده از ابزارهای دیگر

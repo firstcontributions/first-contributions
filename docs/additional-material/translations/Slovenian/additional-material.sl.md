@@ -42,5 +42,5 @@ Informacije o tem kako stisnite commite z interaktivnim rebase-om.
 Informacije o tem kako razveljaviti commit v svojem localnem repository-ju. Uporabno, ko si naredil zmešnjavo v lokalnem repository-ju in ga želiš postaviti na prejšnje stanje.
 > Sledi korakom, ko želiš razveljaviti lokalni commit.
 
-### [Uporabne povezave](../git_workflow_scenarios/Useful-links-for-further-learning.md)
+### [Uporabne povezave](../../git_workflow_scenarios/Useful-links-for-further-learning.md)
 Ta dokument je namenjem vsem blogom, uporabnim stranem, spletnim stranem s triki in namigi, ki naredijo naša življenja lažja. Stran naj bi bila kazalo teh uporabnih povezav, ki lahko pomagajo vsem novincem v odprto-kodnem svetu in vsem, ki imajo željo po dodatnem znanju.

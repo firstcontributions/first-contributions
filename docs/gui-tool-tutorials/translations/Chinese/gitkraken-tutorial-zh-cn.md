@@ -101,8 +101,8 @@
 
 如果有任何疑问或想获得更多协助，欢迎加入我们的 [Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)！
 
-### [更多资料](../additional-material/git_workflow_scenarios/additional-material.md)
+### [更多资料](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 使用其他工具的教程
 
-[返回主页](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)
+[返回主页](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.zh-cn.md)
