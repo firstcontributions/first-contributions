@@ -8031,3 +8031,4 @@ Kunal Khallar - Learning to contribute :)
 - [Ahmed Ferchichi](https://github.com/AhmedFerchich-i) -My first open source contribution . interested in data software and ai .
 - [Mikhail Baimanov](https://github.com/mikbaiman) - University of Alicante CS student. Single and 6'1 btw.
 - [Sai Siddarth](https://github.com/SaiSiddarth01)
+-[Nethra Shree](https://github.com/nethrashree-code) - this is my first open source contribution!
