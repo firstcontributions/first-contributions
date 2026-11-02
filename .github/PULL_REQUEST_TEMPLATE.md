@@ -1,9 +1,15 @@
-Before submitting this pull request, check the changes to see it's only the changes you made intentionally
-If there are changes to other lines you didn't make deliberately, it's possible that your IDE made the changes with a utility like prettier.
-Next time, make sure that you only add your changes by using `git add -p` and rather than `git add Contributors.md`
+Before submitting this pull request
+check your changes to ensure you only included intentional edits. If unrelated lines were changed, your IDE or code formatter (like Prettier) may have added them automatically. Next time, stage only your specific changes using git add -p instead of git add Contributors.md.
 
-If you're doing something in the checklist below, put an `x` inside `[ ]` so that `- [ ]` becomes `- [x]`
+Checklist
 
-- [ ] I had fun going through this tutorial (ノ^o^)ノ and learned on the way ٩(＾◡＾)۶
-- [ ] There are some things I'd like to improve in this tutorial. I have written them below.
-- [ ] There were steps where I had errors while following this tutorial. I have written them below.
+Check the boxes that apply ([x]):
+
+- [ ] I had fun and learned during this tutorial (ノ^o^)ノ ٩(＾◡＾)۶
+
+- [ ] I have suggestions to improve this tutorial (written below).
+
+- [ ] I had errors during this tutorial (written below).
+
+Notes / Feedback
+(Add details here)
