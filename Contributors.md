@@ -5752,6 +5752,7 @@ Twan Star
 - [Gestão Saude Business](https://github.com/gestaosaudebusiness-tech)
 - [Omkar Dhere](https://github.com/omkar2524)
 - [Jahnavi Polasa](https://github.com/jahnavipolasa)
+- [Rijul Mehta](https://github.com/Rijulmehta531) My first contribution to OSS, so cool!
 - [yan](https://github.com/yqq1378813)
 - [mgmtapppirat-beep](https://github.com/mgmtapppirat-beep)
 - [Ellie Tran](https://github.com/etran13)
