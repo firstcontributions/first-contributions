@@ -31,7 +31,7 @@ _如果你不喜歡使用指令列，[這裡有使用圖形界面工具的教學
 git clone "url you just copied"
 ```
 
-"url you just copied"（去掉雙引號）就是複製到妳/你帳戶名下的儲存庫網址。取得這網址的方法請見上一步。
+"url you just copied"（去掉雙引號）就是複製到妳/你帳號名下的儲存庫網址。取得這網址的方法請見上一步。
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="複製連結到剪貼簿" />
 
@@ -80,7 +80,7 @@ git checkout -b your-new-branch-name
 
 ## 對程式碼進行修改，然後提交 (Commit) 修改
 
-使用妳/你喜歡的編輯器打開 `Contributors.md` 這個文件，將自己的名字加在檔案中，不要將其添加到文件的開頭或結尾。將其新增至文件中間的任意位置，然後存檔。
+使用妳/你偏好的編輯器打開 `Contributors.md` 這個文件，將自己的名字加在檔案中，不要將其添加到文件的開頭或結尾。將其新增至文件中間的任意位置，然後存檔。
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="被更動的文件" />
 
@@ -92,7 +92,7 @@ git checkout -b your-new-branch-name
 git add Contributors.md
 ```
 
-現在就可以使用 `git commit` 命令 commit（提交）你/妳的修改了：
+現在就可以使用 `git commit` 命令提交你/妳的修改了：
 
 ```bash
 git commit -m "Add your-name to Contributors list"
@@ -111,13 +111,13 @@ git push -u origin your-branch-name
 將 `your-branch-name` 替換為之前新建的分支名稱。
 
 <details>
-<summary> <strong>如果在發佈（push）過程中出現錯誤（error），點擊這裡：</strong> </summary>
+<summary> <strong>如果在發佈過程中出現錯誤（error），點擊這裡：</strong> </summary>
 
 - ### 身份驗證錯誤（Authentication Error）
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/&lt;your-username>/first-contributions.git/'</pre>
-  去 [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) 學習如何生成新的 SSH 密匙以及配置。
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+  參考 [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) 學習如何生成新的 SSH 金鑰以及配置。
 
   此外，你/妳可能需要執行 'git remote -v' 來檢查遠端儲存庫的URL。
   
@@ -164,9 +164,3 @@ git push -u origin your-branch-name
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
 
-<p>項目支持者:</p>
-<p>
-  <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
-  </a>
-</p>
