@@ -100,6 +100,7 @@ z54c6hf
 - [kush] - this is my first contribution
 -[KOUHSIK](https://github.com/Koushik9973)- This is my first contrbution. Best of luck for myself and my future endeavours.
 
+
 Aditya Oraon
 
 - [ak] - this is my first contribution
@@ -110,6 +111,7 @@ Aditya Oraon
 - [Krishna Kaushal] - This is my contribution
 - [piyush kumar] - jai hind
 - [Lakshya Saxena] - lakshyak
+- [Lakshya Dewangan]-contribuSON😭😭😭
 - [Kalyan Bandaru] - This is my first ever open-source contribution
 - [Priyanshu Tiwari] - First contribution 
 * [Piyush Kumar] - This is my first open-source contribution.
