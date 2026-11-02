@@ -798,6 +798,7 @@ B05U3-
 - [Pratham Joseph]
 - [Prakhar Shakya]
 - [Swapnil D]
+- [Gub compiler](https://github.com/BugCompiler)my first contribution
 - [Vivek Agrawal](https://github.com/VivekAgrawal10)
 - [Vishwajit Dusunge] (https://github.com/mr-hacker39)
 - [kerhanobiang](https://fithub.com/kerhan-OBIANG)
