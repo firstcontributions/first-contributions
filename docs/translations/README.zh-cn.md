@@ -22,7 +22,7 @@ _如果你对 command line（命令行）不熟悉，请参考以下的 [GUI 工
 
 ## Clone（克隆）代码仓库
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="克隆此仓库代码" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Clone按钮示意图" />
 
 接下来将复制的代码仓库克隆到你的电脑上。点击图示中的绿色按钮，接着点击复制到剪切板按钮（将代码仓库地址复制下来）。
 
