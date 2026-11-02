@@ -196,22 +196,34 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 
 - ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+  **Symptom**
 
-  Also, you might want to run 'git remote -v' to check your remote address.
-  
-  If it looks anything like this:
-  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
-  origin	https://github.com/your-username/your_repo.git (push)</pre>
-  
-  change it using this command:
-  ```bash
-  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```text
+  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'
   ```
-  Otherwise you'll still get prompted for username and password and get authentication error.
+
+  **Cause**
+
+  GitHub no longer accepts account passwords for Git operations over HTTPS. Use a Personal Access Token (PAT) in place of your password, or switch the remote to SSH.
+
+  **Step-by-Step Fix**
+
+  1. Create a Personal Access Token with access to your repository. When Git prompts for a password during an HTTPS push, paste the token instead of your GitHub password.
+
+  2. Verify that your remote uses HTTPS:
+
+     ```bash
+     git remote -v
+     ```
+
+  3. Or configure SSH after adding an SSH key to your GitHub account:
+
+     ```bash
+     git remote set-url origin git@github.com:<your-username>/first-contributions.git
+     git remote -v
+     ```
+
+     Push again after confirming the SSH remote.
 </details>
 
 ## Submit your changes for review
