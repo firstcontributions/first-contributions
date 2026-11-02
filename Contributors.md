@@ -8055,3 +8055,4 @@ Kunal Khallar - Learning to contribute :)
 - [S.Shrena Sam](https://github.com/shrena9933-oss)
 - [Manav Saxena](https://github.com/manavs-codes) - Learning and contributing to open source!
 - [Muskan Kumari](https://github.com/Musskan1207)
+- [Reza Razjoo](https://github.com/razjoorez)
