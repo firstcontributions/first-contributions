@@ -164,7 +164,8 @@ dehdlhl
 >>>>>>> upstream/main
 - [Shivam Kumar Mishra] (https://github.com/Bhagwan01) - This is my first contribution.
 - [Salvatore Flores])(https://github.com/Sflores155) - This is for my assignment
-- [Shreya Viraktamath](https://github.com/shreyavx) - first contribution 
+- [Shreya Viraktamath](https://github.com/shreyavx) - first contribution
+- [Shane] (https://github.com/Shane-cs-dev) - first contribution
 - | [Abhishek Singh](https://github.com/iabhishek765) That's pretty cool :)
 - [Saathvika Gottimukkula](https://github.com/Saathvika29) - My first Open Source Contribution <3 24/10
 - first contribuiton 78
