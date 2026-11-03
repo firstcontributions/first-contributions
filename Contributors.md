@@ -8075,3 +8075,4 @@ Kunal Khallar - Learning to contribute :)
 - [Reza Razjoo](https://github.com/razjoorez)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
 - [Anjali] (https://github.com/srianjali-gajam) 
+- [Joy Cansa](https://github.com/thejoycansa-ai) - This is my first open source contribution!
