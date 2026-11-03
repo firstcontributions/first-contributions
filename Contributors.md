@@ -1,6 +1,7 @@
 -Barrhouss
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - Milo
+- Alexis
 - [t.x](https://github.com/dashboard)
 - imame8 03/02/2026
 - [szy](https://github.com/ccLuckysun)
