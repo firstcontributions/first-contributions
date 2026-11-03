@@ -162,7 +162,7 @@ Aditya Oraon
 - [Fatima Asim](https://github.com/fatimabuttasim) - First open source contribution!
  - [viessmanbessinger-ux](https://github.com/viessmanbessinger-ux) - My first open-source contribution!
 Atharv Singh
-
+- [Sunaad Joel Rampurapu] (https://github.com/sunaad7) - First open source contribution
 - [Lafin Fibrish G](https://github.com/Fibrish) - My beginning🍀
 - [Joel Postrel](https://github.com/joelpostrel-source) - My first contribution!
 - [RobsHs](https://github.com/RobsHs) - First open source contribution!
