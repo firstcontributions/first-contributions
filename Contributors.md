@@ -123,6 +123,7 @@ z54c6hf
 -[KOUHSIK](https://github.com/Koushik9973)- This is my first contrbution. Best of luck for myself and my future endeavours.
 -[SCHNEV THOMPSO](https://github.com/Schnev-dev) - This is my first contribution to an open-source project.
 -[Abida](https://github.com/Abida-MS)-Learning to contribute!
+-[Hrushikesh Ramilla](https://github.com/Hrushikesh-ramilla) - Contributing to open source!
 
 Aditya Oraon
 
