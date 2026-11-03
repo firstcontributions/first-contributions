@@ -13,6 +13,7 @@ hnbmc2003
 - [tyy200203](https://github.com/tyy200203) - My first pull request.
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
 - [Praneet Savant](https://github.com/PraneetNS) - Humans are going to replace AI
+jean-francois LHOMME
 - [Anas Dahani](https://github.com/anasdahani220) - This is my first open source contribution, I am very excited!
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
 - [Abu Saif Kabbo](https://github.com/saifkabbo) - This is my first open source contribution !!
