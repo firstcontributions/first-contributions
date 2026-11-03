@@ -2408,6 +2408,7 @@ nathan practice here
 - [Sarweshwar Buddolla] (https://github.com/sarweshwargoud)
 - [Ashmita Kamath] (https://github.com/ashmita-kamath)
 - [Naufal Ahamed](https://github.com/NaufalAhamed-M)
+- [Sathish] Made the first contibution
 - [Ju5tG](https://github.com/Ju5tG)
 - [Ned O'Sullivan](https://github.com/NedOSullivanProjects)
 - [James Liu] (https://github.com/jameshualiu)
