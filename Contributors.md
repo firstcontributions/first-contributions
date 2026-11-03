@@ -3917,6 +3917,7 @@ andrewcodess
 - [Fathima Siyad](https://github.com/FATHIMALEARNS)
 - [Fawaz Bello](https://github.com/Phawazz)
 - [Jephil Rejimon](https://github.com/JephilReji)
+- [Egor Krikun](https://github.com/kellvl)
 - [Fei Sun](https://github.com/Fei-Sun-1996)
 - [Mit Patil](https://github.com/Mit-Patil)
 - [Ravi](https://github.com/isRavi)
