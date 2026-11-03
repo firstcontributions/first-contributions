@@ -8070,3 +8070,7 @@ Kunal Khallar - Learning to contribute :)
 - [Julie Modi](https://github.com/juliemodi) - my first open source contribution!
 - [Reza Razjoo](https://github.com/razjoorez)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
+- [shizuku147](https://github.com/shizuku147) - My first experience with an open-source project
+
+
+
