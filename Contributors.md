@@ -10,6 +10,8 @@
 - [D3F4ULT-dev](https://github.com/D3F4ULT-dev) -  Officially making my mark in open source.
 - [Raphal](https://github.com/Raphal6974) - My first contribution with open source !
 - zhh‘s first
+- Gad
+
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
 <img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />
 -[Samanvay Kumar Tadakamalla](https://github.com/samanvay-kumar) - Just getting started. There's a lot to learn and even more to build.
@@ -21,6 +23,7 @@ hnbmc2003
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [tyy200203](https://github.com/tyy200203) - My first pull request.
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
+- [Flora](https://github.com/Flora-Ex) - First contribution :3 Make sure to eat well and be kind to one another!
 - [Praneet Savant](https://github.com/PraneetNS) - Humans are going to replace AI
 jean-francois LHOMME
 - [Anas Dahani](https://github.com/anasdahani220) - This is my first open source contribution, I am very excited!
@@ -125,6 +128,7 @@ Aditya Oraon
 - [pranvasoni] -my first contribution 
 - [Krishna Kaushal] - This is my contribution
 - [piyush kumar] - jai hind
+- [Lomingo Grace-ange]
 - [Lakshya Saxena] - lakshyak
 - [Lakshya Dewangan]-contribuSON😭😭😭
 - [Kalyan Bandaru] - This is my first ever open-source contribution
@@ -6378,6 +6382,7 @@ Nici30067
 - [Vitor Faria](https://github.com/CriativoStudio)
 - Roberto Ogalino
 - kushwanth
+- [Jon Rey Galera](https://github.com/jonreygalera)
 - [Felipe Faria](https://github.com/felipeffaria)
 - [Naziya Shah](https://github.com/naziyashah)
 - [Mateus Lerbach](https://github.com/9n5bwsdysc-code)
