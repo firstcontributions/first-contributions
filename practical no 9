@@ -1,0 +1,353 @@
+### Assignment No. 9 – Graph Representation Using Adjacency Matrix/List with DFS and BFS
+
+### 1\. Aim
+
+To represent a graph using an Adjacency Matrix and Adjacency List, perform Depth First Search (DFS) traversal using an Adjacency Matrix and Breadth First Search (BFS) traversal using an Adjacency List, and apply these graph traversal techniques to a real-world map of the area around the college by considering prominent landmarks as vertices.
+
+### 2\. Theory
+
+### Introduction to Graph
+
+A graph is a non-linear data structure consisting of a collection of vertices (also called nodes) and edges that connect these vertices. Graphs are used to represent relationships and connections between different objects. Unlike linear data structures such as arrays, stacks and queues, graphs do not store data in a sequential manner. Instead, they represent how different elements are connected to each other.
+
+A graph is generally represented as G = (V, E), where V represents the set of vertices and E represents the set of edges. Vertices represent objects or locations, whereas edges represent the connections or paths between them.
+
+For example, in a college area map, different landmarks such as the college building, library, canteen, parking area and playground can be represented as vertices. The roads or paths connecting these locations can be represented as edges.
+
+### Graph Representation
+
+A graph can be represented in different ways depending on the requirements of the application. Two commonly used methods are Adjacency Matrix and Adjacency List.
+
+1\. Adjacency Matrix
+
+An Adjacency Matrix is a graph representation technique that uses a two-dimensional array of size N × N, where N represents the total number of vertices in the graph. Each row and column represents a vertex.
+
+If an edge exists between two vertices, the corresponding matrix element is assigned the value 1. If there is no edge between those vertices, the element is assigned the value 0.
+
+For example, if vertex A is connected to vertex B, then matrix\[A\]\[B\] = 1. Otherwise, matrix\[A\]\[B\] = 0.
+
+The Adjacency Matrix provides a simple way to check whether two vertices are directly connected. However, it requires more memory when the graph contains fewer edges compared to the number of possible connections.
+
+2\. Adjacency List
+
+An Adjacency List is another method of representing a graph in which every vertex maintains a list of all the vertices directly connected to it. Instead of using a complete two-dimensional array, it stores only the actual connections present in the graph.
+
+For example, if vertex A is connected to vertices B and C, its adjacency list contains B and C. Similarly, every other vertex maintains its own list of connected vertices.
+
+The Adjacency List is memory-efficient for sparse graphs because it stores only the existing edges. It is commonly implemented using arrays of linked lists or vectors.
+
+### Graph Traversal
+
+Graph traversal is the process of visiting all the vertices of a graph systematically. Two important graph traversal techniques are Depth First Search and Breadth First Search.
+
+3\. Depth First Search (DFS)
+
+Depth First Search is a graph traversal technique in which the algorithm explores a graph by moving as deep as possible along one path before returning to explore other paths.
+
+DFS starts from a selected source vertex and marks it as visited. It then visits one of its unvisited adjacent vertices and continues the same process recursively. When no unvisited adjacent vertex is available, the algorithm backtracks to the previous vertex and explores other available paths.
+
+DFS can be implemented using recursion or an explicit stack. In this practical, DFS is performed using an Adjacency Matrix.
+
+DFS is useful in applications such as path finding, cycle detection, maze solving and exploring connected components of a graph.
+
+4\. Breadth First Search (BFS)
+
+Breadth First Search is a graph traversal technique in which the algorithm explores all the neighbouring vertices of the current vertex before moving to the next level of vertices.
+
+BFS starts from a selected source vertex, marks it as visited and inserts it into a queue. The algorithm then removes a vertex from the queue, visits its unvisited adjacent vertices and inserts them into the queue. This process continues until the queue becomes empty.
+
+BFS uses a queue data structure because it follows the First In First Out (FIFO) principle. It is implemented using an Adjacency List in this practical.
+
+BFS is useful in applications such as finding the shortest path in an unweighted graph, network broadcasting and social network analysis.
+
+### Difference Between DFS and BFS
+
+| DFS                                              | BFS                                                     |
+| ------------------------------------------------ | ------------------------------------------------------- |
+| Explores depth-wise.                             | Explores level-wise.                                    |
+| Uses recursion or stack.                         | Uses a queue.                                           |
+| Goes deep before backtracking.                   | Visits neighbouring vertices first.                     |
+| Can be implemented using an Adjacency Matrix.    | Can be implemented using an Adjacency List.             |
+| Useful for exploring paths and detecting cycles. | Useful for finding shortest paths in unweighted graphs. |
+
+### 3\. Algorithm
+
+### A. Algorithm for Depth First Search (DFS)
+
+* Start the program and initialize the graph using an Adjacency Matrix.
+
+* Accept the number of vertices and the connections between them.
+
+* Initialize a visited array of size N with all elements set to 0. This array keeps track of the vertices that have already been visited.
+
+* Select the starting vertex from which the traversal should begin.
+
+* Mark the current vertex as visited and display it.
+
+* Check all the adjacent vertices of the current vertex using the Adjacency Matrix.
+
+* If an adjacent vertex is connected and has not been visited, recursively call the DFS function for that vertex.
+
+* Continue the process until all reachable vertices have been visited.
+
+* Stop the traversal.
+
+### B. Algorithm for Breadth First Search (BFS)
+
+* Start the program and initialize the graph using an Adjacency List.
+
+* Accept the number of vertices and the connections between them.
+
+* Initialize a visited array of size N with all elements set to 0.
+
+* Select the starting vertex for traversal.
+
+* Create an empty queue and insert the starting vertex into it.
+
+* Mark the starting vertex as visited.
+
+* Remove the front vertex from the queue and display it.
+
+* Visit all the adjacent vertices of the removed vertex.
+
+* If an adjacent vertex has not been visited, mark it as visited and insert it into the queue.
+
+* Repeat the process until the queue becomes empty.
+
+* Stop the traversal.
+
+### 4\. Flowchart
+
+The flowchart represents the logical sequence of operations performed during DFS and BFS traversal.
+
+### A. DFS Flowchart
+
+```mermaid
+
+flowchart TD
+    A([Start]) --> B[Create graph using Adjacency Matrix]
+    B --> C[Initialize visited array]
+    C --> D[Select starting vertex]
+    D --> E[Mark current vertex as visited]
+    E --> F[Display current vertex]
+    F --> G{Any unvisited adjacent vertex?}
+    G -- Yes --> H[Select unvisited adjacent vertex]
+    H --> I[Call DFS recursively]
+    I --> G
+    G -- No --> J([Stop / Backtrack])
+```
+
+Explanation: The DFS flowchart begins by creating a graph using an Adjacency Matrix and initializing the visited array. After selecting the starting vertex, the algorithm marks it as visited and displays it. It then checks whether an unvisited adjacent vertex exists. If one is available, DFS is called recursively for that vertex. If no unvisited adjacent vertex is available, the algorithm backtracks. This process continues until all reachable vertices have been visited.
+
+### B. BFS Flowchart
+
+```mermaid
+
+flowchart TD
+    A([Start]) --> B[Create graph using Adjacency List]
+    B --> C[Initialize visited array]
+    C --> D[Select starting vertex]
+    D --> E[Create queue]
+    E --> F[Insert starting vertex and mark visited]
+    F --> G{Is queue empty?}
+    G -- No --> H[Remove front vertex]
+    H --> I[Display current vertex]
+    I --> J[Check adjacent vertices]
+    J --> K{Unvisited adjacent vertex?}
+    K -- Yes --> L[Mark visited and insert into queue]
+    L --> J
+    K -- No --> G
+    G -- Yes --> M([Stop])
+```
+
+Explanation: The BFS flowchart starts by creating a graph using an Adjacency List and initializing the visited array. The starting vertex is inserted into the queue and marked as visited. The algorithm checks whether the queue is empty. If it is not empty, the front vertex is removed and displayed. Its unvisited adjacent vertices are marked as visited and inserted into the queue. This process repeats until the queue becomes empty.
+
+### 5\. C++ Program
+
+The following program represents the same graph using both an Adjacency Matrix and an Adjacency List. It performs DFS using the Adjacency Matrix and BFS using the Adjacency List.
+
+COMPLETE PROGRAM — C++
+
+```cpp
+
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <string>
+using namespace std;
+
+const int MAX = 100;
+
+int adjMatrix[MAX][MAX] = {0};
+vector<int> adjList[MAX];
+bool visited[MAX];
+
+// Depth First Search using Adjacency Matrix
+void DFS(int vertex, int n)
+{
+    visited[vertex] = true;
+    cout << vertex + 1 << " ";
+
+    for (int i = 0; i < n; i++)
+    {
+        if (adjMatrix[vertex][i] == 1 && !visited[i])
+        {
+            DFS(i, n);
+        }
+    }
+}
+
+// Breadth First Search using Adjacency List
+void BFS(int start, int n)
+{
+    queue<int> q;
+
+    for (int i = 0; i < n; i++)
+        visited[i] = false;
+
+    visited[start] = true;
+    q.push(start);
+
+    while (!q.empty())
+    {
+        int vertex = q.front();
+        q.pop();
+
+        cout << vertex + 1 << " ";
+
+        for (int i = 0; i < adjList[vertex].size(); i++)
+        {
+            int neighbour = adjList[vertex][i];
+
+            if (!visited[neighbour])
+            {
+                visited[neighbour] = true;
+                q.push(neighbour);
+            }
+        }
+    }
+}
+
+int main()
+{
+    int n, e, u, v;
+
+    cout << "Enter number of landmarks: ";
+    cin >> n;
+
+    cout << "Enter number of paths: ";
+    cin >> e;
+
+    // Create graph using both representations
+    for (int i = 0; i < e; i++)
+    {
+        cout << "Enter connected landmarks (1 to " << n << "): ";
+        cin >> u >> v;
+
+        u--;
+        v--;
+
+        adjMatrix[u][v] = 1;
+        adjMatrix[v][u] = 1;
+
+        adjList[u].push_back(v);
+        adjList[v].push_back(u);
+    }
+
+    // Perform DFS
+    for (int i = 0; i < n; i++)
+        visited[i] = false;
+
+    cout << "\nDFS Traversal: ";
+    DFS(0, n);
+
+    // Perform BFS
+    cout << "\nBFS Traversal: ";
+    BFS(0, n);
+
+    return 0;
+}
+```
+
+Understanding the program: This program considers the college area as an undirected graph. Each landmark is represented by a vertex, and each connecting path is represented by an edge. The program accepts the number of landmarks and paths from the user. The vertices are numbered from 1 to N, and traversal starts from vertex 1.
+
+The graph is stored in two different forms. The Adjacency Matrix is used for DFS, while the Adjacency List is used for BFS. A visited array prevents the program from visiting the same vertex repeatedly.
+
+Note: The program uses landmark numbers instead of actual landmark names to keep the practical implementation simple. You can assign numbers to your college locations, such as 1 for College Building, 2 for Library, 3 for Canteen, and so on.
+
+### 6\. Code Explanation for Viva
+
+### A. Header Files and Initialization
+
+| Code                           | Explanation                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| #include <iostream>            | Includes the input/output library for using cin and cout.                                                          |
+| #include <vector>              | Includes the vector container to implement the Adjacency List.                                                     |
+| #include <queue>               | Includes the queue library required for BFS traversal.                                                             |
+| #include <string>              | Includes string support, although this version does not require string variables.                                  |
+| using namespace std;           | Allows us to use standard library elements without writing std:: repeatedly.                                       |
+| const int MAX = 100;           | Defines the maximum number of vertices as 100.                                                                     |
+| int adjMatrix[MAX][MAX] = {0}; | Creates a two-dimensional array to represent the graph using an Adjacency Matrix. All elements are initially zero. |
+| vector<int> adjList[MAX];      | Creates an array of vectors to store the adjacent vertices of each vertex.                                         |
+| bool visited[MAX];             | Creates a Boolean array to track whether a vertex has been visited.                                                |
+
+### B. DFS Function Explanation
+
+| Code                                          | Explanation                                                                                                       |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| void DFS(int vertex, int n)                   | Defines the DFS function with the current vertex and total number of vertices as parameters.                      |
+| visited[vertex] = true;                       | Marks the current vertex as visited to avoid visiting it again.                                                   |
+| cout << vertex + 1 << " ";                    | Displays the current vertex. One is added because internal indexing starts from zero.                             |
+| for (int i = 0; i < n; i++)                   | Checks every possible vertex in the graph.                                                                        |
+| if (adjMatrix[vertex][i] == 1 && !visited[i]) | Checks whether an edge exists between the current vertex and another vertex and whether that vertex is unvisited. |
+| DFS(i, n);                                    | Calls the DFS function recursively to explore the connected unvisited vertex.                                     |
+
+How DFS works: DFS first visits the starting vertex and then explores one connected unvisited vertex at a time. It continues moving deeper into the graph. When it cannot move further, it returns to the previous vertex and checks for other unvisited connections.
+
+### C. BFS Function Explanation
+
+| Code                                             | Explanation                                                                     |
+| ------------------------------------------------ | ------------------------------------------------------------------------------- |
+| void BFS(int start, int n)                       | Defines the BFS function with the starting vertex and total number of vertices. |
+| queue<int> q;                                    | Creates a queue to store vertices waiting to be visited.                        |
+| for (int i = 0; i < n; i++)                      | Iterates through all vertices.                                                  |
+| visited[i] = false;                              | Resets the visited array before BFS begins.                                     |
+| visited[start] = true;                           | Marks the starting vertex as visited.                                           |
+| q.push(start);                                   | Inserts the starting vertex into the queue.                                     |
+| while (!q.empty())                               | Continues traversal as long as the queue contains vertices.                     |
+| int vertex = q.front();                          | Retrieves the vertex at the front of the queue.                                 |
+| q.pop();                                         | Removes the front vertex from the queue.                                        |
+| cout << vertex + 1 << " ";                       | Displays the current vertex.                                                    |
+| for (int i = 0; i < adjList[vertex].size(); i++) | Checks all adjacent vertices stored in the Adjacency List.                      |
+| int neighbour = adjList[vertex][i];              | Stores the adjacent vertex in a variable.                                       |
+| if (!visited[neighbour])                         | Checks whether the adjacent vertex has not been visited.                        |
+| visited[neighbour] = true;                       | Marks the adjacent vertex as visited.                                           |
+| q.push(neighbour);                               | Inserts the adjacent vertex into the queue for future processing.               |
+
+How BFS works: BFS first visits the starting vertex and then inserts its adjacent vertices into the queue. It processes the queue in FIFO order, ensuring that all immediate neighbours are visited before moving to the next level.
+
+### D. Main Function Explanation
+
+| Code                        | Explanation                                                                                |
+| --------------------------- | ------------------------------------------------------------------------------------------ |
+| int main()                  | The main function is the entry point of the C++ program.                                   |
+| int n, e, u, v;             | Declares variables for the number of vertices, number of edges and connected vertex pairs. |
+| cin >> n;                   | Accepts the number of landmarks in the graph.                                              |
+| cin >> e;                   | Accepts the number of paths connecting the landmarks.                                      |
+| for (int i = 0; i < e; i++) | Repeats the process for entering all edges.                                                |
+| cin >> u >> v;              | Accepts two connected vertices.                                                            |
+| u--; v--;                   | Converts the vertex numbering from 1-based to 0-based indexing.                            |
+| adjMatrix[u][v] = 1;        | Marks the connection from vertex u to vertex v in the matrix.                              |
+| adjMatrix[v][u] = 1;        | Marks the reverse connection because the graph is undirected.                              |
+| adjList[u].push_back(v);    | Adds vertex v to the adjacency list of vertex u.                                           |
+| adjList[v].push_back(u);    | Adds vertex u to the adjacency list of vertex v.                                           |
+| visited[i] = false;         | Initializes all vertices as unvisited before DFS.                                          |
+| DFS(0, n);                  | Starts DFS traversal from the first vertex.                                                |
+| BFS(0, n);                  | Starts BFS traversal from the first vertex.                                                |
+| return 0;                   | Terminates the program successfully.                                                       |
+
+### 7\. Important Concepts for Viva
+
+Before learning the questions, understand these important terms:
+
+| Term              | Meaning                                                
