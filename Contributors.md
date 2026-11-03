@@ -60,6 +60,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
 -  [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE 
 - cat - first contribution
+- lge - first contribution
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
 - [sudip karki] (https://github.com/Sudipk007)
 - [mohamedtahadikouk1-pixel] (hhttps://github.com/mohamedtahadikouk1-pixel)
