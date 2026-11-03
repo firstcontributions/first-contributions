@@ -380,6 +380,7 @@ SANKALP PANDEY
 - [Vivien Demo 1014] -test1234
 - Wozniak
 - [Rocky_S contr](https://github.com/shubhamodi)
+- [Aztro-904](https://github.com/Aztro-904)
 - [Venkata Sai Sabbineni](https://github.com/venkatasaisabbineni) - "First Contribution for practicing Open-Source Contributions"
 - [Pratap Patra](https://github.com/pratappatra078) - "First contribution , Life goal 12+ LPA "
 - [GK] - hello Git
