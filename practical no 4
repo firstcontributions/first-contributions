@@ -1,0 +1,302 @@
+### Practical No. 4 – Currency Note Minimization Using Greedy Algorithm
+
+### 1\. Object
+
+To write a C++ program using the Greedy Algorithm to determine the minimum number of currency notes required to make a given amount. The program selects the largest possible currency denomination first and continues with smaller denominations until the complete amount is obtained.
+
+### 2\. Theory
+
+A Greedy Algorithm is an algorithmic approach that solves a problem step by step by selecting the best possible option at each stage. It always makes a locally optimal choice without reconsidering previous decisions.
+
+In currency note minimization, the algorithm selects the largest denomination that is less than or equal to the remaining amount. It calculates how many notes of that denomination are required and updates the remaining amount.
+
+This process continues until the remaining amount becomes zero.
+
+For standard Indian currency denominations, this approach efficiently determines the minimum number of notes.
+
+Currency denominations used:
+
+₹2000, ₹500, ₹200, ₹100, ₹50, ₹20, ₹10, ₹5, ₹2, ₹1.
+
+### 3\. C++ Program
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int amount;
+    int notes[] = {2000, 500, 200, 100, 50,
+                   20, 10, 5, 2, 1};
+
+    int n = 10;
+    int totalNotes = 0;
+
+    cout << "Enter the amount: ";
+    cin >> amount;
+
+    cout << "\nCurrency Notes Required:\n";
+
+    for (int i = 0; i < n; i++)
+    {
+        if (amount >= notes[i])
+        {
+            int count = amount / notes[i];
+
+            cout << notes[i] << " x " << count << endl;
+
+            amount = amount % notes[i];
+
+            totalNotes = totalNotes + count;
+        }
+    }
+
+    cout << "\nTotal Number of Notes: "
+         << totalNotes;
+
+    return 0;
+}
+```
+
+### 4\. Algorithm
+
+* Start the program.
+
+* Declare an integer variable `amount` to store the amount entered by the user.
+
+* Declare an array containing currency denominations in descending order.
+
+* Initialize `totalNotes` to zero.
+
+* Accept the amount from the user.
+
+* Display the currency notes required.
+
+* Traverse the denomination array using a loop.
+
+* Check whether the remaining amount is greater than or equal to the current denomination.
+
+* If the condition is true:
+
+    * Calculate the number of notes using integer division.
+
+    * Display the denomination and its count.
+
+    * Update the remaining amount using the modulus operator.
+
+    * Add the count to `totalNotes`.
+
+* Repeat the process for all denominations.
+
+* Display the total number of notes required.
+
+* Stop the program.
+
+### 5\. Flowchart
+
+START
+
+Initialize denominations array and totalNotes = 0
+
+Input amount
+
+Check amount >= notes\[i\]?
+
+YES
+
+Calculate count = amount / notes\[i\]
+
+Display denomination and count
+
+Update amount = amount % notes\[i\]
+
+Update totalNotes
+
+NO
+
+Skip current denomination
+
+Check next denomination
+
+Repeat until all denominations are checked.
+
+Display totalNotes
+
+STOP
+
+### 6\. Code Explanation Line by Line
+
+1\. Header file
+
+```cpp
+#include <iostream>
+```
+
+Includes the input-output stream library, which allows us to use `cin` and `cout`.
+
+2\. Namespace declaration
+
+```cpp
+using namespace std;
+```
+
+Allows us to use standard C++ functions without writing `std::` before them.
+
+3\. Main function
+
+```cpp
+int main()
+{
+```
+
+The main function is the starting point of program execution.
+
+4\. Declare amount variable
+
+```cpp
+int amount;
+```
+
+Declares an integer variable to store the amount entered by the user.
+
+5\. Declare currency denominations
+
+```cpp
+int notes[] = {2000, 500, 200, 100, 50,
+               20, 10, 5, 2, 1};
+```
+
+Creates an array containing Indian currency denominations in descending order. The largest denomination is placed first.
+
+6\. Declare number of denominations
+
+```cpp
+int n = 10;
+```
+
+Stores the total number of denominations present in the array.
+
+7\. Initialize total notes
+
+```cpp
+int totalNotes = 0;
+```
+
+Initializes the variable that counts the total number of currency notes required.
+
+8\. Display input message
+
+```cpp
+cout << "Enter the amount: ";
+```
+
+Displays a message asking the user to enter the amount.
+
+9\. Accept user input
+
+```cpp
+cin >> amount;
+```
+
+Accepts the amount entered by the user and stores it in the `amount` variable.
+
+10\. Display heading
+
+```cpp
+cout << "\nCurrency Notes Required:\n";
+```
+
+Displays the heading before showing the required currency denominations.
+
+11\. For loop
+
+```cpp
+for (int i = 0; i < n; i++)
+```
+
+Executes a loop to check every denomination in the array, starting from the largest.
+
+12\. If condition
+
+```cpp
+if (amount >= notes[i])
+```
+
+Checks whether the remaining amount is greater than or equal to the current denomination.
+
+13\. Calculate note count
+
+```cpp
+int count = amount / notes[i];
+```
+
+Calculates how many notes of the current denomination are required using integer division.
+
+14\. Display denomination and count
+
+```cpp
+cout << notes[i] << " x " << count << endl;
+```
+
+Displays the denomination and the number of notes required.
+
+15\. Update remaining amount
+
+```cpp
+amount = amount % notes[i];
+```
+
+Uses the modulus operator to calculate the remaining amount after selecting the current denomination.
+
+16\. Update total notes
+
+```cpp
+totalNotes = totalNotes + count;
+```
+
+Adds the number of notes of the current denomination to the total note count.
+
+17\. Display final result
+
+```cpp
+cout << "\nTotal Number of Notes: "
+     << totalNotes;
+```
+
+Displays the minimum total number of currency notes calculated by the algorithm.
+
+18\. Return statement
+
+```cpp
+return 0;
+```
+
+Indicates that the program has executed successfully.
+
+19\. Closing braces
+
+```cpp
+}
+```
+
+Marks the end of the main function and the program.
+
+### 7\. Conclusion
+
+The program successfully demonstrates the working of the Greedy Algorithm for currency note minimization. By selecting the largest possible denomination first and reducing the remaining amount step by step, the program calculates the required denominations and the minimum total number of notes. Thus, the Greedy Algorithm provides an efficient solution for standard Indian currency denominations.
+
+### 8\. Important Concepts for Practical Viva
+
+| Concept          | Explanation                                     |
+| ---------------- | ----------------------------------------------- |
+| Greedy Algorithm | Selects the best immediate option at each step. |
+| Array            | Stores multiple currency denominations.         |
+| For loop         | Traverses all denominations.                    |
+| If condition     | Checks whether a denomination can be used.      |
+| Division /       | Calculates the number of notes.                 |
+| Modulus %        | Calculates the remaining amount.                |
+| totalNotes       | Stores the total number of notes.               |
+| Time Complexity  | O(n), where n is the number of denominations.   |
+
+Important: The greedy approach gives an optimal result for the standard denomination system used here. It is not guaranteed to give an optimal result for every possible custom set of denominations.
