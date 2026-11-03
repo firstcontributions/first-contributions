@@ -18,6 +18,7 @@ hnbmc2003
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [tyy200203](https://github.com/tyy200203) - My first pull request.
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
+- [Flora](https://github.com/Flora-Ex) - First contribution :3 Make sure to eat well and be kind to one another!
 - [Praneet Savant](https://github.com/PraneetNS) - Humans are going to replace AI
 jean-francois LHOMME
 - [Anas Dahani](https://github.com/anasdahani220) - This is my first open source contribution, I am very excited!
