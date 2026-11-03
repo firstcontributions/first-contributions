@@ -7682,6 +7682,7 @@ add-Testing
 - [Ranteg Virk](https://github.com/rantegvirk) - to the moon
 - [Lilbb](https://github.com/lilbb1726) - My first PR, not my last!
 - [Samuel Matusek](https://github.com/samuelmatusek)
+- [CyberMameCAN](https://github.com/CyberMameCAN) - Hello world, from JP.
 - [chan](https://github.com/chanshengbinying-collab)
 - [Sattwik Das](https://github.com/Sattwik-Das)
 - [Tawsif-r](https://github.com/tawsif-r/first-contributions)
