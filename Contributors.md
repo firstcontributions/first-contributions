@@ -125,6 +125,7 @@ z54c6hf
 -[Abida](https://github.com/Abida-MS)-Learning to contribute!
 -[Hrushikesh Ramilla](https://github.com/Hrushikesh-ramilla) - Contributing to open source!
 -[Hrushikesh R](https://github.com/Hrushikesh-ramilla) - Building high performance systems!
+-[Hrushikesh](https://github.com/Hrushikesh-ramilla) - Open-source enthusiast!
 
 Aditya Oraon
 
