@@ -115,6 +115,7 @@ Aditya Oraon
 - [pranvasoni] -my first contribution 
 - [Krishna Kaushal] - This is my contribution
 - [piyush kumar] - jai hind
+- [Lomingo Grace-ange]
 - [Lakshya Saxena] - lakshyak
 - [Lakshya Dewangan]-contribuSON😭😭😭
 - [Kalyan Bandaru] - This is my first ever open-source contribution
