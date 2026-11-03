@@ -6378,6 +6378,7 @@ Nici30067
 - [Vitor Faria](https://github.com/CriativoStudio)
 - Roberto Ogalino
 - kushwanth
+- [Jon Rey Galera](https://github.com/jonreygalera)
 - [Felipe Faria](https://github.com/felipeffaria)
 - [Naziya Shah](https://github.com/naziyashah)
 - [Mateus Lerbach](https://github.com/9n5bwsdysc-code)
