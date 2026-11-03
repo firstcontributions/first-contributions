@@ -452,6 +452,7 @@ Arise
 
 -[veera-siva](https://github.com/veerasivapampana-cloud/)My first contribution to hacktoberfest
 -[Lakshita S](https://github.com/lakshita-07) My first contribution!
+-[AliAzhari-17](https://github.com/AliAzhari-17) My first contribution!
 -[varun-sandesh](https://github.com/Varunsandesh-28) My first contribution
 -[chandu] (https://github.com/chanduanga) my first code...
 - [chengyuanz0519-code](https://github.com/chengyuanz0519-code)
