@@ -5733,6 +5733,7 @@ Twan Star
   Nice to try out first pull
   Nethmi(https://github.com/thakshilaaa)
 - [Siddharth](https://github.com/siddharth03015)
+- [Clement](https://github.com/Clement-s29) - my first open source contribution!
 - [Kaushambi Gujral](https://github.com/kgujral2612)
 - [Mikhail Garayev](https://github.com/mikhailgarayev)
   -Chandana Jagadish
@@ -8074,3 +8075,4 @@ Kunal Khallar - Learning to contribute :)
 - [Reza Razjoo](https://github.com/razjoorez)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
 - [Anjali] (https://github.com/srianjali-gajam) 
+
