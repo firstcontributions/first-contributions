@@ -4,6 +4,7 @@
 - imame8 03/02/2026
 - [szy](https://github.com/ccLuckysun)
 - [Aishwarya](https://github.com/aishwaryaprakashg) - Learning open-source development.
+- [Raviteja] (https://github.com/raviteja311) - Learning open-source development
 - [D3F4ULT-dev](https://github.com/D3F4ULT-dev) -  Officially making my mark in open source.
 - zhh‘s first
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
