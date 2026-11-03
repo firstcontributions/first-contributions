@@ -1,0 +1,583 @@
+### Practical No. 10: Minimum Spanning Tree Using Prim's and Kruskal's Algorithm
+
+### 1\. Aim
+
+To implement Prim's and Kruskal's algorithms to find the Minimum Spanning Tree (MST) of a weighted graph and determine the minimum cost required to connect all offices.
+
+### 2\. Objectives
+
+* To understand the concept of Minimum Spanning Tree.
+
+* To study and implement Prim's and Kruskal's greedy algorithms.
+
+* To find the minimum cost of connecting different vertices in a graph.
+
+* To understand how MST algorithms are used in real-world network design.
+
+### 3\. Problem Statement
+
+Consider a business having several offices located in different cities. The business wants to connect all its offices through telephone lines. The telephone company charges different amounts for connecting different pairs of cities.
+
+The objective is to find a set of connections that connects all offices with the minimum possible total cost. This problem can be solved using Minimum Spanning Tree techniques such as Prim's and Kruskal's algorithms.
+
+### 4\. Theory
+
+### Graph
+
+A graph is a non-linear data structure used to represent relationships between different objects. It consists of two main components: vertices and edges.
+
+* Vertices: These represent the objects or nodes in a graph.
+
+* Edges: These represent the connections between two vertices.
+
+Graphs are commonly used in computer networks, road maps, social networks and communication systems.
+
+### Types of Graphs
+
+1\. Weighted Graph
+
+A weighted graph is a graph in which every edge has a numerical value called weight. The weight represents the cost, distance or time required to connect two vertices.
+
+2\. Unweighted Graph
+
+An unweighted graph is a graph in which all edges are treated equally and do not have additional values such as distance or cost.
+
+3\. Undirected Graph
+
+An undirected graph is a graph in which edges do not have any direction. The connection between two vertices works in both directions.
+
+4\. Directed Graph
+
+A directed graph is a graph in which every edge has a specific direction, represented by an arrow.
+
+### Minimum Spanning Tree (MST)
+
+A Minimum Spanning Tree is a subset of edges of a connected, weighted and undirected graph that connects all vertices without forming any cycle and has the minimum possible total edge weight.
+
+The main purpose of MST is to connect all vertices using the minimum total cost.
+
+Properties of Minimum Spanning Tree:
+
+* It connects all vertices of a graph.
+
+* It does not contain any cycle.
+
+* It contains exactly V-1 edges, where V represents the number of vertices.
+
+* It has the minimum possible total edge weight.
+
+There are two commonly used greedy algorithms to find MST: Prim's Algorithm and Kruskal's Algorithm.
+
+### 5\. Prim's Algorithm
+
+Prim's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree of a weighted, undirected graph.
+
+It starts from any vertex and gradually builds the MST by selecting the minimum-weight edge that connects a visited vertex to an unvisited vertex.
+
+The process continues until all vertices are included in the Minimum Spanning Tree.
+
+### Algorithm
+
+* Start the algorithm.
+
+* Initialize all vertices as unvisited.
+
+* Select a starting vertex and assign its key value as zero.
+
+* Find the minimum-weight edge connecting a visited vertex to an unvisited vertex.
+
+* Add the selected edge to the Minimum Spanning Tree.
+
+* Mark the newly selected vertex as visited.
+
+* Update the minimum edge weights of its adjacent unvisited vertices.
+
+* Repeat the process until all vertices are included.
+
+* Display the Minimum Spanning Tree and its total cost.
+
+* Stop.
+
+### C++ Program – Prim's Algorithm
+
+```cpp
+#include <iostream>
+using namespace std;
+
+#define INF 99999
+#define V 5
+
+void prim(int graph[V][V])
+{
+    int parent[V], key[V];
+    bool visited[V];
+
+    for (int i = 0; i < V; i++)
+    {
+        key[i] = INF;
+        visited[i] = false;
+    }
+
+    key[0] = 0;
+    parent[0] = -1;
+
+    for (int count = 0; count < V - 1; count++)
+    {
+        int min = INF, u = -1;
+
+        for (int i = 0; i < V; i++)
+        {
+            if (!visited[i] && key[i] < min)
+            {
+                min = key[i];
+                u = i;
+            }
+        }
+
+        visited[u] = true;
+
+        for (int v = 0; v < V; v++)
+        {
+            if (graph[u][v] && !visited[v] &&
+                graph[u][v] < key[v])
+            {
+                parent[v] = u;
+                key[v] = graph[u][v];
+            }
+        }
+    }
+
+    int total = 0;
+
+    cout << "\nEdge\tWeight\n";
+
+    for (int i = 1; i < V; i++)
+    {
+        cout << parent[i] << " - " << i
+             << "\t" << graph[i][parent[i]] << endl;
+
+        total += graph[i][parent[i]];
+    }
+
+    cout << "Total Minimum Cost = " << total;
+}
+
+int main()
+{
+    int graph[V][V] = {
+        {0, 2, 0, 6, 0},
+        {2, 0, 3, 8, 5},
+        {0, 3, 0, 0, 7},
+        {6, 8, 0, 0, 9},
+        {0, 5, 7, 9, 0}
+    };
+
+    prim(graph);
+
+    return 0;
+}
+```
+
+### Output
+
+```text
+Edge    Weight
+0 - 1     2
+1 - 2     3
+0 - 3     6
+1 - 4     5
+
+Total Minimum Cost = 16
+```
+
+### 6\. Explanation of Prim's Algorithm Code
+
+Header Files and Constants
+
+`#include <iostream>` is used to include the input and output library, which allows the program to use `cin` and `cout`.
+
+`#define INF 99999` defines a large value that represents infinity. It is used to initialize the minimum edge weights.
+
+`#define V 5` defines the total number of vertices in the graph.
+
+Function Declaration
+
+`void prim(int graph[V][V])` defines the Prim's algorithm function. It accepts the graph in the form of an adjacency matrix.
+
+Variables
+
+* `parent[V]` stores the parent vertex of each vertex in the Minimum Spanning Tree.
+
+* `key[V]` stores the minimum edge weight required to connect each vertex.
+
+* `visited[V]` keeps track of vertices that are already included in the MST.
+
+Initialization
+
+The `for` loop initializes all key values to infinity and marks every vertex as unvisited.
+
+`key[0] = 0` selects vertex 0 as the starting vertex.
+
+`parent[0] = -1` indicates that the starting vertex does not have a parent.
+
+Finding the Minimum Edge
+
+The outer `for` loop repeats the process V-1 times to select the required edges.
+
+The inner `for` loop searches for the unvisited vertex having the smallest key value.
+
+`visited[u] = true` marks the selected vertex as visited and includes it in the MST.
+
+Updating Adjacent Vertices
+
+The next loop checks all adjacent vertices of the selected vertex.
+
+The condition checks whether an edge exists, whether the destination vertex is unvisited and whether the new edge has a smaller weight.
+
+If the condition is true, the parent and key values are updated.
+
+Calculating Total Cost
+
+The final loop displays all selected MST edges and adds their weights to calculate the total minimum cost.
+
+`prim(graph)` calls the Prim's algorithm function from the main function.
+
+### 7\. Kruskal's Algorithm
+
+Kruskal's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree of a weighted, undirected graph.
+
+It works by sorting all the edges in increasing order of their weights and selecting the smallest edge first.
+
+Before adding an edge to the MST, the algorithm checks whether it creates a cycle. If it does not create a cycle, the edge is included in the MST.
+
+Cycle detection is performed using the Disjoint Set (Union-Find) data structure.
+
+### Algorithm
+
+* Start the algorithm.
+
+* Input the graph and its edges.
+
+* Sort all edges in increasing order of weight.
+
+* Initialize each vertex as a separate set.
+
+* Select the smallest available edge.
+
+* Check whether the selected edge forms a cycle.
+
+* If it does not form a cycle, include it in the MST and combine the two sets.
+
+* If it forms a cycle, reject the edge.
+
+* Repeat until V-1 edges are selected.
+
+* Display the Minimum Spanning Tree and its total cost.
+
+* Stop.
+
+### C++ Program – Kruskal's Algorithm
+
+```cpp
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+#define V 5
+#define E 7
+
+struct Edge
+{
+    int src, dest, weight;
+};
+
+int parent[V];
+
+int find(int i)
+{
+    if (parent[i] == i)
+        return i;
+
+    return find(parent[i]);
+}
+
+void Union(int x, int y)
+{
+    parent[x] = y;
+}
+
+void kruskal(Edge edges[])
+{
+    sort(edges, edges + E, [](Edge a, Edge b)
+    {
+        return a.weight < b.weight;
+    });
+
+    for (int i = 0; i < V; i++)
+        parent[i] = i;
+
+    int total = 0, count = 0;
+
+    cout << "\nEdge\tWeight\n";
+
+    for (int i = 0; i < E && count < V - 1; i++)
+    {
+        int x = find(edges[i].src);
+        int y = find(edges[i].dest);
+
+        if (x != y)
+        {
+            cout << edges[i].src << " - "
+                 << edges[i].dest << "\t"
+                 << edges[i].weight << endl;
+
+            total += edges[i].weight;
+            Union(x, y);
+            count++;
+        }
+    }
+
+    cout << "Total Minimum Cost = " << total;
+}
+
+int main()
+{
+    Edge edges[E] = {
+        {0, 1, 2},
+        {0, 3, 6},
+        {1, 2, 3},
+        {1, 3, 8},
+        {1, 4, 5},
+        {2, 4, 7},
+        {3, 4, 9}
+    };
+
+    kruskal(edges);
+
+    return 0;
+}
+```
+
+### Output
+
+```text
+Edge    Weight
+0 - 1     2
+1 - 2     3
+1 - 4     5
+0 - 3     6
+
+Total Minimum Cost = 16
+```
+
+### 8\. Explanation of Kruskal's Algorithm Code
+
+Header Files and Constants
+
+`#include <iostream>` is used for input and output operations.
+
+`#include <algorithm>` provides the sorting function used to arrange edges according to their weights.
+
+`#define V 5` defines the number of vertices, and `#define E 7` defines the number of edges.
+
+Edge Structure
+
+The `struct Edge` defines a structure containing three members: `src`, `dest` and `weight`.
+
+These members represent the source vertex, destination vertex and weight of an edge.
+
+Parent Array
+
+The `parent[V]` array stores the parent or representative of each vertex. It is used by the Union-Find data structure for cycle detection.
+
+Find Function
+
+The `find()` function finds the representative of the set to which a vertex belongs.
+
+If a vertex is its own parent, it returns that vertex. Otherwise, it recursively searches for its parent.
+
+Union Function
+
+The `Union()` function combines two different sets by making one representative the parent of the other.
+
+Sorting Edges
+
+The `sort()` function arranges all edges in increasing order of their weights so that the smallest edge is processed first.
+
+Initializing Sets
+
+The `for` loop initializes every vertex as a separate set by assigning its own index as its parent.
+
+Selecting Edges
+
+The main loop processes edges one by one in sorted order.
+
+The `find()` function identifies the sets of the source and destination vertices.
+
+The condition `if (x != y)` checks whether both vertices belong to different sets. If they do, adding the edge will not create a cycle.
+
+The selected edge is added to the MST, its weight is added to the total cost, and the two sets are combined using the `Union()` function.
+
+The process continues until V-1 edges are selected.
+
+Finally, the program displays the selected edges and total minimum cost.
+
+### 9\. Dry Run
+
+Consider a graph containing five vertices and seven edges.
+
+The following edges are given:
+
+| Edge  | Weight |
+| ----- | ------ |
+| 0 - 1 | 2      |
+| 0 - 3 | 6      |
+| 1 - 2 | 3      |
+| 1 - 3 | 8      |
+| 1 - 4 | 5      |
+| 2 - 4 | 7      |
+| 3 - 4 | 9      |
+
+In Kruskal's Algorithm, all edges are first arranged in increasing order of their weights.
+
+The algorithm then selects the smallest edge and checks whether it creates a cycle.
+
+Step-by-step execution:
+
+* Edge 0-1 with weight 2 is selected.
+
+* Edge 1-2 with weight 3 is selected.
+
+* Edge 1-4 with weight 5 is selected.
+
+* Edge 0-3 with weight 6 is selected.
+
+Now all five vertices are connected using four edges. Therefore, the MST is complete.
+
+Total Minimum Cost:
+
+2+3+5+6=16
+
+The minimum cost required to connect all vertices is 16.
+
+### 10\. Difference Between Prim's and Kruskal's Algorithm
+
+Prim's and Kruskal's algorithms are both greedy algorithms used to find the Minimum Spanning Tree. However, they follow different approaches.
+
+Prim's Algorithm starts from a selected vertex and gradually expands the MST by selecting the minimum-weight edge connecting a visited vertex to an unvisited vertex.
+
+Kruskal's Algorithm sorts all edges according to their weights and selects the smallest edges one by one while avoiding cycles.
+
+Prim's Algorithm uses a visited array and key array, whereas Kruskal's Algorithm uses the Disjoint Set (Union-Find) data structure for cycle detection.
+
+Both algorithms produce a Minimum Spanning Tree with the minimum total cost for a connected weighted undirected graph.
+
+### 11\. Time and Space Complexity
+
+Prim's Algorithm
+
+* Time Complexity: O(V²) using an adjacency matrix or O(E log V) using an appropriate priority queue implementation.
+
+* Space Complexity: O(V) for its auxiliary arrays.
+
+Kruskal's Algorithm
+
+* Time Complexity: O(E log E), mainly because of sorting all edges.
+
+* Space Complexity: O(V) for the parent array in this implementation, excluding the input edge storage.
+
+Here, V represents the number of vertices and E represents the number of edges.
+
+### 12\. Flowchart
+
+### Prim's Algorithm Flowchart
+
+Draw the flowchart using the following sequence:
+
+* Start.
+
+* Initialize all vertices as unvisited.
+
+* Select the starting vertex.
+
+* Find the minimum-weight edge connecting a visited vertex to an unvisited vertex.
+
+* Add the selected edge to the MST.
+
+* Mark the new vertex as visited.
+
+* Check whether all vertices are included.
+
+* If No, repeat the minimum-edge selection process.
+
+* If Yes, display the MST and total cost.
+
+* Stop.
+
+Symbols to use:
+
+* Oval: Start and Stop.
+
+* Rectangle: Initialization and processing.
+
+* Diamond: Decision condition.
+
+* Parallelogram: Input and output.
+
+### Kruskal's Algorithm Flowchart
+
+Draw the flowchart using the following sequence:
+
+* Start.
+
+* Input graph and edges.
+
+* Sort all edges in increasing order of weight.
+
+* Initialize the Disjoint Set.
+
+* Select the smallest edge.
+
+* Check whether the selected edge forms a cycle.
+
+* If No, add the edge to MST and perform Union.
+
+* If Yes, reject the edge.
+
+* Check whether V-1 edges have been selected.
+
+* If No, select the next edge.
+
+* If Yes, display the MST and total cost.
+
+* Stop.
+
+Symbols to use:
+
+* Oval: Start and Stop.
+
+* Rectangle: Sorting, initialization and processing.
+
+* Diamond: Cycle detection and edge-count conditions.
+
+* Parallelogram: Input and output.
+
+### 13\. Applications of Minimum Spanning Tree
+
+Minimum Spanning Tree is widely used in network design and optimization problems. Some important applications include:
+
+* Telephone Networks: Connecting different offices or cities with minimum telephone line installation cost.
+
+* Computer Networks: Connecting computers and network devices using minimum cabling.
+
+* Electrical Networks: Designing power distribution systems with minimum wiring cost.
+
+* Road Construction: Connecting different cities or locations with minimum construction cost.
+
+* Water Supply Networks: Connecting different areas through pipelines while minimizing installation expenses.
+
+### 14\. Conclusion
+
+Minimum Spanning Tree is an important concept in graph theory used to connect all vertices with minimum possible cost without forming cycles.
+
+In this practical, Prim's and Kruskal's algorithms are implemented using C++. Both algorithms successfully find the Minimum Spanning Tree and calculate the minimum connection cost. These algorithms are useful in designing efficient communication, transportation and computer networks.
