@@ -1,4 +1,4 @@
-- [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
+- [kadriraz(https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - Milo
 - [t.x](https://github.com/dashboard)
 - imame8 03/02/2026
@@ -8078,4 +8078,4 @@ Kunal Khallar - Learning to contribute :)
 - [Reza Razjoo](https://github.com/razjoorez)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
 - [Anjali] (https://github.com/srianjali-gajam) 
-
+-[Tawamba Audrey] (https://github.com/tawambaaudrey) 
