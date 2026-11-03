@@ -8099,4 +8099,6 @@ Kunal Khallar - Learning to contribute :)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
 - [Ioanna](https://github.com/isllakou)
 - [Meriam](https://github.com/stdbsc)
+- [Architha Anke](https://github.com/archithaanke9) - My first open source contribution!
+
 
