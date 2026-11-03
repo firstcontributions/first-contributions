@@ -1,0 +1,485 @@
+### Practical No. 8 – Implementation of Binary Search Tree (BST) and Tree Traversals
+
+### 1\. Aim
+
+To write a C++ program to implement a Binary Search Tree (BST) and perform In-order, Pre-order and Post-order traversals. Also, perform additional operations such as finding the height of the tree, finding the depth of a particular node, counting the total number of leaf nodes and internal nodes, and analysing the time complexity of each operation.
+
+### 2\. Software and Hardware Requirements
+
+Software Requirements:
+
+* Dev C++
+
+* Visual Studio Code
+
+Hardware Requirements:
+
+\- Any computer processor above Pentium 4.
+
+### 3\. Theory and Concepts
+
+### 3.1 Binary Search Tree (BST)
+
+A Binary Search Tree (BST) is a hierarchical, non-linear data structure in which each node contains a data value and references to its left and right child nodes. A BST follows a specific ordering property that makes searching, insertion and deletion operations efficient.
+
+In a Binary Search Tree, the left child contains a value smaller than its parent node, while the right child contains a value greater than its parent node. This property is maintained throughout the tree.
+
+The first node inserted into the tree is called the root node. Every node can have a maximum of two children, which are known as the left child and right child. Nodes without any children are called leaf nodes.
+
+For example, consider the following Binary Search Tree:
+
+### Example of a Binary Search Tree
+
+50 is the root; 30 and 70 are its children.
+
+In this example, 50 is the root node. The values 30 and 20 are smaller than 50, so they are placed in the left subtree. The values 70 and 40 follow the BST ordering property according to their respective parent nodes.
+
+The BST property makes searching, insertion and deletion easier because the comparison determines whether the operation should continue towards the left or right subtree.
+
+Applications of BST:
+
+* Searching applications.
+
+* Storing and organizing data.
+
+* Database indexing.
+
+* Implementing dictionaries and symbol tables.
+
+* Expression tree-related applications.
+
+### 3.2 Tree Traversal
+
+Tree traversal is the process of visiting every node of a tree exactly once in a specific order. It is used to access, display and process the data stored in a tree.
+
+There are three important types of depth-first tree traversal: In-order, Pre-order and Post-order.
+
+A. In-order Traversal (Left → Root → Right)
+
+In-order traversal first visits the left subtree, then processes the root node and finally visits the right subtree. In a Binary Search Tree, this traversal displays the elements in ascending sorted order.
+
+For example, for the given tree, the traversal is:
+
+`20 → 30 → 40 → 50 → 70`
+
+B. Pre-order Traversal (Root → Left → Right)
+
+Pre-order traversal first processes the root node, then visits the left subtree and finally visits the right subtree. It is useful for copying a tree and generating prefix expressions.
+
+For the example tree, the traversal is:
+
+`50 → 30 → 20 → 40 → 70`
+
+C. Post-order Traversal (Left → Right → Root)
+
+Post-order traversal first visits the left subtree, then visits the right subtree and finally processes the root node. It is useful for deleting a tree and evaluating postfix expressions.
+
+For the example tree, the traversal is:
+
+`20 → 40 → 30 → 70 → 50`
+
+### 3.3 Height of a Tree
+
+The height of a tree is the number of edges in the longest path from the root node to the deepest leaf node. It represents the maximum depth of the tree.
+
+To calculate the height, first calculate the height of the left subtree and the right subtree. Then take the maximum of both heights and add one for the current node when using node-based height.
+
+The formula is:
+
+H(T)=1+\\max(H(L),H(R))
+
+Here, L represents the left subtree and R represents the right subtree.
+
+For an empty tree, the height is conventionally taken as -1 when measuring height in edges, and 0 when measuring height in nodes.
+
+### 3.4 Depth of a Node
+
+The depth of a node is the number of edges between the root node and that particular node. The root node has depth 0 because there are no edges between the root and itself.
+
+To find the depth of a node, start searching from the root node. Compare the target value with the current node. If the target value is smaller, move towards the left subtree. If it is greater, move towards the right subtree. Count the number of edges travelled until the target node is found.
+
+### 3.5 Mirror Tree
+
+A mirror tree is created by swapping the left and right child nodes of every node in a binary tree. This operation reverses the structure of the tree horizontally.
+
+For example, if a node has 30 as its left child and 70 as its right child, its mirror will have 70 on the left and 30 on the right.
+
+### 3.6 Symmetric Tree
+
+A binary tree is called symmetric if its left subtree is the mirror image of its right subtree. In other words, both sides of the tree must have matching structures and corresponding values.
+
+A symmetric tree looks identical when reflected around its central vertical axis.
+
+### 3.7 Leaf Nodes and Internal Nodes
+
+Leaf Nodes: Leaf nodes are the nodes that do not have any children. A node is considered a leaf node when both its left and right child pointers are NULL.
+
+Internal Nodes: Internal nodes are the nodes that have at least one child. These nodes may have either one child or two children.
+
+For example, in the given BST, 20, 40 and 70 are leaf nodes, whereas 50 and 30 are internal nodes.
+
+### 4\. Algorithm
+
+### Step-by-Step Algorithm
+
+* Start the program.
+
+* Create a Binary Search Tree by inserting nodes one by one.
+
+* If the tree is empty, make the first inserted node the root node.
+
+* For every new node, compare its value with the current node.
+
+    * If the new value is smaller than the current node, insert it into the left subtree.
+
+    * If the new value is greater than the current node, insert it into the right subtree.
+
+* Perform In-order Traversal by visiting the left subtree, root node and right subtree.
+
+* Perform Pre-order Traversal by visiting the root node, left subtree and right subtree.
+
+* Perform Post-order Traversal by visiting the left subtree, right subtree and root node.
+
+* Find the height of the tree by calculating the heights of the left and right subtrees and taking the maximum value.
+
+* Accept a target value from the user and find its depth by searching from the root node.
+
+* Count the leaf nodes by checking whether a node has neither a left nor a right child.
+
+* Count the internal nodes by checking whether a node has at least one child.
+
+* Display all the results, including the three traversals, height, depth, number of leaf nodes and number of internal nodes.
+
+* Stop the program.
+
+### 5\. Flowchart
+
+### A. BST Creation and Insertion
+
+```mermaid
+
+flowchart TD
+    A([Start]) --> B[Create an empty BST]
+    B --> C[Enter node value]
+    C --> D{Is root NULL?}
+    D -- Yes --> E[Create root node]
+    D -- No --> F[Compare with current node]
+    F --> G{Value smaller?}
+    G -- Yes --> H[Move to left subtree]
+    G -- No --> I{Value greater?}
+    I -- Yes --> J[Move to right subtree]
+    I -- No --> K[Ignore duplicate value]
+    H --> L{Empty position found?}
+    J --> L
+    L -- No --> F
+    L -- Yes --> M[Insert new node]
+    E --> N{More values?}
+    M --> N
+    K --> N
+    N -- Yes --> C
+    N -- No --> O([Continue to traversals])
+```
+
+Explanation: The program begins by creating an empty BST. It accepts values from the user and checks whether the root is empty. If the root is empty, the first value becomes the root. Otherwise, each new value is compared with the current node. Smaller values move towards the left subtree, and greater values move towards the right subtree. This process continues until an empty position is found and the new node is inserted.
+
+### B. Tree Traversal and Additional Operations
+
+```mermaid
+
+flowchart TD
+    A([Start]) --> B[Create BST]
+    B --> C[Perform In-order Traversal]
+    C --> D[Perform Pre-order Traversal]
+    D --> E[Perform Post-order Traversal]
+    E --> F[Calculate Height]
+    F --> G[Enter Target Node]
+    G --> H[Find Depth of Target Node]
+    H --> I[Count Leaf Nodes]
+    I --> J[Count Internal Nodes]
+    J --> K[Display All Results]
+    K --> L([Stop])
+```
+
+Explanation: After creating the BST, the program performs all three traversal operations. It then calculates the height of the tree, accepts a target node to find its depth, and counts the leaf and internal nodes. Finally, all the calculated results are displayed.
+
+### 6\. C++ Program
+
+The following program implements all the main operations mentioned in your practical sheet. It supports BST creation, three traversals, height calculation, depth calculation, leaf-node counting and internal-node counting.
+
+COMPLETE PROGRAM — C++
+
+```cpp
+
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+// Structure of a tree node
+struct Node
+{
+    int data;
+    Node *left, *right;
+};
+
+// Create a new node
+Node* createNode(int value)
+{
+    Node* newNode = new Node;
+    newNode->data = value;
+    newNode->left = newNode->right = NULL;
+    return newNode;
+}
+
+// Insert a node into BST
+Node* insert(Node* root, int value)
+{
+    if (root == NULL)
+        return createNode(value);
+
+    if (value < root->data)
+        root->left = insert(root->left, value);
+
+    else if (value > root->data)
+        root->right = insert(root->right, value);
+
+    return root;
+}
+
+// In-order Traversal
+void inorder(Node* root)
+{
+    if (root == NULL)
+        return;
+
+    inorder(root->left);
+    cout << root->data << " ";
+    inorder(root->right);
+}
+
+// Pre-order Traversal
+void preorder(Node* root)
+{
+    if (root == NULL)
+        return;
+
+    cout << root->data << " ";
+    preorder(root->left);
+    preorder(root->right);
+}
+
+// Post-order Traversal
+void postorder(Node* root)
+{
+    if (root == NULL)
+        return;
+
+    postorder(root->left);
+    postorder(root->right);
+    cout << root->data << " ";
+}
+
+// Find height of tree (in edges)
+int height(Node* root)
+{
+    if (root == NULL)
+        return -1;
+
+    int leftHeight = height(root->left);
+    int rightHeight = height(root->right);
+
+    return 1 + max(leftHeight, rightHeight);
+}
+
+// Find depth of a node
+int findDepth(Node* root, int value, int depth = 0)
+{
+    if (root == NULL)
+        return -1;
+
+    if (root->data == value)
+        return depth;
+
+    if (value < root->data)
+        return findDepth(root->left, value, depth + 1);
+
+    return findDepth(root->right, value, depth + 1);
+}
+
+// Count leaf nodes
+int countLeaf(Node* root)
+{
+    if (root == NULL)
+        return 0;
+
+    if (root->left == NULL && root->right == NULL)
+        return 1;
+
+    return countLeaf(root->left) +
+           countLeaf(root->right);
+}
+
+// Count internal nodes
+int countInternal(Node* root)
+{
+    if (root == NULL)
+        return 0;
+
+    if (root->left == NULL && root->right == NULL)
+        return 0;
+
+    return 1 + countInternal(root->left) +
+           countInternal(root->right);
+}
+
+// Main function
+int main()
+{
+    Node* root = NULL;
+    int n, value, target;
+
+    cout << "Enter number of nodes: ";
+    cin >> n;
+
+    cout << "Enter node values: ";
+
+    for (int i = 0; i < n; i++)
+    {
+        cin >> value;
+        root = insert(root, value);
+    }
+
+    cout << "\nIn-order Traversal: ";
+    inorder(root);
+
+    cout << "\nPre-order Traversal: ";
+    preorder(root);
+
+    cout << "\nPost-order Traversal: ";
+    postorder(root);
+
+    cout << "\nHeight of Tree: "
+         << height(root);
+
+    cout << "\nEnter node to find depth: ";
+    cin >> target;
+
+    int depth = findDepth(root, target);
+
+    if (depth == -1)
+        cout << "Node not found";
+    else
+        cout << "Depth of Node: " << depth;
+
+    cout << "\nLeaf Nodes: "
+         << countLeaf(root);
+
+    cout << "\nInternal Nodes: "
+         << countInternal(root);
+
+    return 0;
+}
+```
+
+Important note about height: Your handwritten notes define height as the number of edges in the longest root-to-leaf path. This program follows that definition, so an empty tree has height -1 and a single-node tree has height 0. Your algorithm notes use 0 for an empty tree, which instead calculates height in nodes. Both conventions are valid, but the program uses the edge-based definition from your theory.
+
+Important note about duplicate values: This program ignores duplicate values because a standard BST implementation generally stores unique keys unless a separate duplicate-handling rule is defined.
+
+### 7\. Code Explanation for Viva
+
+The following explanations cover the important statements and the working of every function in the program.
+
+### A. Header Files and Node Structure
+
+| Code                 | Explanation                                                            |
+| -------------------- | ---------------------------------------------------------------------- |
+| #include <iostream>  | Includes the input/output library required for cin and cout.           |
+| #include <algorithm> | Includes the algorithm library, which provides the max() function.     |
+| using namespace std; | Allows us to use standard C++ library functions without writing std::. |
+| struct Node          | Defines a structure named Node to represent each tree node.            |
+| int data;            | Stores the value of the current node.                                  |
+| Node *left, *right;  | Stores pointers to the left and right child nodes.                     |
+
+Explanation: A node is the basic building block of a Binary Search Tree. Every node contains three main parts: the data value, a pointer to its left child and a pointer to its right child. These pointers connect different nodes and form the hierarchical structure of the tree.
+
+### B. Create Node Function
+
+| Code                                   | Explanation                                                                             |
+| -------------------------------------- | --------------------------------------------------------------------------------------- |
+| Node* createNode(int value)            | Defines a function that creates a new node and returns its address.                     |
+| Node* newNode = new Node;              | Dynamically allocates memory for a new node.                                            |
+| newNode->data = value;                 | Stores the given value in the node.                                                     |
+| newNode->left = newNode->right = NULL; | Initializes both child pointers to NULL because the new node has no children initially. |
+| return newNode;                        | Returns the address of the newly created node.                                          |
+
+Explanation: This function creates a new node whenever a new value is inserted into the BST. Initially, both child pointers are set to NULL because the node is not connected to any other node.
+
+### C. Insert Function
+
+| Code                                      | Explanation                                                      |
+| ----------------------------------------- | ---------------------------------------------------------------- |
+| Node* insert(Node* root, int value)       | Defines a recursive function to insert a new value into the BST. |
+| if (root == NULL)                         | Checks whether the current position is empty.                    |
+| return createNode(value);                 | Creates a new node at the empty position.                        |
+| if (value < root->data)                   | Checks whether the new value is smaller than the current node.   |
+| root->left = insert(root->left, value);   | Recursively inserts the value into the left subtree.             |
+| else if (value > root->data)              | Checks whether the new value is greater than the current node.   |
+| root->right = insert(root->right, value); | Recursively inserts the value into the right subtree.            |
+| return root;                              | Returns the root address after insertion.                        |
+
+Explanation: The insert function maintains the BST property. It compares the new value with the current node and decides whether to move left or right. This process continues recursively until an empty position is found. A new node is then created and connected to the tree.
+
+### D. In-order Traversal Function
+
+| Code                       | Explanation                                |
+| -------------------------- | ------------------------------------------ |
+| void inorder(Node* root)   | Defines a function for In-order Traversal. |
+| if (root == NULL)          | Checks whether the current node is empty.  |
+| return;                    | Stops recursion if the node is NULL.       |
+| inorder(root->left);       | Visits the left subtree first.             |
+| cout << root->data << " "; | Displays the current root value.           |
+| inorder(root->right);      | Visits the right subtree last.             |
+
+Explanation: In-order Traversal follows the sequence Left → Root → Right. Since the program uses a Binary Search Tree, this traversal displays the values in ascending order.
+
+### E. Pre-order Traversal Function
+
+| Code                       | Explanation                                 |
+| -------------------------- | ------------------------------------------- |
+| void preorder(Node* root)  | Defines a function for Pre-order Traversal. |
+| if (root == NULL)          | Checks whether the current node is empty.   |
+| return;                    | Stops recursion if the node is NULL.        |
+| cout << root->data << " "; | Displays the root node first.               |
+| preorder(root->left);      | Visits the left subtree.                    |
+| preorder(root->right);     | Visits the right subtree.                   |
+
+Explanation: Pre-order Traversal follows the sequence Root → Left → Right. The root node is displayed before visiting its child nodes.
+
+### F. Post-order Traversal Function
+
+| Code                       | Explanation                                  |
+| -------------------------- | -------------------------------------------- |
+| void postorder(Node* root) | Defines a function for Post-order Traversal. |
+| if (root == NULL)          | Checks whether the current node is empty.    |
+| return;                    | Stops recursion if the node is NULL.         |
+| postorder(root->left);     | Visits the left subtree first.               |
+| postorder(root->right);    | Visits the right subtree next.               |
+| cout << root->data << " "; | Displays the root node at the end.           |
+
+Explanation: Post-order Traversal follows the sequence Left → Right → Root. The root node is processed only after both its subtrees have been visited.
+
+### G. Height Function
+
+| Code                                     | Explanation                                                          |
+| ---------------------------------------- | -------------------------------------------------------------------- |
+| int height(Node* root)                   | Defines a function that calculates the height of the tree.           |
+| if (root == NULL)                        | Checks whether the current node is empty.                            |
+| return -1;                               | Returns -1 for an empty subtree because height is measured in edges. |
+| int leftHeight = height(root->left);     | Recursively calculates the height of the left subtree.               |
+| int rightHeight = height(root->right);   | Recursively calculates the height of the right subtree.              |
+| return 1 + max(leftHeight, rightHeight); | Returns one plus the greater of the two subtree heights.             |
+
+Explanation: The height function recursively calculates the heights of the left and right subtrees. It uses the `max()` function to select the larger height and adds one for the edge connecting the current node to that subtree.
+
+### H. Find Depth Function
+
+| Code                                           
