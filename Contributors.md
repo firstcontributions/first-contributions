@@ -6,6 +6,7 @@
 - [t.x](https://github.com/dashboard)
 - imame8 03/02/2026
 - [szy](https://github.com/ccLuckysun)
+-[Harsh](https://github.com/guptaharsh-cloud/first-contributions)
 - [Aishwarya](https://github.com/aishwaryaprakashg) - Learning open-source development.
 - [Joao Gabriel](https://github.com/joaogabriel-11) - Learning open-source development.
 - [Raviteja] (https://github.com/raviteja311) - Learning open-source development
