@@ -1,3 +1,4 @@
+- [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - Milo
 - [t.x](https://github.com/dashboard)
 - [szy](https://github.com/ccLuckysun)
