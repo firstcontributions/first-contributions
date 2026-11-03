@@ -1,0 +1,523 @@
+Worked for 17s
+
+### Practical No. 7 – Implement N-Queen Problem Using Backtracking
+
+The following content is prepared from your uploaded practical sheet in a structured, descriptive and easy-to-understand format. You can directly copy it into your GitHub repository.
+
+### 1\. Objective
+
+* To understand the concept of Backtracking.
+
+* To solve constraint satisfaction problems using recursive techniques.
+
+* To place N queens safely on an N × N chessboard such that no two queens attack each other.
+
+### 2\. Algorithm
+
+* Start the program.
+
+* Read the number of queens `N`.
+
+* Initialize an N × N chessboard with all positions empty.
+
+* Begin placing queens from the first row.
+
+* For each column in the current row, check whether placing a queen is safe.
+
+* A position is considered safe if no other queen is present in the same column, left diagonal or right diagonal.
+
+* If the position is safe, place the queen in that position.
+
+* Recursively move to the next row and repeat the process.
+
+* If all N queens are placed successfully, display the chessboard.
+
+* If no safe position is available in the current row, remove the previously placed queen.
+
+* Try another possible column. This process is called backtracking.
+
+* Repeat the process until a valid arrangement is found.
+
+* Stop the program.
+
+### 3\. Flowchart
+
+![N Queen - TUF+](https://images.openai.com/static-rsc-4/UVe0cVOKSujBsnmRIFNl7f1PpDfxJ1yiZ7Ffj_CkihZHcDRC_HD6sgh0e5a7wkCCl4hm4-01CuzJtQEDrj7HrsrvDPB5lZsCQxEsmbVOo4SdD2nipDOW9lpFun0NCnZCmaiZVNeuQ-NLNWL4VIH7uzFGc3mCwY8nAetYM1_7rA4Lb36u2AIfvRiQh9-4IhhS?purpose=fullsize)
+
+Flowchart explanation:
+
+* Start by accepting the value of N.
+
+* Initialize the chessboard.
+
+* Check whether a queen can be placed safely in the current row.
+
+* If safe, place the queen and move to the next row.
+
+* If all queens are placed, display the solution.
+
+* If no safe position is available, backtrack and try another column.
+
+* Finally, stop after finding a valid arrangement.
+
+### 4\. C++ Program
+
+C++ – Backtracking
+
+The uploaded practical sheet does not contain the actual program code. The following is a standard C++ implementation based on the algorithm given in your manual.
+
+```cpp
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+// Check whether a queen can be placed safely
+bool isSafe(vector<string>& board, int row, int col, int n)
+{
+    // Check the same column
+    for (int i = 0; i < row; i++)
+    {
+        if (board[i][col] == 'Q')
+            return false;
+    }
+
+    // Check upper-left diagonal
+    for (int i = row - 1, j = col - 1;
+         i >= 0 && j >= 0; i--, j--)
+    {
+        if (board[i][j] == 'Q')
+            return false;
+    }
+
+    // Check upper-right diagonal
+    for (int i = row - 1, j = col + 1;
+         i >= 0 && j < n; i--, j++)
+    {
+        if (board[i][j] == 'Q')
+            return false;
+    }
+
+    return true;
+}
+
+// Solve the N-Queen problem using backtracking
+bool solveNQueen(vector<string>& board, int row, int n)
+{
+    // All queens are placed successfully
+    if (row == n)
+        return true;
+
+    // Try every column in the current row
+    for (int col = 0; col < n; col++)
+    {
+        if (isSafe(board, row, col, n))
+        {
+            // Place the queen
+            board[row][col] = 'Q';
+
+            // Move to the next row
+            if (solveNQueen(board, row + 1, n))
+                return true;
+
+            // Backtrack by removing the queen
+            board[row][col] = '.';
+        }
+    }
+
+    return false;
+}
+
+int main()
+{
+    int n;
+
+    cout << "Enter the number of queens: ";
+    cin >> n;
+
+    if (n <= 0)
+    {
+        cout << "Invalid input!";
+        return 0;
+    }
+
+    vector<string> board(n, string(n, '.'));
+
+    if (solveNQueen(board, 0, n))
+    {
+        cout << "Solution:\n";
+
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                cout << board[i][j] << " ";
+            }
+            cout << endl;
+        }
+    }
+    else
+    {
+        cout << "No solution exists.";
+    }
+
+    return 0;
+}
+```
+
+Symbols used in the program:
+
+* `Q` – Represents a queen placed on the chessboard.
+
+* `.` – Represents an empty position.
+
+* `isSafe()` – Checks whether a position is safe.
+
+* `solveNQueen()` – Places queens recursively using backtracking.
+
+### 5\. Code Explanation (Line by Line)
+
+### A. Header files and namespace
+
+Line 1:
+
+```cpp
+#include <iostream>
+```
+
+Includes the input-output library, which allows us to use `cin` and `cout`.
+
+Line 2:
+
+```cpp
+#include <vector>
+```
+
+Includes the vector library to create a dynamic two-dimensional chessboard.
+
+Line 3:
+
+```cpp
+using namespace std;
+```
+
+Allows us to use standard library functions without writing `std::` repeatedly.
+
+### B. isSafe() function
+
+Line 4:
+
+```cpp
+bool isSafe(vector<string>& board, int row, int col, int n)
+```
+
+Defines a Boolean function that checks whether a queen can be placed safely at the given row and column.
+
+Line 5:
+
+```cpp
+for (int i = 0; i < row; i++)
+```
+
+Checks all the previous rows in the same column.
+
+Line 6:
+
+```cpp
+if (board[i][col] == 'Q')
+```
+
+Checks whether another queen is already present in that column.
+
+Line 7:
+
+```cpp
+return false;
+```
+
+Returns false if a queen is found, meaning the position is unsafe.
+
+Lines 8–12:
+
+```cpp
+for (int i = row - 1, j = col - 1;
+     i >= 0 && j >= 0; i--, j--)
+```
+
+Checks the upper-left diagonal of the current position.
+
+Line 13:
+
+```cpp
+if (board[i][j] == 'Q')
+```
+
+Checks whether a queen exists on the upper-left diagonal.
+
+Line 14:
+
+```cpp
+return false;
+```
+
+Returns false if a queen is found on that diagonal.
+
+Lines 15–19:
+
+```cpp
+for (int i = row - 1, j = col + 1;
+     i >= 0 && j < n; i--, j++)
+```
+
+Checks the upper-right diagonal of the current position.
+
+Line 20:
+
+```cpp
+if (board[i][j] == 'Q')
+```
+
+Checks whether another queen is present on the upper-right diagonal.
+
+Line 21:
+
+```cpp
+return false;
+```
+
+Returns false if the position is unsafe.
+
+Line 22:
+
+```cpp
+return true;
+```
+
+Returns true if no queen is found in the same column or either upper diagonal.
+
+### C. solveNQueen() function
+
+Line 23:
+
+```cpp
+bool solveNQueen(vector<string>& board, int row, int n)
+```
+
+Defines a recursive function that solves the N-Queen problem by placing queens row by row.
+
+Line 24:
+
+```cpp
+if (row == n)
+```
+
+Checks whether all N rows have been processed successfully.
+
+Line 25:
+
+```cpp
+return true;
+```
+
+Returns true when all queens have been placed successfully.
+
+Line 26:
+
+```cpp
+for (int col = 0; col < n; col++)
+```
+
+Tries every column in the current row.
+
+Line 27:
+
+```cpp
+if (isSafe(board, row, col, n))
+```
+
+Calls the `isSafe()` function to check whether the current position is safe.
+
+Line 28:
+
+```cpp
+board[row][col] = 'Q';
+```
+
+Places a queen at the safe position.
+
+Line 29:
+
+```cpp
+if (solveNQueen(board, row + 1, n))
+```
+
+Calls the same function recursively to place a queen in the next row.
+
+Line 30:
+
+```cpp
+return true;
+```
+
+Returns true if a valid arrangement is found.
+
+Line 31:
+
+```cpp
+board[row][col] = '.';
+```
+
+Removes the previously placed queen if the recursive path fails. This is the backtracking step.
+
+Line 32:
+
+```cpp
+return false;
+```
+
+Returns false when no safe position is available in the current row.
+
+### D. main() function
+
+Line 33:
+
+```cpp
+int main()
+```
+
+The main function is the starting point of program execution.
+
+Line 34:
+
+```cpp
+int n;
+```
+
+Declares an integer variable to store the number of queens.
+
+Line 35:
+
+```cpp
+cin >> n;
+```
+
+Accepts the number of queens from the user.
+
+Lines 36–40:
+
+```cpp
+if (n <= 0)
+{
+    cout << "Invalid input!";
+    return 0;
+}
+```
+
+Checks whether the entered value is valid. If N is zero or negative, the program terminates.
+
+Line 41:
+
+```cpp
+vector<string> board(n, string(n, '.'));
+```
+
+Creates an N × N chessboard and initializes every position with a dot, representing an empty cell.
+
+Line 42:
+
+```cpp
+if (solveNQueen(board, 0, n))
+```
+
+Calls the recursive function, starting from row zero.
+
+Line 43:
+
+```cpp
+cout << "Solution:\n";
+```
+
+Displays the solution heading if a valid arrangement is found.
+
+Lines 44–51:
+
+```cpp
+for (int i = 0; i < n; i++)
+{
+    for (int j = 0; j < n; j++)
+    {
+        cout << board[i][j] << " ";
+    }
+    cout << endl;
+}
+```
+
+Uses nested loops to display the chessboard row by row.
+
+Lines 52–55:
+
+```cpp
+else
+{
+    cout << "No solution exists.";
+}
+```
+
+Displays a message if no valid arrangement of queens is found.
+
+Line 56:
+
+```cpp
+return 0;
+```
+
+Terminates the program successfully.
+
+### 6\. Flowchart – Step-by-Step Representation
+
+The following flowchart represents the complete working of the program.
+
+```mermaid
+
+flowchart TD
+    A([Start]) --> B[/Enter number of queens N/]
+    B --> C[Initialize N x N chessboard]
+    C --> D[Start from first row]
+    D --> E{Are all queens placed?}
+    E -->|Yes| F[Display chessboard]
+    F --> G([Stop])
+    E -->|No| H[Select a column]
+    H --> I{Is position safe?}
+    I -->|Yes| J[Place queen]
+    J --> K[Move to next row]
+    K --> E
+    I -->|No| L{Any more columns?}
+    L -->|Yes| H
+    L -->|No| M[Backtrack and remove previous queen]
+    M --> N{Any previous position to try?}
+    N -->|Yes| H
+    N -->|No| O[No solution exists]
+    O --> G
+```
+
+### 7\. Conclusion
+
+The N-Queen problem was successfully implemented using the Backtracking technique in C++. The program places queens row by row while checking whether each position is safe. It ensures that no two queens are present in the same row, column or diagonal.
+
+Whenever a conflict occurs, the program removes the previously placed queen and tries another possible position. This process is called backtracking.
+
+Thus, we understood how recursion and backtracking can be used to solve constraint satisfaction problems and find a valid arrangement of N queens on an N × N chessboard.
+
+### 8\. Important Concepts for Practical Viva
+
+| Concept          | Explanation                                     |
+| ---------------- | ----------------------------------------------- |
+| N-Queen Problem  | Placing N queens safely on an N × N chessboard. |
+| Backtracking     | Trying a solution and undoing it if it fails.   |
+| Recursion        | A function calling itself.                      |
+| isSafe()         | Checks whether a queen can be placed safely.    |
+| Base Condition   | Stops recursion when all queens are placed.     |
+| Time Complexity  | O(N!) as given in the practical manual.         |
+| Space Complexity | O(N²) for the chessboard.                       |
+
+Important note: The program finds one valid arrangement, not necessarily all possible arrangements.
