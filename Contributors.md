@@ -1,5 +1,4 @@
 - [Varshith Julakanti](https://github.com/Varshith0105) - This is my profile vist this!
--Barrhouss
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - Milo
 - Alexis
