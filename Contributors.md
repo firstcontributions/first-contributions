@@ -6009,6 +6009,7 @@ bhumika
 - [Shodhan](https://github.com/shodhan-git)
 - [Gerd10](https://github.com/Gerd10)
 - [Hui-size](https://github.com/Hui-size)
+- [Sandiyo Christan](https://github.com/sandiyochristan)
 - [lka-top](https://github.com/lka-top)
 - [Attlaass](https://github.com/Attlaass)
 - [Raahu11](https://github.com/raahu11)
