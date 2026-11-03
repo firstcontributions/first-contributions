@@ -13,6 +13,7 @@
 - [S. H. Mahammed Saleeth](https://github.com/saleeth-vibe) - This is my first open source contribution!
 - [Buddie Powell](https://github.com/BuddiePowell) - This is my very first contribution with open source!
 - [Vishal Singh](https://github.com/vishalz0879-cell) - This is my first open source contribution!
+- [Mareva Dossou](https://github.com/marevadossou)
 hnbmc2003
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [tyy200203](https://github.com/tyy200203) - My first pull request.
