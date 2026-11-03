@@ -1,0 +1,518 @@
+### Practical No. 5 – Quick Sort Using Divide and Conquer Strategy
+
+### 1\. Object
+
+* To implement sorting using the Divide and Conquer strategy.
+
+* To understand the concept and working of the Quick Sort algorithm.
+
+* To determine the time required to sort a given set of elements using Quick Sort.
+
+### 2\. Algorithm
+
+* Start.
+
+* Accept the number of elements `n` from the user.
+
+* Read the array elements.
+
+* Call the `quickSort()` function with the array, lower index and higher index.
+
+* Select the last element of the array as the pivot.
+
+* Initialize the variable `i` to `low - 1`.
+
+* Compare each element with the pivot.
+
+* If an element is smaller than the pivot, increment `i` and swap the elements.
+
+* Place the pivot at its correct position in the array.
+
+* Call `quickSort()` recursively for the left subarray.
+
+* Call `quickSort()` recursively for the right subarray.
+
+* Repeat the process until all elements are sorted.
+
+* Display the sorted array.
+
+* Calculate and display the execution time.
+
+* Stop.
+
+### 3\. C++ Program
+
+The following is a standard implementation based on the algorithm described in your practical manual.
+
+```cpp
+#include <iostream>
+#include <ctime>
+using namespace std;
+
+int partition(int arr[], int low, int high)
+{
+    int pivot = arr[high];
+    int i = low - 1;
+
+    for (int j = low; j < high; j++)
+    {
+        if (arr[j] < pivot)
+        {
+            i++;
+            swap(arr[i], arr[j]);
+        }
+    }
+
+    swap(arr[i + 1], arr[high]);
+    return i + 1;
+}
+
+void quickSort(int arr[], int low, int high)
+{
+    if (low < high)
+    {
+        int pi = partition(arr, low, high);
+
+        quickSort(arr, low, pi - 1);
+        quickSort(arr, pi + 1, high);
+    }
+}
+
+int main()
+{
+    int n;
+
+    cout << "Enter number of elements: ";
+    cin >> n;
+
+    int arr[n];
+
+    cout << "Enter array elements: ";
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
+    }
+
+    clock_t start = clock();
+
+    quickSort(arr, 0, n - 1);
+
+    clock_t end = clock();
+
+    cout << "Sorted array: ";
+    for (int i = 0; i < n; i++)
+    {
+        cout << arr[i] << " ";
+    }
+
+    double time_taken =
+        double(end - start) / CLOCKS_PER_SEC;
+
+    cout << "\nTime taken: "
+         << time_taken << " seconds";
+
+    return 0;
+}
+```
+
+### 4\. Flowchart
+
+START
+
+Input number of elements (n)
+
+Read array elements
+
+Call quickSort(arr, low, high)
+
+Select pivot and partition array
+
+Place pivot at correct position
+
+Recursively sort left and right subarrays
+
+Display sorted array
+
+Calculate execution time
+
+STOP
+
+### 5\. Code Explanation Line by Line
+
+### A. Header Files and Namespace
+
+Line 1:
+
+```cpp
+#include <iostream>
+```
+
+Includes the input-output stream library. It allows us to use `cin` and `cout`.
+
+Line 2:
+
+```cpp
+#include <ctime>
+```
+
+Includes the time library, which is used to calculate the execution time of the program.
+
+Line 3:
+
+```cpp
+using namespace std;
+```
+
+Allows us to use standard library functions without writing `std::` before them.
+
+### B. Partition Function
+
+Line 4:
+
+```cpp
+int partition(int arr[], int low, int high)
+```
+
+Defines the partition function. It accepts the array, starting index and ending index and returns the correct position of the pivot.
+
+Line 5:
+
+```cpp
+{
+```
+
+Begins the partition function.
+
+Line 6:
+
+```cpp
+int pivot = arr[high];
+```
+
+Selects the last element of the array as the pivot element.
+
+Line 7:
+
+```cpp
+int i = low - 1;
+```
+
+Initializes `i` to one position before the starting index. It keeps track of elements smaller than the pivot.
+
+Line 8:
+
+```cpp
+for (int j = low; j < high; j++)
+```
+
+Runs a loop from the starting index to the element before the pivot.
+
+Line 9:
+
+```cpp
+if (arr[j] < pivot)
+```
+
+Checks whether the current element is smaller than the pivot.
+
+Line 10:
+
+```cpp
+i++;
+```
+
+Increments `i` when an element smaller than the pivot is found.
+
+Line 11:
+
+```cpp
+swap(arr[i], arr[j]);
+```
+
+Swaps the current element with the element at index `i`.
+
+Line 12:
+
+```cpp
+}
+```
+
+Ends the if condition.
+
+Line 13:
+
+```cpp
+}
+```
+
+Ends the for loop.
+
+Line 14:
+
+```cpp
+swap(arr[i + 1], arr[high]);
+```
+
+Places the pivot element at its correct sorted position.
+
+Line 15:
+
+```cpp
+return i + 1;
+```
+
+Returns the final index of the pivot.
+
+### C. Quick Sort Function
+
+Line 16:
+
+```cpp
+void quickSort(int arr[], int low, int high)
+```
+
+Defines the Quick Sort function, which takes an array and its starting and ending indices.
+
+Line 17:
+
+```cpp
+{
+```
+
+Begins the Quick Sort function.
+
+Line 18:
+
+```cpp
+if (low < high)
+```
+
+Checks whether the subarray contains more than one element. If true, sorting continues.
+
+Line 19:
+
+```cpp
+int pi = partition(arr, low, high);
+```
+
+Calls the partition function and stores the pivot's correct position in `pi`.
+
+Line 20:
+
+```cpp
+quickSort(arr, low, pi - 1);
+```
+
+Recursively sorts the left subarray containing elements before the pivot.
+
+Line 21:
+
+```cpp
+quickSort(arr, pi + 1, high);
+```
+
+Recursively sorts the right subarray containing elements after the pivot.
+
+Line 22:
+
+```cpp
+}
+```
+
+Ends the if condition.
+
+Line 23:
+
+```cpp
+}
+```
+
+Ends the Quick Sort function.
+
+### D. Main Function
+
+Line 24:
+
+```cpp
+int main()
+```
+
+Defines the main function from where program execution begins.
+
+Line 25:
+
+```cpp
+{
+```
+
+Begins the main function.
+
+Line 26:
+
+```cpp
+int n;
+```
+
+Declares an integer variable `n` to store the number of elements.
+
+Line 27:
+
+```cpp
+cout << "Enter number of elements: ";
+```
+
+Displays a message asking the user to enter the number of elements.
+
+Line 28:
+
+```cpp
+cin >> n;
+```
+
+Accepts the number of elements from the user.
+
+Line 29:
+
+```cpp
+int arr[n];
+```
+
+Declares an array of size `n` to store the elements. (This variable-length array is supported by some compilers, including common GCC configurations.)
+
+Line 30:
+
+```cpp
+cout << "Enter array elements: ";
+```
+
+Displays a message asking the user to enter the array elements.
+
+Line 31:
+
+```cpp
+for (int i = 0; i < n; i++)
+```
+
+Runs a loop to read all array elements.
+
+Line 32:
+
+```cpp
+cin >> arr[i];
+```
+
+Accepts each element and stores it in the array.
+
+Line 33:
+
+```cpp
+}
+```
+
+Ends the input loop.
+
+Line 34:
+
+```cpp
+clock_t start = clock();
+```
+
+Stores the starting CPU time before sorting begins.
+
+Line 35:
+
+```cpp
+quickSort(arr, 0, n - 1);
+```
+
+Calls the Quick Sort function to sort the complete array.
+
+Line 36:
+
+```cpp
+clock_t end = clock();
+```
+
+Stores the CPU time after sorting is completed.
+
+Line 37:
+
+```cpp
+cout << "Sorted array: ";
+```
+
+Displays the sorted array heading.
+
+Line 38:
+
+```cpp
+for (int i = 0; i < n; i++)
+```
+
+Runs a loop to access each element of the sorted array.
+
+Line 39:
+
+```cpp
+cout << arr[i] << " ";
+```
+
+Displays each sorted element.
+
+Line 40:
+
+```cpp
+}
+```
+
+Ends the display loop.
+
+Line 41:
+
+```cpp
+double time_taken =
+    double(end - start) / CLOCKS_PER_SEC;
+```
+
+Calculates the time required for sorting in seconds by dividing the difference between ending and starting CPU time by `CLOCKS_PER_SEC`.
+
+Line 42:
+
+```cpp
+cout << "\nTime taken: "
+     << time_taken << " seconds";
+```
+
+Displays the total execution time in seconds.
+
+Line 43:
+
+```cpp
+return 0;
+```
+
+Indicates that the program has executed successfully.
+
+Line 44:
+
+```cpp
+}
+```
+
+Ends the main function.
+
+### 6\. Conclusion
+
+The Quick Sort algorithm was successfully implemented using the Divide and Conquer strategy. The program selects a pivot element and partitions the array into smaller subarrays. These subarrays are sorted recursively until the complete array is arranged in ascending order. The execution time required for sorting the elements is also calculated and displayed.
+
+### 7\. Time and Space Complexity
+
+| Case         | Time Complexity |
+| ------------ | --------------- |
+| Best Case    | O(n log n)      |
+| Average Case | O(n log n)      |
+| Worst Case   | O(n²)           |
+
+Space Complexity: O(log n) on average for the recursion stack.
+
+Important for viva: The worst case occurs when the pivot repeatedly becomes the smallest or largest element, resulting in highly unbalanced partitions.
