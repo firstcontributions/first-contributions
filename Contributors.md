@@ -124,6 +124,7 @@ z54c6hf
 -[SCHNEV THOMPSO](https://github.com/Schnev-dev) - This is my first contribution to an open-source project.
 -[Abida](https://github.com/Abida-MS)-Learning to contribute!
 -[Hrushikesh Ramilla](https://github.com/Hrushikesh-ramilla) - Contributing to open source!
+-[Hrushikesh R](https://github.com/Hrushikesh-ramilla) - Building high performance systems!
 
 Aditya Oraon
 
