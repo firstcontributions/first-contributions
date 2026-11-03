@@ -1,4 +1,5 @@
 - [t.x](https://github.com/dashboard)
+- [szy](https://github.com/ccLuckysun)
 - [Aishwarya](https://github.com/aishwaryaprakashg) - Learning open-source development.
 - [D3F4ULT-dev](https://github.com/D3F4ULT-dev) -  Officially making my mark in open source.
 - zhh‘s first
