@@ -8,6 +8,7 @@
 - Sanchit Sharma
 - Alexis
 - Antony
+-Rishitha creates
 - [chuan0418-com](https://ch418.tw)
 - Subham Kumar
 - [t.x](https://github.com/dashboard)
