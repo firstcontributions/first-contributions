@@ -8115,3 +8115,4 @@ Kunal Khallar - Learning to contribute :)
 - [Meriam](https://github.com/stdbsc)
 
 - [Shafaq Irshad](https://github.com/Shafaq-codes)
+- [corilo96](https://github.com/corilo96)
