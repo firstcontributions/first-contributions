@@ -9,6 +9,7 @@
 - Alexis
 - Antony
 - cylindrix-git
+- Khaled Ramadan
 -Rishitha creates
 - [chuan0418-com](https://ch418.tw)
 - Subham Kumar
