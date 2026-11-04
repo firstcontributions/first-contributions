@@ -4909,6 +4909,7 @@ andrewcodess
 - [Stone Cold](https://github.com/sewerslvvt)
 - [Stéphane LABROT](https://github.com/stephanelab)
 - [Subhajit Sarkar](https://github.com/Subhajit281)
+- [Jesus Bracamonte](https://github.com/JesusBracamonte) This is my first open source!
 - [Subham Mridha](https://github.com/mridhas)
 - [Suchi Shukla](https://github.com/Suchi1905)
 - [Suchit](https://github.com/suchit-hirani-python-ak)
