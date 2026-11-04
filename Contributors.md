@@ -8134,6 +8134,7 @@ Kunal Khallar - Learning to contribute :)
 - [Meriam](https://github.com/stdbsc)
 - [Architha Anke](https://github.com/archithaanke9) - My first open source contribution!
 
+- [Bhushan Nanvare](https://github.com/Bhushan-Nanvare) - ram altman :)
 - [gautam rajput](https://github.com/gautam-rajput-codes) - My first open source contribution 
 - [Shafaq Irshad](https://github.com/Shafaq-codes)
 - [jinse6](https://github.com/jinse6)
