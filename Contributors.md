@@ -8124,7 +8124,7 @@ Kunal Khallar - Learning to contribute :)
 - [Meriam](https://github.com/stdbsc)
 
 - [Shafaq Irshad](https://github.com/Shafaq-codes)
-  
+- [jinse6](https://github.com/jinse6)
 - [corilo96](https://github.com/corilo96)
 - [Sagarisha](https://github.com/SagarishaR)- Nothing is impossible
 - [woozie005](https://github.com/woozie005)
