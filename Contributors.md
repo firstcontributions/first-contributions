@@ -8141,4 +8141,5 @@ Kunal Khallar - Learning to contribute :)
 - [corilo96](https://github.com/corilo96)
 - [Sagarisha](https://github.com/SagarishaR)- Nothing is impossible
 - [woozie005](https://github.com/woozie005)
+- [Kyle Hill](https://github.com/Slim-Beatnik)
 - [andiparasol](https://github.com/andiparasol)
