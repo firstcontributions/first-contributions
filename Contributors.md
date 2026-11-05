@@ -8112,7 +8112,7 @@ Kunal Khallar - Learning to contribute :)
 [Andres f Roble](https://github.com/roblesandresm/) | My first My first contribution
 [Sandra](https://github.com/SandraSaju07) | This is my first contribution
 [Ananya Sharma](https://github.com/ananyasharmaRR) 
-
+-[Ayomide Oladoja] (https://github.com/Ayo20xx)
 - [Thibello Letseka](https://github.com/TLetseka)
 - [Junyong Seong](https://github.com/Jun0416/first-contributions)
 - [Ray Joshua](https://github.com/rayjoshuaa)
