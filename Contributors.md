@@ -74,6 +74,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
   [Sayantan Dutta](https://github.com/sayantandutta117-hue)- My first step towards experiencing the contibution on open source project
 - [Gowri](https://github.com/Gowry11) -  my first step towards the world of open source
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
+- [Tejas] - first contribution
 - [Muhammad Auf](https://github.com/Mfauf) - My first PR
 - [Gustavo Fraga Apellaniz](https://github.com/GustavoApellaniz)
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
