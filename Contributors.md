@@ -67,6 +67,7 @@ jean-francois LHOMME
 - [solace](https://github.com/thomas-delro) - first time 
 - [Tiago](https://github.com/tiagonleal) - Just testing!
 - [Anastasia Ritus](https://github.com/kartoxaxa) - My first pull request
+-Steelbane was here
 https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Apalak Patra](https://github.com/apk-ronnie) - my first open source contribution
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
@@ -8144,8 +8145,8 @@ Kunal Khallar - Learning to contribute :)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
 - [Ioanna](https://github.com/isllakou)
 - [Meriam](https://github.com/stdbsc)
-- [Architha Anke](https://github.com/archithaanke9) - My first open source contribution!
-
+- [Architha Anke](https://github.com/archithaanke9) - My first open source contribution
+- SteelBane is added to list
 - [Bhushan Nanvare](https://github.com/Bhushan-Nanvare) - ram altman :)
 - [gautam rajput](https://github.com/gautam-rajput-codes) - My first open source contribution 
 - [Shafaq Irshad](https://github.com/Shafaq-codes)
