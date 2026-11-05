@@ -280,6 +280,7 @@ dehdlhl
 - [Kapil Singh] - "Trying opensource"
 - [Jesse Francis](https://github.com/jessefrancis-glitch) "My first contributon , a humble beginning"
 - [Yuzu](https://github.com/YuzuLemonn)
+- [Devansh Singh Bais](https://github.com/DevanshSinghBais) "feeling motivated"
 - [Raying](https://github.com/Raying520)
 - [Kushal Patil](https://github.com/KushalPatil7)
 - [mamayuquero](https://github.com/mamayuquero)
