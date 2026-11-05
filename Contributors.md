@@ -1,9 +1,7 @@
 -[Dhruv Patil](https://github.com/Dhruv-2305)- Not first but surely a contribution to open source. Came here through web surfing.
 -[Viking](https://github.com/Dhruv-2305)-Again contributed to this open soure newbie repository.
-
 - [Emmanuel Timothy](https://github.com/mentor98) - My first contribution to the open source
 - [Qaiem] (https://github.com/ghareep) - this is my second contribution to open source and not the last 
-
 [Soccer](https://github.com/karnatiSoccer)
 - [Jammy Ding](https://github.com/jammyding) - This is my very first contribution with open source!
 - [Anurag Bhandary](https://github.com/AnuragBhandary) - My first contribution
@@ -8152,6 +8150,7 @@ Kunal Khallar - Learning to contribute :)
 - [JEFFRIN](https://github.com/jeffrinjeffrin64-star)
 - [Ioanna](https://github.com/isllakou)
 - [Meriam](https://github.com/stdbsc)
+- [Mhd Sinan C](https://github.com/MhdSinanC)
 - [Architha Anke](https://github.com/archithaanke9) - My first open source contribution
 - SteelBane is added to list
 - [Bhushan Nanvare](https://github.com/Bhushan-Nanvare) - ram altman :)
