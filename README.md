@@ -226,6 +226,31 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## Post-Merge Cleanup & Best Practices
+
+After your pull request is merged, it's a good idea to clean up your fork and local repository so they stay in sync with the original project:
+
+1. **Switch back to your main branch** and pull the latest changes:
+   ```bash
+   git switch main
+   git pull upstream main
+   ```
+   (If you haven't added the original repo as `upstream` yet, run `git remote add upstream https://github.com/firstcontributions/first-contributions.git`.)
+
+2. **Delete the branch you used for your contribution** (it's no longer needed):
+   ```bash
+   git branch -d your-branch-name
+   git push origin --delete your-branch-name
+   ```
+
+3. **Keep your fork in sync** before starting your next contribution by repeating step 1.
+
+**Best practices for contributors:**
+- Use a descriptive branch name (e.g., `add-your-name`).
+- Add your entry in the middle of `Contributors.md`, not at the very top or bottom.
+- Keep your pull request focused on a single change.
+- Be patient and polite when interacting with maintainers.
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
