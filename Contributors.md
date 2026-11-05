@@ -10,6 +10,7 @@
 - [Varshith Julakanti](https://github.com/Varshith0105) - This is my profile vist this!
 - [Bilel Bouzaiane](https://github.com/bilelbouz)
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
+- [Raunit Giri](https://github.com/rauni5) - First open source contribution.
 - Milo
 - Sanchit Sharma
 - Alexis
