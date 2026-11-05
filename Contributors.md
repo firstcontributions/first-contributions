@@ -19,6 +19,7 @@
 - imame8 03/02/2026
 -[likhith prasad](https://github.com/likhithprasad1023-web)- my first contro
 - [szy](https://github.com/ccLuckysun)
+- Ash Ketchum
 -[Harsh](https://github.com/guptaharsh-cloud/first-contributions)
 - [Shahid](https://github.com/shahidbro) - My First Contribution.
 - [Aishwarya](https://github.com/aishwaryaprakashg) - Learning open-source development.
