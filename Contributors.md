@@ -47,6 +47,7 @@ hnbmc2003
 jean-francois LHOMME
 - [Anas Dahani](https://github.com/anasdahani220) - This is my first open source contribution, I am very excited!
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
+- [MentaNew] - Let's go, first of many!
 - [Abu Saif Kabbo](https://github.com/saifkabbo) - This is my first open source contribution !!
 - [Dollcy Jain](https://github.com/Dollcy-Jain) - This is my first contribution!!
 - [Dharshini K](https://github.com/dharshukv06-cmd) -This is my first contribution!!
