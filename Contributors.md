@@ -108,7 +108,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Prashhh](https://github.com/prash22bit) - peru gurthupettuko, tarvatha matladadaam
 - [AbrshS (Abraham Shiferaw) 🇪🇹](https://github.com/AbrshS)
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
-   - [Shreya Singh](https://github.com/ssrj25) - Hey everyone! My first contribution!
+- [Shreya Singh](https://github.com/ssrj25) - Hey everyone! My first contribution!
 z54c6hf
 - [szakky](https://github.com/szakky) - My first open source contribution.
 - [Kamelio0815](https://github.com/kamelio0815) - my first contribution
