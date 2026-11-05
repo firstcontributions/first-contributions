@@ -8037,6 +8037,7 @@ Harshit Bisht
 - [Sindhu](https://github.com/Sindhu0012)
 - [Simon](https://github.com/Simon-E-H)
 - [Joon] (https://github.com/joonalways)
+- [Sleepydog] (https://github.com/sleepydog678)
 
 - [WilbertMarins](https://github.com/WilbertMarins) - My first step to open source contribution  :) Check my profile, let's connect.
 - [Alexander](https://github.com/Alexander1992a) - My first open-source contribution!
@@ -8155,4 +8156,4 @@ Kunal Khallar - Learning to contribute :)
 - [andiparasol](https://github.com/andiparasol)
 - [Nathan Cleret](https://github.com/Nathansupinfo)
 - [short-for-calculator](https://github.com/short-for-calculator)
-- 
+- [sleepydog](https://github.com/sleepydog678)
