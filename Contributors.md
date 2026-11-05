@@ -8146,3 +8146,5 @@ Kunal Khallar - Learning to contribute :)
 - [Kyle Hill](https://github.com/Slim-Beatnik)
 - [andiparasol](https://github.com/andiparasol)
 - [Nathan Cleret](https://github.com/Nathansupinfo)
+- [short-for-calculator](https://github.com/short-for-calculator)
+- 
