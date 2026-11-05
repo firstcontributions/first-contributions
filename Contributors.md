@@ -20,6 +20,7 @@
 -Rishitha creates
 - [venkat Nani Bayanaboina](https://github.com/venkatbayanaboina)- my first contibution
 - [chuan0418-com](https://ch418.tw)
+- [Deep Patel](https://github.com/Deeppatel3522)
 - Subham Kumar
 - [t.x](https://github.com/dashboard
 - imame8 03/02/2026
