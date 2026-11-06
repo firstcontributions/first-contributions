@@ -86,6 +86,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
 - [Tejas] - first contribution
 - [Muhammad Auf](https://github.com/Mfauf) - My first PR
+- [Mursal Hayat](https://github.com/mursalhayat1) - My first open-source contribution!
 - [Gustavo Fraga Apellaniz](https://github.com/GustavoApellaniz)
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
