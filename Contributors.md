@@ -20,6 +20,7 @@ Just changing a few things...
 - [Bilel Bouzaiane](https://github.com/bilelbouz)
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - [Raunit Giri](https://github.com/rauni5) - First open source contribution.
+- Arun!
 - Milo
 - Sanchit Sharma
 - Alexis
