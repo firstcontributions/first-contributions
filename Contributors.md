@@ -1,4 +1,5 @@
 Just changing a few things...
+- [amd47802574](https://github.com/amd47802574)
 - [Aftab](https://github.com/Aftab-007) - Polymath. Hyperactive Learner. Works in Networking Cybersecurity & AI.
 - [1507kaushik-kk](https://github.com/1507kaushik-kk) - My first open-source contribution!-
 [ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
