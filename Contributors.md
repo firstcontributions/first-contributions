@@ -8194,7 +8194,7 @@ Kunal Khallar - Learning to contribute :)
 - [wlw10](https://github.com/wlw10)
 - [Divyansh](https://github.com/Divyanshjain1221)
 - [tramslegend](https://github.com/tramslegend)
-
+- [YoanRos](https://github.com/YoanRos)
 - [tramslegend (contribution #2)](https://github.com/tramslegend)
 - [Subham Kumar (Pair Contribution)](https://github.com/kumar246subham-afk)
 - [Shahith Mohamed K](https://github.com/shahithmohamed202-collab) - My first open-source contribution
