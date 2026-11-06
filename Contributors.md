@@ -2,6 +2,7 @@ Just changing a few things...
 - [amd47802574](https://github.com/amd47802574)
 - [Aftab](https://github.com/Aftab-007) - Polymath. Hyperactive Learner. Works in Networking Cybersecurity & AI.
 - [Sourajyoti Karmakar](https://github.com/SourajyotiKarmakar25) - Starting my Open Source journey
+- [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
 - [1507kaushik-kk](https://github.com/1507kaushik-kk) - My first open-source contribution!-
 [ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
 -[Dhruv Patil](https://github.com/Dhruv-2305)- Not first but surely a contribution to open source. Came here through web surfing.
