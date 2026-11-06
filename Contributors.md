@@ -8210,4 +8210,5 @@ Kunal Khallar - Learning to contribute :)
 - [takingsouls01-max](https://github.com/takingsouls01-max)
 - [Thrina](https://github.com/thrinacud0603-source)
 - [Jeba Kishore](https://github.com/jebakishore509-sys)
+- [Dibyaraj Mitra](https://github.com/dibyarajmitra-35) - My first open-source contribution!
 - [Anjana V](https://github.com/Anjanavalath)- My first open-source Contribution
