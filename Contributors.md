@@ -96,6 +96,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Tejas] - first contribution
 - [Muhammad Auf](https://github.com/Mfauf) - My first PR
 - [Mursal Hayat](https://github.com/mursalhayat1) - My first open-source contribution!
+- [m3](https://github.com/focusedmuse) - First signed commit from fw13.
 - [Gustavo Fraga Apellaniz](https://github.com/GustavoApellaniz)
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
