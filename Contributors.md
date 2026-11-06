@@ -24,6 +24,7 @@ Just changing a few things...
 - Alexis
 -[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
 - Antony
+- Cartesius
 - cylindrix-git
 - Sravan Jaggarapau
 - Khaled Ramadan
