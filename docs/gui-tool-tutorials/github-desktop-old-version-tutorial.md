@@ -45,7 +45,7 @@ Now create a branch by clicking on the branch icon at the top left:
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-old-version-tutorial/dt-branch1.png" alt="make a branch" />
 
-Name your branch add-your-name. For example, add-crawleya
+Name your branch add-your-name. For example, add-crawleya, I am adding this line
 
 Click on `Create new branch`
 
