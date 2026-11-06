@@ -4,6 +4,7 @@ Just changing a few things...
 - [Sourajyoti Karmakar](https://github.com/SourajyotiKarmakar25) - Starting my Open Source journey
 - [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
 - [1507kaushik-kk](https://github.com/1507kaushik-kk) - My first open-source contribution!-
+- [Srishti Sharma](https://github.com/srishtisharma07) - My first open-source contribution!
 [ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
 -[Dhruv Patil](https://github.com/Dhruv-2305)- Not first but surely a contribution to open source. Came here through web surfing.
 -[Viking](https://github.com/Dhruv-2305)-Again contributed to this open soure newbie repository.
