@@ -51,6 +51,7 @@ Just changing a few things...
 - [Raphal](https://github.com/Raphal6974) - My first contribution with open source !
 - zhh‘s first
 - Gad
+- [Ibnu Aulia Nugraha Alihaq](https://portfolio-web-mocha-theta-12.vercel.app) - My first contributions
 - [Omar Abdelbari](https://github.com/omarabdelbarii) - My first open source contribution
 -[Vibha J](https://github.com/Vibhaj20)
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
