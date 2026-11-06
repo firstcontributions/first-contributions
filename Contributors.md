@@ -8187,3 +8187,5 @@ Kunal Khallar - Learning to contribute :)
 - [wlw10](https://github.com/wlw10)
 - [Divyansh](https://github.com/Divyanshjain1221)
 - [tramslegend](https://github.com/tramslegend)
+
+- [tramslegend (contribution #2)](https://github.com/tramslegend)
