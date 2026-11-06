@@ -17,6 +17,7 @@ Just changing a few things...
 - Milo
 - Sanchit Sharma
 - Alexis
+-[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
 - Antony
 - cylindrix-git
 - Khaled Ramadan
