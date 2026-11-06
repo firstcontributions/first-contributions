@@ -86,7 +86,7 @@ At the bottom, you can see that the commit has been created.
 
 ## Push changes to github
 
-Click on File->Options and sign-in to Github.com. Type in your Github username and password.
+Click on File->Options->Accounts and sign in to GitHub.com, then choose "Continue with browser". Complete the sign-in in your browser and return to GitHub Desktop. GitHub Desktop does not support signing in with a username and password.
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
 
