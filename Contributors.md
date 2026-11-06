@@ -502,6 +502,7 @@ Arise
 -[Gowtham](https://github.com/gowthamvaddadi2330-jpg)
 -[Sayyad Abu Basha] (https://github.com/abu-124/first-contributions_abu.git) My First contribution_2026
 - [DAVIDHAMELEKH17](https://github.com/DAVIDHAMELEKH17)
+- [Ismayil Hussain](https://github.com/isihussain)
 - [yeswanthgundu](https://github.com/yeswanthgundu) My first contribution to gitbub hacktoberfest-2026
 [Manjith](https://github.com/narayanasettymanjith08-cmyk) My first contribution
 - [Kouassi Adou](https://github.com/Kouassi-Adou)
