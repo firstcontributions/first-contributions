@@ -8200,4 +8200,4 @@ Kunal Khallar - Learning to contribute :)
 - [Subham Kumar (Pair Contribution)](https://github.com/kumar246subham-afk)
 - [Shahith Mohamed K](https://github.com/shahithmohamed202-collab) - My first open-source contribution
 - [takingsouls01-max](https://github.com/takingsouls01-max)
-- [Thrin](https://github.com/thrinacud0603-source)
+- [Thrina](https://github.com/thrinacud0603-source)
