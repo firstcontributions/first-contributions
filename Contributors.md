@@ -904,6 +904,7 @@ B05U3-
 - [Kanav Sharma](https://github.com/kanavsharma09)
 - [Shaurya]
 - [Ryan]
+-  [Akshat Jain](https://github.com/akshat-j1)
 - [Pratham Joseph]
 - [Prakhar Shakya]
 - [Swapnil D]
