@@ -8254,4 +8254,5 @@ Kunal Khallar - Learning to contribute :)
 - siavash samimi fard (https://github.com/siavash-smf)
 - [Saber Tabatabaei](https://github.com/sabertabatabaei) - My first open-source contribution!!
 [Linda](https://github.com/Lindaokike)
-- [Arbaaz Ali Mirza](https://github.com/imarbaazali) - My First open source 
+- [Arbaaz Ali Mirza](https://github.com/imarbaazali) - My First open source
+- [Aaquib Hafeez Khan](https://github.com/Aaqibhafeezkhan) - Building and contributing to open-source software.
