@@ -8242,3 +8242,4 @@ Kunal Khallar - Learning to contribute :)
 - [Bryce] (https://github.com/grandlaughingstock) - yay
 -[Kamaleshwaran](https://github.com/tvmkamalesh3031-maker)
 - [Asritha](https://github.com/Asritha-na)
+- [Santosh](https://github.com/santosh71436) - My first open-source contribution
