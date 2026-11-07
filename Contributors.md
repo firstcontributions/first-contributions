@@ -4,6 +4,7 @@ Just changing a few things..
 - [Paras Ahuja] - My first open source contribution
 - [creator17-learning](https://github.com/creator17-learning) -  my first Open Source journey happy
 - [Elango]- My first open source contribution
+- [Shakti](https://github.com/ShaktiStark)- As long as you live there are infinite chances.
 - [AyushKumar](Hey it's my open source contribution trial)
 - [amd47802574](https://github.com/amd47802574)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
