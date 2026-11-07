@@ -1,4 +1,5 @@
 Just changing a few things..
+- [Chaten](https://github.com/chaten99) - Success demands consistency, curiosity, and the courage to start before you feel ready.
 - hello crazyyy peopple..enjoy and chill..........
 - [Paras Ahuja] - My first open source contribution
 - [creator17-learning](https://github.com/creator17-learning) -  my first Open Source journey happy
