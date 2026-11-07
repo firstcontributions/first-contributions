@@ -8226,3 +8226,4 @@ Kunal Khallar - Learning to contribute :)
 - [Ayush](https://github.com/i-m-champion)-This is first open source contri , I'm very excited!!
 - [Lucas Lacerda](https://github.com/Lucasdelacerda - My first open-source contribution
 - [Mohammad javad Dianat](https://github.com/dianatofficial)
+- [Bryce] (https://github.com/grandlaughingstock) - yay
