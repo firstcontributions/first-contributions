@@ -916,6 +916,7 @@ B05U3-
 - [Ariya Katti](https://github.com/ariyakatti)
 -[Gopika Harshitha](https://github.com/Gopi-0707-eng)-First Contribution!
 - [Kanav Sharma](https://github.com/kanavsharma09)
+- [Ankit raj] - Hey there, This is my first contribution.
 - [Shaurya]
 - [Ryan]
 -  [Akshat Jain](https://github.com/akshat-j1)
