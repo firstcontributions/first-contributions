@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Little Space</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: #f7f3ff;
+      background:
+        radial-gradient(circle at 15% 20%, #6c4bd1 0, transparent 32%),
+        radial-gradient(circle at 85% 80%, #147d83 0, transparent 30%),
+        #111326;
+      padding: 24px;
+    }
+    .card {
+      width: min(520px, 100%);
+      padding: 42px 34px;
+      text-align: center;
+      border: 1px solid rgba(255,255,255,.2);
+      border-radius: 28px;
+      background: rgba(255,255,255,.09);
+      box-shadow: 0 24px 70px rgba(0,0,0,.3);
+      backdrop-filter: blur(12px);
+    }
+    .planet { font-size: 58px; margin-bottom: 12px; }
+    h1 { margin: 0 0 12px; font-size: clamp(2rem, 7vw, 3rem); }
+    p { color: #d8d4ed; line-height: 1.6; }
+    button {
+      margin-top: 18px;
+      border: 0;
+      border-radius: 999px;
+      padding: 13px 22px;
+      color: #17142b;
+      background: #c7f36b;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: transform .2s, box-shadow .2s;
+    }
+    button:hover { transform: translateY(-3px); box-shadow: 0 8px 24px #c7f36b55; }
+    #message { min-height: 52px; margin-top: 22px; color: #f1f7ce; }
+    .tiny { margin-top: 28px; font-size: .8rem; opacity: .65; }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="planet" aria-hidden="true">🪐</div>
+    <h1>Your Little Space</h1>
+    <p>A tiny corner of the internet made just for curiosity.<br>Click the button and collect a little spark.</p>
+    <button onclick="showSpark()">Give me a spark ✨</button>
+    <p id="message" aria-live="polite">Your first spark is waiting...</p>
+    <div class="tiny">Made with a little HTML, CSS & JavaScript</div>
+  </main>
+
+  <script>
+    const sparks = [
+      "Small steps still move you forward. 🌱",
+      "Try something today that your future self will thank you for.",
+      "You don't need a perfect plan to begin. 🚀",
+      "Curiosity is a superpower. Keep asking questions.",
+      "Make today a little more colourful. 🎨",
+      "A fresh idea can start with one simple click."
+    ];
+
+    function showSpark() {
+      const message = document.getElementById("message");
+      const choice = sparks[Math.floor(Math.random() * sparks.length)];
+      message.textContent = choice;
+    }
+  </script>
+</body>
+</html>
