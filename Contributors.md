@@ -23,6 +23,7 @@ Just changing a few things...
 - Arun!
 - Milo
 - Sanchit Sharma
+- [yuki-cglab](https://github.com/yuki-cglab) - My first contribution
 - Alexis
 -[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
 - Antony
