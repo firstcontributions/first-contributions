@@ -4422,6 +4422,7 @@ andrewcodess
 - [slimy](https://github.com/gleizorbruno-coder)
 - [wzlcarrot](https://github.com/wzlcarrot)
 - [Muhammed Shareef](https://github.com/shareefmx)
+- [Mohd Mushir Ali](https://github.com/Mushir-Ali)
 - [Mohamed Amdouni](https://github.com/mohamed-adhd)
 - [Mohit Suri] (https://github.com/saturn657)git add Contributors.md
 - [Muhsil NR](https://github.com/mhlohh)
