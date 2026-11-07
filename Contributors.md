@@ -24,6 +24,7 @@ Just changing a few things...
 - Milo
 - Sanchit Sharma
 - [yuki-cglab](https://github.com/yuki-cglab) - My first contribution
+- [Arya Chova Pratama](https://github.com/t3xart) - My first open source contribution
 - Alexis
 -[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
 - Antony
