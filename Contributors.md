@@ -4138,6 +4138,7 @@ andrewcodess
 - [Prakash Kumar](https://github.com/pvns1108) - My first open source contribution
 - [Haoyueck](https://github.com/haoyueck)
 - [Hojoon Moon](https://github.com/Hojoon7)
+- [Gavin Rainey](https://github.com/Excalibur-41) - First github contribution
 - [Hardik kille](https://github.com/hrdk224/first-contributions)
 - [Harini Madasu](https://github.com/HariniMadasu/first-contributions.git)
 - [Harsh Bhardwaj](https://github.com/harshbhardwaj000)
