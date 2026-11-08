@@ -4603,6 +4603,7 @@ andrewcodess
 - [Onkar Korale](https://github.com/Korale05)
 - [Optimus Prime](https://github.com/DebOps01)
 - [NotDonQuixote](https://github.com/NotDonQuixote)
+- [Hiram Mwangi](https://github.com/h-hiram)
 - [OsamaShabih](https://github.com/osamashabih6960)
 - [Osinachi Chukwujama](https://github.com/vicradon)
 - [Ossama Nahle](https://github.com/ossamanahle)
