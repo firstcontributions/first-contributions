@@ -8277,3 +8277,4 @@ Kunal Khallar - Learning to contribute :)
 - [Dinara Bilal](https://github.com/Dinara-Bilal) - My first open source contribution
 
 - [Melvin García](https://github.com/MelvinGGS) - Passionate Software Engineering Student & Full-Stack Developer.
+- [Kaniska](https://github.com/snkaniska37-lang) - My first open source contribution
