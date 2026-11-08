@@ -34,6 +34,7 @@ Just changing a few things..
 - Arun!
 - Milo
 - Sanchit Sharma
+- [Rectangle518](https://github.com/Rectangle518) - My first open source contribution
 - [yuki-cglab](https://github.com/yuki-cglab) - My first contribution
 - [Arya Chova Pratama](https://github.com/t3xart) - My first open source contribution
 - Alexis
