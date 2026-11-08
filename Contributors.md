@@ -50,6 +50,7 @@ changing a few things..
 - cylindrix-git
 - Sravan Jaggarapau
 - Khaled Ramadan
+- Kürşat Yalın
 -Rishitha creates
 - [venkat Nani Bayanaboina](https://github.com/venkatbayanaboina)- my first contibution
 - [chuan0418-com](https://ch418.tw)
