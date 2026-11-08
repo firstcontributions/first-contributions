@@ -1,9 +1,7 @@
 Just changing a few things..
-<<<<<<< HEAD
+- [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [suzhen-zhu](https://github.com/susan-zhu) - My first open-source contribution
-=======
 - [jellayter4-bit](https://github.com/jellayter4-bit) - My first open source contribution!
->>>>>>> upstream/main
 - [Chaten](https://github.com/chaten99) - Success demands consistency, curiosity, and the courage to start before you feel ready.
 - hello crazyyy peopple..enjoy and chill..........
 - [Paras Ahuja] - My first open source contribution
