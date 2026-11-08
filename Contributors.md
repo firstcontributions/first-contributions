@@ -118,6 +118,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Mursal Hayat](https://github.com/mursalhayat1) - My first open-source contribution!
 - [m3](https://github.com/focusedmuse) - First signed commit from fw13.
 - [Gustavo Fraga Apellaniz](https://github.com/GustavoApellaniz)
+- [Shivanshu Shukla](https://github.com/instodia)
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
 -  [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE 
