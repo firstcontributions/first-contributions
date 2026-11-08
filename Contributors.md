@@ -8267,3 +8267,4 @@ Kunal Khallar - Learning to contribute :)
 - [YaxDev](https://github.com/ChuBoyax) - My first open-source contribution!
 - [dopaemon](https://github.com/dopaemon) from [elglabs](https://github.com/elglabs) - Hello world!
 - [lilangyun](https://github.com/lilangyun) - My first open-source contributions, I's so happy!
+-[Biswajit Khatik](https://github.com/bisw201) - My First open-source contribution, too excited for the journey!!
