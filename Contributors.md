@@ -36,6 +36,7 @@ Just changing a few things..
 - [Raunit Giri](https://github.com/rauni5) - First open source contribution.
 - Arun!
 - Milo
+- Carlos Buque
 - Sanchit Sharma
 - [Rectangle518](https://github.com/Rectangle518) - My first open source contribution
 - [yuki-cglab](https://github.com/yuki-cglab) - My first contribution
