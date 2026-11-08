@@ -4,6 +4,7 @@
 - [Varshith Julakanti](https://github.com/Varshith0105) - This is my profile vist this!
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - Milo
+- Aloy Emmanuel
 - Alexis
 - Antony
 - [chuan0418-com](https://ch418.tw)
