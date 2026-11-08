@@ -47,6 +47,7 @@ changing a few things..
 - [yuki-cglab](https://github.com/yuki-cglab) - My first contribution
 - [Arya Chova Pratama](https://github.com/t3xart) - My first open source contribution
 - Alexis
+- [Kosuri Surya Teja Varma](https://github.com/kstvarma) - My first open source contribution
 -[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
 - Antony
 - Cartesius
