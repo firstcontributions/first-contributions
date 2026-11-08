@@ -37,6 +37,7 @@ Just changing a few things..
 - Cartesius
 - cylindrix-git
 - Sravan Jaggarapau
+- Tejas ~ Hi..
 - Khaled Ramadan
 -Rishitha creates
 - [venkat Nani Bayanaboina](https://github.com/venkatbayanaboina)- my first contibution
