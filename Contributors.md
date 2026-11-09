@@ -24,6 +24,7 @@ changing a few things..
 - [Lakshya Singhal](https://github.com/lakshyasinghal08)
 - [qouwe](https://github.com/qouwe) - First open-source contribution
 - [AyushKumar](Hey it's my open source contribution trial)
+- [bethhaysom]
 - [matiasad] (https://github.com/matiasad) - My first openSource contribution. 
 [Aastha Gulati] (https://github.com/aasthagulati2049)
 - [amd47802574](https://github.com/amd47802574)
