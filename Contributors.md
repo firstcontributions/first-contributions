@@ -55,6 +55,7 @@ changing a few things..
 - [Raunit Giri](https://github.com/rauni5) - First open source contribution.
 - Arun!
 - Milo
+- [mishtiiikrishnaa](https://github.com/mishtiiikrishnaa) – overstimulated & undercaffeinated!
 - Carlos Buque
 - Sanchit Sharma
 - [Rectangle518](https://github.com/Rectangle518) - My first open source contribution
