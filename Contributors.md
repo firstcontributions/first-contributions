@@ -135,7 +135,8 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Shivanshu Shukla](https://github.com/instodia)
 -  [Mehnaz Tabassum](https://github.com/mtabassum)
 -  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
--  [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE 
+-  [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE
+-  [HaThu](https://github.com/hant0505) - Hi, This is my first contribution!!
 - cat - first contribution
 - lge - first contribution
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
