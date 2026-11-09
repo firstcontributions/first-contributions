@@ -1193,6 +1193,7 @@ GSL32
 - [Mechat Mehdi](https://github.com/MechatMehdi)
 - [Klever Lopez](https://github.com/Klopezxd)
 - [Sean Michals](https://github.com/SeanMichals)
+- [Shahram Mazar](https://github.com/zeneax)
 - [vinayak chavan](https://github.com/vin1987)
 - [ringoalo](https://github.com/AlossoRingo)
 - {shama rahangdale - my first contribution}
