@@ -69,6 +69,7 @@ changing a few things..
 - Cartesius
 - cylindrix-git
 - Sravan Jaggarapau
+- Shaurya Baranwal - This is my first open source contribution
 - Srikanth - First open Source project by Itachi...
 - Tejas ~ Hi..
 - Khaled Ramadan
