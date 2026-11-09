@@ -1156,6 +1156,7 @@ GSL32
 - [Vasu Parashar](https://github.com/VasuParashar37)
 - [ARIS GIARMIDIS](https://github.com/giarmidisaris)
 - [Jeet](https://github.com/Shwejit)
+- [James Cui](https://github.com/cuijames22)
 - [StivenFory](https://github.com/stivenfory)
 - [Marcus de la Cruz](https://github.com/marcusdelacruz)
 - [Shubham Bawa](https://github.com/Shubham-392)
