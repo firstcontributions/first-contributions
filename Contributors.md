@@ -63,6 +63,7 @@ changing a few things..
 - Alexis
 - [Kosuri Surya Teja Varma](https://github.com/kstvarma) - My first open source contribution
 -[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
+- [Kaustubh Dayma](https://github.com/Kaustubh0511) - This is my first contribution
 - Antony
 - Cartesius
 - cylindrix-git
