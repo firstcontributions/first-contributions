@@ -13,6 +13,7 @@ changing a few things..
 - [Shreyas-Singh-28] (https://github.com/Shreyas-Singh-28) - noob programmer
 - [sivaprasad-vs] (https://github.com/sivaprasadvs/first-contributions.git) - push past your limits -(yami,asta)
 - hello crazyyy peopple..enjoy and chill..........
+- [Krovvidi Lokesh] (https://github.com/Lokesh8096) - Contribution purpose
 - [Paras Ahuja] - My first open source contribution
 - [creator17-learning](https://github.com/creator17-learning) -  my first Open Source journey happy
 - [niixss](https://github.com/niixss)
