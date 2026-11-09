@@ -1,6 +1,6 @@
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
 - [Rithu Varshini](https://github.com/rithuvarshiniudhayakumar-oss) - My first open source contribution
-- [Rithul](https://github.com/rithulraveendran) - First open source contribution
+- [Rithul Raveendran](https://github.com/rithulraveendran) - Software Developer & Open Source Contributor
 [Arnav singh].[https://github.com/arnavafk12-ship-it]-My second contribution!!!!
 [M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
 Just - [Affan Ahmed](https://github.com/Affanasrar)
