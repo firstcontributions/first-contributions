@@ -6,6 +6,7 @@
 [M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
 Just - [Affan Ahmed](https://github.com/Affanasrar)
 changing a few things..
+hey hi my name is RISHAV I'M FROM INDIA contribute to my github repo - https://github.com/rixhavraj 
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [suzhen-zhu](https://github.com/susan-zhu) - My first open-source contribution
 - [Mahi-Chandra](https://github.com/Mahi-Chandra) - First contribution!
