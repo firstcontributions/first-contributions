@@ -5960,6 +5960,7 @@ Twan Star
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
 - [Kayan Shah](https://github.com/KayanShah)
 - [Savya Vats](https://github.com/vatssavvya)
+- [Miffy] (https://github.com/Miffy-Allen)
 - [Claude](https://github.com/srn-93)
 - [MAEitself](https://github.com/MAEitself)
 - [Rushikesh kolla](https://github.com/RUSHI-KOLLA)
