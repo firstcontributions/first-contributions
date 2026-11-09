@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -9,23 +9,23 @@ Siempre resulta difícil la primera vez que haces algo. Principalmente cuando co
 
 Leer artículos y ver tutoriales puede ayudar, pero ¿qué mejor que hacer las cosas en un ambiente de prácticas? Este proyecto se enfoca en guiar y en simplificar la forma en la que los principiantes hacen su primera contribución. Si buscas hacer tu primera contribución, sigue los pasos que se muestran a continuación.  
 
-#### *Si no estás cómodo con la línea de comandos, [aquí hay unos tutoriales usando herramientas gráficas.](#Tutoriales-con-otras-herramientas)*
+#### *Si no estás cómodo con la línea de comandos, [aquí hay unos tutoriales usando herramientas gráficas.](#tutoriales-con-otras-herramientas)*
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Imagen de la interfaz de Github con el botón de Fork del repositorio encerrado en un rectángulo rojo" />
 
-Si no tienes Git en tu equipo, aquí las instrucciones para instalarlo en el [enlace]( https://help.github.com/articles/set-up-git/ )
+Si no tienes Git en tu equipo, [instálalo siguiendo estas instrucciones](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 ## Dale Fork al repositorio
 
 Dale "fork" a este repositorio dando clic en el botón "*Fork*" en la parte superior derecha de la página.
 Esto creará una copia de este repositorio en tu cuenta.
 
-## Clona "Clone" el repositorio
+## Clona (*Clone*) el repositorio
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="Imagen de la interfaz del repositorio con el botón verde de Code encerrado en un rectángulo rojo" />
 
-Ahora clona este repositorio en tu equipo. Ve a tu cuenta de Github, y da clic en el botón "*clone or download*" y luego da clic en el ícono para *copiar*.
+Ahora clona tu *fork* en tu equipo. Ve a tu cuenta de GitHub, abre tu *fork* del repositorio, da clic en el botón "*Code*", luego en la pestaña *SSH* y después en el ícono para *copiar* la url al portapapeles.
 
 Abre tu consola o terminal y ejecuta el siguiente comando:
 
@@ -35,11 +35,11 @@ git clone "la url del repositorio que copiaste"
 
 Donde "la url del repositorio que copiaste" (sin las comillas dobles) es la *url* a este repositorio (tu *fork* a este proyecto). Mira los pasos previos para obtener la *url*.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Seeción de Github para copiar repositorio, con la pestaña de SSH mostrándose y al lado un icono para copiar el URL al portapapeles" />
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="Sección de GitHub para copiar repositorio, con la pestaña de SSH mostrándose y al lado un icono para copiar el URL al portapapeles" />
 
 Por ejemplo:
 ```
-git clone https://github.com/usuarioGitHub/first-contributions.git
+git clone git@github.com:usuarioGitHub/first-contributions.git
 ```
 Donde `usuarioGitHub` es tu usuario de GitHub. Aquí estás copiando los contenidos del repositorio *first-contributions* en GitHub a tu equipo.
 
@@ -60,7 +60,7 @@ Por ejemplo:
 ```
 git switch -c add-juan-perez
 ```
-(El nombre de la rama no tiene porqué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
+(El nombre de la rama no tiene por qué contener la palabra *add*, pero es razonable que lo tenga porque el objetivo de esta rama es añadir tu nombre a la lista.)
 
 ## Haz los cambios necesarios y guarda (*Commit*) esos cambios
 
@@ -85,11 +85,33 @@ reemplazando `<nombre>` con tu nombre.
 
 ## Carga (*Push*) tus cambios a GitHub
 
-Mandar un *push* de tus cambios usando el comando `git push`:
+Manda tus cambios con un *push* usando el comando `git push`:
 ```
-git push origin <nombre-rama>
+git push -u origin <nombre-rama>
 ```
 Reemplaza `<nombre-rama>` con el nombre de la rama que creaste anteriormente.
+
+<details>
+<summary> <strong>Si aparece algún error al hacer push, da clic aquí:</strong> </summary>
+
+- ### Error de autenticación
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+  Consulta el [tutorial de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) para generar una llave SSH y configurarla en tu cuenta.
+
+  También te conviene ejecutar `git remote -v` para revisar tu dirección remota.
+
+  Si se ve parecida a esto:
+  <pre>origin	https://github.com/tu-usuario/tu_repo.git (fetch)
+  origin	https://github.com/tu-usuario/tu_repo.git (push)</pre>
+
+  cámbiala con este comando:
+  ```bash
+  git remote set-url origin git@github.com:tu-usuario/tu_repo.git
+  ```
+  De lo contrario, se te seguirá pidiendo usuario y contraseña, y obtendrás un error de autenticación.
+</details>
 
 ## Envía (*Submit*) tus cambios para ser revisados
 
@@ -101,7 +123,7 @@ Ahora envía el *pull request*.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="Interfaz de pull request donde se comparan las ramas del fork con un mensaje verde que indica que se pueden fusionar automáticamente. Con el título de pull request y una sección para comentarios" />
 
-Pronto estaré combinando tus cambios (haciendo *merge*) con la rama master de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido combinados.
+Pronto estaré combinando tus cambios (haciendo *merge*) con la rama main de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido combinados.
 
 ## ¿Cuáles son los siguientes pasos?
 
@@ -109,7 +131,7 @@ Pronto estaré combinando tus cambios (haciendo *merge*) con la rama master de e
 
 Festeja tu contribución y compártela con tus amigos y seguidores yendo a [web app](https://firstcontributions.github.io/#social-share).
 
-Si desea más práctica, consulte [contribuciones de código](https://github.com/roshanjossey/code-contributions).
+Si deseas más práctica, consulta [contribuciones de código](https://github.com/roshanjossey/code-contributions).
 
 Ahora empieza a contribuir a otros proyectos. Hemos reunido una lista de proyectos con *issues* sencillas para que puedas empezar. Échale un ojo a la [lista de proyectos en la web app](https://firstcontributions.github.io/#project-list).
 
