@@ -15,6 +15,7 @@ changing a few things..
 - hello crazyyy peopple..enjoy and chill..........
 - [Krovvidi Lokesh] (https://github.com/Lokesh8096) - Contribution purpose
 - [Paras Ahuja] - My first open source contribution
+- [Erica Hughes] - My first open source contribution - Hello World!
 - [creator17-learning](https://github.com/creator17-learning) -  my first Open Source journey happy
 - [niixss](https://github.com/niixss)
 - [Elango]- My first open source contribution
