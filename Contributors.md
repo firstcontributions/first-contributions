@@ -8309,3 +8309,4 @@ Kunal Khallar - Learning to contribute :)
 - [Laiba Sarwar](https://github.com/laiba-sarwar-87) - My first open source contribution
 - [Muhammad Sarim Umer](https://github.com/MuhammadSarimUmer) - My first open source contribution
 - [PARDEEP DHANKHAT](https://github.com/pdcampus)
+- [Ed Hayter](https://github.com/edxhayter)
