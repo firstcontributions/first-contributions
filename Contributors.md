@@ -8340,7 +8340,7 @@ Kunal Khallar - Learning to contribute :)
 - [Ed Hayter](https://github.com/edxhayter)
 - [Aleccio] (https://github.com/Quatraro) - My first open source contribution
 
-
+- [ajit-110920](https://github.com/ajit-110920) - My first open source contribution!
 - [Rachit Srivastava](https://github.com/rachit540)- Glad found this first contribution as well ♥
 - [Callum Pick](https://github.com/cpickcodes)- My first open source contribution
 - [Joel Tan](https://github.com/joelcodin) - My first open source contribution :)
