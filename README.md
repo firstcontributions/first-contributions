@@ -168,6 +168,8 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
+If `git status` says "nothing to commit, working tree clean," check that you saved `Contributors.md` and that you are in the project directory. Then run `git status` again.
+
 Add those changes to the branch you just created using the `git add` command:
 
 ```bash
