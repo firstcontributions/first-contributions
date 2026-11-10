@@ -102,7 +102,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 आता आपण इतर प्रकल्पांमध्ये योगदानासह प्रारंभ करूया. आम्ही सोप्या समस्यांसह प्रकल्पांची सूची संकलित केली आहे ज्यावर तुम्ही सुरुवात करू शकता. [वेब ॲपमधील प्रकल्पांची यादी](https://firstcontributions.github.io/#project-list पहा).
 
-### [अतिरिक्त साहित्य](additional-material/git_workflow_scenarios/additional-material.md)
+### [अतिरिक्त साहित्य](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ##इतर साधनांचा वापर करून शिकवण्या
 

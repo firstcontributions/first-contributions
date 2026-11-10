@@ -135,7 +135,7 @@ git push origin <назва-гілки>
 
 Приєднуйтесь до нашої Slack-групи, якщо у вас виникли питання або потрібна допомога: [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [Додаткові матеріали](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Додаткові матеріали](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Інструкції для інших інструментів
 

@@ -13,7 +13,7 @@
 
 Εάν δεν έχετε το GitHub Desktop στον υπολογιστή σας, [εγκαταστήστε το](https://desktop.github.com/).
 
-Εάν χρησιμοποιείτε μια έκδοση του GitHub Desktop πριν το 1.0, [ανατρέξτε σε αυτό το εγχειρίδιο](github-desktop-old-version-tutorial.md).
+Εάν χρησιμοποιείτε μια έκδοση του GitHub Desktop πριν το 1.0, [ανατρέξτε σε αυτό το εγχειρίδιο](../../github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -104,7 +104,7 @@
 Γιορτάστε τη συνεισφορά σας και μοιραστείτε τη με τους φίλους σας και τους ακόλουθούς σας μεταβαίνοντας στη [ιστοσελίδα εφαρμογής](https://firstcontributions.github.io#social-share).
 
 
-### [Πρόσθετο υλικό](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Πρόσθετο υλικό](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Οδηγοί Χρήσης Άλλων Εργαλείων
 

@@ -49,4 +49,4 @@ git config credential.helper 'cache --timeout=<timeout>'
 #### 参考资料：
 [Stack Overflow](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
 
-### [附加材料](additional-material.md)
+### [附加材料](additional-material.zh-cn.md)

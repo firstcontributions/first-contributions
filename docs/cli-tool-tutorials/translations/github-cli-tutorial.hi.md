@@ -99,7 +99,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 आइए अब आपको अन्य परियोजनाओं में योगदान के साथ आरंभ करते हैं। हमने उन आसान मुद्दों के साथ परियोजनाओं की एक सूची तैयार की है जिन पर आप शुरुआत कर सकते हैं। [वेब ऐप में परियोजनाओं की सूची](https://firstcontributions.github.io/#project-list) देखें।
 
-### [अतिरिक्त सामग्री](additional-material/git_workflow_scenarios/additional-material.md)
+### [अतिरिक्त सामग्री](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## ट्यूटोरियल अन्य उपकरणों का उपयोग करना
 
