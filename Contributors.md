@@ -1,4 +1,5 @@
 - [kifaaa](https://github.com/kifaaa) - Lab 2: first open source contribution (IST-41)
+- [Strong-Happy]()   First Contribution 10/11/26
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
 - [way22419-prog](https://github.com/way22419-prog)
 - [Rithu Varshini](https://github.com/rithuvarshiniudhayakumar-oss) - My first open source contribution
@@ -106,7 +107,6 @@ changing a few things..
 -[Vibha J](https://github.com/Vibhaj20)
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
 <img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />
-
 - [Sakith Wijesinghe](https://github.com/sakithw) This is my first open source contribution!
 - [Aisha Senkubuge] (https://github.com/AishaS992) This is my first open source contribution :)!
 - [Siyam](https://github.com/siyam-io) - Starting my open source journey!
@@ -7938,6 +7938,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [chanchalprajapati1457](https://github.com/chanchalprajapati1457)
 =======
 - chanchalprajapati1457-design
+  
   [def]: https://github.com/nanigenai8-creator
 - [Morali-x](https://github.com/Morali-x)
 - [João Pereira](https://github.com/pereiraa900)
