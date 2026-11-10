@@ -37,6 +37,7 @@ changing a few things..
 - [matiasad] (https://github.com/matiasad) - My first openSource contribution. 
 [Aastha Gulati] (https://github.com/aasthagulati2049)
 - [amd47802574](https://github.com/amd47802574)
+- [Wajid Rashid](https://github.com/i-wajidrashid)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
 - [Aftab](https://github.com/Aftab-007) - Polymath. Hyperactive Learner. Works in Networking Cybersecurity & AI.
 - [Sourajyoti Karmakar](https://github.com/SourajyotiKarmakar25) - Starting my Open Source journey
