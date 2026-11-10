@@ -384,6 +384,9 @@ dehdlhl
 - [Champ](https://github.com/Htut-7) "This is my first contribution"
 - [ADITYA kumar roy](https://githu/b.com/adityakumarroy67)"first contibution",,,,,,,,,,,,
 
+
+- [Parth Sohal](https://github.com/Parth-Sohal)"hi my first contibution , really excited :>"
+
 - [Abhyuday Singh]
 - [Sunloid](https://github.com/Sunloid)
 [ChenBeh](https://github.com/Chenbeh1219)
