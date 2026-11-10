@@ -23,6 +23,7 @@ changing a few things..
 - [Shreyas-Singh-28] (https://github.com/Shreyas-Singh-28) - noob programmer
 - [sivaprasad-vs] (https://github.com/sivaprasadvs/first-contributions.git) - push past your limits -(yami,asta)
 - hello crazyyy peopple..enjoy and chill..........
+- [natabratz](https://www.github.com/natalielflcn) My First Contribution on 11/10/2026 | pls halp meh get jawb i cri
 - [Krovvidi Lokesh] (https://github.com/Lokesh8096) - Contribution purpose
 - [Paras Ahuja] - My first open source contribution
 - [Erica Hughes] - My first open source contribution - Hello World!
@@ -46,6 +47,7 @@ changing a few things..
 - [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
 - [Jashnoor Singh](https://github.com/Jashnoor2206) - Starting my Open Source Journey let's go
 - [1507kaushik-kk](https://github.com/1507kaushik-kk) - My first open-source contribution!-
+- [Pratik Kr Sinha] (https://github.com/pratiksinha20) - My first Contribution (10-11-26)
 - [Bona Tolasa](https://github.com/bonatolasa)
 - [Srishti Sharma](https://github.com/srishtisharma07) - My first open-source contribution!
 [ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
@@ -4183,6 +4185,7 @@ andrewcodess
 - [GuoYu](https://github.com/BaJiao-Gy)
 - [Guotao Gou](https://github.com/martin-gou/)
 - [Gustavo Salvador](https://github.com/gustavosalvador)
+- [Nithael I Lacle](https://github.com/NithaelLacle) - My first contribution
 - [H-crowe](https://github.com/H-crowe)
 - [Elaheh Mirzaeicheshmeh](https://github.com/Elahe110)
 - [Hafsa Irfan](https://github.com/hafxa)
@@ -8369,4 +8372,4 @@ Kunal Khallar - Learning to contribute :)
 - [Ann-2008](https://github.com/Ann-2008)
 - [oudd43](https://github.com/oudd43)-My first open source contribution!
 - [Ali Paybarjay](https://github.com/Ali-Paybarjay)
-- [dialeelova](https://github.com/dialeelova) - My first open-source contribution.
+- [Pratyush Mishra](https://github.com/itspratyushmishra-cmd)- [dialeelova](https://github.com/dialeelova) - My first open-source contribution.
