@@ -8374,3 +8374,4 @@ Kunal Khallar - Learning to contribute :)
 - [Ali Paybarjay](https://github.com/Ali-Paybarjay)
 - [Pratyush Mishra](https://github.com/itspratyushmishra-cmd)
 - [dialeelova](https://github.com/dialeelova) - My first open-source contribution.
+- [ACoderChicken](https://github.com/ACoderChicken) - My first open source contribution!
