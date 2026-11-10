@@ -8350,3 +8350,4 @@ Kunal Khallar - Learning to contribute :)
 - [Heera Sree](https://github.com/heerasree282007) - My first open-source contribution!
 - [Safak Ozcan](https://github.com/safakozcanSW) - My first open-source contribution!
 - [Maryam Golriz](https://github.com/maryamgolriz-pixel) - My first open source contribution
+- [Martin Parushev](https://github.com/martinmp03) - My first open source contribution.
