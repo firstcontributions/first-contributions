@@ -47,6 +47,7 @@ changing a few things..
 - [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
 - [Jashnoor Singh](https://github.com/Jashnoor2206) - Starting my Open Source Journey let's go
 - [1507kaushik-kk](https://github.com/1507kaushik-kk) - My first open-source contribution!-
+- [Pratik Kr Sinha] (https://github.com/pratiksinha20) - My first Contribution (10-11-26)
 - [Bona Tolasa](https://github.com/bonatolasa)
 - [Srishti Sharma](https://github.com/srishtisharma07) - My first open-source contribution!
 [ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
