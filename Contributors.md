@@ -8372,4 +8372,5 @@ Kunal Khallar - Learning to contribute :)
 - [Ann-2008](https://github.com/Ann-2008)
 - [oudd43](https://github.com/oudd43)-My first open source contribution!
 - [Ali Paybarjay](https://github.com/Ali-Paybarjay)
-- [Pratyush Mishra](https://github.com/itspratyushmishra-cmd)- [dialeelova](https://github.com/dialeelova) - My first open-source contribution.
+- [Pratyush Mishra](https://github.com/itspratyushmishra-cmd)
+- [dialeelova](https://github.com/dialeelova) - My first open-source contribution.
