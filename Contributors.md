@@ -2,7 +2,7 @@
 - [way22419-prog](https://github.com/way22419-prog)
 - [Rithu Varshini](https://github.com/rithuvarshiniudhayakumar-oss) - My first open source contribution
 - [VishalRaaj DND](https://github.com/vishal-raaj-dnd) - One Step At a Time...
-[khin](https://github.com/khinthet-192)
+[khinthet](https://github.com/khinthet-192)
 - [Rithul Raveendran](https://github.com/rithulraveendran) - Software Developer & Open Source Contributor
 [Arnav singh].[https://github.com/arnavafk12-ship-it]-My second contribution!!!!
 [M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
