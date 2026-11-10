@@ -1,4 +1,5 @@
 -Barrhouss
+- [chen-xiao-yuan](https://github.com/chen-xiao-yuan)
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - Milo
 - Alexis
