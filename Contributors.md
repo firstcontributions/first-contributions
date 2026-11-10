@@ -1,3 +1,4 @@
+- [kifaaa](https://github.com/kifaaa) - Lab 2: first open source contribution (IST-41)
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
 - [way22419-prog](https://github.com/way22419-prog)
 - [Rithu Varshini](https://github.com/rithuvarshiniudhayakumar-oss) - My first open source contribution
