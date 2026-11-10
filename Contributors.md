@@ -8377,4 +8377,4 @@ Kunal Khallar - Learning to contribute :)
 - [Pratyush Mishra](https://github.com/itspratyushmishra-cmd)
 - [dialeelova](https://github.com/dialeelova) - My first open-source contribution.
 - [ACoderChicken](https://github.com/ACoderChicken) - My first open source contribution!
-- [Harshal Darandale](https://github.com/harshal-269)
+- [Harshal Darandale](https://github.com/harshal-269)- [Abed Mohamed](https://github.com/abedmohamed258)
