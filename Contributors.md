@@ -23,6 +23,7 @@ changing a few things..
 - [Shreyas-Singh-28] (https://github.com/Shreyas-Singh-28) - noob programmer
 - [sivaprasad-vs] (https://github.com/sivaprasadvs/first-contributions.git) - push past your limits -(yami,asta)
 - hello crazyyy peopple..enjoy and chill..........
+- [natabratz](https://www.github.com/natalielflcn) My First Contribution on 11/10/2026 | pls halp meh get jawb i cri
 - [Krovvidi Lokesh] (https://github.com/Lokesh8096) - Contribution purpose
 - [Paras Ahuja] - My first open source contribution
 - [Erica Hughes] - My first open source contribution - Hello World!
