@@ -1,5 +1,7 @@
 # Contribution guide
 
+Contirbutor: FH
+
 We appreciate your thought to contribute to open source. :heart:
 
 As this might be a starting point for people looking to contribute to open source projects in general. We'll include some general guidelines here.
