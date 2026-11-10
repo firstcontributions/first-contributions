@@ -13,7 +13,7 @@ changing a few things..
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [suzhen-zhu](https://github.com/susan-zhu) - My first open-source contribution
 - [Mahi-Chandra](https://github.com/Mahi-Chandra) - First contribution!
-- [Joshua-T-J(https://github.com/Joshua-T-J)] - Beginning my journey in open-source collaboration.
+- [Joshua-T-J](https://github.com/Joshua-T-J) - Beginning my journey in open-source collaboration.
 - [Fathifarshad](https://github.com/Fathifarshad) - fathifarshad@gmail.com
 - [jellayter4-bit](https://github.com/jellayter4-bit) - My first open source contribution!
 -[YMO](https://github.com/YoonMayOo) - Will not be my last opensource contribution!
