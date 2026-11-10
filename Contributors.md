@@ -8345,4 +8345,5 @@ Kunal Khallar - Learning to contribute :)
 - [Callum Pick](https://github.com/cpickcodes)- My first open source contribution
 - [Joel Tan](https://github.com/joelcodin) - My first open source contribution :)
 - [Heera Sree](https://github.com/heerasree282007) - My first open-source contribution!
+- [Safak Ozcan](https://github.com/safakozcanSW) - My first open-source contribution!
 - [Maryam Golriz](https://github.com/maryamgolriz-pixel) - My first open source contribution
