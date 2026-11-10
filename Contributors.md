@@ -8355,6 +8355,7 @@ Kunal Khallar - Learning to contribute :)
 - [Ganesh Vasanth](https://github.com/bombe-19) - My first open source contribution!
 - [Rachit Srivastava](https://github.com/rachit540)- Glad found this first contribution as well ♥
 - [Callum Pick](https://github.com/cpickcodes)- My first open source contribution
+- [Het Vashi]() - My first open source contributions.
 - [Joel Tan](https://github.com/joelcodin) - My first open source contribution :)
 - [Heera Sree](https://github.com/heerasree282007) - My first open-source contribution!
 - [Safak Ozcan](https://github.com/safakozcanSW) - My first open-source contribution!
