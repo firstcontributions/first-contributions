@@ -240,6 +240,7 @@ z54c6hf
 - [Omar M. Ahmed El-Sayed](https://github.com/Omar-0O)
 - [Abdul Ahad](https://github.com/AbdulAhad1189) - This is my first open source contribution!
 - [Shane Hsieh](https://github.com/Shane-cs-dev) - This is my first open source contribution!
+- [Nikhil Adhikari](https://github.com/kai2055) - First step in a long journey
 - [Sachin] - Thanks for such a wonderful repo.
 - [Yaksharth](https://github.com/yaksharth) - This is my first step in learning open source.
 - [Aditya Singh](https://github.com/adiscripts03) - We are finally here !! Hello world.
