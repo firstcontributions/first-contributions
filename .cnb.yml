@@ -1,0 +1,23 @@
+# 云原生开发配置（读取启动按钮所在分支的配置）
+workspace:
+  launch:
+    button:
+      name: 启动云原生开发
+      description: 点击此按钮启动云原生开发环境
+      hoverImage: .cnb/launch-hover.gif
+    cpus: 2
+    disabled: false
+    autoOpenWebIDE: true
+
+$: # 兜底匹配所有分支，不被 glob 匹配的分支
+  vscode:
+    - docker:
+        image: cnbcool/default-dev-env:latest
+      services:
+        - vscode
+        - docker
+      runner:
+        cpus: 2
+      stages:
+        - name: ls
+          script: ls -al
