@@ -1,5 +1,5 @@
 - [chen-xiao-yuan](https://github.com/chen-xiao-yuan)
-- [kifaaa](https://github.com/kifaaa) - Lab 2: first open source contribution (IST-41)
+- [iniya-27](https://github.com/iniya-27) - Added Python contributions!
 - [Strong-Happy]()   First Contribution 10/11/26
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
 - [way22419-prog](https://github.com/way22419-prog)
