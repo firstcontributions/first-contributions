@@ -116,7 +116,7 @@ Proslavite vaš doprinos i podijelite ga sa prijateljima i pratiocima kroz [stra
 
 Sada možete početi da doprinosite i drugim projektima. Sastavili smo listu projekata sa jednostavim problemima na kojima možete početi da radite. Pogledajte [listu projekata na stranici](https://firstcontributions.github.io/#project-list).
 
-### [Dodatni materijali](additional-material/git_workflow_scenarios/additional-material.md)
+### [Dodatni materijali](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorijali koji koriste druge alatke
 

@@ -106,7 +106,7 @@ Daha çox təcrübə istəyirsinizsə, yoxlayın [kod töhfələri](https://gith
 
 İndi başqa layihələrə töhfə verməyə başlayaq. Başlaya biləcəyiniz asan məsələləri olan layihələrin siyahısını hazırladıq, [siyahıya baxın](https://firstcontributions.github.io/#project-list).
 
-### [Əlavə Məlumat](additional-material/git_workflow_scenarios/additional-material.md)
+### [Əlavə Məlumat](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Digər alətlərin istifadəsi üçün təlimlər
 
