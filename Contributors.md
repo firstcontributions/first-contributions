@@ -4403,6 +4403,7 @@ andrewcodess
 - [Larson](https://github.com/lixianphy)
 - [Laryssa](https://github.com/krystall8778)
 - [Connor Sea](https://github.com/connortist) My first open-source contribution, made with Claude Code!
+- [Ravikant Pandit](https://github.com/codewithravikant) - Full-stack developer in Helsinki; first open source contribution via first-contributions
 - [Gabriel Villanueva](https://github.com/gabeamv)
 - [LaskaaaD](https://github.com/LaskaaaD)
 - [Jonghoon Lee](https://github.com/hoony3207-web)
@@ -8359,4 +8360,5 @@ Kunal Khallar - Learning to contribute :)
 - [Maryam Golriz](https://github.com/maryamgolriz-pixel) - My first open source contribution
 - [Martin Parushev](https://github.com/martinmp03) - My first open source contribution.
 - CDGXR
+
 
