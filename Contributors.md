@@ -544,6 +544,7 @@ SANKALP PANDEY
 - [Abhiram](https://github.com/Abhi-830)"Trying out Open Source Contribution"
 - [Kevin] hello
 Arise
+- [xwt] Hello! i am so pretty.
 - [Jenny] Huzzah!
 - [milo carter](https://github.com/Ab-misa) My beloved haibara ai,it's my first PR
 - [Leeza] I am feeling pretty kewl
