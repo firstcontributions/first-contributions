@@ -3334,6 +3334,7 @@ Jim Bollinger
 - [Jose Ignacio Robles](https://github.com/NaRo-03)
 - [ArnavGarg7](https://github.com/ArnavGarg7)
 - [Kini7686](https://github.com/Kini7686)
+- [Joush19](https://github.com/Joush19) Hello and this is my first contribution.
 - [Aditya Shaji](https://github.com/ps-aditya)
 - [thinkinfalse](https://github.com/thinkinfalse) - hi!
 - [Darsh Agarwal](https://github.com/darshag29)
