@@ -4196,6 +4196,7 @@ andrewcodess
 - [GuoYu](https://github.com/BaJiao-Gy)
 - [Guotao Gou](https://github.com/martin-gou/)
 - [Gustavo Salvador](https://github.com/gustavosalvador)
+- [Raymond](https://github.com/R4mondo)
 - [Nithael I Lacle](https://github.com/NithaelLacle) - My first contribution
 - [H-crowe](https://github.com/H-crowe)
 - [Elaheh Mirzaeicheshmeh](https://github.com/Elahe110)
