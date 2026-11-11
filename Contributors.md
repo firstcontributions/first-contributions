@@ -8387,3 +8387,4 @@ Kunal Khallar - Learning to contribute :)
 - [Rajdeep Singh Parmar](https://github.com/rajdeepsinghparmar142893-beep) - My first Open-Source Contribution :) .
 - [iFarsh] (https://github.com/FarshidRafiei) Farshid Rafiei
 - [Angelito] (https://github.com/AngelSabando) Angel Sabando
+- [Amrit] (https://github.com/Zygarde3124) Bella Ciao
