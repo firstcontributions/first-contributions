@@ -891,6 +891,7 @@ Migeen Magar - let'sss gooooooo
 - [Yash Gautam] (https:/github.com/Yash2031v) - Hello Everyone, This is my First open-source contribution.
 - [Nishant Saini] (https://github.com/NISHANTSAINI6251) - First open-source contirbution
  main
+- [Shivam Pandya](https://github.com/PandyaShivam24) - Hello, this is my first open-source contribution!
 - [Teki Shodo](https://github.com/tekisho) - **Hi :3!**
 - [Angel Rosales](https://github.com/angelrosaleslopez-source) - My first open-source contribution!
 - [Gayatri Arvind Gundad](https://github.com/Gayatri-tech24)-My first contribution!! So excited to start my developer journey.
