@@ -8427,3 +8427,5 @@ Kunal Khallar - Learning to contribute :)
 - [Manav Parihar](https://github.com/Mnvv08)
 - [Narmela Malekmohammadi](https://github.com/narmela) - My first open source contribution!
 - [Haniyeh Ghavami](https://github.com/Sepidesabah)
+
+- [Shikhar Sharma](https://github.com/shikjazz) - M.Sc. Computational Linguistics | NLP & LLM Enthusiast
