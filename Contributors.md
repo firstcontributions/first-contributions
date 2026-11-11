@@ -2,8 +2,9 @@
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
 - [Satya Prakash](https://github.com/Anirvarti)
-- [Ganeshwari](https://github.com/ganeshwarirciet)
-- [chen-xiao-yuan](https://github.com/chen-xiao-yuan)
+- [Ganeshwari]
+(https://github.com/ganeshwarirciet)
+- [chen-xiao-yuan] Akash Pandharpurkar(https://github.com/chen-xiao-yuan)
 - [Dinesh Moorthy](https://github.com/DineshMoorthy007) - Stay Cool 😎 | My First Contribution guys !
 - [iniya-27](https://github.com/iniya-27) - Added Python contributions!
 - [vijay achari](https://github.com/vijayachari565-droid/first-contributions
