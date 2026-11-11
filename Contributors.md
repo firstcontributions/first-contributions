@@ -1,3 +1,4 @@
+
 - [Satya Prakash](https://github.com/Anirvarti)
 - [chen-xiao-yuan](https://github.com/chen-xiao-yuan)
 - [iniya-27](https://github.com/iniya-27) - Added Python contributions!
@@ -15,6 +16,7 @@
 [M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
 Just - [Affan Ahmed](https://github.com/Affanasrar)
 changing a few things..
+-[Renfred](https://github.com/renfred2306)
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [suzhen-zhu](https://github.com/susan-zhu) - My first open-source contribution
 - [Ananyak00](https://github.com/Ananyak00)  - My first open source contribution
