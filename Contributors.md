@@ -1,5 +1,6 @@
 # Contributors
 - [Yash Badhe]
+- [Jenofa](https://github.com/jenofa-code)
 - [aroojresearch](https://github.com/aroojresearch)
 - [JanLancelot] (https://github.com/JanLancelot)
 - [Kamyar Azizi](https://github.com/KamyarAzz)
