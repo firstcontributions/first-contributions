@@ -8387,7 +8387,7 @@ Kunal Khallar - Learning to contribute :)
 - [Maryam Golriz](https://github.com/maryamgolriz-pixel) - My first open source contribution
 - [Martin Parushev](https://github.com/martinmp03) - My first open source contribution.
 - CDGXR
-
+- [Pritesh Beladiya](https://github.com/priteshbeladiya07) - My first PR request
 
 
 - [Ann-2008](https://github.com/Ann-2008)
