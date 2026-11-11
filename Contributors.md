@@ -8417,4 +8417,4 @@ Kunal Khallar - Learning to contribute :)
 - [Rajpal](https://github.com/Rajpal14)
 - [fatty](https://github.com/fartysupreme)
 - [houssmaster](https://github.com/housseinmsallem)
-Amit Kumar
+- [Amit Kumar](https://github.com/IAKSH15)
