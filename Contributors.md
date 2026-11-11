@@ -17,6 +17,7 @@ Just - [Affan Ahmed](https://github.com/Affanasrar)
 changing a few things..
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [suzhen-zhu](https://github.com/susan-zhu) - My first open-source contribution
+- [Ananyak00](https://github.com/Ananyak00)  - My first open source contribution
 - [Mahitha](https://github.com/shortwhale) - First contribution!!!
 - [Mahi-Chandra](https://github.com/Mahi-Chandra) - First contribution!
 - [Joshua-T-J](https://github.com/Joshua-T-J) - Beginning my journey in open-source collaboration.
