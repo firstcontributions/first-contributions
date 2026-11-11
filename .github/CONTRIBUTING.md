@@ -6,7 +6,7 @@ As this might be a starting point for people looking to contribute to open sourc
 
 It's best to think less in terms of what you can do to contribute and more in terms of what maintainers of the project want. Look for issues that maintainers have labeled as https://github.com/firstcontributions/first-contributions/labels/help%20wanted https://github.com/firstcontributions/first-contributions/labels/good%20first%20issue. This means that maintainers of that project have looked at that issue and would like someone to address it.
 
-Go through the contribution guidelines in the repository (generally Contributing.md). Pay attention to the details in there. It's very important.
+Read the project README and the instructions relevant to the files you plan to change. Follow the project-specific guidance below before opening a pull request.
 
 ### On LLMs, coding agents and everything marketed as AI
 
@@ -23,3 +23,11 @@ It's best to use them as a tool for learning and not to do your work for you.
 2. Take a look at our design decisions before suggesting changes https://github.com/firstcontributions/first-contributions/issues/35892.
 3. Create new branches for different changes. Check out the main branch and create new branches from there
 4. Keep pull requests small. A pull request that has one file change is way easier to review than 20 files.
+
+## Before opening a pull request
+
+- Start from the latest `main` branch and make your change on a separate branch.
+- Check open issues and the design decisions in issue [#35892](https://github.com/firstcontributions/first-contributions/issues/35892) before proposing a larger change.
+- Keep the change focused. Do not edit `README.md`; it is the project's practice tutorial.
+- Review your diff and verify any links, commands, or screenshots you changed.
+- In the pull request description, explain the user problem and your change. Link a related issue when one exists, and say what you checked.
