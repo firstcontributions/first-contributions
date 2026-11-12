@@ -1,5 +1,4 @@
-- [Tanmay Singh Panwar] - This is my first contribution
-- [Tanmay Singh Panwar] - This is my first contribution
+- [Tanmay Singh Panwar] - This is my firstopen source contribution.
 - [ mayank ] - This is my first step of learning open source contribution
 - [kush] - this is my first contribution
 - [ak] - this is my first contribution
