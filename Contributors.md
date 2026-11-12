@@ -8464,3 +8464,4 @@ Kunal Khallar - Learning to contribute :)
 <<<<<<< HEAD
 -[Aatif Equbal](https://github.com/Aatifequbal) - My first open source contribution on 12-11-2026
 - [Tejesh-c-dev](https://github.com/Tejesh-c-dev) - My first open source contribution. Starting a new journey in tech
+- [Avani Jannawar](https://github.com/Avani376)
