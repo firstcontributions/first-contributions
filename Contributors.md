@@ -1011,6 +1011,7 @@ Rahul Aggarwal
 - [Aditi Patil](https://github.com/AditiPatil31)
 - [Raj Paramanik](https://github.com/rajparamanik)-First Contribution-hello world!
 - [Vinod Veda](https://github.com/VSriVinod)
+- [ChipChop-CCID](https://github.com/ChipChop-CCID) Pizza and Lava!
 - [Jishnu Madhu](https://github.com/JishnuMadhu)
 B05U3-
 - balayyoub
