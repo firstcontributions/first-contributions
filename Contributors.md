@@ -1,3 +1,4 @@
+- [Srujan Chidarla](https://github.com/srujanchidarla) - First step toward Apache Airflow contributions
 - [Srushti Pampat](https://github.com/Srushti-College09)
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
