@@ -68,6 +68,7 @@ changing a few things..
 - [Hoang Quoc Viet](https://github.com/hoangquocviet-dev)
 - [Wajid Rashid](https://github.com/i-wajidrashid)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
+[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Aftab](https://github.com/Aftab-007) - Polymath. Hyperactive Learner. Works in Networking Cybersecurity & AI.
 - [Sourajyoti Karmakar](https://github.com/SourajyotiKarmakar25) - Starting my Open Source journey
 - [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
