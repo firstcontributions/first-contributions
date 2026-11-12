@@ -8059,6 +8059,7 @@ https://github.com/divyagunda0717/first-contributions.git-[divya]
 - [Ha Nhat Khoa](https://github.com/khoahaaoj)
 - [GabaniHasti](https://github.com/GabaniHasti)
 - [Diya Waja](https://github.com/diyawaja)
+- [Anal Shaju](https://github.com/AnalShaju) - Building and learning with the community.
 - [Raveena Sharma](https://github.com/Raveena11-2006)
 - [Sayan Mahata](https://github.com/sayan9168) - System Architect & Security Researcher |
 - kdant-bit zyc hello world first PR
