@@ -97,6 +97,7 @@ changing a few things..
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - [Raunit Giri](https://github.com/rauni5) - First open source contribution.
 - [Benjamin Rassloff](https://github.com/benjaminrassloff) - My first contribution!
+- [Narayana Harsha Vardhan](https://github.com/Harsha2614/) - My first open source contribution !check out  my profile !
 - Arun!
 - Milo
 - Carlos Buque
