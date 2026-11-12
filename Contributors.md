@@ -10,6 +10,7 @@
 - [shravya](https://github.com/shravya2826) - First open source contribution
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
+- [Rashi Arora](https://github.com/Rashi-4)
 - [Kenna Getachew](https://github.com/kennaget)
 - [Satya Prakash](https://github.com/Anirvarti)
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
