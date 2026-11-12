@@ -6,6 +6,7 @@
 - [Satya Prakash](https://github.com/Anirvarti)
 - [Ganeshwari]
 (https://github.com/ganeshwarirciet)
+dudpatil07
 - [chen-xiao-yuan] Akash Pandharpurkar(https://github.com/chen-xiao-yuan)
 - [Dinesh Moorthy](https://github.com/DineshMoorthy007) - Stay Cool 😎 | My First Contribution guys !
 - [iniya-27](https://github.com/iniya-27) - Added Python contributions!
