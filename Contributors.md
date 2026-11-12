@@ -8440,3 +8440,5 @@ Kunal Khallar - Learning to contribute :)
 - [YZBzgy](https://github.com/zgy0715) - Hello, my first pull request!
 - [Efe Kapan](https://github.com/efekapan) - Hello, my first pull request!
 - [his123it](https://github.com/his123it) - My first open source contribution!
+
+-[binglumeijiabing](https://github.com/binglumeijiabing) -Let's check back in a year!
