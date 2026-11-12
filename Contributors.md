@@ -1,5 +1,6 @@
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
+- [AdityaYadav](https://github.com/adityay04) - Ya'll can do it, trust the process!
 - [shravya](https://github.com/shravya2826) - First open source contribution
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
