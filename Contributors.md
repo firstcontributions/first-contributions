@@ -8443,3 +8443,4 @@ Kunal Khallar - Learning to contribute :)
 - [his123it](https://github.com/his123it) - My first open source contribution!
 
 -[binglumeijiabing](https://github.com/binglumeijiabing) -Let's check back in a year!
+- [Akanksha Kedia](https://github.com/Akanksha-kedia) - My first open source contribution!
