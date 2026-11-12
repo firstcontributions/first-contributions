@@ -8392,3 +8392,4 @@ Kunal Khallar - Learning to contribute :)
 - [Amrit] (https://github.com/Zygarde3124) Bella Ciao
 - [kayvan.azarbarzin] (https://github.com/kayvanazarbarzin)
 - [vaishnaviii18](https://github.com/vaishnaviii18) - My first open source contribution
+* [Luis](https://github.com/aluisr24)- My first open source contribution!
