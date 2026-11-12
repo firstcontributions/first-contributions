@@ -8,8 +8,9 @@
 - [Tomas Tesfay](https://github.com/TomasTesfay)
 - [Satya Prakash](https://github.com/Anirvarti)
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
-- [Ganeshwari]
-(https://github.com/ganeshwarirciet)
+- [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
+- [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
+- [Logashini CB](https://github.com/logashini347) - Stay Cool jai maghilmathi.....
 dudpatil07
 -[AliZadehsalim]https://github.com/alizadehsalima-cyber
 - [chen-xiao-yuan] Akash Pandharpurkar(https://github.com/chen-xiao-yuan)
@@ -67,6 +68,7 @@ changing a few things..
 - [Hoang Quoc Viet](https://github.com/hoangquocviet-dev)
 - [Wajid Rashid](https://github.com/i-wajidrashid)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
+[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Aftab](https://github.com/Aftab-007) - Polymath. Hyperactive Learner. Works in Networking Cybersecurity & AI.
 - [Sourajyoti Karmakar](https://github.com/SourajyotiKarmakar25) - Starting my Open Source journey
 - [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
@@ -8452,4 +8454,6 @@ Kunal Khallar - Learning to contribute :)
 - [Husein Ghadiali](https://github.com/HuseinGhadiali) - My first open-source contribution!
 - [Hema Sri Asritha](https://github.com/Hemas2004-ai) - My first open source contribution!
 - [Jeeva S](https://github.com/Jeeva3-SR) - My first open source contribution on 12-11-2026
-- [Aatif Equbal](https://github.com/Aatifequbal) - My first open source contribution on 12-11-2026
+<<<<<<< HEAD
+-[Aatif Equbal](https://github.com/Aatifequbal) - My first open source contribution on 12-11-2026
+
