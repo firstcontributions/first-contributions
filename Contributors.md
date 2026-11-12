@@ -8435,3 +8435,4 @@ Kunal Khallar - Learning to contribute :)
 
 - [Shikhar Sharma](https://github.com/shikjazz) - M.Sc. Computational Linguistics | NLP & LLM Enthusiast
 - [Tanu] (https://github.com/Tanuu18) - My first open-source contribution.
+- [Ali Ghasemi](https://github.com/alighasemi595)
