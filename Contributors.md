@@ -370,6 +370,7 @@ dehdlhl
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
 - [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
 - [Brandon kipkirui yegon](https://github.com/tommy012hk-coder)
+- [Rupert Lim](https://github.com/Rupertlim88)
 - [Renisha Ensalaita ] (https://github.com/renisha18) - full stack web dev.
 - [Logaranjani G P](https://github.com/Logaranjani345)
 - [Jaime Medina](https://github.com/anjailo-me) - Practicing the pull-request flow
