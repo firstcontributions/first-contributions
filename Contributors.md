@@ -4,6 +4,7 @@
 - [Pawan Nanaware](https://github.com/PWN-N/first-contributions.git)
 - [Himanshu](https://github.com/himanshu040107) - My first open source contribution...
 - [AdityaYadav](https://github.com/adityay04) - Ya'll can do it, trust the process!
+- [AnshuKumariMehta](https://github.com/Anshu-K-Mehta) -  Trust the process!
 - [shravya](https://github.com/shravya2826) - First open source contribution
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
