@@ -1,3 +1,4 @@
+- [Srushti Pampat](https://github.com/Srushti-College09)
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [AdityaYadav](https://github.com/adityay04) - Ya'll can do it, trust the process!
