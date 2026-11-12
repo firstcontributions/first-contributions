@@ -952,6 +952,7 @@ John Doe 2026
 - [Pratyaksh Tomar](https://github.com/Pratyaksh0x1) - My first open Source Contribution!!
 - [Md Mizan](https://github.com/msaimanish)
 - [Sai Manish M](https://github.com/mizan989)
+- [AceIsTheMan](https://github.com/AceIsTheMan) - Spade is my lucky card!
 - [Dvorah Fishman](https://github.com/DvorahFishman)
 - [Dhanushree Rajangam](https://github.com/Dhanuraj-22)
 - [balliolon](https://github.com/balliolon2) - My first open Source Contribution!!
