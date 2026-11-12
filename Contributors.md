@@ -97,6 +97,7 @@ changing a few things..
 - [Om Ojha](https://github.com/ojhaom967-netizen)
 - [Varshith Julakanti](https://github.com/Varshith0105) - This is my profile vist this!
 - [Bilel Bouzaiane](https://github.com/bilelbouz)
+- [Andrew D'Amico](https://github.com/Rocket-Sandrew) - Here goes, my first open-source contribution!
 - [Kadri Abderazik](https://github.com/kadrirazik50-rgb) - Ma première contribution open source !
 - [Raunit Giri](https://github.com/rauni5) - First open source contribution.
 - [Benjamin Rassloff](https://github.com/benjaminrassloff) - My first contribution!
