@@ -8437,3 +8437,4 @@ Kunal Khallar - Learning to contribute :)
 - [Tanu] (https://github.com/Tanuu18) - My first open-source contribution.
 - [Ali Ghasemi](https://github.com/alighasemi595)
 - [YZBzgy](https://github.com/zgy0715) - Hello, my first pull request!
+- [Efe Kapan](https://github.com/efekapan) - Hello, my first pull request!
