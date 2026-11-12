@@ -8454,3 +8454,6 @@ Kunal Khallar - Learning to contribute :)
 - [Husein Ghadiali](https://github.com/HuseinGhadiali) - My first open-source contribution!
 - [Hema Sri Asritha](https://github.com/Hemas2004-ai) - My first open source contribution!
 - [Jeeva S](https://github.com/Jeeva3-SR) - My first open source contribution on 12-11-2026
+<<<<<<< HEAD
+-[Aatif Equbal](https://github.com/Aatifequbal) - My first open source contribution on 12-11-2026
+
