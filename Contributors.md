@@ -4,6 +4,7 @@
 - [Kushagra Singh](https://github.com/Kushagra-xb)  - My first open source contribution...
 - [Srushti Pampat](https://github.com/Srushti-College09)
 - [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
+- John_Guchu_Macharia
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [Ankita Tiwari](https://github.com/ankita-code05)
