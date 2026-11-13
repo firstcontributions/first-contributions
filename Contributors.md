@@ -11,6 +11,7 @@
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
 - [Rashi Arora](https://github.com/Rashi-4)
+- [Himesh Thakur](https://github.com/himesh-07/first-contributions) - my first contribution 🔗
 - [Kenna Getachew](https://github.com/kennaget)
 - [Satya Prakash](https://github.com/Anirvarti)
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
