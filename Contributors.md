@@ -257,6 +257,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Prashhh](https://github.com/prash22bit) - peru gurthupettuko, tarvatha matladadaam
 - [AbrshS (Abraham Shiferaw) 🇪🇹](https://github.com/AbrshS)
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
+- [Alok Sharma](https://github.com/aloksharma13) - My first contribution.
 - [Shreya Singh](https://github.com/ssrj25) - Hey everyone! My first contribution!
 z54c6hf
 - [Aaróndli]https://github.com/Aarondli
