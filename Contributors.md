@@ -8508,3 +8508,4 @@ Kunal Khallar - Learning to contribute :)
 - [Avani](https://github.com/avanicodes)
 - [mariafauslin08-create](https://github.com/mariafauslin08-create) - My first open-source contribution!
 - [jebin](https://github.com/jebinjebin725-hash) - My first open source contribution!
+- [s13felix](https://github.com/s13felix)
