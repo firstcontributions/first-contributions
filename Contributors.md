@@ -8487,6 +8487,7 @@ Kunal Khallar - Learning to contribute :)
 - [Haniyeh Ghavami](https://github.com/Sepidesabah)
 - [Berkant Suren](httpsp://github.com/berkantsuren1) - My first open source contribution!
 - [Shikhar Sharma](https://github.com/shikjazz) - M.Sc. Computational Linguistics | NLP & LLM Enthusiast
+- [SaifAli-S](https://github.com/SaifAli-S) - My first open-source contribution!
 - [Tanu] (https://github.com/Tanuu18) - My first open-source contribution.
 - [Ali Ghasemi](https://github.com/alighasemi595)
 - [YZBzgy](https://github.com/zgy0715) - Hello, my first pull request!
@@ -8516,4 +8517,3 @@ Kunal Khallar - Learning to contribute :)
 - [Arun](https://github.com/ArunSankar-2007)- My first open source contribution!
 - [jenith](https://github.com/jenithriyazcharles)- My first open source contribution!
 -[Prajesh M](https://github.com/prajesh-10)
-- [SaifAli-S](https://github.com/SaifAli-S) - My first open-source contribution!
