@@ -8506,3 +8506,4 @@ Kunal Khallar - Learning to contribute :)
 - [Mahdi Soleymani](https://github.com/mahdisoleymani1322-beep)
 - [An-learner666](https://github.com/An-learner666) - 第一次参与开源贡献
 - [Avani](https://github.com/avanicodes)
+- [mariafauslin08-create](https://github.com/mariafauslin08-create) - My first open-source contribution!
