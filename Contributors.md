@@ -9,7 +9,7 @@
 - [AdityaYadav](https://github.com/adityay04) - Ya'll can do it, trust the process!
 - [AnshuKumariMehta](https://github.com/Anshu-K-Mehta) -  Trust the process!
 - [shravya](https://github.com/shravya2826) - First open source contribution
-
+- [shiv](https://github.com/codewithshiv26) - IF YOU CAN'T REACH GOD'S LEVEL, BRINGS GOD'S LEVEL DOWN.
 - [Balamanikanta Tirunagaram](https://github.com/balamanikantatirunagaram-lgtm)
 
 - [mctluisg](https://github.com/mctluisg)
@@ -8497,3 +8497,4 @@ Kunal Khallar - Learning to contribute :)
 - [Siddhartha Soni](https://github.com/sidsoni2006-alt)
 - [Nikhilesh PS](https://github.com/psnikhilesh)
 - [Mahdi Soleymani](https://github.com/mahdisoleymani1322-beep)
+- [An-learner666](https://github.com/An-learner666) - 第一次参与开源贡献
