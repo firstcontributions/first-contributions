@@ -8520,3 +8520,4 @@ Kunal Khallar - Learning to contribute :)
 - [jenith](https://github.com/jenithriyazcharles)- My first open source contribution!
 -[Prajesh M](https://github.com/prajesh-10)
 - [SaifAli-S](https://github.com/SaifAli-S) - My first open-source contribution!
+- [Antriksh](https://github.com/antrikshmonga-02) - My first open source contribution!
