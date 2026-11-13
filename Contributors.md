@@ -6,6 +6,7 @@
 - [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
 - John_Guchu_Macharia
 - [AntiEntity314](https://github.com/AntiEntity314)
+- [Sri Krishnan S](https://github.com/SSK0414) - You can do this! I believe in you <3
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [Ankita Tiwari](https://github.com/ankita-code05)
 - [Dhruv Dinesh Soni](https://github.com/soni-dhruv)
