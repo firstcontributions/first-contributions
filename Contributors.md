@@ -8496,4 +8496,5 @@ Kunal Khallar - Learning to contribute :)
 - [Avani Jannawar](https://github.com/Avani376)
 - [Siddhartha Soni](https://github.com/sidsoni2006-alt)
 - [Nikhilesh PS](https://github.com/psnikhilesh)
+- [Mahdi Soleymani](https://github.com/mahdisoleymani1322-beep)
 - [An-learner666](https://github.com/An-learner666) - 第一次参与开源贡献
