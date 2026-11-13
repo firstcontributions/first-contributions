@@ -20,6 +20,7 @@
 - [Satya Prakash](https://github.com/Anirvarti)
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
 - [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
+- [RickyAustin J](https://github.com/rickyaustin456)- NEVER EVER GIVE UP
 - [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
 - [Logashini CB](https://github.com/logashini347) - Stay Cool jai maghilmathi.....
 dudpatil07
