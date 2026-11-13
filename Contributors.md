@@ -1969,6 +1969,7 @@ vijyot silare
 -[Akshat Parashar](https://github.com/akshatparashar)
 - [Siddhartha](https://github.com/siddhartha3066)
 - [Harsh Rajput](https://github.com/harshrajput-0) - My First Open Source Contribution
+- [William Peters](https://github.com/willbpeters) - 11/12/2026
 - [Maicon Vieira](https://github.com/maiconvieira)
 - [Sulaman Shahzad](https://github.com/sulaman492)
 - [grapeching](https://github.com/grapeching)
