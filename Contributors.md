@@ -14,7 +14,7 @@
 - [shravya](https://github.com/shravya2826) - First open source contribution
 - [shiv](https://github.com/codewithshiv26) - IF YOU CAN'T REACH GOD'S LEVEL, BRINGS GOD'S LEVEL DOWN.
 - [Balamanikanta Tirunagaram](https://github.com/balamanikantatirunagaram-lgtm)
-
+- [Arya Gowda ](https://github.com/Arya4gowda4/) Here we go first open source contribution..
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
 - [Rashi Arora](https://github.com/Rashi-4)
