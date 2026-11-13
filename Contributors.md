@@ -2,7 +2,7 @@
 - [Srujan Chidarla](https://github.com/srujanchidarla) - First step toward Apache Airflow contributions
 - [Kushagra Singh](https://github.com/Kushagra-xb)  - My first open source contribution...
 - [Srushti Pampat](https://github.com/Srushti-College09)
--[Arjun Singha](https://github.com/parckf/first-contributions.git) -First contribution
+- [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [Pawan Nanaware](https://github.com/PWN-N/first-contributions.git)
