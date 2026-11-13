@@ -8431,6 +8431,7 @@ Kunal Khallar - Learning to contribute :)
 - [Asritha](https://github.com/Asritha-na)
 - [Santosh](https://github.com/santosh71436) - My first open-source contribution
 - siavash samimi fard (https://github.com/siavash-smf)
+- [Faye Movaffaghi](https://github.com/Fayemvf) — My first pull request started in Siavash’s class. I hope the next one starts with a problem I can help fix.
 - [Hamzeh Salmani] (https://github.com/HamzehSalmani) <<<<<<<<<< This is my first open-source contribution!! 
 - [Saber Tabatabaei](https://github.com/sabertabatabaei) - My first open-source contribution!!
 [Linda](https://github.com/Lindaokike)
