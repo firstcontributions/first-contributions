@@ -8295,7 +8295,8 @@ Kunal Khallar - Learning to contribute :)
 - [growbeatree](https://github.com/growbeatree)
 - [elakkeyaarumugam2008-tech](https://github.com/elakkeyaarumugam2008-tech)
 - [Khoa Phan](https://github.com/khoap1220-hue)
-- [aymadr](https://github.com/aymadr)
+- [aymadr](https://github.com/aymadr)#
+- [Nana Boateng](https://github.com/2131gh)
 
 - [PaigeYuan] (https://github.com/Paigeyuan) 
 - [echosweta] (https://github.com/echosweta)
