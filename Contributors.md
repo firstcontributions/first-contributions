@@ -83,6 +83,7 @@ changing a few things..
 - [bethhaysom]
 - [Idhanth Karthik](https://github.com/idhanth17) - My first open source contribution! Cheers!
 - [matiasad] (https://github.com/matiasad) - My first openSource contribution. 
+- [Fazalul Ameen] (https://github.com/fazalul-ameen) - My first cotribution..
 - [Akchrao] (https://github.com/Akchrao) - Here is my first openSource contribution. Way to go!
 - [Aastha Gulati](https://github.com/aasthagulati2049)
 - [amd47802574](https://github.com/amd47802574)
