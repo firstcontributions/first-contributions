@@ -8497,4 +8497,4 @@ Kunal Khallar - Learning to contribute :)
 - [Avani Jannawar](https://github.com/Avani376)
 - [Siddhartha Soni](https://github.com/sidsoni2006-alt)
 - [Nikhilesh PS](https://github.com/psnikhilesh)
--  [Ricky Austin J](https://github.com/rickyaustin456)
+
