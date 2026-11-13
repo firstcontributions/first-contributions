@@ -4,6 +4,7 @@
 - [Srushti Pampat](https://github.com/Srushti-College09)
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
+- [Dhruv Dinesh Soni](https://github.com/soni-dhruv)
 - [Pawan Nanaware](https://github.com/PWN-N/first-contributions.git)
 - [Himanshu](https://github.com/himanshu040107) - My first open source contribution...
 - [AdityaYadav](https://github.com/adityay04) - Ya'll can do it, trust the process!
