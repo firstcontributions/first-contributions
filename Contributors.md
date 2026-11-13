@@ -9,6 +9,9 @@
 - [AdityaYadav](https://github.com/adityay04) - Ya'll can do it, trust the process!
 - [AnshuKumariMehta](https://github.com/Anshu-K-Mehta) -  Trust the process!
 - [shravya](https://github.com/shravya2826) - First open source contribution
+
+- [Balamanikanta Tirunagaram](https://github.com/balamanikantatirunagaram-lgtm)
+
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
 - [Rashi Arora](https://github.com/Rashi-4)
