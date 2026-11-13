@@ -24,7 +24,7 @@
 - [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
 - [Logashini CB](https://github.com/logashini347) - Stay Cool jai maghilmathi.....
 dudpatil07
-
+- [Rasha Imtiaz](https://github.com/Rasha14) - My first open-source contribution!
 -[AliZadehsalim]https://github.com/alizadehsalima-cyber
 - [Rahul Upadhyay](https://github.com/RahulUpadhyaay) - i am doing this in 4th year and i am already placed.
 - [chen-xiao-yuan] Akash Pandharpurkar(https://github.com/chen-xiao-yuan)
