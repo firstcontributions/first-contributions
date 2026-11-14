@@ -423,6 +423,7 @@ dehdlhl
 - [Parth Bairagi](https://github.com/TITAN-beast) -- My First Open Source Contribution
 - [Reynaldo Quispe (REYNALDOz)](https://github.com/REYNALDOz) - My First Open Source Contribution 🚀
 - [Arnold Semase (@arnoldsemase)](https://github.com/arnoldsemase) - Crafting Modern web Systems
+- [Vritant Jain](https://github.com/vritantj24) - Open source contribution begins from here 🚀
 - [Brandon kipkirui yegon](https://github.com/tommy012hk-coder)
 - [Rupert Lim](https://github.com/Rupertlim88)
 - [Renisha Ensalaita ] (https://github.com/renisha18) - full stack web dev.
