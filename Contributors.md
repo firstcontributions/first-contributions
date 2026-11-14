@@ -7699,7 +7699,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Bryan Ortega] (https://github.com/SantiOrtega125)
 - [Kuno] (https://github.com/Culneau)
 - [Kylian-supinfo] (firstcontributions/first-contributions:main)
-HEAD
 - [Vaishnavi Wadhale] (https://github.com/VaishnaviWadhale)
 
 - [Vishwanath] ()
@@ -8586,6 +8585,7 @@ dudpatil07
 - [Strong-Happy]()   First Contribution 10/11/26
 - [melu](https://github.com/ly-2007)
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
+- [Lithika Sri](https://github.com/lithi0804-byte) - B.Tech Student & Open Source Contributor
 - [Lithika Sri](https://github.com/lithi0804-byte) - My first open source contribution
 - [Abhishek Ghute](https://github.com/AbhiKalpa) | [LinkedIn] (www.linkedin.com/in/abhishekghute) - Jabtk Todenge Nahi Tabtk Chodenge Nahi 
 - [Adzhan-Farhan](https://github.com/adzhanfarhan08) - One small, meaningful step
@@ -16237,7 +16237,6 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Bryan Ortega] (https://github.com/SantiOrtega125)
 - [Kuno] (https://github.com/Culneau)
 - [Kylian-supinfo] (firstcontributions/first-contributions:main)
-HEAD
 - [Vaishnavi Wadhale] (https://github.com/VaishnaviWadhale)
 
 - [Vishwanath] ()
