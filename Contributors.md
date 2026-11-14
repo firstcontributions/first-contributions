@@ -1310,6 +1310,7 @@ GSL32
 - [Sean Michals](https://github.com/SeanMichals)
 - [vinayak chavan](https://github.com/vin1987)
 - [ringoalo](https://github.com/AlossoRingo)
+- Anaïs
 - {shama rahangdale - my first contribution}
 - [Kishor Rajbanshi](https://github.com/kishor-rajbanshi)
 - Nakum Milan
