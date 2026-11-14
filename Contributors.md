@@ -1609,6 +1609,7 @@ vijyot silare
 - [Abhishek Ankem] (https://github.com/Abhishek-benchspace)
 - [vijaykeerthi] (https://github.com/keerthivijay)
 - [Juliia24] (https://github.com/Juliia24)
+- [Ali Turan](https://github.com/Alttrest)
 - [Ali Wael Mohamed Ali](https://github.com/Ali-w908)
 - [Arda Aras Çavdur](https://github.com/Arda-Aras103)
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
@@ -8449,6 +8450,7 @@ Kunal Khallar - Learning to contribute :)
 - [Asritha](https://github.com/Asritha-na)
 - [Santosh](https://github.com/santosh71436) - My first open-source contribution
 - siavash samimi fard (https://github.com/siavash-smf)
+- [Behnam Farshid](https://github.com/Behnamrf) - My first open source contribution! THX Siavash-SMF.
 - [Faye Movaffaghi](https://github.com/Fayemvf) — My first pull request started in Siavash’s class. I hope the next one starts with a problem I can help fix.
 - [Hamzeh Salmani] (https://github.com/HamzehSalmani) <<<<<<<<<< This is my first open-source contribution!! 
 - [Saber Tabatabaei](https://github.com/sabertabatabaei) - My first open-source contribution!!
@@ -8552,4 +8554,5 @@ Kunal Khallar - Learning to contribute :)
 -[Michael](https://github.com/behrooz-maleki)
 -[Krishna](https://github.com/kk3489619-blip)
 -[Mahendran]_(https://github.com/Mahi170717)
-- [Junaid Alam](https://github.com/your-github-junaid933-cpu) - lets GO
+-[Thirugnanasambanthan R](https://github.com/Thiru-gnanasambanthan)- My first Open Source Contribution
+- [Junaid Alam](https://github.com/Junaid933-cpu) - My first open source contribution
