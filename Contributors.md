@@ -8533,3 +8533,4 @@ Kunal Khallar - Learning to contribute :)
 - [Shreyansh Garg](https://github.com/Shreyxnsh-Garg) - Learning and contributing to open source
 - [Kemal Codes](https://github.com/techkayacodes)
 - [s13felix](https://github.com/s13felix) - My first open source contribution....
+-[Rajamannar Ashritha](https://github.com/ashritha22r)
