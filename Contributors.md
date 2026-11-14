@@ -176,6 +176,7 @@ changing a few things..
 - [Aishwarya](https://github.com/aishwaryaprakashg) - Learning open-source development.
 - [Joao Gabriel](https://github.com/joaogabriel-11) - Learning open-source development.
 - [Harshita Bogineni](https://github.com/Harshita2011)-Learning open-source devlopment. 
+- [Abi](https://github.com/abinayan-a7) - My first step into open source!
 - [Raviteja] (https://github.com/raviteja311) - Learning open-source development
 - [D3F4ULT-dev](https://github.com/D3F4ULT-dev) -  Officially making my mark in open source.
 - [Raphal](https://github.com/Raphal6974) - My first contribution with open source !
