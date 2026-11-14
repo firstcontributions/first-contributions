@@ -48,6 +48,7 @@ dudpatil07
 - [Strong-Happy]()   First Contribution 10/11/26
 - [melu](https://github.com/ly-2007)
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
+- [Lithika](https://github.com/lithi0804-byte) - Python, C, SQL Enthusiast
 - [Lithika Sri](https://github.com/lithi0804-byte) - B.Tech Student & Open Source Contributor
 - [Lithika Sri](https://github.com/lithi0804-byte) - My first open source contribution
 - [Abhishek Ghute](https://github.com/AbhiKalpa) | [LinkedIn] (www.linkedin.com/in/abhishekghute) - Jabtk Todenge Nahi Tabtk Chodenge Nahi 
