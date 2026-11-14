@@ -3998,6 +3998,7 @@ Florent
 - [Bobur Boboyev](https://github.com/Bobur-Boboyev)
 - [Tim Hamilton](https://github.com/THamilton1123)
 - [BpsBaradwaz](https://github.com/Baradwaz-122)
+- [Luiz Pereira](https://github.com/eubastosdev) - Be loud in everything you do xd
 - [Bradford Halter](https://github.com/bradford-halter)
 - [Bradley Leventhal](https://github.com/btleventhal)
 - [Brady Ratzlaff](https://github.com/bsratzlaff-del)
