@@ -23,6 +23,7 @@
 - [Arya Gowda ](https://github.com/Arya4gowda4/) Here we go first open source contribution..
 - [mctluisg](https://github.com/mctluisg)
 - [Tomas Tesfay](https://github.com/TomasTesfay)
+- [Leila Noori](https://github.com/l2nouri)
 - [Rashi Arora](https://github.com/Rashi-4)
 - [Himesh Thakur](https://github.com/himesh-07/first-contributions) - my first contribution 🔗
 - [Kenna Getachew](https://github.com/kennaget)
