@@ -12,6 +12,7 @@
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Lori](https://github.com/LoriV2) I'm so anxious...
 - [Sri Krishnan S](https://github.com/SSK0414) - You can do this! I believe in you <3
+- [Denis Ergöçmen](https://github.com/Denisergocmen924) You're my first, baby.
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [Ankita Tiwari](https://github.com/ankita-code05)
 - [Dhruv Dinesh Soni](https://github.com/soni-dhruv)
