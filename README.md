@@ -109,6 +109,16 @@ This will create a copy of this repository in your account.
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, then on SSH tab and then click the _copy url to clipboard_ icon.
 
+**SSH setup:** Cloning with an SSH URL requires an SSH key added to your GitHub account. If you have not configured one, follow [GitHub's SSH setup guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh).
+
+**Alternative (HTTPS):** To clone your public fork without setting up an SSH key, select the **HTTPS** tab instead and copy its URL. For example:
+
+```bash
+git clone https://github.com/this-is-you/first-contributions.git
+```
+
+Replace `this-is-you` with your GitHub username.
+
 Open a terminal and run the following git command:
 
 ```bash
