@@ -7,6 +7,7 @@
 - [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
 - John_Guchu_Macharia
 - [AntiEntity314](https://github.com/AntiEntity314)
+- [Lori](https://github.com/LoriV2) I'm so anxious...
 - [Sri Krishnan S](https://github.com/SSK0414) - You can do this! I believe in you <3
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [Ankita Tiwari](https://github.com/ankita-code05)
