@@ -4268,6 +4268,7 @@ andrewcodess
 - [Leo Carroll](https://github.com/Leo-Carroll)
 - [Gisele Medina](https://github.com/code-medina)
 - [Gladwin Ly](https://github.com/gladwin-ly)
+- [Noel Bryant](https://github.com/NoelLincoln) - My first open source contribution!
 - [Glen Reynolds](https://github.com/glenr37)
 - [Gnaneshwwaran K](https://github.com/rocklegend14)
 - [Gourav soni](https://github.com/mrgaurav81)
