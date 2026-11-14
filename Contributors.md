@@ -8561,3 +8561,4 @@ Kunal Khallar - Learning to contribute :)
 
 - [vinayakudale2-web](https://github.com/vinayakudale2-web) - My first open-source contribution!
 - Parvin Zadehtahmasebi (https://github.com/ptahmasebi110-source) - My first open source contribution
+-[Mayuri Jadhav](https://github.com/Mayurij81/first-contributions) - My first open source contribution!
