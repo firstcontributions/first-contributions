@@ -14,6 +14,8 @@
 - [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
 - [Hrishikesh Chandra](git@github.com:Rishi-15-2002/first-contributions-practice.git) - Humans make machine valuable, trust ourself
 - John_Guchu_Macharia
+-- [Renfred](https://github.com/renfred2306)-my first open source contribution
+
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Lori](https://github.com/LoriV2) I'm so anxious...
 - [Sri Krishnan S](https://github.com/SSK0414) - You can do this! I believe in you <3
