@@ -8658,6 +8658,7 @@ changing a few things..
 - [Aastha Gulati](https://github.com/aasthagulati2049)
 - [amd47802574](https://github.com/amd47802574)
 - [Hoang Quoc Viet](https://github.com/hoangquocviet-dev)
+- [Tanaya Ghate](https://github.com/tanughate05) - let the battle begin!
 - [Wajid Rashid](https://github.com/i-wajidrashid)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
 [Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
