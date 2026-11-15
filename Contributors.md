@@ -1398,6 +1398,7 @@ GSL32
 - [Prathmesh Shinde](https://github.com/prathmeshshinde98)
 - [Anuraj Singh](https://github.com/its-anuraj)
 - [oensed](https://github.com/oensed)
+- raffyo07
 - haha
 - Maia
 - qlf
