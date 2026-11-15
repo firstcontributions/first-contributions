@@ -17104,3 +17104,4 @@ Kunal Khallar - Learning to contribute :)
 - [Rohit Bairwa](https://github.com/bairwavloger-alt)
 - [Amrutha](https://github.com/amrutha0718)
 - [Mumathi](https://github.com/Mumathi07)
+- [Farideh Irankhah](https://github.com/FIrankhah) 🤖 My first open source contribution 🌸
