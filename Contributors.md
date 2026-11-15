@@ -11525,6 +11525,7 @@ Charon
 - [Aaditya](https://github.com/Aadi_RE350)
 - [jjks7021](https://github.com/jjks7021)
 -[astavkhra](https://github.com/astavkhra)
+- [R3Erick](https://github.com/R3Erick) - First step into open source!
 - [buptjrq](https://github.com/buptjrq)
   Sindy
 - Clarisse Campos
