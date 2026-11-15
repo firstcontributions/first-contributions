@@ -901,6 +901,7 @@ Migeen Magar - let'sss gooooooo
 - [Mazen Mekky](https://github.com/Mazen-Abdelfattah) - My first open-source contribution
 - [Aniket bhardwaj](https://github.com/aniketbhardwajhere-rgb) - Hello there , Aniket bhardwaj this side and the phase of open source contribution starts from today ⚡.
 -[Ayesha](https://github.com/4007ayesha)
+- [Namal](https://github.com/namal-xx) - Yooo!
 - [Lewis](https://github.com/lew1sy)
 - [Isaac](https://github.com/SakRavi) - Preparado para contribuir en el mundo de `open-source`🫡
 - # This is Birha Muskan - First open source contribution - 25-10-2026 - https://github.com/BirhaMuskan
