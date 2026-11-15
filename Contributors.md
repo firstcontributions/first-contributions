@@ -39,6 +39,7 @@
 - [Rashi Arora](https://github.com/Rashi-4)
 - [Himesh Thakur](https://github.com/himesh-07/first-contributions) - my first contribution 🔗
 - [Kenna Getachew](https://github.com/kennaget)
+- [JuanMiguel02](https://github.com/JuanMiguel02) - i'm a leech i'm a leech i'm a leech i'm a leech i'm a leech 
 - [Satya Prakash](https://github.com/Anirvarti)
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
 - [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
