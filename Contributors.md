@@ -120,6 +120,7 @@ changing a few things..
 - [matiasad] (https://github.com/matiasad) - My first openSource contribution. 
 - [Fazalul Ameen] (https://github.com/fazalul-ameen) - My first cotribution..
 - [Akchrao] (https://github.com/Akchrao) - Here is my first openSource contribution. Way to go!
+- [JKL](https://github.com/jklboeckmann) -Namaste
 - [Aastha Gulati](https://github.com/aasthagulati2049)
 - [amd47802574](https://github.com/amd47802574)
 - [Hoang Quoc Viet](https://github.com/hoangquocviet-dev)
