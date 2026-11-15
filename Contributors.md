@@ -441,6 +441,7 @@ dehdlhl
 - [Logaranjani G P](https://github.com/Logaranjani345)
 - [Jaime Medina](https://github.com/anjailo-me) - Practicing the pull-request flow
 - [Aisiri Rajashekar](https://github.com/AisiriMR) — Taking my first step into open source!
+- [Sima Mikaiil](https://github.com/smikaiil)
 [mmz](https://github.com/ITYanTote2022)
 - [Manish Singh](https://github.com/manishs72660-collab)
 - [Prakash](https://github.com/Prakash29-arch)
