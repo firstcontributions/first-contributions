@@ -4243,6 +4243,7 @@ andrewcodess
 - [FromSi](https://github.com/FromSi)
 - [FuraxDev](https://github.com/furax2204)
 - [Furkan Can](https://github.com/Furkancan2)
+- [陈峻熙](https://github.com/chen-jun-xi) - 来自中国，第一次参与开源贡献
 - [Futur2007](https://github.com/Futur2007)
 - [Salim](https://github.com/BySalim)
 - [Laya Khathoon](https://github.com/laya-khathoon)
