@@ -2067,6 +2067,7 @@ Shaurya522 from The Dooon School
 - [K.Shriram](https://github.com/Shriram93444)
 - [SDADAS231231](https://github.com/SDADAS231231): baoyihua is dog
 - [RTE404](https://github.com/RTE404)
+- [R3Erick](https://github.com/R3Erick) - First step into open source!
 - [Tanmay Dixit](https://github.com/tdixit547)
 - [Tanmay Dixit BT2024016](https://github.com/tdixit547)
 - [Abhyudaya_Singh_BT2024180](https://github.com/xerlixx)
