@@ -1,5 +1,6 @@
 - [Prakasam S](https://github.com/Prakasam001)
 - [Carmela Bejerano](https://github.com/CBD2806)
+- [Ammoniaw](https://github.com/Ammoniaw)
 - [SpenStars](https://github.com/spenstars1) - A small step for humanity, but a giant leap for me!
 - [Suprio Adhikary](https://github.com/suprio-dev) - Every contribution is a step forward. The journey has just begun! 🌱
 - [Mr._.](https://github.com/HACKERpgx) - My first open-source contribution!
@@ -34,9 +35,9 @@
 - [RickyAustin J](https://github.com/rickyaustin456) - NEVER EVER GIVE UP 👺
 - [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
 - [Logashini CB](https://github.com/logashini347) - Stay Cool jai maghilmathi.....
-dudpatil07
+  dudpatil07
 - [Rasha Imtiaz](https://github.com/Rasha14) - My first open-source contribution!
--[AliZadehsalim]https://github.com/alizadehsalima-cyber
+  -[AliZadehsalim]https://github.com/alizadehsalima-cyber
 - [Rahul Upadhyay](https://github.com/RahulUpadhyaay) - i am doing this in 4th year and i am already placed.
 - [chen-xiao-yuan] Akash Pandharpurkar(https://github.com/chen-xiao-yuan)
 - [Dinesh Moorthy](https://github.com/DineshMoorthy007) - Stay Cool 😎 | My First Contribution guys !
@@ -52,31 +53,30 @@ dudpatil07
 - [Keethapriyan.dev]https://github.com/KEETHAPRIYAN-CSE - while(True): "Stay Hard!!!"
 - [Rithu Varshini](https://github.com/rithuvarshiniudhayakumar-oss) - My first open source contribution
 - [VishalRaaj DND](https://github.com/vishal-raaj-dnd) - One Step At a Time...
-[khinthet](https://github.com/khinthet-192)
+  [khinthet](https://github.com/khinthet-192)
 - [Rithul Raveendran](https://github.com/rithulraveendran) - Software Developer & Open Source Contributor
 - [SaifAli-S](https://github.com/SaifAli-S) - My first open source contribution
 - [Saif Ali](https://github.com/SaifAli-S) - Open source contributor
 - [Saif](https://github.com/SaifAli-S) - Software Engineer & Open Source Contributor
 - [Saif S](https://github.com/SaifAli-S) - Building open source software
-[mostafa-hirch](https://github.com/bensalemhhlb-sys/MHdae6monthCohort)
-[Arnav singh].[https://github.com/arnavafk12-ship-it]-My second contribution!!!!
+  [mostafa-hirch](https://github.com/bensalemhhlb-sys/MHdae6monthCohort)
+  [Arnav singh].[https://github.com/arnavafk12-ship-it]-My second contribution!!!!
 - [rajeswari725](https://github.com/rajeswari725) - My first open source contribution
-[M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
-Just - [Affan Ahmed](https://github.com/Affanasrar)
-changing a few things..
--[Renfred](https://github.com/renfred2306)
+  [M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
+  Just - [Affan Ahmed](https://github.com/Affanasrar)
+  changing a few things..
+  -[Renfred](https://github.com/renfred2306)
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [suzhen-zhu](https://github.com/susan-zhu) - My first open-source contribution
 - [Ananyak00](https://github.com/Ananyak00)  - My first open source contribution
 - [brubasree007](https://github.com/brubasree007) - Python enthusiast exploring open-source development and collaborative coding.
 - [kawilson129-cpu](https://github.com/kawilson129-cpu) - My frist contribution ! Happy to be here !!
-
 - [Mahitha](https://github.com/shortwhale) - First contribution!!!
 - [Mahi-Chandra](https://github.com/Mahi-Chandra) - First contribution!
 - [Joshua-T-J](https://github.com/Joshua-T-J) - Beginning my journey in open-source collaboration.
 - [Fathifarshad](https://github.com/Fathifarshad) - fathifarshad@gmail.com
 - [jellayter4-bit](https://github.com/jellayter4-bit) - My first open source contribution!
--[YMO](https://github.com/YoonMayOo) - Will not be my last opensource contribution!
+  -[YMO](https://github.com/YoonMayOo) - Will not be my last opensource contribution!
 - [Chaten](https://github.com/chaten99) - Success demands consistency, curiosity, and the courage to start before you feel ready.
 - [sabi-s] (https://github.com/sabi-s) - noob programmer
 - [sivaprasad-vs] (https://github.com/sivaprasadvs/first-contributions.git) - push past your limits -(yami,asta)
@@ -92,7 +92,7 @@ changing a few things..
 - [Toggy] - My first open source contribution
 - [Shakti](https://github.com/ShaktiStark)- As long as you live there are infinite chances.
 - [Lakshya Singhal](https://github.com/lakshyasinghal08)
-[Myat Kalyar](https://github.com/myatkalyar83-eng)
+  [Myat Kalyar](https://github.com/myatkalyar83-eng)
 - [qouwe](https://github.com/qouwe) - First open-source contribution
 - [AyushKumar](Hey it's my open source contribution trial)
 - [bethhaysom]
@@ -105,7 +105,7 @@ changing a few things..
 - [Hoang Quoc Viet](https://github.com/hoangquocviet-dev)
 - [Wajid Rashid](https://github.com/i-wajidrashid)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
-[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
+  [Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Aftab](https://github.com/Aftab-007) - Polymath. Hyperactive Learner. Works in Networking Cybersecurity & AI.
 - [Sourajyoti Karmakar](https://github.com/SourajyotiKarmakar25) - Starting my Open Source journey
 - [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
@@ -115,15 +115,15 @@ changing a few things..
 - [Parthiban P](https://github.com/parthi-prabha) - My first contribution (11-11-26)
 - [Bona Tolasa](https://github.com/bonatolasa)
 - [Srishti Sharma](https://github.com/srishtisharma07) - My first open-source contribution!
-[ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
--[Dhruv Patil](https://github.com/Dhruv-2305)- Not first but surely a contribution to open source. Came here through web surfing.
--[Md Asif](https://github.com/Asif-hash786)- Contributed for fun.
--[Viking](https://github.com/Dhruv-2305)-Again contributed to this open soure newbie repository.
+  [ompranavb-marker](https://github.com/ompranavb-maker) - My First Contribution To Open Source Contribution :>
+  -[Dhruv Patil](https://github.com/Dhruv-2305)- Not first but surely a contribution to open source. Came here through web surfing.
+  -[Md Asif](https://github.com/Asif-hash786)- Contributed for fun.
+  -[Viking](https://github.com/Dhruv-2305)-Again contributed to this open soure newbie repository.
 - [raw](https://github.com/rawplane) - My first contribution to the open source
 - [Emmanuel Timothy](https://github.com/mentor98) - My first contribution to the open source
--[Durgga DK] (https://github.com/durggadk28) - Let's go!
+  -[Durgga DK] (https://github.com/durggadk28) - Let's go!
 - [Qaiem] (https://github.com/ghareep) - this is my second contribution to open source and not the last 
-[Soccer](https://github.com/karnatiSoccer)
+  [Soccer](https://github.com/karnatiSoccer)
 - [Sumit Mahtha](https://github.com/sumit-mahtha) - My first contribution!
 - [Jammy Ding](https://github.com/jammyding) - This is my very first contribution with open source!
 - [Kailash](https://github.com/kailash71869-code) - My first open source contribution!
@@ -145,7 +145,7 @@ changing a few things..
 - [Arya Chova Pratama](https://github.com/t3xart) - My first open source contribution
 - Alexis
 - [Kosuri Surya Teja Varma](https://github.com/kstvarma) - My first open source contribution
--[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
+  -[Soham Gaikwad](https://github.com/anjalpawar-ux) - My first contribution
 - [Kaustubh Dayma](https://github.com/Kaustubh0511) - This is my first contribution
 - Antony
 - Cartesius
@@ -156,7 +156,7 @@ changing a few things..
 - Tejas ~ Hi..
 - Khaled Ramadan
 - Kürşat Yalın
--Rishitha creates
+  -Rishitha creates
 - [venkat Nani Bayanaboina](https://github.com/venkatbayanaboina)- my first contibution
 - [chuan0418-com](https://ch418.tw)
 - [Deep Patel](https://github.com/Deeppatel3522)
@@ -164,11 +164,11 @@ changing a few things..
 - Subham Kumar
 - [t.x](https://github.com/dashboard
 - imame8 03/02/2026
--[likhith prasad](https://github.com/likhithprasad1023-web)- my first contro
+  -[likhith prasad](https://github.com/likhithprasad1023-web)- my first contro
 - [szy](https://github.com/ccLuckysun)
 - Ash Ketchum
 - [Fernando Falaguera](https://github.com/ffalaguera)
--[Harsh](https://github.com/guptaharsh-cloud/first-contributions)
+  -[Harsh](https://github.com/guptaharsh-cloud/first-contributions)
 - [Shahid](https://github.com/shahidbro) - My First Contribution.
 - [Kiran](https://github.com/kpadiyar) - My First Contribution.
 - [Aishwarya](https://github.com/aishwaryaprakashg) - Learning open-source development.
@@ -183,29 +183,27 @@ changing a few things..
 - [harithabalaj28](https://github.com/harithabalaj28)
 - [Ibnu Aulia Nugraha Alihaq](https://portfolio-web-mocha-theta-12.vercel.app) - My first contributions
 - [Omar Abdelbari](https://github.com/omarabdelbarii) - My first open source contribution
--[Vibha J](https://github.com/Vibhaj20)
+  -[Vibha J](https://github.com/Vibhaj20)
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
-<img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />
+  <img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />
 - [Sakith Wijesinghe](https://github.com/sakithw) This is my first open source contribution!
 - [Aisha Senkubuge] (https://github.com/AishaS992) This is my first open source contribution :)!
 - [Siyam](https://github.com/siyam-io) - Starting my open source journey!
--[Samanvay Kumar Tadakamalla](https://github.com/samanvay-kumar) - Just getting started. There's a lot to learn and even more to build.
+  -[Samanvay Kumar Tadakamalla](https://github.com/samanvay-kumar) - Just getting started. There's a lot to learn and even more to build.
 - [S. H. Mahammed Saleeth](https://github.com/saleeth-vibe) - This is my first open source contribution!
 - [Buddie Powell](https://github.com/BuddiePowell) - This is my very first contribution with open source!
 - [Vishal Singh](https://github.com/vishalz0879-cell) - This is my first open source contribution!
 - [Mareva Dossou](https://github.com/marevadossou)
 - [Ziad (Kix)](https://github.com/ziadkix) - Discord bot developer building with discord.js — my first contribution here!
 hnbmc2003
-
 - [Vibhor Saini](https://github.com/vibhorsxni) - First Open Source Contribution - 11/10/2026
-
 - [Joseph Nguyen](https://github.com/janhqnguyen2020) - open source contribution
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [tyy200203](https://github.com/tyy200203) - My first pull request.
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
 - [Flora](https://github.com/Flora-Ex) - First contribution :3 Make sure to eat well and be kind to one another!
 - [Praneet Savant](https://github.com/PraneetNS) - Humans are going to replace AI
-jean-francois LHOMME
+  jean-francois LHOMME
 - [Anas Dahani](https://github.com/anasdahani220) - This is my first open source contribution, I am very excited!
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
 - [MentaNew] - Let's go, first of many!
@@ -218,21 +216,20 @@ jean-francois LHOMME
 - [hello-chaithra](https://github.com/hello-chaithra) - Open Source!!
 - [Aadil Khan](https://github.com/aadilkhan085529) - Excited to make my first open source contribution!
 - [Nguyen Minh Chien](https://github.com/nguyen-mc0) - First open source contribution!
--  [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
+- [Abhijith K S](https://github.com/iabhijithks) - Not my first PR, but wanted to add my name to the contributors' list!
 - [Dhanushkumar T](https://github.com/Dhanushkumar0) - my first PR, so excited.
--  [ShanonZ](https://github.com/shannon333best)
+- [ShanonZ](https://github.com/shannon333best)
 - [Anurag Dubey](https://github.com/anuragdubey2004) - My open source journey begins now.
-
 - [Mohd Khatab](https://github.com/mohdkhatab) - This is my first open source contribution!
 - [Abhiram Kosuru](https://github.com/abhiram274) - Be kind, Curious, Explore.
 - [solace](https://github.com/thomas-delro) - first time 
 - [Hemanth Kumar] - First Contrib!
 - [Tiago](https://github.com/tiagonleal) - Just testing!
 - [Anastasia Ritus](https://github.com/kartoxaxa) - My first pull request
--Steelbane was here
-https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
+  -Steelbane was here
+  https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Apalak Patra](https://github.com/apk-ronnie) - my first open source contribution
-``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
+  ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 -  [Harish Kumar](https://github.com/Harish1685) - my first step towards the world of open source
   [Sayantan Dutta](https://github.com/sayantandutta117-hue)- My first step towards experiencing the contibution on open source project
 - [Gowri](https://github.com/Gowry11) -  my first step towards the world of open source
@@ -243,10 +240,10 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [m3](https://github.com/focusedmuse) - First signed commit from fw13.
 - [Gustavo Fraga Apellaniz](https://github.com/GustavoApellaniz)
 - [Shivanshu Shukla](https://github.com/instodia)
--  [Mehnaz Tabassum](https://github.com/mtabassum)
--  [Naradhrishi Kumar]( https://github.com/Naradhrishi )
--  [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE
--  [HaThu](https://github.com/hant0505) - Hi, This is my first contribution!!
+- [Mehnaz Tabassum](https://github.com/mtabassum)
+- [Naradhrishi Kumar]( https://github.com/Naradhrishi )
+- [Zorochan](https://github.com/zorochanuwu) - WORLD HERE I COME TO CONQUER THE OPENSOURCE
+- [HaThu](https://github.com/hant0505) - Hi, This is my first contribution!!
 - cat - first contribution
 - lge - first contribution
 - [Omar](https://github.com/OmarHanfi) - alsalam ealaykum
@@ -272,13 +269,13 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [Ali Ozdas](https://github.com/ali0zdas) - Excited to make my first open source contribution!
 - [hma](https://github.com/zeethee2906-droid) - Excited to make my first open source contribution!
-[ Manasvi ]git add Contributors.md - Happy first contribution
+  [ Manasvi ]git add Contributors.md - Happy first contribution
 - [Prashhh](https://github.com/prash22bit) - peru gurthupettuko, tarvatha matladadaam
 - [AbrshS (Abraham Shiferaw) 🇪🇹](https://github.com/AbrshS)
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 - [Alok Sharma](https://github.com/aloksharma13) - My first contribution.
 - [Shreya Singh](https://github.com/ssrj25) - Hey everyone! My first contribution!
-z54c6hf
+  z54c6hf
 - [Aaróndli]https://github.com/Aarondli
 - [szakky](https://github.com/szakky) - My first open source contribution.
 - [Kamelio0815](https://github.com/kamelio0815) - my first contribution
@@ -8455,7 +8452,7 @@ Kunal Khallar - Learning to contribute :)
 - [lilangyun](https://github.com/lilangyun) - My first open-source contributions, I's so happy!
 -[Biswajit Khatik](https://github.com/bisw201) - My First open-source contribution, too excited for the journey!!
 - [Dinara Bilal](https://github.com/Dinara-Bilal) - My first open source contribution
- 
+
 - [Melvin García](https://github.com/MelvinGGS) - Passionate Software Engineering Student & Full-Stack Developer.
 - [Kaniska](https://github.com/snkaniska37-lang) - My first open source contribution
 - [Laiba Sarwar](https://github.com/laiba-sarwar-87) - My first open source contribution
