@@ -17087,3 +17087,4 @@ Kunal Khallar - Learning to contribute :)
 - [flisk-sh](https://github.com/flisk-sh) - My first open source contribution
 - [Abu](https://github.com/abucyberlearning-netizen) - My first open source contribution
 - [Kirtan Patel](https://github.com/Kirtanpatel2326)
+- [Rohit Bairwa](https://github.com/bairwavloger-alt)
