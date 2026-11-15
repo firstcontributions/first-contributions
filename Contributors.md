@@ -8601,4 +8601,4 @@ Kunal Khallar - Learning to contribute :)
 - [Mumathi](https://github.com/Mumathi07)
 - [Farideh Irankhah](https://github.com/FIrankhah) 🤖 My first open source contribution 🌸
 - [Arghyadeep Hazra](https://github.com/ArghyadeepHazra) - My First Contribution✌️
-- [Saffa Mariam] (https://saffam.github.io/) - My First open source contribution woho!
+- [saffam](https://github.com/saffam) First open source contribution woho!
