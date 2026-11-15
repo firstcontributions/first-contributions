@@ -16902,7 +16902,7 @@ Kunal Khallar - Learning to contribute :)
 - [Maheshwaran_M](https://github.com/Civil-Coder-08)
 - [Kumaran_C](https://github.com/Hackmaster-402)
 - [Mohammed Ameen_S](https://github.com/Secretspidey-1308)
-
+- [Gareth_McClellan](https://github.com/mwxg) - Cheers
 - [Rupraj Datta](https://github.com/29rdx) - Backend & Security Systems Engineer
 - [Saksham Sharma](https://github.com/SAKSHAM237)
 - [Tripti Gurung](https://github.com/Trip25) - Making my first open source contribution on 1st November 2026 and many more to come!
