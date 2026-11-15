@@ -8580,3 +8580,4 @@ Kunal Khallar - Learning to contribute :)
 - [Abu](https://github.com/abucyberlearning-netizen) - My first open source contribution
 - [Kirtan Patel](https://github.com/Kirtanpatel2326)
 - [Rohit Bairwa](https://github.com/bairwavloger-alt)
+- [Amrutha](https://github.com/amrutha0718)
