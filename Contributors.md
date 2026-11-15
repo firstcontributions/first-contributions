@@ -1,6 +1,7 @@
 - Hellooo ! i am happy to make my first contribution 😭
 - [timacton](https://github.com/timacton514) - first time
 - [Sumit Tomar](https://github.com/sumittomar1188-sketch) - My first open source contribution
+- [Abhinash Kumar Singh](https://github.com/abhinashbyte04) - My first open-source contribution!
 - [Prakasam S](https://github.com/Prakasam001)
 - [Carmela Bejerano](https://github.com/CBD2806)
 - [SpenStars](https://github.com/spenstars1) - A small step for humanity, but a giant leap for me!
