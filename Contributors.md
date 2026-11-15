@@ -11,6 +11,7 @@
 - [Kushagra Singh](https://github.com/Kushagra-xb)  - My first open source contribution...
 - [Srushti Pampat](https://github.com/Srushti-College09)
 - [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
+- [Hrishikesh Chandra](git@github.com:Rishi-15-2002/first-contributions-practice.git) - Humans make machine valuable, trust ourself
 - John_Guchu_Macharia
 - [AntiEntity314](https://github.com/AntiEntity314)
 - [Lori](https://github.com/LoriV2) I'm so anxious...
