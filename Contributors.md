@@ -14508,6 +14508,7 @@ Twan Star
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
 - [Punith](https://github.com/anjan0546)
+- [R3rick](https://github.com/R3Erick) - First step into open source!
 - [Samuel Janring Sitio](https://github.com/samueljanringsitio) - Indonesia 🇮🇩
 - [Shahir](https://github.com/shahir55312-collab)
 - [Mounish-tatipigari]
