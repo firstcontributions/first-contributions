@@ -304,6 +304,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Alok Sharma](https://github.com/aloksharma13) - My first contribution.
 - [Shreya Singh](https://github.com/ssrj25) - Hey everyone! My first contribution!
 z54c6hf
+-[Charan L](https://github.com/Charan-1810)-My first Open Source Contribution.More to go!!
 - [Aaróndli]https://github.com/Aarondli
 - [szakky](https://github.com/szakky) - My first open source contribution.
 - [Kamelio0815](https://github.com/kamelio0815) - my first contribution
