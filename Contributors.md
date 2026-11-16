@@ -1323,6 +1323,7 @@ GSL32
 - [Turugeldiyev Alikhan](https://github.com/crapxxi)
 - [Pranav Bhatt](https://github.com/PranavBhatt-pb)
 - [YJuDeAd](https://github.com/YJuDeAd) First Contribution :)
+- [Distortion-51](https://github.com/Distortion-51)
 - [dabidai](https://github.com/dabidai) First Contribution :)
 - Rajesh Shivarama
 --AbhinavGS
