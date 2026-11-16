@@ -2498,6 +2498,7 @@ Ridwan Umar- [Nico]
 - [Hira Khyzer](https://github.com/Hirakhyzer)
 - [Ryn Nucrz](https://github.com/rynrizn)
 - [Hani Kahale](https://github.com/HaniKah)
+- [Elsa Bakhshi](https://github.com/elsaprintemps-creator)
 - [Adhiraj Sengar](https://github.com/Adhiraj2601)
 - [Erikito Consultancy](https://github.com/erikvanappeldoorn)
 -[sanchit] 
