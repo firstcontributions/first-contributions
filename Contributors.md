@@ -8633,3 +8633,4 @@ Kunal Khallar - Learning to contribute :)
 - [Jai Dixit](https://github.com/JaiDixit765) - My first open-source contribution!
 - [Aryan-1218](https://github.com/Aryan-1218) - My first open-source contribution!
 - [duc](https://github.com/ducdaubuoi) - My first open-source contribution!
+- [JohanFG](https://github.com/JohanFG) - My first open-source contribution!
