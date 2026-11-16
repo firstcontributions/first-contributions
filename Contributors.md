@@ -66,6 +66,7 @@ dudpatil07
 - [Myzen](https://github.com/yassquirie)
 - [Lithika](https://github.com/lithi0804-byte) - Open Source Developer
 - [Lithika Sri](https://github.com/lithi0804-byte) - Contributing to open source projects
+- [Khrus Vaghasia](https://github.com/Khrusk) - Getting started to open source contributions
 - [Lithika](https://github.com/lithi0804-byte) - Python, C, SQL Enthusiast
 - [Lithika Sri](https://github.com/lithi0804-byte) - B.Tech Student & Open Source Contributor
 - [Lithika Sri](https://github.com/lithi0804-byte) - My first open source contribution
