@@ -254,7 +254,7 @@ jean-francois LHOMME
 - [Dhanushkumar T](https://github.com/Dhanushkumar0) - my first PR, so excited.
 -  [ShanonZ](https://github.com/shannon333best)
 - [Anurag Dubey](https://github.com/anuragdubey2004) - My open source journey begins now.
-
+-[VachanShetty](https://github.com/vachan-max)-My open source contribution
 - [Mohd Khatab](https://github.com/mohdkhatab) - This is my first open source contribution!
 - [Abhiram Kosuru](https://github.com/abhiram274) - Be kind, Curious, Explore.
 - [solace](https://github.com/thomas-delro) - first time 
