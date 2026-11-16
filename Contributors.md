@@ -115,6 +115,7 @@ changing a few things..
 - [Krovvidi Lokesh] (https://github.com/Lokesh8096) - Contribution purpose
 - [Paras Ahuja] - My first open source contribution
 - [Erica Hughes] - My first open source contribution - Hello World!
+- [FugitiveSine](https://github.com/FugitiveSine) - My first open source contribution
 - [creator17-learning](https://github.com/creator17-learning) -  my first Open Source journey happy Ragav
  [Ankita Kumari](https://github.com/ankita200513) My First contribution
 - [niixss](https://github.com/niixss)
