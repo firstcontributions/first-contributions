@@ -8609,3 +8609,4 @@ Kunal Khallar - Learning to contribute :)
 - Mona Pourghanad (Monameta7@gmail.com) - My first open source contribution!
 - [Nikita](https://github.com/Nikita-ist)
 - Somesh-pyla - Pr Practice
+- [ghosh-shrestha](https://github.com/ghosh-shrestha) - My first open source contribution
