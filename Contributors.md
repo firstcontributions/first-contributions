@@ -8615,3 +8615,4 @@ Kunal Khallar - Learning to contribute :)
 - [Nikita](https://github.com/Nikita-ist)
 - Somesh-pyla - Pr Practice
 - [ghosh-shrestha](https://github.com/ghosh-shrestha) - My first open source contribution
+- [Saeed Sefidgaran](https://github.com/sefidgaransaeed-ai)
