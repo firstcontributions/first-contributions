@@ -8597,4 +8597,5 @@ Kunal Khallar - Learning to contribute :)
 - [Rohit Bairwa](https://github.com/bairwavloger-alt)
 - [Amrutha](https://github.com/amrutha0718)
 - [Mumathi](https://github.com/Mumathi07)
+- [Hamid Soleimani](https://github.com/hamidsoleimani2022-sudo) - My first open source contribution
 - [Farideh Irankhah](https://github.com/FIrankhah) 🤖 My first open source contribution 🌸
