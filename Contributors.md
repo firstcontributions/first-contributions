@@ -237,7 +237,7 @@ changing a few things..
 hnbmc2003
 
 - [Vibhor Saini](https://github.com/vibhorsxni) - First Open Source Contribution - 11/10/2026
-
+- [Shahnaz Alam](https://github.com/almshahnaz) - This is my first open source contribution
 - [Joseph Nguyen](https://github.com/janhqnguyen2020) - open source contribution
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [tyy200203](https://github.com/tyy200203) - My first pull request.
