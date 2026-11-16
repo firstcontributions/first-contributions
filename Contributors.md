@@ -8497,7 +8497,7 @@ Kunal Khallar - Learning to contribute :)
 - [Santosh](https://github.com/santosh71436) - My first open-source contribution
 - siavash samimi fard (https://github.com/siavash-smf)
 - [Behnam Farshid](https://github.com/Behnamrf) - My first open source contribution! THX Siavash-SMF.
-- [Faye Movaffaghi](https://github.com/Fayemvf) — My first pull request started in Siavash’s class. I hope the next one starts with a problem I can help fix.
+- [Faye Movaffaghi](https://github.com/Fayemvf) — I’ve made my first open-source contribution, and I’m looking forward to doing more and taking on bigger challenges. Thanks to Siavash for the assignment that got me started.
 - [Hamzeh Salmani] (https://github.com/HamzehSalmani) <<<<<<<<<< This is my first open-source contribution!! 
 - [Saber Tabatabaei](https://github.com/sabertabatabaei) - My first open-source contribution!!
 [Linda](https://github.com/Lindaokike)
