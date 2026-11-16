@@ -8628,3 +8628,5 @@ Kunal Khallar - Learning to contribute :)
 - [Kamalesh M](https://github.com/KAMALESH-MS-24)
 - [Jai Dixit](https://github.com/JaiDixit765) - My first open source contribution
 - [Aryan-1218](https://github.com/Aryan-1218) - My first open-source contribution!
+- [Reetisha Rai](https://github.com/reetisha-rai) - my first open source contribution
+
