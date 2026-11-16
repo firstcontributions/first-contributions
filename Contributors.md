@@ -8618,3 +8618,4 @@ Kunal Khallar - Learning to contribute :)
 - [ghosh-shrestha](https://github.com/ghosh-shrestha) - My first open source contribution
 - [Saeed Sefidgaran](https://github.com/sefidgaransaeed-ai)
 - [Kamalesh M](https://github.com/KAMALESH-MS-24)
+- [Jai Dixit](https://github.com/JaiDixit765) - My first open source contribution
