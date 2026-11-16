@@ -11,6 +11,7 @@
 - [Suprio Adhikary](https://github.com/suprio-dev) - Every contribution is a step forward. The journey has just begun! 🌱
 - [Mr._.](https://github.com/HACKERpgx) - My first open-source contribution!
 - [Srujan Chidarla](https://github.com/srujanchidarla) - First step toward Apache Airflow contributions
+- [xinxieyeshang](https://github.com/xinxieyeshang)
 - [Kushagra Singh](https://github.com/Kushagra-xb)  - My first open source contribution...
 - [Srushti Pampat](https://github.com/Srushti-College09)
 - [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
