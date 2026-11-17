@@ -413,6 +413,7 @@ Aditya Oraon
 - [Alex Cochrane] (https://github.com/shell0shock) - "first contribution"
 - [pravin k] (https://github.com/pravinkumbhar) - "Contribution"
 - [sayan kabiraj] - this is first contribution
+- [Atticus Beard](https://github.com/Atticus-Beard)
 - [ziyadin](https://github.com/Ziyadin23) - "First contribution"
 - [Kevin](https://github.com/kew089) - "First contribution"
 - [gegiamalkhaz87-lgtm](https://github.com/gegiamalkhaz87-lgtm) - My first contribution! [Rithull](https://github.com/rithullkallat-ctrl) - First contribution!
