@@ -8506,6 +8506,7 @@ Kunal Khallar - Learning to contribute :)
 - [Bryce] (https://github.com/grandlaughingstock) - yay
 -[Kamaleshwaran](https://github.com/tvmkamalesh3031-maker)
 - [AhmetCelikagi] (https://github.com/AhmetCelikagi) - My first open source contribution. Hello to all.
+- [Rishi] (https://github.com/rishianandsingh) - My first open source contribution. Yayyyy!!!.
 - [Asritha](https://github.com/Asritha-na)
 - [Santosh](https://github.com/santosh71436) - My first open-source contribution
 - siavash samimi fard (https://github.com/siavash-smf)
