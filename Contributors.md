@@ -685,6 +685,7 @@ Arise
 - [Subham](https://github.com/msubhammsubham31-gif/) Hacktober Contri
 - mckayla ashley
 - Ankit Patel
+-[Harshita]
 - [Vihaan](https://github.com/vdtp69-dev)
 -[Hart Joel] (https://github.com/HartJoel)
 - [Saqib](https://github.com/Saqib-develops/)
