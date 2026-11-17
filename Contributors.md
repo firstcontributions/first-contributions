@@ -2866,6 +2866,7 @@ Syed Omer
   je_sky
 - [Jai Akash K] {https://github.com/JaiAkash-CodesIO}
 - Nishant Thakur
+-[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Ritesh Raj]
 -[Water bender]
 - [Théo Tavernard](https://github.com/theotavernard) **First Contribution & open to job**
