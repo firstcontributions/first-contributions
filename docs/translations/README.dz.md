@@ -144,9 +144,8 @@ Wache cheft henaya machi darouri, bessah assem el far3e yewori beli el hadef rah
 
 ---
 <a id="arabic-version"></a>
-# أول مساهمة 🇩🇿
 
-# المساهمة الأولى
+# المشاركة لولة 🇩🇿
 
 هذا البروجي يهدف باش يسهلك ويقيديك للطريق الي المبتدئين يديرو اول مساهمة، الا راك حاب تدير اول مساهمة ليك، تبع الخطوات التحت
 
@@ -165,15 +164,14 @@ _الا ما كنتش مرتاح بالتيرمنال، [هاك قيد تخدم 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
 
-دوكا انسخ القاراج الي فوركيتو للماشين ديالك، روح لكونت Github ديالك، افتح القاراج الي فوركيتو، كليكي على بوطون تاع "Code"، منبعدا على الخانة تاع"SSH" منبعدا كليكي على الأيقونة تاع _copy URL to clipboard_ 
+دوكا انسخ القاراج الي فوركيتو للماشين ديالك. روح لكونت Github ديالك، افتح القاراج الي فوركيتو، كليكي على بوطون تاع "Code"، منبعدا على الخانة تاع"SSH" منبعدا كليكي على الأيقونة تاع _copy URL to clipboard_ 
 
 افتح تيرمينال ودير هذا الكوموند تاع "git":
 
 ```bash
 git clone "url you just copied"
 ```
-
-وين كاين "url you just copied" (بلا علامة التنصيص) هو الليان لهذا القاراج (الفورك تاعك ديال البروجي). شوف ليزيطاب الي فاتو باش تجيب الليان.
+وين كاين "url you just copied" دير الليان الي كوبيتو، شوف ليزيطاب الي فاتو باش تجيبو.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
@@ -182,7 +180,7 @@ git clone "url you just copied"
 ```bash
 git clone git@github.com:this-is-you/first-contributions.git
 ```
-وين كاين `this-is-you` هو اسم المستخدم تاعك في "Github". هنا راك تكوبي في المحتوى تاع first-contributions قاراج في Github في البيسي ديالك.
+وين كاين `this-is-you` يكون اسم المستخدم تاعك في "Github". هنا راك تكوبي في المحتوى  تاع قاراج first-contributions في Github في البيسي ديالك.
 
 ## اخدم فرع - Create a branch
 
@@ -202,9 +200,9 @@ git switch -c your-new-branch-name
 git switch -c add-alonzo-church
 ```
 <details>
-<summary> <strong>الا جاك اي ايرور ب `git-switch`، كليكي هنا</strong> </summary>
+<summary> <strong>كليكي هنا لا ما مشالكش `git switch`</strong> </summary>
 
-الا الايرور ديال "Git: `switch` is not a git command. See `git –help`" خرج ليك، غالبا بيسك راك تخدم بفيرسيون قديمة تاع "git".
+الا الايرور ديال `Git: switch is not a git command. See git –help` خرج ليك، غالبا بيسك راك تخدم بفيرسيون قديمة تاع "git".
 
 في الكا هذي، اخدم ب `git chekout`:
 
@@ -216,7 +214,7 @@ git checkout -b your-new-branch-name
 
 ## دير التغييرات الي لازمة وابعثها - Make necessary changes and commit those changes
 
-دوكا افتح فيشي `Contributors.md` في ايديتور دو تاكست، زيد اسمك. ما تزيدوش في البدية ولا في اللخر. حطو في الوسط. دوكا، أحفظ الفيشي.
+دوكا افتح فيشي `Contributors.md` في ايديتور دو تاكست، زيد اسمك. ما تزيدوش في البدية ولا في اللخر. حطو في الوسط وأحفظ الفيشي.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -227,14 +225,14 @@ git checkout -b your-new-branch-name
 ```bash
 git add Contributors.md
 ```
-دوكا ابعث التغييرات بلاكوموند `git commit` command:
+دوكا ابعث التغييرات بلاكوموند `git commit`:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
 رومبلاصي `your-name` بالاسم ديالك.
 
-## أبعث التغييرات ل Github - Push changed to Github
+## أبعث التغييرات - Push changes to Github
 
 أبعث التغييرات بلاكوموند `git push`:
 
@@ -250,9 +248,9 @@ git push -u origin your-branch-name
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
-  روح [القيد تاع Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) على جينيراصيون وكونفيقيراصيون تاع كلي "SSH".
+  روح [للقيد تاع Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) على جينيراصيون وكونفيقيراصيون تاع كلي "SSH".
 
-  ثاني، دير `git remote -v` باش تفيريفي لادراس.
+  دير `git remote -v` باش تفيريفي لادراس.
 
   الا جاتك عفسة هكا:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
@@ -277,7 +275,7 @@ git push -u origin your-branch-name
 
 رايح ندمج قع التغييرات للفرع الرئيسي تاع هذا البروجي. ويجيك نوتيفيكاصيون في الايميل.
 
-## وين تروح من هنا؟ - Where to go from here?
+## وين تروح من هنا؟ - Where to go from here؟
 
 صحا ليك! راك غي كيما كملت بروسيدير _fork -> clone -> edit -> pull request_ الي رايح تشوفو ديما كمشارك!
 
