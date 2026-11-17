@@ -8668,3 +8668,4 @@ Kunal Khallar - Learning to contribute :)
 - [Darsh Chouhan](https://github.com/chouhandarsh)
 [Vaishnavi Kumari](https://github.com/VaishnaviKumari-Ai) - My first open-source contribution!(17-11-2026)
 - [Mohammed Jamal](https://github.com/mj256x) - My first open-source contribution!
+- [Emanuel Kilibarda](https://github.com/emanuelkXD)
