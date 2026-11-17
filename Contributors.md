@@ -7,6 +7,7 @@
 - [Ginger Keller](https://github.com/gingerkeller) - my first contribution
 - [Pacleb Germin](https://github.com/jaxpacleb) - my contribution
 - [huiren789](https://github.com/huiren789)
+- [sanchezmochales](https://github.com/sanchezmochales) - My first open source contribution
 - [timacton](https://github.com/timacton514) - first time
 - [Sumit Tomar](https://github.com/sumittomar1188-sketch) - My first open source contribution
 - [Geyek Ulrich Armel](https://github.com/Ulricharmel001) - My first open source contribution!
