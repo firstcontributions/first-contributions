@@ -9,6 +9,7 @@
 - [Khanh Khuat](https://github.com/khanhkhuat1504) - xin chao
 - [Ginger Keller](https://github.com/gingerkeller) - my first contribution
 - [Pacleb Germin](https://github.com/jaxpacleb) - my contribution
+
 - [huiren789](https://github.com/huiren789)
 - [sanchezmochales](https://github.com/sanchezmochales) - My first open source contribution
 - [Guih](https://github.com/Guihakka2)
@@ -8664,3 +8665,4 @@ Kunal Khallar - Learning to contribute :)
 - [Edward Barrios](https://github.com/edwardb1) @11/16/2026
 - [MD. SAIF SIAM](https://github.com/Siam007-ayuno)
 - [Darsh Chouhan](https://github.com/chouhandarsh)
+[Vaishnavi Kumari](https://github.com/VaishnaviKumari-Ai) - My first open-source contribution!(17-11-2026)
