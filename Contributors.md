@@ -1,4 +1,6 @@
-- [Yee Chern](https://github.com/yeechern10)
+-* [Theophlina Roslynd](https://github.com/theophlinaroslynd-dot)
+- [Yee Chern](https://github.com/yeechern10
+
 - [Lakshya](https://github.com/lakshya-chourasia) - My first open-source contribution!
 - Hello ! I am happy to make my first contribution 😭
 - contribution
