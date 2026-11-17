@@ -9,6 +9,7 @@
 - [Geyek Ulrich Armel](https://github.com/Ulricharmel001) - My first open source contribution!
 - [Abhinash Kumar Singh](https://github.com/abhinashbyte04) - My first open-source contribution!
 - [Kais Shaikh](https://github.com/kais7sys) - Here it goes!
+- [Anurag Bhanderi](https://github.com/AnuragBhanderi)
 - [Prakasam S](https://github.com/Prakasam001)
 - [Carmela Bejerano](https://github.com/CBD2806)
 - [SpenStars](https://github.com/spenstars1) - A small step for humanity, but a giant leap for me!
