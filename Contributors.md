@@ -746,6 +746,7 @@ Arise
 -[Sachin](https://github.com/sachingupta20097-cloud/)my first git !
 - [Stefan Petrovici](https://github.com/petrovicistefan)
 - [Akeo](https://github.com/Maced78)
+-[Artharta19](https://github.com/Artharta19) My first contribution, I hope this will be the beginning of my awesome carrier
 -[Manjusha](https://github.com/manjushapirati030) my first contribution
 -[NAGIREDDY-Ethical](https://github.com/NAGIREDDY-ETHICAL) - hi,this is my first  contribution!
 -[uday](https://github.com/udayseeram1020-jpg)-hi this is my first hackathon$
