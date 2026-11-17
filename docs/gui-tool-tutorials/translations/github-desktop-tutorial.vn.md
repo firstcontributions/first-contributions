@@ -104,7 +104,7 @@ Bây giờ gửi yêu cầu kéo. (Pull request)
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/submit-pull-request.png" alt="submit pull request" />
 
-Tôi sẽ sớm hợp nhất (merge) tất cả các thay đổi của bạn vào nhánh chủ (master branch) của project này. Bạn sẽ nhận được email thông báo sau khi các thay đổi đã được hợp nhất.
+Tôi sẽ sớm hợp nhất (merge) tất cả các thay đổi của bạn vào nhánh chính (main branch) của project này. Bạn sẽ nhận được email thông báo sau khi các thay đổi đã được hợp nhất.
 
 ## Đi đâu từ đây?
 

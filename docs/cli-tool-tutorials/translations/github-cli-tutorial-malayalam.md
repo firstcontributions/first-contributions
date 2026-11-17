@@ -63,11 +63,11 @@ git push origin -u your-branch-name
 <summary> <strong>പുഷ് ചെയ്യുന്നതിനിടക്ക് പ്രശനങ്ങൾ(errors) സംഭവിക്കുകയാണെങ്കിൽ ഇവിടെ ക്ലിക്ക് ചെയ്യുക :</strong> </summary>
 
 - ### പ്രാമാണീകരണപിശക് (Authentication Error)
-       <pre>റിമോട്ട്: പാസ്‌വേഡ് പ്രാമാണീകരണത്തിനുള്ള പിന്തുണ 2021 ഓഗസ്റ്റ് 13-ന് നീക്കം ചെയ്‌തു. പകരം ഒരു വ്യക്തിഗത ആക്‌സസ് ടോക്കൺ ഉപയോഗിക്കുക.
+  <pre>റിമോട്ട്: പാസ്‌വേഡ് പ്രാമാണീകരണത്തിനുള്ള പിന്തുണ 2021 ഓഗസ്റ്റ് 13-ന് നീക്കം ചെയ്‌തു. പകരം ഒരു വ്യക്തിഗത ആക്‌സസ് ടോക്കൺ ഉപയോഗിക്കുക.
   റിമോട്ട്: കൂടുതൽ വിവരങ്ങൾക്ക് https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ കാണുക.
-  fatal:'https://github.com/<your-username>/first-contributions.git/'ലേക്കുള്ള authentication പരാജയപ്പെട്ടു .</pre>
+  fatal:'https://github.com/&lt;your-username&gt;/first-contributions.git/'ലേക്കുള്ള authentication പരാജയപ്പെട്ടു .</pre>
   നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് ഒരു SSH കീ നിർമ്മിക്കുവാനും ക്രമീകരിക്കുവാനുമായി ഈ ലിങ്കിലേക്ക് പോകുക [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) .
-  </details>
+</details>
 
 ## നിങ്ങളുടെ വ്യത്യാസങ്ങൾ പരിശോധനക്കായി (review) സമർപ്പിക്കുക
 

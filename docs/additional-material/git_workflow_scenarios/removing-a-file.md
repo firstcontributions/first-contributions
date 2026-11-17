@@ -10,7 +10,7 @@ Git will no longer keep track of changes in the removed file. As far as Git know
 
 Notice that in the example above, the flag `--cached` is used. If we didn't add this flag, Git will remove the file from not just the repo, but from your file system too.
 
-If you commit the change with `git commit -m "Remove file1.js"` and pushed it to the remote repository using `git push origin master`, the remote repository will remove the file.
+If you commit the change with `git commit -m "Remove file1.js"` and push it to the remote repository using `git push origin main` (or whichever branch you're working on), the remote repository will remove the file.
 
 ## Additional features
 

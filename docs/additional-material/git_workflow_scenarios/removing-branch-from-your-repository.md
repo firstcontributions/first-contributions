@@ -2,14 +2,14 @@
 
 If you have followed the tutorial up-to-now, our `<add-your-name>` branch has finished its purpose, it is time to delete it from your local machine's repo. This isn't necessary, but the name of this branch shows its rather special purpose. Its life can be made correspondingly short.
 
-First, let's merge your `<add-your-name>` to your master, so to go to your master branch:
+First, let's merge your `<add-your-name>` to your main, so to go to your main branch:
 ```
-git checkout master
+git checkout main
 ```
 
-Merge `<add-your-name>` to master:
+Merge `<add-your-name>` to main:
 ```
-git merge <add-your-name> master
+git merge <add-your-name> main
 ```
 
 Remove `<add-your-name>` on your local machine's repo:
@@ -26,6 +26,6 @@ git push origin --delete <add-your-name>
 ```
 
 Now, you know how to tidy your branches.
-With time, many commits will be added to my public repo. And the master branches of your local machine and of your GitHub fork won't be up-to-date. So in order to keep your repositories synchronized with mine, follow the steps below.
+With time, many commits will be added to my public repo. And the main branches of your local machine and of your GitHub fork won't be up-to-date. So in order to keep your repositories synchronized with mine, follow the steps below.
 
 #### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)

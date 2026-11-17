@@ -103,7 +103,7 @@ Agora, submeta o *pull request*.
 
 <img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Breve as suas mudanças serão *mergeadas* na branch `master` desse projeto. Você será notificado por email uma vez que as mudanças forem *mergeadas*.
+Breve as suas mudanças serão *mergeadas* na branch `main` desse projeto. Você será notificado por email uma vez que as mudanças forem *mergeadas*.
 
 ## Para onde ir ?
 
@@ -121,4 +121,4 @@ Você pode se juntar à nossa comunidade no slack, caso precise de alguma ajuda 
 
 ## Tutoriais utilizando outras ferramentas
 
-[Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)
+[Retorne para a página principal](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.pt_br.md)

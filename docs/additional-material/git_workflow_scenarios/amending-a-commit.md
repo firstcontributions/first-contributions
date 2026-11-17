@@ -1,27 +1,28 @@
 # Amending a Commit
 
-What if you commit a change to your remote repository only to realize later that you have a typo in the commit message or you forgot to add a line in your most recent commit.
+What if you commit a change to your remote repository and later realize that your commit message contains a typo?
+Or that you forgot to add a line to your most recent commit?
 How do you edit that? This is what this tutorial covers.
 
-## Changing a recent commit message after you have pushed to Github.
+## Changing a recent commit message after pushing to GitHub.
 To do this without opening a file:
 *   Type in the ```git commit --amend -m "followed by your new commit message"```
-*   Run ```git push origin <branch-name>``` to commit the changes to the repository.
+*   Run ```git push origin <branch-name>``` to push the changes to the repository.
 
 Note: If you type in just ```git commit --amend```, your text editor would open up prompting you to edit the commit message.
 Adding the ``-m`` flags prevents it.
 
-## Modifying on a single commit
+## Modifying a single commit
 
 So, what if we forgot to make a minor change to a file like changing a single word and we have already pushed the commit to our remote repository?
 
 To illustrate here is a log of my commits:
 ```
-g56123f create file bot file
+g56123f create file botfile
 a2235d updated contributor.md
-a5da0d modified bot file
+a5da0d modified botfile
 ```
-Let's say I forgot to add a single word to the bot file
+Let's say I forgot to add a single word to the botfile.
 
 There are 2 ways to go about this. The first is to have an entirely new commit that contains the change like so:
 ```
