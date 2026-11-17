@@ -8667,3 +8667,4 @@ Kunal Khallar - Learning to contribute :)
 - [MD. SAIF SIAM](https://github.com/Siam007-ayuno)
 - [Darsh Chouhan](https://github.com/chouhandarsh)
 [Vaishnavi Kumari](https://github.com/VaishnaviKumari-Ai) - My first open-source contribution!(17-11-2026)
+- [Mohammed Jamal](https://github.com/mj256x) - My first open-source contribution!
