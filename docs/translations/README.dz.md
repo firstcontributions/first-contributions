@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Awel mouchraka 🇩🇿
+# Awel mouchraka 🇩🇿 - [اول مشاركة 🇩🇿](#arabic-version)
 
 Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae daymen machi melih, khousousan ki techarek fi el code. Bessah 3alem el tatbi9ate el hourine mawodjoud bache etcharek wo tekhdem fi madjemou3a. Tani, Rana habine nebesstou el ta3lime ta3 el moucharraka el djadidda fel tatbi9ate el hourra bi ta3lime kifache techarek lil merra el oulla.
 
@@ -141,3 +141,23 @@ Wache cheft henaya machi darouri, bessah assem el far3e yewori beli el hadef rah
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+
+---
+<a id="arabic-version"></a>
+# أول مساهمة 🇩🇿
+
+# المساهمة الأولى
+
+هذا البروجي يهدف باش يسهلك ويقيديك للطريق الي المبتدئين يديرو اول مساهمة، الا راك حاب تدير اول مساهمة ليك، تبع الخطوات التحت
+
+_الا ما كنتش مرتاح بالتيرمنال، [هاك قيد تخدم بأدوات عندها واجهة مستخدم](#tutorials-using-other-tools)_
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
+
+#### الا ما عندكش "git" في الماشين ديالك, [انصطاليه](https://docs.github.com/en/get-started/quickstart/set-up-git).
+
+## فوركي هذا القاراج - Fork this repository
+
+فوركي القاراج كي تكليكي على البوطون تاع fork الفوق في لاباج.
+رايح يخدملك كوبي على القاراج في الكونت ديالك
+
