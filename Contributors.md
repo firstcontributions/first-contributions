@@ -329,7 +329,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [DustanGiles](https://github.com/DustanGiles) - wow my first contribuation to the amazing world of open source!
 - [Seymur Shiriyev](https://github.com/Codymur) - First contribution from me!
 - [Khursheed Alam Khan](https://github.com/KhursheedAK) - Hello, world! This is my very first Open-Source-Contribution.
-- [Anshu Mehta](https://github.com/khushwahaarun204-jpg) - First open source contribution!! HI GITHUB i have officially landed here!! 
+- [Anshu Mehta](https://github.com/codex-anshu-m26) - First open source contribution!! HI GITHUB i have officially landed here!! 
 - [Ali Ozdas](https://github.com/ali0zdas) - Excited to make my first open source contribution!
 - [hma](https://github.com/zeethee2906-droid) - Excited to make my first open source contribution!
 [ Manasvi ]git add Contributors.md - Happy first contribution
