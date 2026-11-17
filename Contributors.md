@@ -966,7 +966,7 @@ Migeen Magar - let'sss gooooooo
 - [Krishna Malhotra](https://github.com/krishna2707) - Hi This is my first contribution
 - [Orkun Olcal](https://orkunolcal.github.io/) - Hello World!
  add-lury
-  -[Adesh Singh](https://github.com/adesh-singh596) - Hello World!! this is Adesh and it's my first open-source contribution!
+    -[Adesh Singh](https://github.com/adesh-singh596) - Hello World!! this is Adesh and it's my first open-source contribution!
 - [Alden Rosario](https://github.com/ROSRAR20) - Hello!! this is also my first open-source contribution!
 - [LuryChou](https://github.com/lurychou) - Hello,friends! My first open-source contribution!
 -[Rushikesh Fulmali](https://github.com/rushikeshfulmali27) - hi friends , this is my first contibution !
@@ -1256,7 +1256,7 @@ Arc hie Boswelll
 - [2HB25CS078](https://github.com/2HB25CS078)
 - [2HB25CS034](https://github.com/2HB25CS034)
  [2HB25CS003](https://github.com/2HB25CS003)
-  [2HB25CS003](https://github.com/2HB25CS003)
+    [2HB25CS003](https://github.com/2HB25CS003)
 - [2HB25CS070](https://github.com/2HB25CS070)
 - [2HB25CS062](hhtps://github.com/2HB25CS062)
 - [2HB25CS007](hhtps://github.com)
@@ -2945,7 +2945,7 @@ Syed Omer
 -[hyo](milk-the-cat)
 - [Anoop Raj](https://github.com/anoopraj-dev)
  Lvbei
-  je_sky
+    je_sky
 - [Jai Akash K] {https://github.com/JaiAkash-CodesIO}
 - Nishant Thakur
 - [Ritesh Raj]
@@ -7950,7 +7950,7 @@ Jd
 - [Md Danish](https://github.com/DanishDeveloper1) - Beginner to open source contribution.
 - [Tahmina Khanam](https://github.com/TahminaKhanNipa10-Codes)
  main
-  -[smurfsexyv2] (https://github.com/salgincienis07) First open source contribution
+    -[smurfsexyv2] (https://github.com/salgincienis07) First open source contribution
 - [Tianyinmia](https://github.com/Tianyinmai) - When a story is about to end, we always think of its beginning -- "Hello World!"
 - [dingqiheng-6356](https://github.com/dingqiheng-6356)- My first open-source contribution!!!
 - [_tanmaya-os-odisha]
@@ -8273,7 +8273,7 @@ Ghazaleh Niazzadeh
 
 - [Muhammad Atiq](https://github.com/muhammadatiq
  main
-  main
+    main
 - [Michael Gappa]
 (https://github.com/michaelga
 - [M-yhx](https://github.com/M-yhx)
@@ -8494,7 +8494,7 @@ Kunal Khallar - Learning to contribute :)
 - [lilangyun](https://github.com/lilangyun) - My first open-source contributions, I's so happy!
 -[Biswajit Khatik](https://github.com/bisw201) - My First open-source contribution, too excited for the journey!!
 - [Dinara Bilal](https://github.com/Dinara-Bilal) - My first open source contribution
- 
+
 - [Melvin García](https://github.com/MelvinGGS) - Passionate Software Engineering Student & Full-Stack Developer.
 - [Kaniska](https://github.com/snkaniska37-lang) - My first open source contribution
 - [Laiba Sarwar](https://github.com/laiba-sarwar-87) - My first open source contribution
@@ -8549,7 +8549,6 @@ Kunal Khallar - Learning to contribute :)
 - [Efe Kapan](https://github.com/efekapan) - Hello, my first pull request!
 - [his123it](https://github.com/his123it) - My first open source contribution!
 - [Mahboobeh Mehraban](https://github.com/Mahboobehmehr)
-
 - [Ilyas Berkani](https://github.com/IlyasDev-Quest) - My first OSS contribution.
 -[binglumeijiabing](https://github.com/binglumeijiabing) -Let's check back in a year!
 - [Akanksha Kedia](https://github.com/Akanksha-kedia) - My first open source contribution!
@@ -8588,18 +8587,17 @@ Kunal Khallar - Learning to contribute :)
 -[Mahendran]_(https://github.com/Mahi170717)
 -[Thirugnanasambanthan R](https://github.com/Thiru-gnanasambanthan)- My first Open Source Contribution
 - [Junaid Alam](https://github.com/Junaid933-cpu) - My first open source contribution
-
 - [vinayakudale2-web](https://github.com/vinayakudale2-web) - My first open-source contribution!
 - Parvin Zadehtahmasebi (https://github.com/ptahmasebi110-source) - My first open source contribution
 -[Mayuri Jadhav](https://github.com/Mayurij81/first-contributions) - My first open source contribution!
 - [odykyi](https://github.com/odykyi) - My first open source contribution, from the Flisk team (https://flisk.sh)
-
 - [flisk-sh](https://github.com/flisk-sh) - My first open source contribution
 - [Abu](https://github.com/abucyberlearning-netizen) - My first open source contribution
 - [Kirtan Patel](https://github.com/Kirtanpatel2326)
 - [Rohit Bairwa](https://github.com/bairwavloger-alt)
 - [Amrutha](https://github.com/amrutha0718)
 - [Mumathi](https://github.com/Mumathi07)
+- [Weltliter](https://github.com/weltliter)
 - [Farideh Irankhah](https://github.com/FIrankhah) 🤖 My first open source contribution 🌸
 - [Arghyadeep Hazra](https://github.com/ArghyadeepHazra) - My First Contribution✌️
 - Mona Pourghanad (Monameta7@gmail.com) - My first open source contribution!
