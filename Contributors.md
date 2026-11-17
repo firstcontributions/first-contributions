@@ -660,6 +660,7 @@ SANKALP PANDEY
 - [Anita Demo 1014] -anita anita anita
 - [Vivien Demo 1014] -test1234
 - Wozniak
+- [Sujit Ghosh](https://github.com/SujitInWeb) -hi
 - [Rocky_S contr](https://github.com/shubhamodi)
 - [Aztro-904](https://github.com/Aztro-904)
 - [Venkata Sai Sabbineni](https://github.com/venkatasaisabbineni) - "First Contribution for practicing Open-Source Contributions"
