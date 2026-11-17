@@ -136,6 +136,7 @@ changing a few things..
 - [qouwe](https://github.com/qouwe) - First open-source contribution
 - [AyushKumar](Hey it's my open source contribution trial)
 - [bethhaysom]
+- [aevon](https://github.com/aevon) - Aight, time to make the next iPhone!
 - [Idhanth Karthik](https://github.com/idhanth17) - My first open source contribution! Cheers!
 - [matiasad] (https://github.com/matiasad) - My first openSource contribution. 
 - [Fazalul Ameen] (https://github.com/fazalul-ameen) - My first cotribution..
