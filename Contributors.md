@@ -9,6 +9,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [LFD](https://github.com/Takatsuki-nana) - This is my first open source contribution!
 - [Panta](https://github.com/illogicallov3) - This is my first open source contribution!
 - [Sohail](https://github.com/sohailsq) - This is my first open source contribution!
+- [Anna Chatzigeorgiou](https://github.com/annachatzz) - That was hard
 - [Pravej](https://github.com/pravej-786) - This is my first open source contribution!
 - David M - I never dreamed one day I'd be an open-source contributor, but here I am killing it!
 - [Rishit Mishra](https://github.com/rishit314) - This is my first contribution!
