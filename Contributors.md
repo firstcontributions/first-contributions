@@ -216,6 +216,7 @@ changing a few things..
 - imame8 03/02/2026
 -[likhith prasad](https://github.com/likhithprasad1023-web)- my first contro
 - [szy](https://github.com/ccLuckysun)
+[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - Ash Ketchum
 - [Arnav Tyagi](https://github.com/arnav-tyagi29)
 - [Fernando Falaguera](https://github.com/ffalaguera)
