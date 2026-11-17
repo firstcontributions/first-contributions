@@ -67,7 +67,6 @@ changing a few things..
 - [Hoang Quoc Viet](https://github.com/hoangquocviet-dev)
 - [Wajid Rashid](https://github.com/i-wajidrashid)
 - [Malminhli](https://github.com/Malminhli ) — First open-source contribution 🚀
-[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Aftab](https://github.com/Aftab-007) - Polymath. Hyperactive Learner. Works in Networking Cybersecurity & AI.
 - [Sourajyoti Karmakar](https://github.com/SourajyotiKarmakar25) - Starting my Open Source journey
 - [Sneha Gursale](https://github.com/AhensArch) - Checking out open source PR.
@@ -86,6 +85,7 @@ changing a few things..
 - [Qaiem] (https://github.com/ghareep) - this is my second contribution to open source and not the last 
 [Soccer](https://github.com/karnatiSoccer)
 - [Sumit Mahtha](https://github.com/sumit-mahtha) - My first contribution!
+-[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Jammy Ding](https://github.com/jammyding) - This is my very first contribution with open source!
 - [Kailash](https://github.com/kailash71869-code) - My first open source contribution!
 - [Anurag Bhandary](https://github.com/AnuragBhandary) - My first contribution
