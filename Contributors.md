@@ -8570,6 +8570,7 @@ Kunal Khallar - Learning to contribute :)
 - [Efe Kapan](https://github.com/efekapan) - Hello, my first pull request!
 - [his123it](https://github.com/his123it) - My first open source contribution!
 - [Mahboobeh Mehraban](https://github.com/Mahboobehmehr)
+- [Reza Katanchi](https://github.com/visuRezaK) - My first open-source contribution!
 
 - [Ilyas Berkani](https://github.com/IlyasDev-Quest) - My first OSS contribution.
 -[binglumeijiabing](https://github.com/binglumeijiabing) -Let's check back in a year!
