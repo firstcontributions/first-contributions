@@ -124,7 +124,6 @@ changing a few things..
 - imame8 03/02/2026
 -[likhith prasad](https://github.com/likhithprasad1023-web)- my first contro
 - [szy](https://github.com/ccLuckysun)
-[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - Ash Ketchum
 - [Fernando Falaguera](https://github.com/ffalaguera)
 -[Harsh](https://github.com/guptaharsh-cloud/first-contributions)
@@ -2733,7 +2732,6 @@ nathan practice here
 - [Moritz G](https://github.com/Laugenstulle)
 - [Abhishek Kumar Sharma](https://github.com/Abhishekkrsharma07)
 - [lzzrhx](https://github.com/lzzrhx)
-[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Abdullah](https://github.com/md-abdullah-al-ahad)
 - [Mech-who](https://github.com/Mech-Who)
@@ -2866,7 +2864,6 @@ Syed Omer
   je_sky
 - [Jai Akash K] {https://github.com/JaiAkash-CodesIO}
 - Nishant Thakur
--[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Ritesh Raj]
 -[Water bender]
 - [Théo Tavernard](https://github.com/theotavernard) **First Contribution & open to job**
@@ -5313,7 +5310,6 @@ andrewcodess
 - [Y7XIFIED](https://github.com/Y7XIFIED)
 - [Yash Kewte](https://github.com/yashkewte)
 - [Yash Khanduja](https://github.com/ykshdja)
--[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
 - [Yash Khatri](https://github.com/Yashkhatri01)
 - [Yash Nayak](https://github.com/YashNayakk)
 - [Yash Patel](https://github.com/WildTrio)
