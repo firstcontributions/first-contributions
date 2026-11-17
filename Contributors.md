@@ -67,7 +67,8 @@ dudpatil07
 - [Rasha Imtiaz](https://github.com/Rasha14) - My first open-source contribution!
 -[AliZadehsalim]https://github.com/alizadehsalima-cyber
 -[Francofly]https://github.com/Francofly
-- [Rahul Upadhyay](https://github.com/RahulUpadhyaay) - i am doing this in 4th year and i am already placed.
+-- [Dhivyasri](https://github.com/dhivyasri-s) my first contribution.
+ [Rahul Upadhyay](https://github.com/RahulUpadhyaay) - i am doing this in 4th year and i am already placed.
 - [chen-xiao-yuan] Akash Pandharpurkar(https://github.com/chen-xiao-yuan)
 - [Dinesh Moorthy](https://github.com/DineshMoorthy007) - Stay Cool 😎 | My First Contribution guys !
 - [iniya-27](https://github.com/iniya-27) - Added Python contributions!
