@@ -214,85 +214,82 @@ git checkout -b your-new-branch-name
 
 </details>
 
-## Make necessary changes and commit those changes
+## دير التغييرات الي لازمة وابعثها - Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+دوكا افتح فيشي `Contributors.md` في ايديتور دو تاكست، زيد اسمك. ما تزيدوش في البدية ولا في اللخر. حطو في الوسط. دوكا، أحفظ الفيشي.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+الا رحت للدوصي وين كاين البروجي ودرت لاكوموند `git status`، رايح يانديكيلك كاين تغييرات.
 
-Add those changes to the branch you just created using the `git add` command:
+زيد التغيرات للفرع الي غي كيما خدمتو بلاكوموند `git add`:
 
 ```bash
 git add Contributors.md
 ```
-
-Now commit those changes using the `git commit` command:
+دوكا ابعث التغييرات بلاكوموند `git commit` command:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
 ```
+رومبلاصي `your-name` بالاسم ديالك.
 
-replacing `your-name` with your name.
+## أبعث التغييرات ل Github - Push changed to Github
 
-## Push changes to GitHub
-
-Push your changes using the command `git push`:
+أبعث التغييرات بلاكوموند `git push`:
 
 ```bash
 git push -u origin your-branch-name
 ```
-
-replacing `your-branch-name` with the name of the branch you created earlier.
+ما تنساش ترومبلاصي `your-branch-name` بالاسم تاع الفرع الي كرييتو قبيل.
 
 <details>
-<summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
+<summary> <strong>إذا جاك كاش بروبلام وأنت تبعث، كليكي هنا</strong> </summary>
 
-- ### Authentication Error
+- ### ايرور مصادقة - Authentication Error
      <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
   remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
   fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+  روح [القيد تاع Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) على جينيراصيون وكونفيقيراصيون تاع كلي "SSH".
 
-  Also, you might want to run 'git remote -v' to check your remote address.
-  
-  If it looks anything like this:
+  ثاني، دير `git remote -v` باش تفيريفي لادراس.
+
+  الا جاتك عفسة هكا:
   <pre>origin	https://github.com/your-username/your_repo.git (fetch)
   origin	https://github.com/your-username/your_repo.git (push)</pre>
   
-  change it using this command:
+  بدلها لهذا الكوموند:
   ```bash
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
-  Otherwise you'll still get prompted for username and password and get authentication error.
+  ولا رايح تبقا تجيك باش تدير اسم مستخدم وموتباس ويجيك نفس الايرور تاع المصادقة.
 </details>
 
-## Submit your changes for review
+## سلم التغييرات للمراجعة - Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+الا رحت للقاراج تاعك في Github، رايح تشوف `Compare & pull request`، كليكي على ذاك البوطون.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="compare and create pull request" />
 
-Now submit the pull request.
+دوكا سلم الدوموند تاعك.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+رايح ندمج قع التغييرات للفرع الرئيسي تاع هذا البروجي. ويجيك نوتيفيكاصيون في الايميل.
 
-## Where to go from here?
+## وين تروح من هنا؟ - Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+صحا ليك! راك غي كيما كملت بروسيدير _fork -> clone -> edit -> pull request_ الي رايح تشوفو ديما كمشارك!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+ديفيلي المشاركة تاعك وشاركها مع صحابك ومتابعين ديالك هنا [ابليكاصيون واب](https://firstcontributions.github.io/#social-share).
 
-If you'd like more practice, checkout [code contributions](https://github.com/roshanjossey/code-contributions).
+الا حبيت تتدرب أكثر، شوف [مشاركة بالكود](https://github.com/roshanjossey/code-contributions).
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+دوكا ياله نبداو بالمشاركة في بروجيات وحدوخرين، جمعنالك ليستا تاع بروجيات بمشاكل ساهلة باش تبدا فيها. شوف [ليستا تاع البروجيات في لابليكاصيون واب](https://firstcontributions.github.io/#project-list).
 
-### [Additional material](docs/additional-material/git_workflow_scenarios/additional-material.md)
+### [مراجع زيادة](docs/additional-material/git_workflow_scenarios/additional-material.md)
 
-## Tutorials Using Other Tools
+## قيد تخدم بأدوات أخرى - Tutorials Using Other Tools
 
 | <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
