@@ -296,6 +296,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 ``- [Zohaib Khan](https://github.com/Khan-1291) - This is my first Open Source Contribution!!
 -  [Harish Kumar](https://github.com/Harish1685) - my first step towards the world of open source
   [Sayantan Dutta](https://github.com/sayantandutta117-hue)- My first step towards experiencing the contibution on open source project
+  exeeeee748-ctrl
 - [Gowri](https://github.com/Gowry11) -  my first step towards the world of open source
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
 - [Tejas] - first contribution
