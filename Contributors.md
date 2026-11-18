@@ -449,10 +449,10 @@ Aditya Oraon
 =======
 <<<<<<< HEAD
 - [YASH] (https://github.com/yashm-0804) -> first step of learning open source contribution
-=======
 <<<<<<< HEAD
 - [Yash Gatkal] (https://github.com/yashgatkal22/first-contributions.git) -> Very 1st step of learning open source contribution
 <<<<<<< HEAD
+[Niyati Aggarwal](https://github.com/niyati2912) helloo! first contribution
 =======
 <<<<HEAD
 [AradhyPS] (https://github.com/AradhyPS) -> Learning How to contribute in GitHub
