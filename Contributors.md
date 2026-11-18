@@ -8680,5 +8680,6 @@ Kunal Khallar - Learning to contribute :)
 [Bryan Yogie Saputra](https://github.com/Yogiexc)
 - [Gella Ram](https://github.com/Ramgella)
 - [Anant Galande](https://github.com/AnantGalande) - First Contribution!!!
+- [ivandragicevic73-design](https://github.com/ivandragicevic73-design) - My first contribution
 - [adi785](https://github.com/adi785) - Call for Mythical_Ace!!!
 - [Yashwanth](https://github.com/tpyashwanth46-maker)
