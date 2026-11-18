@@ -2497,6 +2497,7 @@ Ridwan Umar- [Nico]
 - [Paul]
 - [Corey]
 - [Simon Mann] (https://github.com/Simonmann17)
+- [Majid Fathalipoor Saloei](https://github.com/majid170653-debug)
 - [Thejitha Minindu](https://github.com/thejitha-minindu)
 - [Aditya Aradhya](https://github.com/geeked-aadi)
 - [core-linkr](https://github.com/core-linkr)
