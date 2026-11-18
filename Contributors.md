@@ -407,6 +407,7 @@ Aditya Oraon
 - [Yash Raj Singh] - First milstone achived 🍀🚀
 - [pranvasoni] -my first contribution 
 - [Krishna Kaushal] - This is my contribution
+- Pierre Duffaut - Hello there
 - [piyush kumar] - jai hind
 - [Lomingo Grace-ange]
 - [Lakshya Saxena] - lakshyak
