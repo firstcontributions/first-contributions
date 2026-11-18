@@ -8697,5 +8697,6 @@ Kunal Khallar - Learning to contribute :)
 - [Sahil K](https://github.com/sahilk1803)
 - MartinS - my contrib
 - > [18-11-26] neocizee $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ o/
-- [Fariba](https://github.com/faribah90-maker
+- [Fariba](https://github.com/faribah90-maker)
 - [Yashwanth G R](https://github.com/Yashs-verse) -My first open souce contribution!!
+- [Srushti Mainkar](https://github.com/SrushtiMainkar) Gotta try something new so why not open source contribution...
