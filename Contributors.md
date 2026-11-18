@@ -8671,3 +8671,4 @@ Kunal Khallar - Learning to contribute :)
 - [Mohammed Jamal](https://github.com/mj256x) - My first open-source contribution!
 - [Emanuel Kilibarda](https://github.com/emanuelkXD)
 - [Yasmin Díaz](https://github.com/yanelyyasmindiazflores-star)
+[Bryan Yogie Saputra](https://github.com/Yogiexc)
