@@ -399,7 +399,7 @@ z54c6hf
 -[Hrushikesh Ramilla](https://github.com/Hrushikesh-ramilla) - Contributing to open source!
 -[Hrushikesh R](https://github.com/Hrushikesh-ramilla) - Building high performance systems!
 -[Hrushikesh](https://github.com/Hrushikesh-ramilla) - Open-source enthusiast!
-
+-[Mahendran]()
 Aditya Oraon
 
 - [ak] - this is my first contribution
@@ -408,7 +408,7 @@ Aditya Oraon
 - [Yash Raj Singh] - First milstone achived 🍀🚀
 - [pranvasoni] -my first contribution 
 - [Krishna Kaushal] - This is my contribution
-- Pierre Duffaut - Hello there
+- Pierre Duffaut - Hello theres
 - [piyush kumar] - jai hind
 - [Lomingo Grace-ange]
 - [Lakshya Saxena] - lakshyak
