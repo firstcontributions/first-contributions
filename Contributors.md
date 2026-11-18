@@ -3,7 +3,7 @@
 - [huiren789](https://github.com/huiren789)
 - [timacton](https://github.com/timacton514) - first time
 - [Sumit Tomar](https://github.com/sumittomar1188-sketch) - My first open source contribution
-- [Amrutha Sai ](https://github.com/amruthasaireddy) - My first open-source contribution!
+- [Abhinash Kumar Singh](https://github.com/abhinashbyte04) - My first open-source contribution!
 - [Prakasam S](https://github.com/Prakasam001)
 - [Carmela Bejerano](https://github.com/CBD2806)
 - [SpenStars](https://github.com/spenstars1) - A small step for humanity, but a giant leap for me!
@@ -15,6 +15,7 @@
 - [Kushagra Singh](https://github.com/Kushagra-xb)  - My first open source contribution...
 - [Srushti Pampat](https://github.com/Srushti-College09)
 - [Arjun Singha] (https://github.com/parckf/first-contributions.git) -First contribution
+[Amrutha sai](https://github.com/amruthasaireddy)-First contribution
 - [Hrishikesh Chandra](git@github.com:Rishi-15-2002/first-contributions-practice.git) - Humans make machine valuable, trust ourself
 - John_Guchu_Macharia
 - [Kehinde Akinosi](https://github.com/bolaji0001)
