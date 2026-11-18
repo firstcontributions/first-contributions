@@ -8,6 +8,7 @@
 - [narongsakjaro](https://github.com/narongsakjaro) - Let's go
 - [Khanh Khuat](https://github.com/khanhkhuat1504) - xin chao
 - [Ginger Keller](https://github.com/gingerkeller) - my first contribution
+- [Abraham Andres Valeriano Mamani](https://github.com/abrahanv60-bit) - Mi primera contribución en GitHub.
 - [Pacleb Germin](https://github.com/jaxpacleb) - my contribution
 
 - [huiren789](https://github.com/huiren789)
