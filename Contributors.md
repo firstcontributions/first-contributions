@@ -1,3 +1,4 @@
+- [Trisha Khajuria](https://github.com/ohathena)
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
 -* [Theophlina Roslynd](https://github.com/theophlinaroslynd-dot)
   [Yashraj Miyatra](https://github.com/YashrajMiyatra)
@@ -12,7 +13,6 @@
 - [Ginger Keller](https://github.com/gingerkeller) - my first contribution
 - [Abraham Andres Valeriano Mamani](https://github.com/abrahanv60-bit) - Mi primera contribución en GitHub.
 - [Pacleb Germin](https://github.com/jaxpacleb) - my contribution
-
 - [huiren789](https://github.com/huiren789)
 - [sanchezmochales](https://github.com/sanchezmochales) - My first open source contribution
 - [Guih](https://github.com/Guihakka2)
