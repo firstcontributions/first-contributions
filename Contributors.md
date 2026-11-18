@@ -186,7 +186,6 @@ kyle-xa
 [Soccer](https://github.com/karnatiSoccer)
 - [Sumit Mahtha](https://github.com/sumit-mahtha) - My first contribution!
 -[Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
--[P Naren](https://github.com/101Naren) -My first open source contribution
 - [Jammy Ding](https://github.com/jammyding) - This is my very first contribution with open source!
 - [Kailash](https://github.com/kailash71869-code) - My first open source contribution!
 - [Anurag Bhandary](https://github.com/AnuragBhandary) - My first contribution
@@ -231,7 +230,6 @@ kyle-xa
 -[likhith prasad](https://github.com/likhithprasad1023-web)- my first contro
 - [szy](https://github.com/ccLuckysun)
 [Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
--[P Naren](https://github.com/101Naren) - First Contribution
 - Ash Ketchum
 - [Arnav Tyagi](https://github.com/arnav-tyagi29)
 - [Fernando Falaguera](https://github.com/ffalaguera)
@@ -359,7 +357,6 @@ z54c6hf
 - [Itsamam](https://github.com/itsamam) - This is my first open source contribution!
 - [Cristhian Sebastian Arias Hernandez](https://github.com/sebastianarhez-max)
 - [Pranesh Kishan](https://github.com/PraneshKishan)
--[P Naren](https://github.com/101Naren) Hello from India!
 - [Shirel Marino](https://github.com/shirelmr)
 - [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
@@ -2877,7 +2874,6 @@ nathan practice here
 - [Abhishek Kumar Sharma](https://github.com/Abhishekkrsharma07)
 - [lzzrhx](https://github.com/lzzrhx)
 [Pranesh Krishna Prabhu](https://github.com/PraneshKrishna) -My first open source contribution
--[P Naren](https://github.com/101Naren)
 - [Vishnu Pratap](https://github.com/vishnupratap3790)
 - [Abdullah](https://github.com/md-abdullah-al-ahad)
 - [Mech-who](https://github.com/Mech-Who)
