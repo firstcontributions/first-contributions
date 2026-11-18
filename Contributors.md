@@ -1,5 +1,6 @@
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
 -* [Theophlina Roslynd](https://github.com/theophlinaroslynd-dot)
+  [Yashraj Miyatra](https://github.com/YashrajMiyatra)
 - [Yee Chern](https://github.com/yeechern10
 - [SABIR Anas](https://github.com/AnasSabirx008) - Let's go , first open source contribution  
 - [Lakshya](https://github.com/lakshya-chourasia) - My first open-source contribution!
