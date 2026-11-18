@@ -8674,3 +8674,4 @@ Kunal Khallar - Learning to contribute :)
 - [Yasmin Díaz](https://github.com/yanelyyasmindiazflores-star)
 [Bryan Yogie Saputra](https://github.com/Yogiexc)
 - [Gella Ram](https://github.com/Ramgella)
+- [Anant Galande](https://github.com/AnantGalande) - First Contribution!!!
