@@ -399,7 +399,7 @@ z54c6hf
 -[Hrushikesh Ramilla](https://github.com/Hrushikesh-ramilla) - Contributing to open source!
 -[Hrushikesh R](https://github.com/Hrushikesh-ramilla) - Building high performance systems!
 -[Hrushikesh](https://github.com/Hrushikesh-ramilla) - Open-source enthusiast!
--[Mahendran]()
+-[Mahendran]
 Aditya Oraon
 
 - [ak] - this is my first contribution
