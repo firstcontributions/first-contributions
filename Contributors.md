@@ -393,6 +393,7 @@ z54c6hf
 - [Aditya Singh](https://github.com/adiscripts03) - We are finally here !! Hello world.
 - [kush] - this is my first contribution
 -[KOUHSIK](https://github.com/Koushik9973)- This is my first contrbution. Best of luck for myself and my future endeavours.
+- [Aryaman Anand](https://github.com/AryamanAnand123)
 -[SCHNEV THOMPSO](https://github.com/Schnev-dev) - This is my first contribution to an open-source project.
 -[Abida](https://github.com/Abida-MS)-Learning to contribute!
 -[Hrushikesh Ramilla](https://github.com/Hrushikesh-ramilla) - Contributing to open source!
