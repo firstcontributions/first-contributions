@@ -1,7 +1,8 @@
 - [Trisha Khajuria](https://github.com/ohathena)
+- [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
 - [ZY12216012](https://github.com/ZY12216012)
--* [Theophlina Roslynd](https://github.com/theophlinaroslynd-dot)
+- [Theophlina Roslynd](https://github.com/theophlinaroslynd-dot)
   [Yashraj Miyatra](https://github.com/YashrajMiyatra)
 - [Yee Chern](https://github.com/yeechern10
 - [SABIR Anas](https://github.com/AnasSabirx008) - Let's go , first open source contribution  
