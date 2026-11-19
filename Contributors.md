@@ -5,6 +5,7 @@
 - [vikas] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [sai charan tej] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [ZY12216012](https://github.com/ZY12216012)
+- [zb1225](https://github.com/zb1225)
 - [Theophlina Roslynd](https://github.com/theophlinaroslynd-dot)
   [Yashraj Miyatra](https://github.com/YashrajMiyatra)
 - [Yee Chern](https://github.com/yeechern10
@@ -277,7 +278,6 @@ kyle-xa
 - [Mareva Dossou](https://github.com/marevadossou)
 - [Ziad (Kix)](https://github.com/ziadkix) - Discord bot developer building with discord.js — my first contribution here!
 hnbmc2003
-
 - [Vibhor Saini](https://github.com/vibhorsxni) - First Open Source Contribution - 11/10/2026
 - [Shahnaz Alam](https://github.com/almshahnaz) - This is my first open source contribution
 - [Joseph Nguyen](https://github.com/janhqnguyen2020) - open source contribution
@@ -416,7 +416,6 @@ z54c6hf
 -[Hrushikesh](https://github.com/Hrushikesh-ramilla) - Open-source enthusiast!
 -[Mahendran]
 Aditya Oraon
-
 - [ak] - this is my first contribution
 - [theprince404] - This is my first contribution
 - [ ashu ] - This is my first contribution
