@@ -16,6 +16,7 @@
 - [Hrushikesh sherikar](https://github.com/hrushikesh08) Hi! everybody from hrushikesh
 - [Subham Saha](https://github.com/Subham19181) - Subham says hi to everyone!
 - [Prabal Tripathi](https://github.com/prabaltripathiofficial)
+- [Nihal Shetty](https://github.com/nihalshetty27) - Hi Guys!! This is my first open source Contribution!!
 - [narongsakjaro](https://github.com/narongsakjaro) - Let's go
 - [Khanh Khuat](https://github.com/khanhkhuat1504) - xin chao
 - [Ginger Keller](https://github.com/gingerkeller) - my first contribution
