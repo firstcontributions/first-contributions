@@ -86,16 +86,16 @@ git mergetool
 
 ## Best Practices to Avoid Conflicts
 
-Pull Regularly: Frequently pull changes from the main branch to stay updated.
+Pull Regularly: Frequently pull changes from the upstream main branch to stay updated with the parent repository (see [Keeping your fork synced with this repository](keeping-your-fork-synced-with-this-repository.md)).
 
 ```bash
-git pull origin main
+git pull upstream main
 ```
 
 Work on Feature Branches: Create separate branches for each feature or fix.
 
 ```bash
-git checkout -b feature-branch
+git switch -c feature-branch
 ```
 
 ## Additional Resources
