@@ -180,7 +180,7 @@ jobs:
         if: steps.is_only_contributors_file_changed.outputs.only_contributors == 'false'
         uses: actions/github-script@v8
         env:
-          # keep fileames into the enviroment better prevent from any injection
+          # keep filenames in the environment to better prevent any injection
           RAW_FILES: ${{ steps.is_only_contributors_file_changed.outputs.filenames }}
           IS_MULTIPLES_LINES_CHANGES: ${{ steps.is_only_contributors_file_changed.outputs.isMultipleLineChanged}}
           IS_MULTIPLES_FILES_CHANGES: ${{steps.is_only_contributors_file_changed.outputs.isMultipleFilesChanged}}
