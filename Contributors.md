@@ -4369,6 +4369,7 @@ andrewcodess
 - [Gauransh Maheshwari](https://github.com/kardocode)
 - [Gaurav kumar ](https://github.com/gauravbuildz)
 - [Gargi kalia](https://github.com/Kaliagargi)
+- [Tarliso Dória](https://github.com/tarlisodoria)
 - [Dzunisan](https://github.com/Dzunisan)
 - [Gaurav Singh](https://github.com/gauravsinghcodes)
 - My First Open source Contribution!!
