@@ -15,6 +15,7 @@
 - contribution
 - [Hrushikesh sherikar](https://github.com/hrushikesh08) Hi! everybody from hrushikesh
 - [Subham Saha](https://github.com/Subham19181) - Subham says hi to everyone!
+- [Harsh](https://github.com/Mr-KnightCLI)
 - [Prabal Tripathi](https://github.com/prabaltripathiofficial)
 - [Nihal Shetty](https://github.com/nihalshetty27) - Hi Guys!! This is my first open source Contribution!!
 - [narongsakjaro](https://github.com/narongsakjaro) - Let's go
