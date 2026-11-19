@@ -14,7 +14,7 @@
 
 如果你没有GithubDesktop在你的电脑上, [点我安装](https://desktop.github.com/).
 
-如果你使用的是1.0之前的GitHub Desktop版本, [请参阅本教程](github-desktop-old-version-tutorial.md).
+如果你使用的是1.0之前的GitHub Desktop版本, [请参阅本教程](../../../github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -110,7 +110,7 @@
 
 如果您需要帮助或有任何问题，可以加入我们的slack team. [加入 slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [附加材料](../additional-material/git_workflow_scenarios/additional-material.md)
+### [附加材料](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 使用其他工具的教程
 
