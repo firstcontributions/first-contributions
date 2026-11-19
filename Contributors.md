@@ -3401,6 +3401,7 @@ niceshowmini
 - [JineshiW](https://github.com/JineshiW)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Ido Pinto](https://github.com/idopinto)
+- [K-dev-OSS](https://github.com/K-dev-OSS>
 - [88yomi](https://github.com/88yomi)
 - [Anshuman] (https://github.com/AnshumanTri)
 - [Yashica-M](https://github.com/Yashica-M)
