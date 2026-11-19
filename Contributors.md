@@ -214,6 +214,7 @@ kyle-xa
 - Arun!
 - tortik karamel
 - Milo
+- [mishtiiikrishnaa](https://github.com/mishtiiikrishnaa) – overstimulated & undercaffeinated!
 - Carlos Buque
 - Sanchit Sharma
 - [Rectangle518](https://github.com/Rectangle518) - My first open source contribution
