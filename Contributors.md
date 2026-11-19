@@ -1,3 +1,4 @@
+ 
 - [Trisha Khajuria](https://github.com/ohathena)
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
@@ -77,7 +78,7 @@
 - [RickyAustin J](https://github.com/rickyaustin456) - NEVER EVER GIVE UP 👺
 - [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
 - [Logashini CB](https://github.com/logashini347) - Stay Cool jai maghilmathi.....
-dudpatil07
+dudpatil07 i am so happy for my first contribution
 - [Rasha Imtiaz](https://github.com/Rasha14) - My first open-source contribution!
 -[AliZadehsalim]https://github.com/alizadehsalima-cyber
 -[Francofly]https://github.com/Francofly
