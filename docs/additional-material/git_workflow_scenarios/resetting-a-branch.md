@@ -4,15 +4,20 @@
 However, the question is, why don't we just delete the base branch and checkout a new branch with the name of base branch from origin branch. Technically, it will have the same effect as resetting but in some industrial situations we do not have the access to delete a branch, or we can not delete a branch as it will hamper/disrupt a CI/CD pipeline or maybe an ongoing workflow. Hence, to avoid such situations which can lead to downtimes, we suggest using `git reset` whenever we want to reset a particular branch.
 
 ## The Command
-
-Its very easy to execute a git reset for branch.
+It is very easy to reset a branch to match another branch. First, switch to the branch you want to reset:
+```bash
+git checkout <base_branch>
+# or
+git switch <base_branch>
 ```
-git reset <base_branch> <origin_branch>
+Then reset it to match the origin branch:
+```bash
+git reset --hard <origin_branch>
 ```
-
-An example could be:
+For example, to reset `stage` to match `master`:
+```bash
+git checkout stage
+git reset --hard master
 ```
-git reset stage master --hard
-```
-The above command will reset the `stage` branch with `master` and therefore make `stage` exactly same as `master`.
-You must be wondering about why `--hard` flag is used? This is to ignore all the changes which are or will be staged before/after the reset.
+The above commands will reset the `stage` branch with `master`, making `stage` identical to `master`.
+The `--hard` flag discards any uncommitted changes in your working directory and staging area so that your branch mirrors the target branch cleanly.
