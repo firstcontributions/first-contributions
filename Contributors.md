@@ -5270,6 +5270,7 @@ andrewcodess
 - [Snehakandala0101](https://github.com/Snehakandala0101)
 - [SOKOUDJOU-LEOPOLD](https://github.com/SOKOUDJOU-LEOPOLD)
 - [Soni Syed](https://github.com/syedsoni)
+- [Danielius7er](https://github.com/Danielius7er)
 - [Souka2](https://github.com/Souka2)
 - [Sourabh J](https://github.com/sourabhjagtap)
 - [Sourav Burman](https://github.com/thesouravburman)
