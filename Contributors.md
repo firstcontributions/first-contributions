@@ -136,6 +136,7 @@ kyle-xa
 - [Mahi-Chandra](https://github.com/Mahi-Chandra) - First contribution!
 - [Joshua-T-J](https://github.com/Joshua-T-J) - Beginning my journey in open-source collaboration.
 - [Fathifarshad](https://github.com/Fathifarshad) - fathifarshad@gmail.com
+- [Deybison Garcia](https://github.com/degale0922-sudo)
 - [jellayter4-bit](https://github.com/jellayter4-bit) - My first open source contribution!
 -[YMO](https://github.com/YoonMayOo) - Will not be my last opensource contribution!
 - [Chaten](https://github.com/chaten99) - Success demands consistency, curiosity, and the courage to start before you feel ready.
