@@ -57,6 +57,7 @@
 - [Samraj S](https://github.com/samrajsundar2007-png) open source contribution.
 - [Denis Ergöçmen](https://github.com/Denisergocmen924) You're my first, baby.
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
+- [BanuSha05](https://github.com/BanuSha05)
 - [Ankita Tiwari](https://github.com/ankita-code05)
 - [Dhruv Dinesh Soni](https://github.com/soni-dhruv)
 - [Pawan Nanaware](https://github.com/PWN-N/first-contributions.git)
