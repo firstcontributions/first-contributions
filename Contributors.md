@@ -1,4 +1,4 @@
- 
+
 - [Trisha Khajuria](https://github.com/ohathena)
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
@@ -8566,7 +8566,7 @@ Kunal Khallar - Learning to contribute :)
 - [lilangyun](https://github.com/lilangyun) - My first open-source contributions, I's so happy!
 -[Biswajit Khatik](https://github.com/bisw201) - My First open-source contribution, too excited for the journey!!
 - [Dinara Bilal](https://github.com/Dinara-Bilal) - My first open source contribution
- 
+
 - [Melvin García](https://github.com/MelvinGGS) - Passionate Software Engineering Student & Full-Stack Developer.
 - [Kaniska](https://github.com/snkaniska37-lang) - My first open source contribution
 - [Laiba Sarwar](https://github.com/laiba-sarwar-87) - My first open source contribution
@@ -8709,3 +8709,4 @@ Kunal Khallar - Learning to contribute :)
 - [Leena Madavi](https://github.com/Cyanol05)
 - [Priyanhsu Vishwakarma] (https://github.com/priyanshu050307) My Very FIrst Contribution and a new begining.
 - [vivek shukla] (https;//github.com/vshukla0x) yo
+- [Angelina](https://github.com/angelina421)
