@@ -1,10 +1,13 @@
 name: Auto-merge PRs
+concurrency:
+  group: auto-merge-pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
 on:
   pull_request_target:
     types: [opened, synchronize]
     paths:
-      - 'Contributors.md' # <- only run if only contributors file changed
-    
+      - "Contributors.md" # <- only run if only contributors file changed
+
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
@@ -12,18 +15,22 @@ jobs:
       contents: write
       pull-requests: write
       issues: write
-      
+
     steps:
       - name: Check if PR only modifies Contributors.md and number of changes
         id: is_only_contributors_file_changed
         uses: actions/github-script@v8
-        with: 
+        with:
           script: |
-            const { data: files } = await github.rest.pulls.listFiles({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number
-            });
+            const files = await github.paginate(
+              github.rest.pulls.listFiles,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: context.issue.number,
+                per_page: 100
+              }
+            );
 
             const filenames = files.map(f => f.filename);
             const isOnlyContributors = filenames.length === 1 && filenames[0] === 'Contributors.md';
@@ -41,12 +48,12 @@ jobs:
 
             // is multiple file changed
             core.setOutput('isMultipleFilesChanged', !isOnlyContributors)
-            
+
             if (!isOnlyContributors) {
               console.log(`Validation Failed: Files changed: ${filenames.join(', ')}`);
             }
 
-      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post 
+      # Merge the pull request if it only modifies the Contributors.md file or if it fail to do then drop failure message as post
       - name: Merge PR
         id: merge_pr
         if: steps.is_only_contributors_file_changed.outputs.only_contributors == 'true'
@@ -210,7 +217,7 @@ jobs:
 
               body = `### 🌟 Hello @${username}! \n\nThank you for this contribution. Since this PR modifies files beyond the tutorial (\`Contributors.md\`), I've flagged this for a **manual review** by our maintainers. \n\nThe following files were changed:\n\n${fileList} \n\nWe appreciate you helping improve the project!`;
               labels = ['👩‍💻 waiting for review'];
-            
+
             } else if (!isMultipleFilesChanged && isMultipleLinesChanged){
               
               const totalChanges = pr.additions + pr.deletions;
@@ -256,5 +263,5 @@ jobs:
                 await github.rest.issues.createComment({ owner, repo, issue_number: pr.number, body });
               }
             }
-            
+
           github-token: ${{ secrets.GITHUB_TOKEN }}
