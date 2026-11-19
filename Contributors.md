@@ -102,6 +102,7 @@ dudpatil07 i am so happy for my first contribution
 - [Khrus Vaghasia](https://github.com/Khrusk) - Getting started to open source contributions
 - [Lithika](https://github.com/lithi0804-byte) - Python, C, SQL Enthusiast
 - [Lithika Sri](https://github.com/lithi0804-byte) - B.Tech Student & Open Source Contributor
+- [Cyclone kendricks] (https://github.com/Cyclonekillzyt) - Doing my best, one day at a time.
 - [Lithika Sri](https://github.com/lithi0804-byte) - My first open source contribution
 - [Abhishek Ghute](https://github.com/AbhiKalpa) | [LinkedIn] (www.linkedin.com/in/abhishekghute) - Jabtk Todenge Nahi Tabtk Chodenge Nahi 
 - [Adzhan-Farhan](https://github.com/adzhanfarhan08) - One small, meaningful step
