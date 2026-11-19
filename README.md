@@ -51,7 +51,7 @@
 <kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ru.svg" width="22">](docs/translations/README.ru.md)</kbd>
 <kbd>[<img title="العربية" alt="العربية" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/sa.svg" width="22">](docs/translations/README.ar.md)</kbd>
 <kbd>[<img title="Svenska" alt="Svenska" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/se.svg" width="22">](docs/translations/README.se.md)</kbd>
-<kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/sk.svg" width="22">](docs/translations/README.slk.md)</kbd>
+<kbd>[<img title="Slovenčina" alt="Slovenčina" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/sk.svg" width="22">](docs/translations/README.sk.md)</kbd>
 <kbd>[<img title="Slovenščina" alt="Slovenščina" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/si.svg" width="22">](docs/translations/README.sl.md)</kbd>
 <kbd>[<img title="ภาษาไทย" alt="ภาษาไทย" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/th.svg" width="22">](docs/translations/README.th.md)</kbd>
 <kbd>[<img title="Türkçe" alt="Türkçe" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tr.svg" width="22">](docs/translations/README.tr.md)</kbd>
@@ -64,7 +64,7 @@
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](docs/translations/README.igb.md)</kbd>
 <kbd>[<img title="Bambara (Mali)" alt="Bambara (Mali)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ml.svg" width="22">](docs/translations/README.mli.md)</kbd>
 <kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Hausa_people.svg/1280px-Flag_of_the_Hausa_people.svg.png" width="22">](docs/translations/README.hau.md)</kbd>
-<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://www.fotw.info/images/n/ng%7Deoyor.gif" width="22">](docs/translations/README.yor.md)</kbd>
+<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="22">](docs/translations/README.yor.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/lv.svg" width="22">](docs/translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/fi.svg" width="22">](docs/translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/by.svg" width="22">](docs/translations/README.be.md)</kbd>
@@ -87,6 +87,13 @@
 <kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
 <kbd>[<img title="Tounsi" alt="Tounsi" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/tn.svg" width="22">](docs/translations/README.tn.md)</kbd>
 <kbd>[<img title="Lingala" alt="Lingala" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/cd.svg" width="22">](docs/translations/README.ln.md)</kbd>
+<kbd>[<img title="Íslenska" alt="Íslenska" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/is.svg" width="22">](docs/translations/README.is.md)</kbd>
+<kbd>[<img title="Crnogorski" alt="Crnogorski" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/me.svg" width="22">](docs/translations/README.me.md)</kbd>
+<kbd>[<img title="Кыргызча" alt="Кыргызча" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/kg.svg" width="22">](docs/translations/README.ky.md)</kbd>
+<kbd>[<img title="Esperanto" alt="Esperanto" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Esperanto.svg" width="22">](docs/translations/README.eo.md)</kbd>
+<kbd>[<img title="Español de Colombia" alt="Español de Colombia" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/co.svg" width="22">](docs/translations/README.col.md)</kbd>
+<kbd>[<img title="Português (Angola)" alt="Português (Angola)" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ao.svg" width="22">](docs/translations/README.pt-ao.md)</kbd>
+<kbd>[<img title="Basa Jawa" alt="Basa Jawa" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/id.svg" width="22">](docs/translations/README.jv.md)</kbd>
 
 # First Contributions
 
