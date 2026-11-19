@@ -3389,6 +3389,7 @@ niceshowmini
 - YK
   [Abhishek Kumar] (https://buildbyabhi.github.io/)
 - [Syed Hamid Rahim] (https://github.com/shamidrahim)
+- [JineshiW](https://github.com/JineshiW)
 - [Sandli Thakur](https://github.com/thakursandli01-bit)
 - [Ido Pinto](https://github.com/idopinto)
 - [88yomi](https://github.com/88yomi)
