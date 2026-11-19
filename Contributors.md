@@ -5385,6 +5385,7 @@ andrewcodess
 - [Tovoson](https://github.com/Tovoson)
 - [JihedR](https://github.com/JihedR)
 - [TreeMitri](https://github.com/TreeMitri)
+- [ktaylor8](https://github.com/ktaylor8)
 - [Tunan Pan](https//github.com/tunan-pan)
 - [Tushar Kandoo](https://github.com/tusharkandoo)
 - [Tushar Rampurkar](https://github.com/Gitnerd77)
