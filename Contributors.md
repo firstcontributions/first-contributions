@@ -9,6 +9,7 @@
 - [Khanh Khuat](https://github.com/khanhkhuat1504) - xin chao
 - [Ginger Keller](https://github.com/gingerkeller) - my first contribution
 - [Pacleb Germin](https://github.com/jaxpacleb) - my contribution
+- [Yesha Patel](https://github.com/yeshapatel08) - From localhost:3000 to the global open-source stage 💻🌐✨ 
 
 - [huiren789](https://github.com/huiren789)
 - [sanchezmochales](https://github.com/sanchezmochales) - My first open source contribution
