@@ -67,7 +67,9 @@ If a file was already committed before adding it to `.gitignore`, you need to re
   git commit -m "Updated .gitignore"
   ```
 
-To undo `git rm --cached filename`, use:
+To undo `git rm --cached filename` before committing the removal, use:
 ```sh
-git add filename
+git restore --staged -- filename
 ```
+
+This restores the file's entry in Git's staging area from the latest commit, so it remains tracked. It does not change the file on disk, so any local edits are preserved. Using `git add filename` instead will fail if the file now matches a rule in `.gitignore`.
