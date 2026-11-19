@@ -8712,3 +8712,4 @@ Kunal Khallar - Learning to contribute :)
 - [Priyanhsu Vishwakarma] (https://github.com/priyanshu050307) My Very FIrst Contribution and a new begining.
 - [vivek shukla] (https;//github.com/vshukla0x) yo
 - [Angelina](https://github.com/angelina421)
+- [Adil-Khan-N](https://github.com/Adil-Khan-N)
