@@ -8776,4 +8776,5 @@ Kunal Khallar - Learning to contribute :)
 - [Samihan Pangam](https://github.com/samihanpangam-dev)
 -[mistraid](https://github.com/mistraid)-11/20/26
 - [Najmeh Zeinali](https://github.com/najmezeinali-cyber) - My first open-source contribution!
+- [ha0sun5831](https://github.com/ha0sun5831)
 - [Kadari Teja Sri](https://github.com/kadaritejasri-1)
