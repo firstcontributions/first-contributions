@@ -2,6 +2,7 @@
 - [Pavan](https://github.co,/pavansivarmakrishnan)
 - [tizidelbi](https://github.com/tizianodelbianco)
 - [Trisha Khajuria](https://github.com/ohathena)
+- [Kapil Poddar](https://github.com/XxkapilxX)
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Paul Song](https://github.com/sunruns1 - My first open source contribution
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
