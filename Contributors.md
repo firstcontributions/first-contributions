@@ -30,6 +30,7 @@
 - [huiren789](https://github.com/huiren789)
 - [sanchezmochales](https://github.com/sanchezmochales) - My first open source contribution
 - [Guih](https://github.com/Guihakka2)
+- [Meersha Jafar](https://github.com/meershamohammedjafar)
 - [arc-taka](https://github.com/arc-taka)
 - [timacton](https://github.com/timacton514) - first time
 - [Sumit Tomar](https://github.com/sumittomar1188-sketch) - My first open source contribution
