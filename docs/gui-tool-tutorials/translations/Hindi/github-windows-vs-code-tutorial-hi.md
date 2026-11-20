@@ -110,7 +110,7 @@
 यदि आपको किसी सहायता की आवश्यकता हो या कोई प्रश्न पूछना हो तो आप हमारी सुस्त टीम में शामिल हो सकते हैं। [स्लैक टीम में शामिल हों](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)।
 
 
-### [अतिरिक्त सामग्री](../additional-material/git_workflow_scenarios/additional-material.md)
+### [अतिरिक्त सामग्री](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## अन्य टूल्स का उपयोग करने वाले ट्यूटोरियल
 [मुख्य पृष्ठ पर वापस जाएं](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)

@@ -113,7 +113,7 @@ Feiere Deinen Beitrag zum Projekt und teile ihn mit Deinen Freunden und Follower
 Du kannst dem Slack-Team beitreten, falls Du Hilfe benötigst oder Fragen hast. [Slack-Team beitreten](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
-### [Weiterführende Materialien](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Weiterführende Materialien](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials mit anderen Tools
 [Zurück zur Hauptseite](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)

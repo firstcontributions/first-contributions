@@ -14,7 +14,7 @@ Awọn nkan kika & wiwo awọn olukọni le ṣe iranlọwọ, ṣugbọn kini o
 
 Ti o ko ba ni Ojú-iṣẹ GitHub lori ẹrọ rẹ, [fi sii] (https://desktop.github.com/).
 
-Ti o ba n lo ẹya ti tabili GitHub ṣaaju 1.0, [tọkasi ikẹkọ yii](github-desktop-old-version-tutorial.md). <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt=" orita ibi ipamọ yii" />
+Ti o ba n lo ẹya ti tabili GitHub ṣaaju 1.0, [tọkasi ikẹkọ yii](../github-desktop-old-version-tutorial.md). <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt=" orita ibi ipamọ yii" />
 
 ## Orita ibi ipamọ yii
 
@@ -97,7 +97,7 @@ Oriire! O kan pari boṣewa _fork -> oniye -> edit -> PR_ iṣan-iṣẹ ti iw�
 O le darapọ mọ ẹgbẹ alailẹṣẹ wa ni ọran ti o nilo iranlọwọ eyikeyi tabi ni awọn ibeere eyikeyi.
 [Darapọ mọ ẹgbẹ alailẹṣẹ](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYVk)
 
-### [Awọn ohun elo afikun](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Awọn ohun elo afikun](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Awọn olukọni Lilo Awọn irinṣẹ miiran
 

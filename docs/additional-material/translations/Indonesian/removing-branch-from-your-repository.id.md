@@ -28,4 +28,4 @@ git push origin --delete <add-your-name>
 Now, you know how to tidy your branches.
 With time, many commits will be added to my public repo. And the master branches of your local machine and of your GitHub fork won't be up-to-date. So in order to keep your repositories synchronized with mine, follow the steps below.
 
-#### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
+#### [Keeping your fork synced with the repository](../../git_workflow_scenarios/keeping-your-fork-synced-with-this-repository.md)

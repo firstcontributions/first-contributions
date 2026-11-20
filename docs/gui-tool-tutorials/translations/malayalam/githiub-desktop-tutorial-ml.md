@@ -121,7 +121,7 @@ git checkout -b <ശാഖ-നാമം>
 
 നിങ്ങൾക്ക് എന്തെങ്കിലും സഹായം ആവശ്യമുണ്ടെങ്കിൽ അല്ലെങ്കിൽ എന്തെങ്കിലും ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ ഞങ്ങളുടെ സ്ലാക്ക് ടീമിൽ ചേരാം. [സ്ലാക്ക് ടീമിൽ ചേരുക](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [അധിക മെറ്റീരിയൽ](../additional-material/git_workflow_scenarios/additional-material.md)
+### [അധിക മെറ്റീരിയൽ](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## മറ്റ് ടൂളുകൾ ഉപയോഗിച്ചുള്ള ട്യൂട്ടോറിയലുകൾ
 

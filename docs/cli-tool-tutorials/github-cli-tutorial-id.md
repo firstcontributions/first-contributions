@@ -101,7 +101,7 @@ Kamu juga bisa join ke slack team kami jika kamu butuh bantuan atau punya pertan
 
 Sekarang, kamu bisa mulai berkontribusi ke proyek-proyek lain. Kami telah mengumpulkan beberapa proyek dengan issues yang mudah diselesaikan untuk kamu. Cek [list nya di web app](https://firstcontributions.github.io/#project-list))
 
-### [Materi tambahan](additional-material/git_workflow_scenarios/additional-material.md)
+### [Materi tambahan](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutorials Menggunakan Tools Lainnya
 

@@ -16,7 +16,7 @@
 
 ถ้าคุณยังไม่มี GitHub Desktop ในเครื่อง, [ดาวน์โหลดเลย](https://desktop.github.com/)
 
-ถ้าคุณใช้ GitHub desktop เวอร์ชั่นเก่ากว่า 1.0, [อ่านที่นี่](github-desktop-old-version-tutorial.md)
+ถ้าคุณใช้ GitHub desktop เวอร์ชั่นเก่ากว่า 1.0, [อ่านที่นี่](../github-desktop-old-version-tutorial.md)
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -114,7 +114,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow
 
 คุณสามารถเข้าร่วม Slack ของเราได้หากคุณต้องการความช่วยเหลือหรือมีคำถามใด ๆ  [เข้าร่วมทีม Slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA)
 
-### [ข้อมูลเพิ่มเติม](../additional-material/git_workflow_scenarios/additional-material.md)
+### [ข้อมูลเพิ่มเติม](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## การคอนทริบิ้วต์โดยใช้เครื่องมืออื่น ๆ
 

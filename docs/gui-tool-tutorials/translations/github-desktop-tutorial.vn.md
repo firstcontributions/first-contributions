@@ -18,7 +18,7 @@ Nếu bạn muốn hiểu rõ hơn về cách Git và Github hoạt động, xem
 
 Nếu bạn không có Github Desktop trên máy, [cài đặt](https://desktop.github.com/).
 
-Nếu bạn đang dùng Github Desktop phiên bản 1.0 trở xuống, [nên xem hướng dẫn này](github-desktop-old-version-tutorial.md).
+Nếu bạn đang dùng Github Desktop phiên bản 1.0 trở xuống, [nên xem hướng dẫn này](../github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="Copy kho dự án" />
 
@@ -114,7 +114,7 @@ Hãy ăn mừng đóng góp của bạn và chia sẻ nó với bạn bè và nh
 
 Bạn có thể tham gia slack của chúng tôi trong trường hợp bạn cần trợ giúp hoặc có câu hỏi nào. [Tham gia slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [Tài liệu](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Tài liệu](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Hướng dẫn sử dụng các công cụ khác
 

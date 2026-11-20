@@ -94,7 +94,7 @@ Puedes unirte a nuestro equipo de Slack si necesitas ayuda o tienes alguna pregu
 
 Ahora comencemos a contribuir a otros proyectos. Hemos compilado una lista de proyectos con problemas sencillos con los que puede comenzar. Consulte [la lista de proyectos en la aplicación web] (https://firstcontributions.github.io/#project-list).
 
-### [Material adicional](additional-material/git_workflow_scenarios/additional-material.md)
+### [Material adicional](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Tutoriales usando otras herramientas
 
