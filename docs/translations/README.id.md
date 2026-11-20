@@ -148,7 +148,7 @@ Jika Anda ingin lebih banyak latihan, lihat [kontribusi kode](https://github.com
 
 Sekarang mari kita mulai dengan berkontribusi di proyek lain. Kami sudah menyusun daftar proyek dengan isu yang mudah dikerjakan sehingga Anda dapat segera memulai. Cek di [daftar proyek web app](https://firstcontributions.github.io/#project-list).
 
-## [Materi tambahan](../additional-material/translations/additional-material.id.md)
+## [Materi tambahan](../additional-material/translations/Indonesian/additional-material.id.md)
 
 ## Tutorial Menggunakan Alat (tools) Lain
 

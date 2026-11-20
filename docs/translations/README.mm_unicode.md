@@ -120,7 +120,7 @@ Congratulation! Open Source Project တွေမှာ အမြဲလုပ်�
 
 နောက်ထပ် ပရောဂျက်များကိုလည်း ဝင်ရောက်ကူညီလိုပါက ကျွန်တော်တို့ ပြုစုထားတဲ့ ပရောဂျက်စာရင်းကို လေ့လာနိုင်ပါတယ်။ [web app ထဲမှ ပရောဂျက်စာရင်း](https://firstcontributions.github.io/#project-list).
 
-### [အခြား ထွေလီကာလီများ](additional-material/git_workflow_scenarios/additional-material.md)
+### [အခြား ထွေလီကာလီများ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## အခြား Tools များ အသုံးပြုသည့် tutorial
 

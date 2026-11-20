@@ -171,7 +171,7 @@ git push origin "add-your-name"
 <div dir="rtl">يلا نخليك تبدأ تساهم في مشاريع بجد؟ عملنا قائمة بمشاريع بمشاكل بسيطة ممكن تبدأ بيها النهاردة.</div>
 <div dir="rtl">شوف <a href="https://firstcontributions.github.io/#project-list">قائمة المشاريع على الموقع. </a> </div>
 
-## <div dir="rtl"><a href="../additional-material/additional-material.md">حاجات وأدوات زيادة</a></div>
+## <div dir="rtl"><a href="../additional-material/git_workflow_scenarios/additional-material.md">حاجات وأدوات زيادة</a></div>
 
 ## <div dir="rtl">لو هتستخدم ادوات تانية ممكن تتعلم من هنا</div>
 

@@ -107,7 +107,7 @@ git push origin <add-your-branch-name>
 
 ਆਓ ਹੁਣ ਤੁਹਾਨੂੰ ਹੋਰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਲਈ ਸ਼ੁਰੂਆਤ ਕਰੀਏ. ਅਸੀਂ ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਇੱਕ ਸੂਚੀ ਤਿਆਰ ਕੀਤੀ ਹੈ ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਅਸਾਨ ਮੁੱਦਿਆਂ ਨੂੰ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ। [ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਸੂਚੀ](https://firstcontributions.github.io/#project-list).
 
-### [ਵਾਧੂ ਸਮੱਗਰੀ](additional-material/git_workflow_scenarios/additional-material.md)
+### [ਵਾਧੂ ਸਮੱਗਰੀ](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## ਹੋਰ ਟੂਲਜ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ ਟੁਟੋਰਿਅਲ
 
