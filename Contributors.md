@@ -89,6 +89,7 @@
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
 - [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
 - [Jyothi Sri](https://github.com/Jyothichavakula) - Lets start contributing from now..
+#Sharon Mashai
 - [RickyAustin J](https://github.com/rickyaustin456) - NEVER EVER GIVE UP 👺
 - [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
 - [Logashini CB](https://github.com/logashini347) - Stay Cool jai maghilmathi.....
@@ -282,7 +283,6 @@ kyle-xa
 - [Sakith Wijesinghe](https://github.com/sakithw) This is my first open source contribution!
 - [Aisha Senkubuge] (https://github.com/AishaS992) This is my first open source contribution :)!
 - [Siyam](https://github.com/siyam-io) - Starting my open source journey!
-Sharon Mashai
 -[Samanvay Kumar Tadakamalla](https://github.com/samanvay-kumar) - Just getting started. There's a lot to learn and even more to build.
 - [S. H. Mahammed Saleeth](https://github.com/saleeth-vibe) - This is my first open source contribution!
 - [Buddie Powell](https://github.com/BuddiePowell) - This is my very first contribution with open source!
