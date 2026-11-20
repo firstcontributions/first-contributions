@@ -13,7 +13,7 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 1. [Basics of Git - The Simple Quick Start Guide](https://blog.praveen.science/basics-of-git-the-quick-start-guide/)
 1. [Git Standards followed in our way of Spotify Agile Methodology](https://blog.praveen.science/git-standards-followed-in-our-way-of-spotify-agile-methodolgy/)
 1. [Git Shortcuts](https://blog.praveen.science/git-shortcuts/)
-1. [GitHub training resources](https://docs.github.com/en/get-started/learning-about-github/git-and-github-learning-resources)
+1. [GitHub training resources](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
 1. [Git cheat sheet from Tower](https://www.git-tower.com/learn/cheat-sheets/git)
 1. [Git Rebase — an illustrated guide (Atlassian)](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 1. [Beginner's Guide to Rebasing and Squashing](https://github.com/servo/servo/wiki/Beginner%27s-guide-to-rebasing-and-squashing)
