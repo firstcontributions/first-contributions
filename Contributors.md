@@ -8784,3 +8784,5 @@ Kunal Khallar - Learning to contribute :)
 - [Najmeh Zeinali](https://github.com/najmezeinali-cyber) - My first open-source contribution!
 - [ha0sun5831](https://github.com/ha0sun5831)
 - [Kadari Teja Sri](https://github.com/kadaritejasri-1)
+
+- [dangvu3627] (https://github.com/dangvu3627) - Excited to do my first-ever contribution!
