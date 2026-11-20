@@ -273,6 +273,7 @@ kyle-xa
 - [Omar Abdelbari](https://github.com/omarabdelbarii) - My first open source contribution
 -[Vibha J](https://github.com/Vibhaj20)
 - [Vansh Chaudhary](https://github.com/vanshchaudharyx) - This is my first open source contribution!
+-[Kritika Namdev](https://github.com/Kritika-Namdev) - This is my fist contribution and exited to learn more in open source contributions.
 <img width="4032" height="1694" alt="image" src="https://github.com/user-attachments/assets/436e01a9-1d1f-4922-9784-3b6d6fe16928" />
 - [Sakith Wijesinghe](https://github.com/sakithw) This is my first open source contribution!
 - [Aisha Senkubuge] (https://github.com/AishaS992) This is my first open source contribution :)!
