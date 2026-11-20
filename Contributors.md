@@ -8,6 +8,7 @@
 - [Kapusta123b](https://github.com/kapusta123b) - Hello everyone!
 - [Axel Mendoza](https://github.com/axenmendoza-svg) - Hi!!! this is my first contribution
 <!-- - [Esdras Francisco](https://github.com/esdrasdasilva21) - Hello everyone! -->
+- [Mispox](https://github.com/Mispox) - My first contribution!
 - [Pavan](https://github.co,/pavansivarmakrishnan)
 - [tizidelbi](https://github.com/tizianodelbianco)
 - [Trisha Khajuria](https://github.com/ohathena)
