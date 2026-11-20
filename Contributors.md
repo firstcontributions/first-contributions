@@ -294,6 +294,7 @@ kyle-xa
 - [Rohan Dravid] (https://github.com/rohandravid) - Starting opensource journey
 - zhh‘s first
 - Gad
+- [Tech500] (https://github.com/techcoder500)
 - [likelukli](https://github.com/likelukli) - :>
 )- [harithabalaj28](https://github.com/harithabalaj28)
 - [Ibnu Aulia Nugraha Alihaq](https://portfolio-web-mocha-theta-12.vercel.app) - My first contributions
