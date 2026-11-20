@@ -9,6 +9,7 @@
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
 - [vikas] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [wongdhesoo3](https://github.com/wongdhesoo3)
+- [Jateen1234](https://github.com/Jateen1234)
 - [sai charan tej] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [ZY12216012](https://github.com/ZY12216012)
 - [zb1225](https://github.com/zb1225)
