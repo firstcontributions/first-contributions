@@ -8761,3 +8761,4 @@ Kunal Khallar - Learning to contribute :)
 - [abdouahabch7](https://github.com/abdouahabch7) - First contribution of me.
 - [Priyansh Singatiya](https://github.com/Priyanshsingatiya) - My first open-source contribution!
 - [Gourav Garg](https://github.com/gouravgarg30)
+- [Prakhar Chaudhary](https://github.com/Chaudhary-Prakhar) - My first open-source contribution!
