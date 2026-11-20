@@ -8788,4 +8788,5 @@ Kunal Khallar - Learning to contribute :)
 - [Kadari Teja Sri](https://github.com/kadaritejasri-1)
 
 - [dangvu3627] (https://github.com/dangvu3627) - Excited to do my first-ever contribution!
+- [IsaacAdeBuilds] (https://github.com/IsaacAdeBuilds) - My first contribution, looking forward to building impactful things with code!
 - [kamali10] (https://github.com/kamali10mathi) - My first experience in github
