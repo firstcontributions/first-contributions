@@ -6,6 +6,7 @@
 - [Abhinaba Das](https://github.com/abhinaba75) - Hi, there connect me at https://e075.com 👀
 - [Bibek Roy](https://github.com/bibekbrg)
 - [Kapusta123b](https://github.com/kapusta123b) - Hello everyone!
+- [Axel Mendoza](https://github.com/axenmendoza-svg) - Hi!!! this is my first contribution
 <!-- - [Esdras Francisco](https://github.com/esdrasdasilva21) - Hello everyone! -->
 - [Pavan](https://github.co,/pavansivarmakrishnan)
 - [tizidelbi](https://github.com/tizianodelbianco)
