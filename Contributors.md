@@ -298,6 +298,7 @@ jean-francois LHOMME
 - [Anas Dahani](https://github.com/anasdahani220) - This is my first open source contribution, I am very excited!
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
 - [MentaNew] - Let's go, first of many!
+- [Sahil Kumar](https://github.com/Sahilk004) - This is my first contribution , many more coming in the future 
 - [Abu Saif Kabbo](https://github.com/saifkabbo) - This is my first open source contribution !!
 - [Aavart Tyagi](https://github.com/tygvi) - Open Source!
 - [Dollcy Jain](https://github.com/Dollcy-Jain) - This is my first contribution!!
