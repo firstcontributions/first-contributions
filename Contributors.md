@@ -3331,6 +3331,7 @@ niceshowmini
 -[ Jove Amala Rathna⭐](https://github.com/joveamalarathna-s)
 - [Shan Asif](https://github.com/shanAweb)
 - [Lucas Santos Da Cruz](https://github.com/lsantosdacruz)
+- [Mandeep Singh](https://github.com/itsMandeep)
 - [Ariel Massetti](https://github.com/amassetti)
 - [Anil Tamang] (https://github.com/anil-titung-tamang)
 - [Marcio Nielsen Baptista](https://github.com/marcionielsen)
