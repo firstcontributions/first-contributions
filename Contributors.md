@@ -130,7 +130,7 @@ dudpatil07 i am so happy for my first contribution
 - [rajeswari725](https://github.com/rajeswari725) - My first open source contribution
 [M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
 Just - [Affan Ahmed](https://github.com/Affanasrar)
-changing a few things..
+changing a few things...
 -[Renfred](https://github.com/renfred2306)
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [Parth Vishwakarma](https://github.com/vishiparth)- Firt step towards freedom
