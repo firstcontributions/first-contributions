@@ -10,7 +10,7 @@
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Paul Song](https://github.com/sunruns1 - My first open source contribution
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
-- [vikas] (https://github.com/VikasVeluvolu/first-contributions.git)
+- [vikas] (https://github.com/VikasVeluvolu/first-contributions.git). SHIVANSHU SINGH RAJPUT
 - [wongdhesoo3](https://github.com/wongdhesoo3)
 - [sai charan tej] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [ZY12216012](https://github.com/ZY12216012)
