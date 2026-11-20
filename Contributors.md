@@ -130,7 +130,7 @@ dudpatil07 i am so happy for my first contribution
 - [rajeswari725](https://github.com/rajeswari725) - My first open source contribution
 [M CHARAN RAJU](https://github.com/charanraju834)-Do My first contribution to the github 
 Just - [Affan Ahmed](https://github.com/Affanasrar)
-changing a few things..
+changing a few things...
 -[Renfred](https://github.com/renfred2306)
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
 - [Parth Vishwakarma](https://github.com/vishiparth)- Firt step towards freedom
@@ -291,6 +291,7 @@ hnbmc2003
 - [Joseph Nguyen](https://github.com/janhqnguyen2020) - open source contribution
 - [Samarth Pawar](https://github.com/samarthpawar308-bot) - This is my first open source contirbution.
 - [tyy200203](https://github.com/tyy200203) - My first pull request.
+- [Joepaul Paulson](https://github.com/joepaulpaulson) - My Contribution to this Project .
 - [Divyanshu Baibhav](https://github.com/DivyBaib) - I am just existing in this long list of names. Yay!
 - [Flora](https://github.com/Flora-Ex) - First contribution :3 Make sure to eat well and be kind to one another!
 - [Praneet Savant](https://github.com/PraneetNS) - Humans are going to replace AI
