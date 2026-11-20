@@ -1,3 +1,4 @@
+- [Tanay Agarwal] (https://github.com/TanayAg53)- Hi, This Is My First Contribution!!
 - [Vaibhav Shivam](https://github.com/Vaibhav-Shivam) - My first contribution!
 - [Abhinaba Das](https://github.com/abhinaba75) - Hi, there connect me at https://e075.com 👀
 - [Bibek Roy](https://github.com/bibekbrg)
@@ -10,7 +11,7 @@
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Paul Song](https://github.com/sunruns1 - My first open source contribution
 - [Ahen Ali](https://github.com/ahenali) - My first open source contribution
-- [vikas] (https://github.com/VikasVeluvolu/first-contributions.git). SHIVANSHU SINGH RAJPUT
+- [vikas] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [wongdhesoo3](https://github.com/wongdhesoo3)
 - [sai charan tej] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [ZY12216012](https://github.com/ZY12216012)
