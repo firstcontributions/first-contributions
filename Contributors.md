@@ -8757,7 +8757,7 @@ Kunal Khallar - Learning to contribute :)
 - [Chetan Reddy](https://github.com/chetanreddypro11)
 - [SypherFLS](https://github.com/SypherFLS)
 - [Daisyyyyyyyyyyyyyyy](https://github.com/Daisyyyyyyyyyyyyyyy)
+- [Lohith Batchu](https://github.com/Lohith-batchu)
 - [abdouahabch7](https://github.com/abdouahabch7) - First contribution of me.
 - [Priyansh Singatiya](https://github.com/Priyanshsingatiya) - My first open-source contribution!
 - [Gourav Garg](https://github.com/gouravgarg30)
-- [Lohith Batchu](https://github.com/Lohith-batchu)
