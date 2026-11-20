@@ -90,6 +90,7 @@
 - [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
 - [Jyothi Sri](https://github.com/Jyothichavakula) - Lets start contributing from now..
 - [RickyAustin J](https://github.com/rickyaustin456) - NEVER EVER GIVE UP 👺
+- [Luke VC](https://github.com/LukeVCGit) - Hope for the best, prepare for the worst.
 - [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
 - [Logashini CB](https://github.com/logashini347) - Stay Cool jai maghilmathi.....
 dudpatil07 i am so happy for my first contribution
