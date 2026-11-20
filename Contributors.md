@@ -8760,4 +8760,4 @@ Kunal Khallar - Learning to contribute :)
 - [Daisyyyyyyyyyyyyyyy](https://github.com/Daisyyyyyyyyyyyyyyy)
 - [abdouahabch7](https://github.com/abdouahabch7) - First contribution of me.
 - [Priyansh Singatiya](https://github.com/Priyanshsingatiya) - My first open-source contribution!
-- [PSOrigins](https://github.com/psorigins10) - Let's start the journey of programming.....
+- [PSOrigins](https://github.com/psorigins10) - Every great journey begins with a single step. Excited to start my open-source journey, learn from amazing developers, and build something meaningful together! 
