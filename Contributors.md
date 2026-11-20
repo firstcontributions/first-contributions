@@ -20,6 +20,7 @@
 - [wongdhesoo3](https://github.com/wongdhesoo3)
 - [sai charan tej] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [ZY12216012](https://github.com/ZY12216012)
+- [alazarr15] (https://github.com/alazarr15)
 - [zb1225](https://github.com/zb1225)
 - [Theophlina Roslynd](https://github.com/theophlinaroslynd-dot)
   [Yashraj Miyatra](https://github.com/YashrajMiyatra)
