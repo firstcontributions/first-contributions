@@ -73,6 +73,7 @@
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [BanuSha05](https://github.com/BanuSha05)
 - [Ankita Tiwari](https://github.com/ankita-code05)
+- [Shaik Subhan Basha ](https://github.com/subhan-bashaa)
 - [Dhruv Dinesh Soni](https://github.com/soni-dhruv)
 - [Pawan Nanaware](https://github.com/PWN-N/first-contributions.git)
 - [Himanshu](https://github.com/himanshu040107) - My first open source contribution...
@@ -94,7 +95,7 @@
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
 - [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
 - [Jyothi Sri](https://github.com/Jyothichavakula) - Lets start contributing from now..
-#Sharon Mashai
+- [Sharon Mashai](https://github.com/Sharon-Mashai) - My first open source contribution
 - [RickyAustin J](https://github.com/rickyaustin456) - NEVER EVER GIVE UP 👺
 - [Luke VC](https://github.com/LukeVCGit) - Hope for the best, prepare for the worst.
 - [Ganeshwari](https://github.com/ganeshwarirciet) - dudpatil07
@@ -8762,7 +8763,3 @@ Kunal Khallar - Learning to contribute :)
 - [abdouahabch7](https://github.com/abdouahabch7) - First contribution of me.
 - [Priyansh Singatiya](https://github.com/Priyanshsingatiya) - My first open-source contribution!
 - [PSOrigins](https://github.com/psorigins10) - Every great journey begins with a single step. Excited to start my open-source journey, learn from amazing developers, and build something meaningful together! 
-0 commit commentsComments0 (0)Lock conversation
-- [its-govind](https://github.com/its-govind)
-
-- [Samiha Pangam](https://github.com/samihanpangam-dev)
