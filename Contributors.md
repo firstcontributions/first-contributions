@@ -8798,3 +8798,4 @@ Kunal Khallar - Learning to contribute :)
 - [kamali10] (https://github.com/kamali10mathi) - My first experience in github
 -[seifzel](https://github.com/seifzel)
 - [Unnati Sharma](https://github.com/unnatisharmaa10-tech) - My first experience in open source
+- [Amrit Singh](https://github.com/Amrit7733)
