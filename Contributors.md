@@ -4329,6 +4329,7 @@ andrewcodess
 - [Edepoir](https://github.com/Edepoir)
 - [Edgar Mireles](https://github.com/edgarmb14)
 - [Eesha Bhargava](https://github.com/eesha05)
+- [Anurag Deol](https://github.com/anuragDeol)
 - [Eeshan Kandikattu](https://github.com/ekandikattu)
 - [Elaine-764](https://github.com/Elaine-764)
 - [Elif Ş.](https://github.com/elifsz)
