@@ -3265,6 +3265,7 @@ niceshowmini
 [Alexis Ojeide]  (https://github.com/Alexisojeide)
 - Pramod2211
 - [nishika dhankhar]
+- [Diego Garrido](https://github.com/ByteWizzardd) My first open source contribution!
 - [Nakul Iyer](https://github.com/naks123)
 - [Zebicolon](https://github.com/KingSebs)
 - [Tushar Khurana](https://github.com/Tushar-khurana-official/)
