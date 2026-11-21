@@ -1,4 +1,3 @@
-- [Diego Garrido](https://github.com/ByteWizzardd) My First Open Source Contribution!!!
 - [Sandip Kalathoki](<https://github.com/Sandip> Kalathoki) My First Contribution!!!
 - [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution!
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
@@ -475,7 +474,7 @@ Aditya Oraon
 - [Kalyan Bandaru] - This is my first ever open-source contribution
 - [Priyanshu Tiwari] - First contribution
 
-* [Piyush Kumar] - This is my first open-source contribution.
+- [Piyush Kumar] - This is my first open-source contribution.
 
 - [DevarshP610](https://github.com/DevarshP610) - Building [YardScout](https://github.com/DevarshP610/YardScout), my first open-source project.
 - [Jyotiprakash Panigrahi] - This is my first open-source contribution.
@@ -1868,7 +1867,7 @@ vijyot silare
 -Santiago
 - [giteen-shiro](https://github.com/giteen-shiro)
 
-* [Meenakshi M](https://github.com/meenakshim7)
+- [Meenakshi M](https://github.com/meenakshim7)
 
 - 施想--图文建模
 - [Diego Mercado](https://github.com/DiegoMercadoAcero)λ :: Crafted with coffee and silence ::
@@ -5244,6 +5243,7 @@ andrewcodess
 - [Satish Sharma](https://github.com/satish-sharma360)
 - [Satya Prakash Mohanty](https://github.com/Bubu02)
 - [Satyabrata Das](https://github.com/satya-py)
+- [Diego Garrido](https://github.com/ByteWizzardd) My First Open Source Contribution!!!
 - [SatyamCode12](https://github.com/SatyamCode12)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - [Satyendra Kumar](https://github.com/thesatyendrakumar)
@@ -6865,7 +6865,7 @@ Nici30067
 - [Ellen](https://github.com/Ellen7687)
 - [Neker02](https://github.com/neker02)
 
-* [sisiphamus](https://github.com/sisiphamus)
+- [sisiphamus](https://github.com/sisiphamus)
 
 - [Pratham Shah](https://github.com/PS2006m)
 - [Krushna Mahajan](https://github.com/Thekrish7264)
@@ -8479,7 +8479,7 @@ Harshit Bisht
 - [ajayrajaajay48-code](https://github.com/ajayrajaajay48-code) - My first contribution and excited to learn more.
 - [Rivino](https://github.com/Ri-Vino)  - My first contribution on a public repo :).
 
-* [sakshammalik260-cse](https://github.com/sakshammalik260-cse) - My first open-source contribution!
+- [sakshammalik260-cse](https://github.com/sakshammalik260-cse) - My first open-source contribution!
 
 - [Sindhu](https://github.com/Sindhu0012)
 - [Simon](https://github.com/Simon-E-H)
