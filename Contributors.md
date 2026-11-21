@@ -2,6 +2,7 @@
 - [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution!
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
 - [Saman Seyf](https://github.com/Sam123-Tech123)
+- [Rudroju Badrinath](https://github.com/BadrinathRudroju) Let's go!!
 - [Ali Hasan](https://github.com/mdalih143) My First Contribution!
 - [Ashwani Kumar]( https://github.com/Ashwani-Kumar-2508) My First Contribution!!!
 - [Avyukt Mishra](https://github.com/BlazeXstedbry) My first Constribution
