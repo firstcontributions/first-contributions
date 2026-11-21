@@ -19,6 +19,7 @@
 - [Pavan](https://github.co,/pavansivarmakrishnan)
 - [tizidelbi](https://github.com/tizianodelbianco)
 - [Trisha Khajuria](https://github.com/ohathena)
+- [Abhay Raut](https://github.com/Abhaii11) - My first open source contribution!
 - [Chiranjith SV](https://github.com/ChiranjithSV) - My first open-source contribution!
 - [Kapil Poddar](https://github.com/XxkapilxX)
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
