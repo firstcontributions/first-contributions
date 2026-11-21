@@ -907,7 +907,7 @@ Im Fabio Uvinha
 -[Shams Tahmid] 
 - [Sanjoli Agarwal](https://github.com/sanjoliiee)
 -[Booja Devi](https://github.com/BoojaDevi-A) -- Hello world! This is Booja - It's my first open-source contribution.I'm an ECE student learning software engineering, and this PR is my first step into open source. Looking forward to contributing more!
-
+- [Arezu Selyari](https://github.com/Arezooselyari)
 -[Anish-A-R](https://github.com/Anish-A-R/first-contributions)
 Hi myself Anish A R this is my first contribution. Lets see where life takes me in these years.
 --[https://github.com/pathananas2007] 
