@@ -1,4 +1,6 @@
 - [Kuldeep-Sharma](https://github.com/Kuldeep-Sharmaa) - console.log("Hello World");
+- Hurray my first pull request - hope i  contribute to open source in this holidays.. 
+- echo "lets hope for the best"
 - [Sandip Kalathoki](https://github.com/Sandip Kalathoki) My First Contribution!!!
 - [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution!
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
