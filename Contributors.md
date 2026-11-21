@@ -64,6 +64,7 @@
 - [timacton](https://github.com/timacton514) - first time
 - [Sumit Tomar](https://github.com/sumittomar1188-sketch) - My first open source contribution
 - [some049there](https://github.com/some049there) - My first open-source contribution!
+-[Mahima Allu](https://github.com/mahimaallu16)-My first open-source contribution.
 - [Geyek Ulrich Armel](https://github.com/Ulricharmel001) - My first open source contribution!
 - [Abhinash Kumar Singh](https://github.com/abhinashbyte04) - My first open-source contribution!
 - [Kais Shaikh](https://github.com/kais7sys) - Here it goes!
