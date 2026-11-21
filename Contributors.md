@@ -668,6 +668,7 @@ piyush[Tanvi](https://github.com/tanvisingh20073004-star)
 -[LAWITHANX](https://github.com/jevonzeev) "persistence and determination surpass talent, genius, and education in achieving success."
 - [Kushal M R] (https://github.com/Kushal-MR) "Software engineering is cooked"
 - [Santhosh Sharma](https://github.com/santhoshsharrma)
+- I am riya and here is my github profile(https://github.com/rhysch)
 - [Ishwar Anpat](https://github.com/ishwar261-oss)
 - [Lokesh](https://github.com/loki376-web)
 - [Ismeet Pandey](https://github.com/IsmeetPandey)
