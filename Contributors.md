@@ -8797,7 +8797,8 @@ Kunal Khallar - Learning to contribute :)
 -[mistraid](https://github.com/mistraid)-11/20/26
 - [Najmeh Zeinali](https://github.com/najmezeinali-cyber) - My first open-source contribution!
 - [ha0sun5831](https://github.com/ha0sun5831)
-- [Kadari Teja Sri](https://github.com/kadaritejasri-1)
+- [Kadari Teja Sri](https://github.com/kadaritejasri-1) 
+- [vtnhqw](https://github.com/vtnhqw) 
 
 - [dangvu3627] (https://github.com/dangvu3627) - Excited to do my first-ever contribution!
 - [IsaacAdeBuilds] (https://github.com/IsaacAdeBuilds) - My first contribution, looking forward to building impactful things with code!
