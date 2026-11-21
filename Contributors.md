@@ -8807,3 +8807,4 @@ Kunal Khallar - Learning to contribute :)
 - [Unnati Sharma](https://github.com/unnatisharmaa10-tech) - My first experience in open source
 - [Amrit Singh](https://github.com/Amrit7733)
 - [Rushikesh Hande](https://github.com/YOUR_GITHUB_USERNAME) - My first open-source contribution!
+- [Warney](https://github.com/warneyferreira) - My first open-source contribution!
