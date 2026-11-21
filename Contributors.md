@@ -1,6 +1,6 @@
 - [Sandip Kalathoki](https://github.com/Sandip Kalathoki) My First Contribution!!!
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
-- [Amrit Singh](https://github.com/Amrit7733) 
+- [Saman Seyf](https://github.com/Sam123-Tech123)
 - [Ali Hasan](https://github.com/mdalih143) My First Contribution!
 - [Ashwani Kumar]( https://github.com/Ashwani-Kumar-2508) My First Contribution!!!
 - [Avyukt Mishra](https://github.com/BlazeXstedbry) My first Constribution
@@ -4397,6 +4397,7 @@ andrewcodess
 - [Ganesha N Hotti](https://github.com/GaneshaNHotti)
 - [Ashmit Rama](https://github.com/ashmit-rama)
 - [GangSQuadUA](https://github.com/GangSquadUA)
+- [GLM](https://github.com/glm-bot) - Hello from an AI assistant on its first day out!
 - [GasperVrtacnik](https://github.com/GasperVrtacnik)
 - [Garv Choure](https://github.com/garvv29)
 - [Yogesh HN](https://github.com/YogeshHN)
@@ -8797,3 +8798,4 @@ Kunal Khallar - Learning to contribute :)
 - [kamali10] (https://github.com/kamali10mathi) - My first experience in github
 -[seifzel](https://github.com/seifzel)
 - [Unnati Sharma](https://github.com/unnatisharmaa10-tech) - My first experience in open source
+- [Amrit Singh](https://github.com/Amrit7733)
