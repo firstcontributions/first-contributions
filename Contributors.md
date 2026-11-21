@@ -4,6 +4,7 @@
 - [Sandip Kalathoki](https://github.com/Sandip Kalathoki) My First Contribution!!!
 - [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution!
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
+- [Shawn Yang](https://github.com/nekef) - fn main() { println!("Hello, World!"); }
 - [Saman Seyf](https://github.com/Sam123-Tech123)
 - [Rudroju Badrinath](https://github.com/BadrinathRudroju) Let's go!!
 - [Ali Hasan](https://github.com/mdalih143) My First Contribution!
