@@ -1637,6 +1637,8 @@ Jainil Chavda
 -[Joti Lohana](https://github.com/jotilohana21)
 -[Maira Arshad](https://github.com/Mairaarshad19)
 -Khanh cai dit con me may
+https://github.com/Decoded-Visuals/first-contributions.git
+
 -[V.Sreekanth Reddy](https://github.com/sreekanth50/)
 -[teja](https://github.com/veerinateja)
 -[Bhargavi](https://github.com/bhargavi414/)
