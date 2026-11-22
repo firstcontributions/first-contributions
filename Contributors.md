@@ -367,6 +367,7 @@ jean-francois LHOMME
 - [solace](https://github.com/thomas-delro) - first time 
 - [Hemanth Kumar] - First Contrib!
 - [Tiago](https://github.com/tiagonleal) - Just testing!
+- [Denis Serban](https://github.com/serbandenis631-svg) - Happy to contribute
 - [Anastasia Ritus](https://github.com/kartoxaxa) - My first pull request
 -Steelbane was here
 https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
