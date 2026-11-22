@@ -8574,6 +8574,7 @@ Kunal Khallar - Learning to contribute :)
 - [MrBeast2025](https://github.com/MrBeast2025) - My first open source contribution!
 - [artoria111](https://github.com/artoria111)- My first open source contribution in Nov 2nd, 2026
 - my name is xxw
+- [Ahmed122000](https://github.com/Ahmed122000) - My first Contribution in Nov, 2026..hope it's the the new step in the success journey. 
 - [Kimani](https://github.com/kim-kimani) - my first open source contribution!
 - [S.Shrena Sam](https://github.com/shrena9933-oss)
 - [Manav Saxena](https://github.com/manavs-codes) - Learning and contributing to open source!
