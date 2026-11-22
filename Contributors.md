@@ -8620,6 +8620,7 @@ Kunal Khallar - Learning to contribute :)
 -Laptop
 -Keyboard
 -Mouse
+- Alex G
 -[kelvinmarquez937] (github.com/kelvinmarquez937/)
 - [dannihu] (https://dannihu01.github.io)
 - [mounnila](https://github.com/mounnilapoorna-lgtm)
