@@ -5,7 +5,7 @@
 - Hurray my first pull request - hope i  contribute to open source in this holidays.. 
 - echo "lets hope for the best"
 - [Sandip Kalathoki](https://github.com/Sandip Kalathoki) My First Contribution!!!
-- [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution!
+- [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution! Hi Baby
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
 - [Shawn Yang](https://github.com/nekef) - fn main() { println!("Hello, World!"); }
 - [Saman Seyf](https://github.com/Sam123-Tech123)
