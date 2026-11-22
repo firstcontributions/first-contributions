@@ -7581,6 +7581,8 @@ harika
 - [alderley](https://github.com/Web-Site-ux)
 [Alexis Rivadeneyra](https://github.com/alexisRivaa)
 Shreyansh
+
+- Hi , my name is Rita
 - [jxyily](https://github.com/jxyily)
 - [Sabareeswaran](https://github.com/Sundarsabaree)
 - [JebastineE](https://github.com/JebastineE)
