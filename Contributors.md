@@ -8827,3 +8827,4 @@ Kunal Khallar - Learning to contribute :)
 - [Kashvi Chaudhari](https://github.com/KashviChaudhari16) - My first open-source contribution!
 Ajay
 - [Kári Ragnarsson](https://github.com/kariragnars) - Trying out github.
+- [whq](https://github.com/anwg-s) - My first open-source contribution!
