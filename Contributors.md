@@ -241,6 +241,7 @@ kyle-xa
 -[Dhruv Patil](https://github.com/Dhruv-2305)- Not first but surely a contribution to open source. Came here through web surfing.
 -[Md Asif](https://github.com/Asif-hash786)- Contributed for fun.
 -[Viking](https://github.com/Dhruv-2305)-Again contributed to this open soure newbie repository.
+-[ShreyZSharma](https://github.com/ShreyZSharma)-Hello folks.
 - [raw](https://github.com/rawplane) - My first contribution to the open source
 - [Emmanuel Timothy](https://github.com/mentor98) - My first contribution to the open source
 -[Durgga DK] (https://github.com/durggadk28) - Let's go!
