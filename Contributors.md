@@ -105,6 +105,7 @@
 - [Guthal Basumatary](https://github.com/gokubasumatary-web)
 - [BanuSha05](https://github.com/BanuSha05)
 - [Ankita Tiwari](https://github.com/ankita-code05)
+- [HuskeyXO](https://github.com/HuskeyXO) TRUST
 - [Shaik Subhan Basha ](https://github.com/subhan-bashaa)
 - [Dhruv Dinesh Soni](https://github.com/soni-dhruv)
 - [Pawan Nanaware](https://github.com/PWN-N/first-contributions.git)
