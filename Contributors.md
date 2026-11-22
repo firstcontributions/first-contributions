@@ -8839,3 +8839,4 @@ Ajay
 - [whq](https://github.com/anwg-s) - My first open-source contribution!
 
 - [Mohit Raj](https://github.com/Mohitraj072) - My first open-source contribution!
+- [Alireza Fatehi](https://github.com/fatehitony-dev) - My first open-source contribution!
