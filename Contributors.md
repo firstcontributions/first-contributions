@@ -21,6 +21,7 @@
 - [Bibek Roy](https://github.com/bibekbrg)
 - [Kapusta123b](https://github.com/kapusta123b) - Hello everyone!
 - [Axel Mendoza](https://github.com/axenmendoza-svg) - Hi!!! this is my first contribution
+- [Pfunzo Maba](https://github.com/pfunzo) - My First Contribution!
 <!-- - [Esdras Francisco](https://github.com/esdrasdasilva21) - Hello everyone! -->
 - [Mispox](https://github.com/Mispox) - My first contribution!
 - [Bipin Dehariya](https://github.com/Bipin2005-dev) - Hellooo!!
