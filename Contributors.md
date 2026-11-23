@@ -20,6 +20,7 @@ Alliance Ngoy Muya
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
 - [Shashikant Kumar](https://github.com/shashikant2003m) Hi, There
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
+- [Isaiah Adepegba](https://github.com/sensi012) - Hello! This is my first open source contribution.
 - [Ramim Miah](https://github.com/iramim) - My first open-source contribution!
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
 - [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
