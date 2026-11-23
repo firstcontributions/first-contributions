@@ -1,13 +1,15 @@
-- [Shashikant Kumar](https://github.com/shashikant2003m) - Hi Git, This is my first contribution. Good to Go!!!!
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
+- [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
+- [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
 - [Cammy-83](https://github.com/cammy-83) - My first contribution!
 - [Hannan Mudassar](https://github.com/h7ncode) - want to build something useful
 - [KarthikVarma19](https://github.com/KarthikVarma19) - System.out.println("Let's Go!, Small Step Every Day");
 - [Kuldeep-Sharma](https://github.com/Kuldeep-Sharmaa) - console.log("Hello World");
+- [Logendra Prabhu](https://github.com/Logendra-07)
 - Hurray my first pull request - hope i  contribute to open source in this holidays.. 
 - echo "lets hope for the best"
-- [Sandip Kalathoki](https://github.com/Sandip Kalathoki) My First Contribution!!!
+- [Seshmania](https://github.com/Seshmania) My First Contribution!!!
 - [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution! Hi Baby
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
 - [Shawn Yang](https://github.com/nekef) - fn main() { println!("Hello, World!"); }
@@ -22,6 +24,7 @@
 - [Abhinaba Das](https://github.com/abhinaba75) - Hi, there connect me at https://e075.com 👀
 - [Bibek Roy](https://github.com/bibekbrg)
 - [Dan Irwin](https://github.com/Danthedev99) Hey guys, hope all good !
+- [Harsh Raj Singh](https://github.com/stackcrafter07) -helloooooooooo
 - [Kapusta123b](https://github.com/kapusta123b) - Hello everyone!
 - [Axel Mendoza](https://github.com/axenmendoza-svg) - Hi!!! this is my first contribution
 - [Pfunzo Maba](https://github.com/pfunzo) - My First Contribution!
@@ -4429,6 +4432,7 @@ andrewcodess
 - [G.Mohammed Mansoor](https://github.com/VoidKernel786)
 - [Gabe Jasso](https://github.com/0bitbybit)
 - [Gabriel A Fernandez](https://github.com/gfernandez123)
+- [BSY](https://github.com/youzhigui1)
 - [Gabriel N Thayil](https://github.com/GabrielNThayil)
 - [Praveenkumar99488](https://github.com/Praveenkumar99488)
 - [Gali Alon](https://github.com/gali-alon)
@@ -8424,6 +8428,7 @@ Ghazaleh Niazzadeh
 - [Rupam ](https://github.com/rupam369) - My first open source contribution
 - [N Mogesh](https://github.com/mogesh-n)
 - [Anjali Tayhande (https://github.com/anjalip2008tayhande-spec) - Not my first Repo though ----- GOOO CHECKOUTT CURRYKRUST!!!!!!!
+- [Oracle](https://github.com/oracleidt)
  - [Wu Wenmao](https://github.com/what881)
 - [Ekrem Çakır](https://github.com/ekrmcakir)
 - [Anurag Kulkarni](https://github.com/anuragkulk)
@@ -8862,3 +8867,6 @@ Ajay
 
 - [Mayank Singh](https://github.com/<your-username>); My first open source contributions.
 - João Pedro Rodrigues Marques
+- [Sarp Kayserilioglu](https://github.com/sarpk-7)
+- Yotoo-06 
+- Boubacar
