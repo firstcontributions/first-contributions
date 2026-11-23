@@ -138,6 +138,7 @@
 - [JuanMiguel02](https://github.com/JuanMiguel02) - i'm a leech i'm a leech i'm a leech i'm a leech i'm a leech 
 - [Satya Prakash](https://github.com/Anirvarti)
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
+- [Comitor] - ma première contribution, mais mon 5e essai
 - [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
 - [Jyothi Sri](https://github.com/Jyothichavakula) - Lets start contributing from now..
 - [Sharon Mashai](https://github.com/Sharon-Mashai) - My first open source contribution
