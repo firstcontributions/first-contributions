@@ -1,3 +1,4 @@
+- [Mallikarjun Patil](https://github.com/Mallikarjun1237)
 - [Mathias Collin](https://github.com/Mathias-Collin)
 - [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
