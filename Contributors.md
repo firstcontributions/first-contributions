@@ -4,6 +4,7 @@
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
+- [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
 - [Cammy-83](https://github.com/cammy-83) - My first contribution!
 - [Hannan Mudassar](https://github.com/h7ncode) - want to build something useful
 - [KarthikVarma19](https://github.com/KarthikVarma19) - System.out.println("Let's Go!, Small Step Every Day");
