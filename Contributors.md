@@ -8642,6 +8642,7 @@ Kunal Khallar - Learning to contribute :)
 -Laptop
 -Keyboard
 -Mouse
+-J.Gon holla hablo ingles
 - Alex G
 -[kelvinmarquez937] (github.com/kelvinmarquez937/)
 - [dannihu] (https://dannihu01.github.io)
