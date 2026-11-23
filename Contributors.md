@@ -1620,6 +1620,7 @@ Jainil Chavda
 - [Mark Obrembalski]
 - Shardul sankhe
 -[Gokavarapu Sai Charan](https://github.com/gokavarapusaicharan)
+- [harusol](https://github.com/harusol)
 -[OM AHIRE](https://github.com/om-ahire)
 -[Akbar Farooq](https://github.com/akbarfarooq)
 -[Vitor Santos](https://github.com/euvitor)
