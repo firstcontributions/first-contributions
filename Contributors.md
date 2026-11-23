@@ -1,3 +1,4 @@
+- [Smita Kalluri](https://github.com/Smitakalluri15)
 - [Mallikarjun Patil](https://github.com/Mallikarjun1237)
 - [Mathias Collin](https://github.com/Mathias-Collin)
 - [Tudor Lapadat](https://github.com/Ttudy)
