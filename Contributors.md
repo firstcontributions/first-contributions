@@ -217,6 +217,7 @@ kyle-xa
 - [jellayter4-bit](https://github.com/jellayter4-bit) - My first open source contribution!
 -[YMO](https://github.com/YoonMayOo) - Will not be my last opensource contribution!
 - [Chaten](https://github.com/chaten99) - Success demands consistency, curiosity, and the courage to start before you feel ready.
+- sohaa27 - My first contribution
 - [Deadmigisnow] - hi lol!
 - [sabi-s] (https://github.com/sabi-s) - noob programmer
 - [sivaprasad-vs] (https://github.com/sivaprasadvs/first-contributions.git) - push past your limits -(yami,asta)
