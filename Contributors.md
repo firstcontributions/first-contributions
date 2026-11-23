@@ -1,3 +1,4 @@
+- [Mathias Collin](https://github.com/Mathias-Collin)
 - [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
 - [Kaan Kavak]
@@ -8892,4 +8893,4 @@ Ajay
 - [Aaron Teeluck](https://github.com/ExoSavage)
 - Monna paris
 - Morgan philipponneau
-- [Erdem Y�cel](https://github.com/erdem365)
+- [Erdem Y cel](https://github.com/erdem365)
