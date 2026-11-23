@@ -2426,6 +2426,7 @@ Suraj Kumar i am not gonna provide any link
 [P Revanth Kumar](https://github.com/REVANTH-KUMAR-PEDADA)
 - [Sayan Dey](https://github.com/sayan-1907) - My first step toward GSoC!
 - Aryan Sharma BT2024212
+- Roger Castellà
 - Shashank Peddi BT2024210
 - Penumarti Hanish BT2024190
 - Kulkarni Keyur BT2024025
