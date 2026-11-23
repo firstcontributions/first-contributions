@@ -1,4 +1,10 @@
+- [Timeo Pasquier](https://github.com/Tim3volink)
+- [Sandip Kalathoki](https://github.com/Seshmania)
+- [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
+Alliance Ngoy Muya
+- [Nishanth reddy].(https://github.com/nishanthreddy-23)-
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
+- [Shashikant Kumar](https://github.com/shashikant2003m) Hi, There
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
 - [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
