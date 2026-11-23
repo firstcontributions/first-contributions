@@ -4003,6 +4003,7 @@ Amna Naeem
 - [Aftab Gani](https://github.com/AftabGani)
 - [Abdullah Elsafty](https://github.com/your-abdullahelsafty4)
 - [Abdullah Khan](https://github.com/Python-genius900)
+- [Parth Kandpal](https://github.com/Perry-code03)
 - [Abdullah Semar](https://github.com/abdullahsemar)
   myname
 - [Abdullah Salim](https://github.com/AdvancedForge)
