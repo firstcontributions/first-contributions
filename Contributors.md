@@ -5966,6 +5966,7 @@ andrewcodess
 - [Matt](https://github.com/mattisdumb08)
 - ZhangSanfeng
 - [Jerry](https://github.com/Jerryswu0716)
+- [Manu D](https://github.com/manudcm1)
 - [Bogdan](https://github.com/ExABogdan02)
 - [Julius](https://github.com/jrehb)
 - [Vikash Chaurasia](https://github.com/sgateVikash)
@@ -8889,4 +8890,4 @@ Ajay
 - [Aaron Teeluck](https://github.com/ExoSavage)
 - Monna paris
 - Morgan philipponneau
-- [Erdem Yücel](https://github.com/erdem365)
+- [Erdem Yï¿½cel](https://github.com/erdem365)
