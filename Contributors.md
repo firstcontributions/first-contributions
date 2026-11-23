@@ -2,12 +2,14 @@
 - [Sandip Kalathoki](https://github.com/Seshmania)
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
+- This will be my first open source contribution, such a great guide! YAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYY!!!!!!!!!!!!
 - [Nishanth reddy].(https://github.com/nishanthreddy-23)-
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
 - [Shashikant Kumar](https://github.com/shashikant2003m) Hi, There
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
 - [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
+- [Hajra Khan] (https://github.com/hajraa21)- Hey.
 - [Cammy-83](https://github.com/cammy-83) - My first contribution!
 - [Hannan Mudassar](https://github.com/h7ncode) - want to build something useful
 - [KarthikVarma19](https://github.com/KarthikVarma19) - System.out.println("Let's Go!, Small Step Every Day");
