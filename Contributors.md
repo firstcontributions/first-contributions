@@ -11,6 +11,7 @@ Alliance Ngoy Muya
 - This will be my first open source contribution, such a great guide! YAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYY!!!!!!!!!!!!
 - [Nishanth reddy].(https://github.com/nishanthreddy-23)-
 - [Clément Baudry].(https://github.com/Clement-Baudry)
+- [Gaurav Gupta]  Hello Everyone. This side, Gaurav is here. Let's build something great!
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
 - [Shashikant Kumar](https://github.com/shashikant2003m) Hi, There
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
@@ -8899,8 +8900,11 @@ Ajay
 - [Aaron Teeluck](https://github.com/ExoSavage)
 - Monna paris
 - Morgan philipponneau
+<<<<<<< HEAD
+=======
 - [Erdem Y cel](https://github.com/erdem365)
 - [Chandler](https://github.com/2333chandler-rgb)
 - [Tsubaki](https://github.com/tsubaki-kagura)
 - Fabrice mboudou
 - [Harshwardhan] (https://github.com/harshwardhanshitole001-eng)
+>>>>>>> upstream/main
