@@ -1,0 +1,2 @@
+CANARY-PR-ROUTE-TEST-2026-11-23
+This file exists only to prove the fork, branch push, and pull request route of the adversarial_research skill. It is not a contribution.
