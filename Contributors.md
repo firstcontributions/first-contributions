@@ -696,6 +696,7 @@ CXvxcvcxvcxv
 -[Karveti Geethika](https://github.com/geethikakarveti1-source)
 -[samme3000](https://github.com/samme3000)"First time"
 -[keerthana](https://github.com/keerthana20097234-cell)"This is my first contribution for the project"
+[Nikhil Kumar](https://github.com/Nikhil-784) //Hey Foks! Joining community Now, Good Day!
 - [Dhruv Jani](https://github.com/JaniDhruv)
 -[Kedar](https://github.com/Kedar-1118)"Hey Hii First open Source contribution from my side"
 -[Rudraksh Agarwal](https://github.com/rudrakshagarwal4200-ai)
