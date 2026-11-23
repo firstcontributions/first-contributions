@@ -4015,6 +4015,7 @@ Amna Naeem
 - [Alejandro Serna](https://github.com/AlejandroSernaTovar)
 - [Axsz] (https://github.com/Axsz-lol)
 - [Nathan Donley](https://github.com/N8theGr8est)
+- [Nathan Jerald](https://github.com/Nathan2933)
 - [Alex](https://github.com/Neznix)
 - [Alexander Burfoot] (https://github.com/AlexanderBurfoot)
 - [Aryaa] (https://github.com/aryaa-05)
