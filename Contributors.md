@@ -47,6 +47,7 @@ Alliance Ngoy Muya
 - [Pfunzo Maba](https://github.com/pfunzo) - My First Contribution!
 <!-- - [Esdras Francisco](https://github.com/esdrasdasilva21) - Hello everyone! -->
 - [Mispox](https://github.com/Mispox) - My first contribution!
+- [Hariharan K.S](https://github.com/Hariharan18092006) - My first contribution!
 - [Bipin Dehariya](https://github.com/Bipin2005-dev) - Hellooo!!
 - [Pavan](https://github.co,/pavansivarmakrishnan)
 - [tizidelbi](https://github.com/tizianodelbianco)
