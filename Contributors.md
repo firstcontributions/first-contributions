@@ -1,4 +1,5 @@
 - [Timeo Pasquier](https://github.com/Tim3volink)
+- [Kaan Kavak]
 - [Sandip Kalathoki](https://github.com/Seshmania)
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
