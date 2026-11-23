@@ -1,5 +1,10 @@
+- [Smita Kalluri](https://github.com/Smitakalluri15)
+- [Mallikarjun Patil](https://github.com/Mallikarjun1237)
+- [Mathias Collin](https://github.com/Mathias-Collin)
 - [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
+- [Kaan Kavak]
+- [Shahar Asher](https://github.com/ShaharAshe)
 - [Sandip Kalathoki](https://github.com/Seshmania)
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
@@ -47,6 +52,7 @@ Alliance Ngoy Muya
 - [Trisha Khajuria](https://github.com/ohathena)
 - [Abhay Raut](https://github.com/Abhaii11) - My first open source contribution! box
 - [Chiranjith SV](https://github.com/ChiranjithSV) - My first open-source contribution!
+[Prince Kumar](https://github.com/princeizhere) - My first open-source contribution.
 - [Kapil Poddar](https://github.com/XxkapilxX)
 - [Jamel Edine Mrad](https://github.com/Zamoula) - sorry i'm late , i got lost in the path of life ^_^
 - [Paul Song](https://github.com/sunruns1 - My first open source contribution
@@ -170,6 +176,7 @@ dudpatil07 i am so happy for my first contribution
 - [Strong-Happy]()   First Contribution 10/11/26
 - [melu](https://github.com/ly-2007)
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
+- [Aryanvj](https://github.com/AryanVJ) - first contribution and a step toword developer ,,,, 
 - [Myzen](https://github.com/yassquirie)
 - [Lithika](https://github.com/lithi0804-byte) - Open Source Developer
 - [Lithika Sri](https://github.com/lithi0804-byte) - Contributing to open source projects
@@ -215,6 +222,7 @@ kyle-xa
 - [jellayter4-bit](https://github.com/jellayter4-bit) - My first open source contribution!
 -[YMO](https://github.com/YoonMayOo) - Will not be my last opensource contribution!
 - [Chaten](https://github.com/chaten99) - Success demands consistency, curiosity, and the courage to start before you feel ready.
+- sohaa27 - My first contribution
 - [Deadmigisnow] - hi lol!
 - [sabi-s] (https://github.com/sabi-s) - noob programmer
 - [sivaprasad-vs] (https://github.com/sivaprasadvs/first-contributions.git) - push past your limits -(yami,asta)
@@ -4610,6 +4618,7 @@ andrewcodess
 - [Jacoy yu](https://github.com/meloer101)
 - [Wong Hok Kan](https://github.com/hkwongax)
 - [Abhishek Das](https://github.com/abhishek481828) - Hello world! This is my first open-source contribution.
+- [xiaoheshang516](https://github.com/xiaoheshang516)
 - [Jun Takeyama](https://github.com/JUNTAKEYAMA)
 - [Jadar7](https://github.com/Jadar7)
 - [Sushant Shambharkar](https://github.com/sam1064max)
@@ -5161,6 +5170,7 @@ andrewcodess
 - [Ricidleiv](https://github.com/tondatto)
 - [Rishika](https://github.com/RISHIKA-A-S)
 - [Rishikesh Singh](https://github.com/errishi)
+- [Illo Cissoko](https://github.com/illo-223)
 - [Rishon Pravin](https://github.com/Rishon-P)
 - [PATEL JAINAM](https://github.com/Pateljainam069)
 - [Ritesh Senthil](https://github.com/Ritesh-Senthil)
@@ -5965,6 +5975,7 @@ andrewcodess
 - [Matt](https://github.com/mattisdumb08)
 - ZhangSanfeng
 - [Jerry](https://github.com/Jerryswu0716)
+- [Manu D](https://github.com/manudcm1)
 - [Bogdan](https://github.com/ExABogdan02)
 - [Julius](https://github.com/jrehb)
 - [Vikash Chaurasia](https://github.com/sgateVikash)
@@ -6317,6 +6328,7 @@ Twan Star
 - [Jahnavi Polasa](https://github.com/jahnavipolasa)
 - [Rijul Mehta](https://github.com/Rijulmehta531) My first contribution to OSS, so cool!
 - [yan](https://github.com/yqq1378813)
+- [Rammi17105](https://github.com/Rammi17501)
 - [mgmtapppirat-beep](https://github.com/mgmtapppirat-beep)
 - [Ellie Tran](https://github.com/etran13)
 - [Robert Königbauer](https://github.com/robertkoenigbauer-lang)
@@ -8888,3 +8900,11 @@ Ajay
 - [Aaron Teeluck](https://github.com/ExoSavage)
 - Monna paris
 - Morgan philipponneau
+<<<<<<< HEAD
+=======
+- [Erdem Y cel](https://github.com/erdem365)
+- [Chandler](https://github.com/2333chandler-rgb)
+- [Tsubaki](https://github.com/tsubaki-kagura)
+- Fabrice mboudou
+- [Harshwardhan] (https://github.com/harshwardhanshitole001-eng)
+>>>>>>> upstream/main
