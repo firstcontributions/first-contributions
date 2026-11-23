@@ -170,6 +170,7 @@ dudpatil07 i am so happy for my first contribution
 - [Strong-Happy]()   First Contribution 10/11/26
 - [melu](https://github.com/ly-2007)
 - [Ananthanarayanan](https://github.com/ananthanarayanan431) | [LinkedIn](https://www.linkedin.com/in/ananthanarayanan431) - Never ever give up. `while (alive) { keepGoing(); }`
+- [Aryanvj](https://github.com/AryanVJ) - first contribution and a step toword developer ,,,, 
 - [Myzen](https://github.com/yassquirie)
 - [Lithika](https://github.com/lithi0804-byte) - Open Source Developer
 - [Lithika Sri](https://github.com/lithi0804-byte) - Contributing to open source projects
