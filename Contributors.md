@@ -3,6 +3,7 @@
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
 - [Nishanth reddy].(https://github.com/nishanthreddy-23)-
+- [Clément Baudry].(https://github.com/Clement-Baudry)
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
 - [Shashikant Kumar](https://github.com/shashikant2003m) Hi, There
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
