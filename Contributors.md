@@ -8431,6 +8431,7 @@ Ghazaleh Niazzadeh
 - [Rupam ](https://github.com/rupam369) - My first open source contribution
 - [N Mogesh](https://github.com/mogesh-n)
 - [Anjali Tayhande (https://github.com/anjalip2008tayhande-spec) - Not my first Repo though ----- GOOO CHECKOUTT CURRYKRUST!!!!!!!
+- [Oracle](https://github.com/oracleidt)
  - [Wu Wenmao](https://github.com/what881)
 - [Ekrem Çakır](https://github.com/ekrmcakir)
 - [Anurag Kulkarni](https://github.com/anuragkulk)
