@@ -63,6 +63,7 @@ Alliance Ngoy Muya
 - Hello ! I am happy to make my first contribution 😭
 - contribution
 - [Hrushikesh sherikar](https://github.com/hrushikesh08) Hi! everybody from hrushikesh
+- [Mira Derp](https://github.com/Mira-derp) - my first contribution
 - [Subham Saha](https://github.com/Subham19181) - Subham says hi to everyone!
 - [Harsh](https://github.com/Mr-KnightCLI)
 - [Prabal Tripathi](https://github.com/prabaltripathiofficial)
