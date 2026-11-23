@@ -1,3 +1,4 @@
+- [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
 - [Sandip Kalathoki](https://github.com/Seshmania)
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
