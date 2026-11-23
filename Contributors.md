@@ -1,18 +1,14 @@
-- [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
 - [Kaan Kavak]
 - [Sandip Kalathoki](https://github.com/Seshmania)
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
-- This will be my first open source contribution, such a great guide! YAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYY!!!!!!!!!!!!
 - [Nishanth reddy].(https://github.com/nishanthreddy-23)-
-- [Clément Baudry].(https://github.com/Clement-Baudry)
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
 - [Shashikant Kumar](https://github.com/shashikant2003m) Hi, There
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
 - [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
-- [Hajra Khan] (https://github.com/hajraa21)- Hey.
 - [Cammy-83](https://github.com/cammy-83) - My first contribution!
 - [Hannan Mudassar](https://github.com/h7ncode) - want to build something useful
 - [KarthikVarma19](https://github.com/KarthikVarma19) - System.out.println("Let's Go!, Small Step Every Day");
@@ -68,7 +64,6 @@ Alliance Ngoy Muya
 - Hello ! I am happy to make my first contribution 😭
 - contribution
 - [Hrushikesh sherikar](https://github.com/hrushikesh08) Hi! everybody from hrushikesh
-- [Mira Derp](https://github.com/Mira-derp) - my first contribution
 - [Subham Saha](https://github.com/Subham19181) - Subham says hi to everyone!
 - [Harsh](https://github.com/Mr-KnightCLI)
 - [Prabal Tripathi](https://github.com/prabaltripathiofficial)
@@ -148,7 +143,6 @@ Alliance Ngoy Muya
 - [JuanMiguel02](https://github.com/JuanMiguel02) - i'm a leech i'm a leech i'm a leech i'm a leech i'm a leech 
 - [Satya Prakash](https://github.com/Anirvarti)
 - [ABC05240](https://github.com/ABC05240) - Hello hello!😋
-- [Comitor] - ma première contribution, mais mon 5e essai
 - [Lawrence](https://github.com/lawrence259) - My first open source contribution.....
 - [Jyothi Sri](https://github.com/Jyothichavakula) - Lets start contributing from now..
 - [Sharon Mashai](https://github.com/Sharon-Mashai) - My first open source contribution
@@ -8853,7 +8847,6 @@ Kunal Khallar - Learning to contribute :)
 - [abdouahabch7](https://github.com/abdouahabch7) - First contribution of me.
 - [Priyansh Singatiya](https://github.com/Priyanshsingatiya) - My first open-source contribution!
 - [PSOrigins](https://github.com/psorigins10) - Every great journey begins with a single step. Excited to start my open-source journey, learn from amazing developers, and build something meaningful together! 
-- [parpainjojo](https://github.com/parpainjojo)
 - [Samihan Pangam](https://github.com/samihanpangam-dev)
 -[mistraid](https://github.com/mistraid)-11/20/26
 - [Najmeh Zeinali](https://github.com/najmezeinali-cyber) - My first open-source contribution!
@@ -8884,7 +8877,4 @@ Ajay
 - [Sarp Kayserilioglu](https://github.com/sarpk-7)
 - Yotoo-06 
 - Boubacar
-- [Soufian](https://github.com/OSoufian)
-- [Aaron Teeluck](https://github.com/ExoSavage)
-- Monna paris
-- Morgan philipponneau
+- [Emile Rivatton](https://github.com/emile-rivatton)
