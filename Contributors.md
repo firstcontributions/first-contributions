@@ -248,6 +248,7 @@ kyle-xa
 - Arun!
 - tortik karamel
 - Milo
+- [Aniket Shukla](https://github.com/aniketShukla1605)
 - [mishtiiikrishnaa](https://github.com/mishtiiikrishnaa) – overstimulated & undercaffeinated!
 - Carlos Buque
 - Sanchit Sharma
