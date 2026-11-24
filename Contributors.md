@@ -34,7 +34,8 @@ Alliance Ngoy Muya
 - Hiii
 - [Saman Seyf](https://github.com/Sam123-Tech123)
 - [Rudroju Badrinath](https://github.com/BadrinathRudroju) Let's go!!
-- [Ali Hasan](https://github.com/mdalih143) My First Contribution!
+- [Fran Dello](https://github.com/VronyX) My 
+- [Ali Hasan](https://github.com/mdalih143) **My First *Contribution*!!!**
 - [Ashwani Kumar]( https://github.com/Ashwani-Kumar-2508) My First Contribution!!!
 - [Avyukt Mishra](https://github.com/BlazeXstedbry) My first Constribution
 - [shaurya_saxena](https://github.com/saxenashaurya17-dotcom )my first contribution
