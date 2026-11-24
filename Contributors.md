@@ -2304,6 +2304,7 @@ Shaurya522 from The Dooon School
 - 1014
 - [Akhil Gattu](https://github.com/akhilgattu02)
 - k2p2
+- less goo
 - Shani Tzoref
 - Aditya Nath Dwivedi
 - yatam jithendra
