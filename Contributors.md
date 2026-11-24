@@ -89,6 +89,7 @@ Alliance Ngoy Muya
 - [Mira Derp](https://github.com/Mira-derp) - my first contribution
 - [Subham Saha](https://github.com/Subham19181) - Subham says hi to everyone!
 - [Harsh](https://github.com/Mr-KnightCLI)
+- [Lesley Kekana](https://github.com/lesAI26)
 - [Prabal Tripathi](https://github.com/prabaltripathiofficial)
 - [Nihal Shetty](https://github.com/nihalshetty27) - Hi Guys!! This is my first open source Contribution!!
 - [narongsakjaro](https://github.com/narongsakjaro) - Let's go
