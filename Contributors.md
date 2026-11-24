@@ -8934,5 +8934,6 @@ Ajay
 -  [William Luu](https://github.com/WTL04) - first of hopefully many!
 - [Guillaume](https://github.com/guillaume-supinfo) - Ma pierre à l'édifice
 - [ldyivan](https://github.com/ldyivan)
--[Aniket Wagh](https://github.com/waghaniket200812-hue/first-contributions)
+- [Aniket Wagh](https://github.com/waghaniket200812-hue/first-contributions)
 - [ai2009meimei](https://github.com/ai2009meimei)
+- [Suman Bhattacharya](https://github.com/SumanCodex)
