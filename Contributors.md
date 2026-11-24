@@ -67,6 +67,7 @@ Alliance Ngoy Muya
 - [wongdhesoo3](https://github.com/wongdhesoo3)
 - [blackeyed]Happy to contribute
 - [Jateen1234](https://github.com/Jateen1234)
+- [Shriganga Gokavi](https://github.com/Shriganga-Gokavi)
 - [sai charan tej] (https://github.com/VikasVeluvolu/first-contributions.git)
 - [ZY12216012](https://github.com/ZY12216012)
 - [alazarr15] (https://github.com/alazarr15)
