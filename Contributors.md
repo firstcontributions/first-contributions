@@ -3405,6 +3405,7 @@ niceshowmini
 - [Nitin] (https://github.com/nitin3150)
 - [allucard11](https://github.com/allucard11)
 - [Aradhya Bhagwat] (https://github.com/Aradhya-Bhagwat)
+- [Arhyael Zoaka] (https://github.com/Rhi3-alt) On 24th Nov, 2026 im making my first open-source contribution, looking forward to what God has for me as I keep coding. Jesus loves you keep fighting to achieve everything you dream of.
 - [Abhiram Mandala](https://github.com/AbhiramMandala)
 - [Andy0613](https://github.com/Andy0613)
 - [Novato Sensacion](https://github.com/SUS640-Z)
