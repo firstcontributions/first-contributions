@@ -2160,6 +2160,7 @@ vijyot silare
 - [Oscar] (https://github.com/oscarsandgren)
 - [Chuihao Zeng](https://github.com/zch)
 - [Andrew Bailey]
+- [Teja] (https://github.com/teja-13)
 - [Mario Tafoya](https://github.com/mtafoya-web)
 - [Tushar Gupta](https://github.com/tushar-G-8572)
  - [harish](https://github.com/vharish1701-creator/first-contributions.git)
