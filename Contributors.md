@@ -26,6 +26,7 @@ Alliance Ngoy Muya
 - [Hannan Mudassar](https://github.com/h7ncode) - want to build something useful
 - [KarthikVarma19](https://github.com/KarthikVarma19) - System.out.println("Let's Go!, Small Step Every Day");
 - [Lokesh Khodke](https://github.com/Lokesh0652H)
+- [Ezekiel Matthew Abana](https://github.com/devFiend)
 - [LongTengxu](https://github.com/LongTengxu) - Hello!!
 - [Kuldeep-Sharma](https://github.com/Kuldeep-Sharmaa) - console.log("Hello World");
 - [Logendra Prabhu](https://github.com/Logendra-07)
