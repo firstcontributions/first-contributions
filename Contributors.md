@@ -211,6 +211,7 @@ Just - [Affan Ahmed](https://github.com/Affanasrar)
 changing a few things...
 -[Renfred](https://github.com/renfred2306)
 - [grexgi](https://github.com/grexgi) - First step on open-source contribution journey!
+- [Juan](https://github.com/4sapp)
 - [Parth Vishwakarma](https://github.com/vishiparth)- Firt step towards freedom
 - [suzhen-zhu](https://github.com/susan-zhu) - My first open-source contribution
 - [Ananyak00](https://github.com/Ananyak00)  - My first open source contribution
