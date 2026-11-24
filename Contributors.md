@@ -116,6 +116,7 @@ Alliance Ngoy Muya
 - [Binacas](https://github.com/Binacas) - My first open-source contribution!
 - [Shailesh Kumar](https://github.com/codeshailesh18)
 - [Diksha Jain](https://github.com/dikshajain07)
+- [Raj Mor](https://github.com/rajmor-2005) - Hellooo!!
 - [Suprio Adhikary](https://github.com/suprio-dev) - Every contribution is a step forward. The journey has just begun! 🌱
 - [xiaobai.26.11.20](https://github.com/Xiao-Bai-123456789)
 - [Mr._.](https://github.com/HACKERpgx) - My first open-source contribution!
