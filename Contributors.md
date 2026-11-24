@@ -1,5 +1,6 @@
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Arya Shah](https://github.com/shahmanager)
+- [Aung Khine](https://github.com/aungkhineh)
 - [Mahya Abbaszadeh](https://github.com/mahyaabbaszadeh)
 - [Smita Kalluri](https://github.com/Smitakalluri15)
 - [Mallikarjun Patil](https://github.com/Mallikarjun1237)
