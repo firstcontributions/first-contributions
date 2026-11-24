@@ -4466,7 +4466,7 @@ andrewcodess
 - [Laya Khathoon](https://github.com/laya-khathoon)
 - [Gabriel](https://github.com/GabrielSSC)
 - [Shlok Sangwan](https://github.com/shloksangwan) - B.Tech CSE student and co-founder of MolBhav, starting my open-source journey with SWOC.
-- [Purnendu Rai](https://github.com/purendu-rai)
+- [Purnendu Rai](https://github.com/purnendu-rai)
 - [G S Abinivas](https://github.com/abi6374)
 - [G.Mohammed Mansoor](https://github.com/VoidKernel786)
 - [Gabe Jasso](https://github.com/0bitbybit)
