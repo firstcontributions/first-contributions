@@ -8949,3 +8949,5 @@ Ajay
 - [codelaba](https://github.com/codelaba) - hi!
 - [Neville Ken](https://github.com/KingN3V) - Hey there!
 - [Marri Hruthika](https://github.com/marrihruthika28)
+- [Tarini Dash] (https://github.com/ygencoder/)
+
