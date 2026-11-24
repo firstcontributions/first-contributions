@@ -1697,6 +1697,7 @@ https://github.com/Decoded-Visuals/first-contributions.git
 -[Yash Gupta](https://github.com/Yash122005/)
 -[Rohan Mahanta](https://github.com/rohanmahanta2005-max) 
 -[Vinay S Kumar](https://github.com/vinayskumar25507)
+-[Gabriel Faria](https://github.com/gabrielfaria09)
 -[Harsh Pandey](https://github.com/harshpandey0308s)
 - [Shreehari Sudarshan Joshi](https://github.com/shreeharijoshi)
 - [Kuba Slowikowski](https://github.com/JhonMerchan)
