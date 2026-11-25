@@ -135,6 +135,7 @@ David Dorian
 - [Kais Shaikh](https://github.com/kais7sys) - Here it goes!
 - [Anurag Bhanderi](https://github.com/AnuragBhanderi)
 - [Prakasam S](https://github.com/Prakasam001)
+- [Léo Ducruet](https://github.com/ducruetl) - The first contribution of many, I hope!
 - [Shyamsundar] (https://github.com/Shyamsundar1421-xlv)
 - [Ramla Hussain](https://github.com/RamlaHussain458) - My first open-source contribution! Super Excited!
 - [Carmela Bejerano](https://github.com/CBD2806)
