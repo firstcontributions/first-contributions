@@ -1,3 +1,5 @@
+- [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
+
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
  -[Anish_Basnet](https://github.com/anish07353)
 -[bebra-cheremsha](https://github.com/gecktore/first-contributions.git)
