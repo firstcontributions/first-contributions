@@ -1,5 +1,6 @@
 - [Padam Bhandari](https://github.com/Padam Bhandari)
 - [Ved_aryan](https://github.com/vedaryan-28fx/StudentApp.git)
+- [basant_khadka](https://github.com/basantkhadka103-ship-it/first-contributions)
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Aashika shrestha](https://github.com/Aashikashrestha22)
 - [Arya Shah](https://github.com/shahmanager)
