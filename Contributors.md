@@ -1,4 +1,5 @@
 - [Ved_aryan](https://github.com/vedaryan-28fx/StudentApp.git)
+- [basant_khadka](https://github.com/basantkhadka103-ship-it/first-contributions)
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Arya Shah](https://github.com/shahmanager)
 - [Aung Khine](https://github.com/aungkhineh)
