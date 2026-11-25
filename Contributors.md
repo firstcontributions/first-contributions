@@ -9003,3 +9003,5 @@ Ajay
 - [Shreeya Agarwal](https://github.com/EngShreeya)
 - [Notatekuru](https://github.com/Notatekuru) - My first open-source contribution!
 - [DieghoLearning](https://github.com/DieghoLearning) - As Obi-Wan Kenoby wisely said: "Hello there!"
+- [DieghoLearning](https://github.com/DieghoLearning) - As Obi-Wan Kenoby wisely said: "Hello there!"
+- [JuanQuijano](https://github.com/JuanQuijano) - Hello from Madrid, Spain
