@@ -2515,6 +2515,7 @@ Suraj Kumar i am not gonna provide any link
 - [Jithamanyu_BT2024069]
 - [Ranzeus](https://github.com/Ranzeus)
 - [abdelrahman-mahmoud](https://github.com/abdelrahman-amrawy)
+ 
 - [Suhasini]
 - [doffy-the-goat]
 - [Sajin Prasad](https://github.com/SajinPrasad/)
@@ -8966,4 +8967,5 @@ Ajay
 - [Marri Hruthika](https://github.com/marrihruthika28)
 - [Tarini Dash] (https://github.com/ygencoder/)
 - [Om Ji verma] (https://github.com/omjiverma84)
+- [Pratik Adhikari](https://github.com/pratikadhi013)
 
