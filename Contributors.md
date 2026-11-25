@@ -1,6 +1,7 @@
 
 -[bebra-cheremsha](https://github.com/gecktore/first-contributions.git)
 -[krishrestha-codeo](https://github.com/krishrestha-codeo.git)
+- [ArtamaN](https://github.com/ArtamaN-LV)
 - [Donatien Byakombe](https://github.com/1donatien0)
 - [Padam Bhandari](https://github.com/Padam Bhandari)
 - [Ved_aryan](https://github.com/vedaryan-28fx/StudentApp.git)
