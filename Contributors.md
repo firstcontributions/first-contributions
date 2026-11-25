@@ -6764,6 +6764,7 @@ hey yo!
 - [TejikaSingh02](https://github.com/TejikaSingh02)
 | [Eddiegah](https://github.com/Eddiegah) | [GalamseySentinel](https://github.com/Eddiegah/GalamseySentinel) |
 - [ji415](https://github.com/ji415)
+- [Iago Vázquez Morandeira](https://github.com/iagovazquezm)
 - fufufuwa
 - [Sarthak](https://github.com/Sarthak05-code)
 - [Shakil Ahmad](https://github.com/shakilahmad72)
