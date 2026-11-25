@@ -12,6 +12,7 @@
 - [Bhumika pandey](https://github.com/Bhumikapandey67)
 - [Pragya Solanki](https://github.com/solankipragya128)
 - [Aung Khine](https://github.com/aungkhineh)
+- [Diya Rojasara](https://github.com/Diya-Rojasara)
 - [Mahya Abbaszadeh](https://github.com/mahyaabbaszadeh)
 - [Smita Kalluri](https://github.com/Smitakalluri15)
 - [Mallikarjun Patil](https://github.com/Mallikarjun1237)
