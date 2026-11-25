@@ -7778,6 +7778,7 @@ console.log("Hello, Github World! - Joshua Nett");
 - [Ben Swanson](https://github.com/benmswanson)
 - [Juan Cruz Bianchi](https://github.com/topusto)
 - [Tuah Hamid](https://github.com/tuahhamid)
+- [Claudia Pineiro](https://github.com/c-pinro)
 -[Gabriel Ryan dos Santos](https://github.com/ryansant1503-hash/first-contributions)
 - [Reddi Abhinaya Sai](https://github.com/abhinaya2126)
 - [huangkexin](https://github.com/huangkexin-commits)
