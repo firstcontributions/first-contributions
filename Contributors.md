@@ -8989,4 +8989,5 @@ Ajay
 - [Saishri S](https://github.com/Saishrisenthilkumar/)
 - [24tc051-wq](https://github.com/24tc051-wq)
 - [Subham Kumar Keshari](https://github.com/kumar246subham-afk)
--[Shreeya Agarwal](https://github.com/EngShreeya) 
+-[Shreeya Agarwal](https://github.com/EngShreeya)
+- [Notatekuru](https://github.com/Notatekuru) - My first open-source contribution!
