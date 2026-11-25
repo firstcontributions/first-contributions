@@ -341,6 +341,7 @@ kyle-xa
 - [Kaustubh Dayma](https://github.com/Kaustubh0511) - This is my first contribution
 - Antony
 - Cartesius
+- HoangVuPola
 - cylindrix-git
 - Sravan Jaggarapau
 - Shaurya Baranwal - This is my first open source contribution
