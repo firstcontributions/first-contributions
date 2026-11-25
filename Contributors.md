@@ -9006,3 +9006,4 @@ Ajay
 - [Notatekuru](https://github.com/Notatekuru) - My first open-source contribution!
 - [DieghoLearning](https://github.com/DieghoLearning) - As Obi-Wan Kenoby wisely said: "Hello there!"
 - [MiguelGarBla](https://github.com/Miguelgarbla) - Hola GitHub- [LevCodeLab](https://github.com/LevCodeLab)
+- [Joshna Karajada](https://github.com/24211a05q7-ui) - My first open-source contribution!
