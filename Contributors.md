@@ -3,6 +3,7 @@
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Aashika shrestha](https://github.com/Aashikashrestha22)
 - [Arya Shah](https://github.com/shahmanager)
+- [Bhumika pandey](https://github.com/Bhumikapandey67)
 - [Aung Khine](https://github.com/aungkhineh)
 - [Mahya Abbaszadeh](https://github.com/mahyaabbaszadeh)
 - [Smita Kalluri](https://github.com/Smitakalluri15)
