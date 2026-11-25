@@ -6,6 +6,7 @@
 - [Aashika shrestha](https://github.com/Aashikashrestha22)
 - [Arya Shah](https://github.com/shahmanager)
 - [Bhumika pandey](https://github.com/Bhumikapandey67)
+- [Pragya Solanki](https://github.com/solankipragya128)
 - [Aung Khine](https://github.com/aungkhineh)
 - [Mahya Abbaszadeh](https://github.com/mahyaabbaszadeh)
 - [Smita Kalluri](https://github.com/Smitakalluri15)
