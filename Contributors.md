@@ -1,4 +1,4 @@
-- [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribution.
+- [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
 - [Ved_aryan](https://github.com/vedaryan-28fx/StudentApp.git)
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Arya Shah](https://github.com/shahmanager)
