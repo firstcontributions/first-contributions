@@ -26,7 +26,8 @@ Hi this is Leuni here! my first ever contribution. Nervous AND excited! Work Har
 - [Sandeep Kalathoki](https://github.com/Seshmania) 
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
-- This will be my first open source contribution, such a great guide! YAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYY!!!!!!!!!!!!
+- This will be my first open source contribution, such a great guide! YAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYY!!!!!!!!!!!!l
+- [Smriti Tamang ](https://github.com/Ismrititmg)-yayyy first contribution
 - [Nishanth reddy].(https://github.com/nishanthreddy-23)-
 - [Clément Baudry].(https://github.com/Clement-Baudry)
 - [Gaurav Gupta]  Hello Everyone. This side, Gaurav is here. Let's build something great!
