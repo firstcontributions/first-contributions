@@ -13,7 +13,8 @@
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Aashika shrestha](https://github.com/Aashikashrestha22)
 - [Arya Shah](https://github.com/shahmanager)
-- [Bhumika pandey](https://github.com/Bhumikapandey67)
+- [Aditya](https://github.com/adityadwialfiant1595-commits)
+- [Bhumika pandey] (https://github.com/Bhumikapandey67)
 - [Pragya Solanki](https://github.com/solankipragya128)
 - [Aung Khine](https://github.com/aungkhineh)
 - [Diya Rojasara](https://github.com/Diya-Rojasara)
