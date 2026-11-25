@@ -8,6 +8,7 @@
 -[bebra-cheremsha](https://github.com/gecktore/first-contributions.git)
 -[krishrestha-codeo](https://github.com/krishrestha-codeo.git)
 - [ArtamaN](https://github.com/ArtamaN-LV)
+- [Madisetty Sai Likitha](https://github.com/Sai-Likitha-Madisetty/)
 - [Donatien Byakombe](https://github.com/1donatien0)
 - [Padam Bhandari](https://github.com/Padam Bhandari)
 - [Ved_aryan](https://github.com/vedaryan-28fx/StudentApp.git)
@@ -9007,3 +9008,4 @@ Ajay
 - [DieghoLearning](https://github.com/DieghoLearning) - As Obi-Wan Kenoby wisely said: "Hello there!"
 - [MiguelGarBla](https://github.com/Miguelgarbla) - Hola GitHub- [LevCodeLab](https://github.com/LevCodeLab)
 - [Joshna Karajada](https://github.com/24211a05q7-ui) - My first open-source contribution!
+- [Palak Gupta](https://github.com/gpalakgupta) - My first open-source contribution!
