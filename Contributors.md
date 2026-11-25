@@ -1,3 +1,4 @@
+- [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
  -[Anish_Basnet](https://github.com/anish07353)
 -[bebra-cheremsha](https://github.com/gecktore/first-contributions.git)
 -[krishrestha-codeo](https://github.com/krishrestha-codeo.git)
@@ -25,6 +26,7 @@ Hi this is Leuni here! my first ever contribution. Nervous AND excited! Work Har
 - [Timeo Pasquier](https://github.com/Tim3volink)
 - [Kaan Kavak]
 - [Shahar Asher](https://github.com/ShaharAshe)
+- [Aayushma Bhandari](https://github.com/aayushmab717-del)
 - [Sandeep Kalathoki](https://github.com/Seshmania) 
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
@@ -47,6 +49,7 @@ Alliance Ngoy Muya
 - [Lokesh Khodke](https://github.com/Lokesh0652H)
 - [Ezekiel Matthew Abana](https://github.com/devFiend)
 - [LongTengxu](https://github.com/LongTengxu) - Hello!!
+- [evan-Lin](https://github.com/Evan-lin2005) - My first contribution!
 - [Suhaan Khan](https://github.com/suhaankhan) - HI lol
 - [Kuldeep-Sharma](https://github.com/Kuldeep-Sharmaa) - console.log("Hello World");
 - [Logendra Prabhu](https://github.com/Logendra-07)
@@ -134,6 +137,7 @@ David Dorian
 - [Kais Shaikh](https://github.com/kais7sys) - Here it goes!
 - [Anurag Bhanderi](https://github.com/AnuragBhanderi)
 - [Prakasam S](https://github.com/Prakasam001)
+- [Léo Ducruet](https://github.com/ducruetl) - The first contribution of many, I hope!
 - [Shyamsundar] (https://github.com/Shyamsundar1421-xlv)
 - [Ramla Hussain](https://github.com/RamlaHussain458) - My first open-source contribution! Super Excited!
 - [Carmela Bejerano](https://github.com/CBD2806)
@@ -8988,3 +8992,5 @@ Ajay
 - [24tc051-wq](https://github.com/24tc051-wq)
 - [Subham Kumar Keshari](https://github.com/kumar246subham-afk)
 - [Muthu varuna](https://github.com/varuna-code7)
+- [Shreeya Agarwal](https://github.com/EngShreeya)
+- [Notatekuru](https://github.com/Notatekuru) - My first open-source contribution!
