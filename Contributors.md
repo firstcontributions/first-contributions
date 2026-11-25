@@ -6,7 +6,7 @@
 - [Smita Kalluri](https://github.com/Smitakalluri15)
 - [Mallikarjun Patil](https://github.com/Mallikarjun1237)
 - [Leun Hammi](https://github.com/leun-hammi)
-Hi this is Leuni here! my first ever contribution. Nervous AND excited! Good Luck guys...
+Hi this is Leuni here! my first ever contribution. Nervous AND excited! Work Hard! Good Luck guys...
 - [Mathias Collin](https://github.com/Mathias-Collin)
 - [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
