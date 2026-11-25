@@ -485,6 +485,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [AbrshS (Abraham Shiferaw) 🇪🇹](https://github.com/AbrshS)
 - [Divyam-Chauhan](https://github.com/divyam-chauhan).
 - [Alok Sharma](https://github.com/aloksharma13) - My first contribution.
+- [Patsi](https://github.com/patsibdp1243) - There you go, let's starts from here
 - [Shreya Singh](https://github.com/ssrj25) - Hey everyone! My first contribution!
 z54c6hf
 - [Anaya Ahmed](https://github.com/ahmedanaya7)
