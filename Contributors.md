@@ -1,3 +1,4 @@
+- [suprana_shrestha](https://github.com/supranashrestha2-netizen)
 - [Ved_aryan](https://github.com/vedaryan-28fx/StudentApp.git)
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Arya Shah](https://github.com/shahmanager)
@@ -12,7 +13,7 @@ Hi this is Leuni here! my first ever contribution. Nervous AND excited! Work Har
 - [Timeo Pasquier](https://github.com/Tim3volink)
 - [Kaan Kavak]
 - [Shahar Asher](https://github.com/ShaharAshe)
-- [Sandeep Kalathoki](https://github.com/Seshmania) 
+- [Sandeep Kalathoki](https://github.com/Seshmania)
 - [Sai Ganesh](https://github.com/gitdevelopers007) - Building, learning, and contributing to open source, one step at a time!
 Alliance Ngoy Muya
 - This will be my first open source contribution, such a great guide! YAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYY!!!!!!!!!!!!
