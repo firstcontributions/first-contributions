@@ -6,6 +6,7 @@
 - [Smita Kalluri](https://github.com/Smitakalluri15)
 - [Mallikarjun Patil](https://github.com/Mallikarjun1237)
 - [Mathias Collin](https://github.com/Mathias-Collin)
+- [Susan Jati](https://github.com/jatisusan)
 - [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
 - [Kaan Kavak]
