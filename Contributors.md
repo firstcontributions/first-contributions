@@ -9020,7 +9020,6 @@ Ajay
 - [Joshna Karajada](https://github.com/24211a05q7-ui) - My first open-source contribution!
 - [Palak Gupta](https://github.com/gpalakgupta) - My first open-source contribution!
 - [sufyan383](https://github.com/sufyan383)
-
 - [Leishijia](https://github.com/Leishijia) - My first open-source contribution!
 - [Adonay Castro](https://github.com/AdonayCastro) - Ado was here (not the singer)
 - [Sattu sai krishna](https://github.com/Sattu-sai-krishna) - my first open-source contri
