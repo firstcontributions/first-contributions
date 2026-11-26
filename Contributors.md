@@ -465,6 +465,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Gowri](https://github.com/Gowry11) -  my first step towards the world of open source
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
 - [Tejas] - first contribution
+- [Aishwar Mishra](https://github.com/aishwar-mr)
 - [Muhammad Auf](https://github.com/Mfauf) - My first PR
 - [Mursal Hayat](https://github.com/mursalhayat1) - My first open-source contribution!
 - [m3](https://github.com/focusedmuse) - First signed commit from fw13.
