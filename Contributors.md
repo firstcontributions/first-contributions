@@ -1,7 +1,9 @@
+- [Parinita](https://github.com/parinita1005)
 [BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
 
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
+
 
 - [Ehsanullah Farhan](https://github.com/ehsanullahfarhan45-cloud)
 - [Hugo García](https://github.com/albarakas)
