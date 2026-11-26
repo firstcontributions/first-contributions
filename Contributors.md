@@ -7,6 +7,7 @@
 - [Hugo García](https://github.com/albarakas)
  -[Anish_Basnet](https://github.com/anish07353)
 -[bebra-cheremsha](https://github.com/gecktore/first-contributions.git)
+-[Dharakaaram T](https://github.com/Dharakaaram/first-contributions.git)- happy to start my open source journey. 
 -[krishrestha-codeo](https://github.com/krishrestha-codeo.git)
 - [ArtamaN](https://github.com/ArtamaN-LV)
 - [Madisetty Sai Likitha](https://github.com/Sai-Likitha-Madisetty/)
