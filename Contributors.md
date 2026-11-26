@@ -1,4 +1,4 @@
-^_^[BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
+[BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
 
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
