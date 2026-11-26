@@ -250,6 +250,7 @@ dudpatil07 i am so happy for my first contribution
 - [Rithul Raveendran](https://github.com/rithulraveendran) - Software Developer & Open Source Contributor
 - [SaifAli-S](https://github.com/SaifAli-S) - My first open source contribution
 - [Saif Ali](https://github.com/SaifAli-S) - Open source contributor
+- [Keerthi Chagam](https://github.com/keerthichagam)
 - [Saif](https://github.com/SaifAli-S) - Software Engineer & Open Source Contributor
 - [Saif S](https://github.com/SaifAli-S) - Building open source software
 - [Despoju](https://github.com/Despoju) 
