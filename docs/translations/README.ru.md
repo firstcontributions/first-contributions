@@ -50,23 +50,43 @@ git clone https://github.com/ваш-логин/first-contributions.git
 cd first-contributions
 ```
 
-Теперь создайте ветку с помощью команды `git checkout`
+Теперь создайте ветку с помощью команды `git switch`:
 
 ```bash
-git checkout -b <add-your-name>
+git switch -c your-new-branch-name
 ```
 
 Например:
 
 ```bash
-git checkout -b add-alonzo-church
+git switch -c add-alonzo-church
 ```
 
 (Синтаксически не требуется, чтобы название ветки содержало слово _add_, но это оправдано, поскольку подчеркивает назначение этой ветки: добавить ваше имя в список.)
 
+<details>
+<summary> <strong>Если у вас возникнут ошибки при использовании команды git switch, нажмите сюда:</strong> </summary>
+
+Если сообщение ошибки в виде сообщения "Git: `switch` is not a git command. See `git –help`", скорее всего, вы используете старую версию git.
+
+В этом случае, используйте `git checkout`:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+</details>
+
 ## Внесите необходимые изменения и создайте коммит
 
 Теперь откройте файл `Contributors.md` в вашем текстовом редакторе, впишите ваше имя и сохраните файл. Если вы перейдёте в директорию проекта и выполните `git status`, вы увидите изменения. Добавьте эти изменения с помощью команды `git add`.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+Если вы перейдете в каталог проекта и выполните команду `git status`, то увидите, что есть изменения.
+
+
+Добавьте эти изменения в индекс для последующего коммита в вашей ветке с помощью команды `git add`:
 
 ```bash
 git add Contributors.md
@@ -89,6 +109,30 @@ git push origin <add-your-name>
 ```
 
 Измените `<add-your-name>` на имя ветки, которую вы создали ранее.
+
+<details>
+<summary><strong>Если у вас возникнут ошибки при использовании git push, нажмите сюда:</strong>
+</summary>
+
+- ### Ошибка аутентификации
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+  Перейдите на [руководство от GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) по созданию и настройке SSH-ключа для вашей учетной записи.
+
+  Также, вы можете выполнить команду `git remote -v`, чтобы проверить адрес удаленного репозитория.
+
+  Если он выглядит примерно так:
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+
+  измените его с помощью этой команды:
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+  В противном случае Git всё равно запросит имя пользователя и пароль, а затем выдаст ошибку аутентификации.
+</details>
+
 
 ## Подтвердите изменения для ревью
 

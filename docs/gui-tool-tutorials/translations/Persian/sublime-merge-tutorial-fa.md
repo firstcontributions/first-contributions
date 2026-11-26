@@ -110,7 +110,7 @@ URL مخزن را در Sublime Merge وارد کنید، یک نام مخزن ب
 
 مشارکت خود را جشن بگیرید و با رفتن به [وب اپلیکیشن](https://firstcontributions.github.io#social-share) آن را با دوستان و دنبال‌کنندگان خود به اشتراک بگذارید.
 
-### [مطالب اضافی](../additional-material/git_workflow_senarios/additional-material.md)
+### [مطالب اضافی](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## آموزش‌ها با استفاده از ابزارهای دیگر

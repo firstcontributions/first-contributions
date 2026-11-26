@@ -103,7 +103,7 @@ GitHub पर अपनी रिपॉज़िटरी में जाएँ
 
 अपने योगदान का जश्न मनाएँ और अपने दोस्तों व फ़ॉलोअर्स के साथ शेयर करें: [web app](https://firstcontributions.github.io#social-share)।
 
-### [अतिरिक्त सामग्री](../additional-material/git_workflow_senarios/additional-material.md)
+### [अतिरिक्त सामग्री](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## अन्य टूल्स के साथ ट्यूटोरियल्स
 [मुख्य पृष्ठ पर वापस जाएँ](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
