@@ -4502,6 +4502,7 @@ andrewcodess
 - [Felipe](https://github.com/Fredericrypto)
 - [Sathursa Kulasenthirasegaram](https://github.com/sathursa09)
 - [Felipe](https://github.com/felipemv13)
+- [Parineeta Borah](https://github.com/ParineetaBorah)
 - [FloraPetit](https://github.com/PetitFlora)
 - [PaldenDorjeTitung](https://github.com/paldentitung)
 - [Kirill638849776](https://github.com/Kirill638849776)
