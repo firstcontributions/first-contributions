@@ -5,7 +5,7 @@
 
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
 
-
+- [Gauri Ojha](https://github.com/gauri212) - Hi, I am Gauri and this is my first contribution
 - [Ehsanullah Farhan](https://github.com/ehsanullahfarhan45-cloud)
 - [Hugo García](https://github.com/albarakas)
  -[Anish_Basnet](https://github.com/anish07353)
