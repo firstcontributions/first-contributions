@@ -1,4 +1,4 @@
-^_^[BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
+[BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
 
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
@@ -46,6 +46,7 @@ Alliance Ngoy Muya
 - [Gaurav Gupta]  Hello Everyone. This side, Gaurav is here. Let's build something great!
 - [Aditya Gupta](https://github.com/Adityagupta6393) - Hey folks ! I hope you are all doing good . This is my first contribution .
 - [Shashikant Kumar](https://github.com/shashikant2003m) Hi, There
+- [Vaibhav C](https://github.com/vaibhavc-coder) Jai Balayya!
 - [Jules Thomas](https://github.com/JulesT-SI) - Hello!!! im new to github and this is my first contribution! :3
 - [Isaiah Adepegba](https://github.com/sensi012) - Hello! This is my first open source contribution.
 - [Ramim Miah](https://github.com/iramim) - My first open-source contribution!
@@ -464,6 +465,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Gowri](https://github.com/Gowry11) -  my first step towards the world of open source
 - [Abhiram Kosuru](https://github.com/abhiram274) - be kind, curious, explore.
 - [Tejas] - first contribution
+- [Aishwar Mishra](https://github.com/aishwar-mr)
 - [Muhammad Auf](https://github.com/Mfauf) - My first PR
 - [Mursal Hayat](https://github.com/mursalhayat1) - My first open-source contribution!
 - [m3](https://github.com/focusedmuse) - First signed commit from fw13.
@@ -4495,6 +4497,7 @@ andrewcodess
 - [Karthikeya](https://github.com/yakkalakarthikeya)
 - [Feizo](https://github.com/Felix-Kebaki)
 - [Felipe](https://github.com/Fredericrypto)
+- [Sathursa Kulasenthirasegaram](https://github.com/sathursa09)
 - [Felipe](https://github.com/felipemv13)
 - [FloraPetit](https://github.com/PetitFlora)
 - [PaldenDorjeTitung](https://github.com/paldentitung)
@@ -9015,5 +9018,6 @@ Ajay
 - [sufyan383](https://github.com/sufyan383)
 
 - [Leishijia](https://github.com/Leishijia) - My first open-source contribution!
+- [Adonay Castro](https://github.com/AdonayCastro) - Ado was here (not the singer)
 - [Sattu sai krishna](https://github.com/Sattu-sai-krishna) - my first open-source contri
-- [Sathursa Kulasenthirasegaram](https://github.com/sathursa09)
+- [jptram7](https://github.com/jptram7)
