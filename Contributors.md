@@ -522,6 +522,7 @@ z54c6hf
 - [Shirel Marino](https://github.com/shirelmr)
 - [Aditi Todekar](https://github.com/Adititodekar)
 - [Nate-br](https://github.com/Nate-br) - Hello from Ethiopia!
+- [yc-ly-01](https://github.com/yc-ly-01) - 我的第一次开源贡献！
 - [AKM123HKM](https://github.com/AKM123HKM) - First contribution!
 - [Lekkso](https://github.com/Lekkso) - Hello from Georgia! ,
 - [Nikita Singh](https://github.com/nikitasingh1617) - First open source contribution!! HI GITHUB i have officially landed here!! 
