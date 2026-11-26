@@ -4437,6 +4437,7 @@ andrewcodess
 - [Dorcas Adebayor](https://github.com/dokipure)
 - [VV](https://github.com/vv-duan)
 - [Safwan Patel](https://github.com/Mohmedsafwan) - My first open source contribution!
+- [David Stroupe](https://github.com/dnstroupe)
 - [DosCocas](https://github.com/DosCocas)
 - [Dpk](https://github.com/dpkbihani-blip)
 - [Durai Mohandoss](https://github.com/22f1000821)
