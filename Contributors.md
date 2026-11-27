@@ -65,6 +65,7 @@ Alliance Ngoy Muya
 - [Christian](https://github.com/ch-block-314) - Hi, this is my first contribution!
 - [Ezekiel Matthew Abana](https://github.com/devFiend)
 - [LongTengxu](https://github.com/LongTengxu) - Hello!!
+- [Louis](https://github.com/a22186612-beep) - Hi!!
 - [evan-Lin](https://github.com/Evan-lin2005) - My first contribution!
 - [Suhaan Khan](https://github.com/suhaankhan) - HI lol
 - [Kuldeep-Sharma](https://github.com/Kuldeep-Sharmaa) - console.log("Hello World");
