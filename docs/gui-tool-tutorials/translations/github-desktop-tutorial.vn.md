@@ -110,7 +110,7 @@ Tôi sẽ sớm hợp nhất (merge) tất cả các thay đổi của bạn và
 
 Chúc mừng! Bạn vừa hoàn thành quy trình đóng góp tiêu chuẩn: Copy kho mã nguồn (fork) -> Tải về máy (clone) -> Chỉnh sửa (edit) -> Gửi yêu cầu kéo (pull request) mà bạn sẽ làm thường xuyên khi đóng góp những dự án mở!
 
-Hãy ăn mừng đóng góp của bạn và chia sẻ nó với bạn bè và những người theo dõi bằng cách truy cập [ứng dụng web](https://roshanjossey.github.io/first-contribution/#social-share).
+Hãy ăn mừng đóng góp của bạn và chia sẻ nó với bạn bè và những người theo dõi bằng cách truy cập [ứng dụng web](https://firstcontributions.github.io/#social-share).
 
 Bạn có thể tham gia slack của chúng tôi trong trường hợp bạn cần trợ giúp hoặc có câu hỏi nào. [Tham gia slack](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 

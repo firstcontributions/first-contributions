@@ -115,7 +115,7 @@ Tillykke! Du har nu gennemført den udbredte _fork -> clone -> edit -> PR_ workf
 
 Fejr dit bidrag og del det med dine venner og følgere ved at gå til [web app](https://firstcontributions.github.io/#social-share).
 
-Du kan også tilslutte dig vores code-contributions repo, hvis du er klar til at løse mere avancerede problemer. [Join code-contributions repo](https://github.com/firstcontributions/code-contributions).
+Du kan også tilslutte dig vores code-contributions repo, hvis du er klar til at løse mere avancerede problemer. [Join code-contributions repo](https://github.com/roshanjossey/code-contributions).
 
 Tillad os også at hjælpe dig i gang med dine næste bidrag. Vi har kompileret en liste af projekter med letty, overkommelige problemer du kan starte ud med. Check den ud her: [the list of projects in web app](https://firstcontributions.github.io/#project-list).
 
