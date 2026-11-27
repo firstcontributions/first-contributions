@@ -32,6 +32,7 @@
 - [Aditya](https://github.com/adityadwialfiant1595-commits)
 - [Bhumika pandey] (https://github.com/Bhumikapandey67)
 - [Pragya Solanki](https://github.com/solankipragya128)
+- [Yahya Hasan] (https://github.com/MicrosoftvsApple) - My first contribution. Hoping to do many more :)
 - [Aung Khine](https://github.com/aungkhineh)
 - [Diya Rojasara](https://github.com/Diya-Rojasara)
 - [Mahya Abbaszadeh](https://github.com/mahyaabbaszadeh)
