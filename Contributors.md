@@ -451,6 +451,7 @@ hnbmc2003
 - [Flora](https://github.com/Flora-Ex) - First contribution :3 Make sure to eat well and be kind to one another!
 - [Praneet Savant](https://github.com/PraneetNS) - Humans are going to replace AI
 jean-francois LHOMME
+- Im Ashu and this is my first open source contribution, Hope to contribute more into the comunity.
 - [Anas Dahani](https://github.com/anasdahani220) - This is my first open source contribution, I am very excited!
 - [XiKai Sun](https://github.com/XiKaiSun) - Hi guys, this is my first PR, very exciting!
 - [MentaNew] - Let's go, first of many!
