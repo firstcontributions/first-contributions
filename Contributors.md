@@ -75,6 +75,7 @@ Alliance Ngoy Muya
 - [Dhruva Sai](https://github.com/DHRUVASAI) - My first open-source contribution! Hi Baby
 - [Riwaj Locahn Adhikari](https://github.com/Riwaj-Lochan-Adhikari)My First Contribution!
 - [Shawn Yang](https://github.com/nekef) - fn main() { println!("Hello, World!"); }
+- [Muhammad Maaz](https://github.com/MuhammadAI_Expert) - I want to became world best AI engineer
 - Hiii
 - [Saman Seyf](https://github.com/Sam123-Tech123)
 - [Rudroju Badrinath](https://github.com/BadrinathRudroju) Let's go!!
