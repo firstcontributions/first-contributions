@@ -63,6 +63,7 @@ Alliance Ngoy Muya
 - [Isaiah Adepegba](https://github.com/sensi012) - Hello! This is my first open source contribution.
 - [Ramim Miah](https://github.com/iramim) - My first open-source contribution!
 - [Himanshu Raj Giri](https://github.com/HimanshuRajGiri) - My first contribution!
+- [Ranjeet Kumar Gupta](https://github.com/ranjeetkumarguptabro-maker)
 - [Rushil Shah] (https://github.com/RShah033) - First open-source contribution!
 - [Hajra Khan] (https://github.com/hajraa21)- Hey.
 - [Cammy-83](https://github.com/cammy-83) - My first contribution!
