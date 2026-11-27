@@ -4520,6 +4520,7 @@ andrewcodess
 - [Faisal](https://github.com/FaisalXL)
 - [KrxnTech] (https://github.com/KrxnTech)
 - [sarthakhire](https://github.com/sarthakhire)
+- [Kazuki Oka](https://github.com/kazuki-oka)
 - [Francesco Pirazzini](https://github.com/177Frenk)
 - [Francisco Lopes](https://github.com/Francisc0Lopes)
 - [Frankie Liu](https://github.com/FrankieLiuF)
