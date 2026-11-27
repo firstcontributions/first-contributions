@@ -25,6 +25,7 @@
 - [basant_khadka](https://github.com/basantkhadka103-ship-it/first-contributions)
 - [kris patel](https://github.com/patel-kris)- hi i am kris from zenith and  this is my first contribution.
 - [Aashika shrestha](https://github.com/Aashikashrestha22)
+- [Sanjana S](https://github.com/sanjanashapur)
 - [Arya Shah](https://github.com/shahmanager)
 - [Aditya](https://github.com/adityadwialfiant1595-commits)
 - [Bhumika pandey] (https://github.com/Bhumikapandey67)
