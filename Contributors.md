@@ -19,6 +19,7 @@
 -[Dharakaaram T](https://github.com/Dharakaaram/first-contributions.git)- happy to start my open source journey. 
 -[krishrestha-codeo](https://github.com/krishrestha-codeo.git)
 - [ArtamaN](https://github.com/ArtamaN-LV)
+- [Michael Ruban] (https://github.com/MishaRub1)
 - [Madisetty Sai Likitha](https://github.com/Sai-Likitha-Madisetty/)
 - [Donatien Byakombe](https://github.com/1donatien0)
 - [Padam Bhandari](https://github.com/Padam Bhandari)
