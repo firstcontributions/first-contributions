@@ -9056,3 +9056,4 @@ Ajay
 - [Le Wild Homie] - First contribution done!
 - [Nikki Ganji](https://github.com/nikkiganji) - My first open-source contribution!
 - [Rama Sudhamshu Kumar] (https://github.com/asterisk-69) MY FIRST OPEN SOURCE CONTRIII >_<
+- [Niharika Penugonda](https://github.com/Penugonda-Niharika) - My First Open Source Contribution
