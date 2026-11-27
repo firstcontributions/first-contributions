@@ -5,14 +5,16 @@ However, the question is, why don't we just delete the base branch and checkout 
 
 ## The Command
 
-Its very easy to execute a git reset for branch.
+`git reset` always acts on the branch that is currently checked out (HEAD), so you cannot pass two branch names to it. To reset a branch with respect to another one, first switch to the branch you want to reset (the base branch), then reset it to the target branch (calling it the origin branch):
 ```
-git reset <base_branch> <origin_branch>
+git switch <base_branch>
+git reset --hard <origin_branch>
 ```
 
 An example could be:
 ```
-git reset stage master --hard
+git switch stage
+git reset --hard master
 ```
-The above command will reset the `stage` branch with `master` and therefore make `stage` exactly same as `master`.
+The above commands will reset the `stage` branch to `master` and therefore make `stage` exactly same as `master`.
 You must be wondering about why `--hard` flag is used? This is to ignore all the changes which are or will be staged before/after the reset.
