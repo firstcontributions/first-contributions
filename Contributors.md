@@ -1,4 +1,7 @@
-- [Joyanta Ghosh](https://github.com/joyantaghosh) - Hi, I'm joyanta and this is my first contribution to open source.
+-[Sampat Sheshagiri Naik](https://github.com/Sampat369) - Hi, I am Sampat and i solved the issue Invalid Git Command Syntax in resetting-a-branch.md
+ #128704
+
+-[Joyanta Ghosh](https://github.com/joyantaghosh) - Hi, I'm joyanta and this is my first contribution to open source.
 - [Samiullah](https://github.com/Md-Samiullah01) - Hi, I'm Sami.
 - Srinitha Venkat
 - [Kreyanxh](https://github.com/Kreyanxh) - Hi, I am Kreyansh and this is my first contribution to open source.
