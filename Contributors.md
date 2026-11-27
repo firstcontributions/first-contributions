@@ -7353,6 +7353,7 @@ Raphael Karani
 - [Aman Yadav](https://github.com/AmanYadav1127)
 - [fericik](https://github.com/fericik)
 - [israel2015sccp-hub](https://github.com/israel2015sccp-hub)
+- [Gagan Kumar](https://github.com/Gagan-Kumar33)
 
 - [Nathan Pham](https://github.com/natphm)
 - [yebonstar-tech](https://github.com/yebonstar-tech)
