@@ -3,7 +3,7 @@
 This document is dedicated to all the tips and tricks websites, blog posts, and helpful sites that make our lives easier. They are a great reference to serve all of our needs, be it a beginner or an expert. This page should act as an index of all those useful links that would help everybody who is new in the open-source domain or someone who wants to learn more.
 
 ## The List
-1.  [Interactive tutorial to git](https://try.github.io)
+1.  [Set up Git (GitHub Docs)](https://docs.github.com/en/get-started/git-basics/set-up-git)
 1.  [Youtube: Git and GitHub for Beginners by freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
 1.  [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 1.  [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
