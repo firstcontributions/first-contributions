@@ -110,7 +110,7 @@ GitHub वरील तुमच्या रेपोमध्ये तुम�
 तुम्हाला कोणत्याही सहाय्याची आवश्यकता असल्यास किंवा काही प्रश्न असल्यास, तुम्ही आमच्या स्लॅक टीममध्ये सामील होऊ शकता. [स्लॅक टीममध्ये सामील व्हा](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
-### [अतिरिक्त साहित्य](../additional-material/git_workflow_scenarios/additional-material.md)
+### [अतिरिक्त साहित्य](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ##इतर साधनांचा वापर करून शिकवण्या
 [मुख्य पृष्ठावर परत](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)

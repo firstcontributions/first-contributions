@@ -102,7 +102,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 ఇక, ఇప్పుడు మీరు ఇతర ప్రాజెక్టులకు తోడ్పడటం ప్రారంభించండి. మీరు ప్రారంభించగల సులభమైన సమస్యలతో ప్రాజెక్టుల జాబితాను మేము రెడీ చేసాము. [వెబ్ యాప్‌లోని ప్రాజెక్టుల జాబితాను](https://firstcontributions.github.io/#project-list) చూడండి.
 
-### [అదనపు విషయం](additional-material/git_workflow_scenarios/additional-material.md)
+### [అదనపు విషయం](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## ఇతర సాధనాలను ఉపయోగించి ట్యుటోరియల్స్
 

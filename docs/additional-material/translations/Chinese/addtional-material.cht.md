@@ -2,7 +2,7 @@
 
 我們認為你在來到這裡以前已經完成基本教學。附加資料會給你關於 Git 進階技術的資訊。
 
-### [從你的 repository 刪除分支](../../git_worklow_scenarios/removing-branch-from-your-repository.md)
+### [從你的 repository 刪除分支](removing-branch-from-your-repository.zh-cn.md)
 這份文件教你如何從 repository 刪除分支。
 > 在做這些步驟前確定你的 pull request 是被合併的。
 

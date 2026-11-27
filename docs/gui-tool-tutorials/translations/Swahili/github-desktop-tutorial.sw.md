@@ -13,7 +13,7 @@ Kusoma makala na kutazama vipindi vya mafunzo vinaweza kusaidia, lakini bora kul
 
 Ikiwa huna GitHub Desktop kwenye kompyuta yako, [sakinisha](https://desktop.github.com/).
 
-Ikiwa unatumia toleo la GitHub desktop kabla ya 1.0, [tazama mafunzo haya](github-desktop-old-version-tutorial.md).
+Ikiwa unatumia toleo la GitHub desktop kabla ya 1.0, [tazama mafunzo haya](../../github-desktop-old-version-tutorial.md).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -112,7 +112,7 @@ Hongera! Umefanya kazi ya kawaida ya _fork -> clone -> edit -> PR_ ambayo utakut
 
 Adhimisha michango yako na ushiriki na marafiki na wafuataji kwa kwenda kwenye [tovuti](https://firstcontributions.github.io#social-share).
 
-### [Nyenzo za Ziada](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Nyenzo za Ziada](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Mafunzo Kwa Kutumia Vifaa Vingine
 

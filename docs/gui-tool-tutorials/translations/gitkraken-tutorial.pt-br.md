@@ -119,7 +119,7 @@ Celebre a sua contribuição e compartilhe com seus amigos e seguidores no [web 
 Caso precise de ajuda ou tenha alguma pergunta, você pode se juntar à nossa equipe Slack. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
 
-### [Material Adicional](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Material Adicional](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 
 ## Tutoriais usando outras ferramentas

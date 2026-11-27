@@ -133,7 +133,7 @@ git push origin <branch-name>
 
 如果你有任何问题或需要帮助，欢迎加入我们的 Slack 团队： [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FA).
 
-### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
+### [Additional material](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## 使用其他工具的教程
 

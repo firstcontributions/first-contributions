@@ -14,7 +14,7 @@
 
 اگر برنامه `GitHub Desktop` رو نصب نداری، [از اینجا نصب کن](https://desktop.github.com/).
 
-اگر از نسخه `GitHub Desktop` قبل از 1.0 استفاده می کنید،[به این آموزش مراجعه کنید](github-desktop-old-version-tutorial.md).
+اگر از نسخه `GitHub Desktop` قبل از 1.0 استفاده می کنید،[به این آموزش مراجعه کنید](../../github-desktop-old-version-tutorial.md).
 
 <img align="right" width="255" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -111,7 +111,7 @@
 
 همچنین شما می‌توانید [از اینجا](https://join.slack.com/t/firstcontributors/shared_invite/zt-1hg51qkgm-Xc7HxhsiPYNN3ofX2_I8FAA)، وارد تیم Slack ما شوید و سوالات خود را مطرح نمایید.
 
-### [اطلاعات بیشتر](../additional-material/git_workflow_scenarios/additional-material.md)
+### [اطلاعات بیشتر](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## آموزش انجام مشارکت در دیگر ابزارها
 

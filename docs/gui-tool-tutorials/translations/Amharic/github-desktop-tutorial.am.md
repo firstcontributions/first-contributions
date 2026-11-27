@@ -113,7 +113,7 @@ File->Options ከዛም sign-in to Github.com የሚሉትን ጠቅ ያድር�
 አስተዋጾዎን ያጣጣጥሙ እና ወደ [ድህረ-ግፅ](https://firstcontributions.github.io/#social-share) በመሄድ ለጓደኞችዎ እና ተከታዮችዎ ያካፍሉ።
 
 
-## [ተጨማሪ ቁሳቁስ](docs/additional-material/git_workflow_scenarios/additional-material.md)
+## [ተጨማሪ ቁሳቁስ](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## የሌሎች መሳሪያዎች አጠቃቀም አጋዥ ስልጠናዎች
 

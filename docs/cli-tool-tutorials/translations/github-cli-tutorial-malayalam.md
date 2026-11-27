@@ -90,7 +90,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 ഇനി താങ്കൾക് മറ്റു പ്രോജെക്ടസിലേക്കും സംഭാവന നടത്താൻ സാധിക്കും. താങ്കൾക് ചെയ്ത തുടങ്ങാവുന്ന എളുപ്പമുള്ള പിശകുകൾ ഉള്ള പ്രോജെക്ടസിന്റെ ഒരു ലിസ്റ്റ് ഞങ്ങൾ തയ്യാറാക്കിയിട്ടുണ്ട്. [പ്രോജക്ടുകളുടെ ലിസ്റ്റ് ](https://firstcontributions.github.io/#project-list) കാണുക .
 
-### [കൂടുതൽ വായിക്കുക](../additional-material/git_workflow_scenarios/additional-material.md)
+### [കൂടുതൽ വായിക്കുക](../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## മറ്റു ടൂൾസ് ഉപയോഗിച്ച് ചെയ്യുന്നതിനുള്ള നിർദ്ദേശങ്ങൾ
 

@@ -95,7 +95,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 Τώρα ας ξεκινήσουμε με τη συνεισφορά σας σε άλλα έργα. Έχουμε συγκεντρώσει μια λίστα με έργα με εύκολα ζητήματα με τα οποία μπορείτε να ξεκινήσετε. Ρίξτε μια ματιά στη [λίστα των έργων στην ιστοσελίδα εφαρμογής](https://firstcontributions.github.io/#project-list).
 
-### [Πρόσθετο υλικό](additional-material/git_workflow_scenarios/additional-material.md)
+### [Πρόσθετο υλικό](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Οδηγοί με Άλλα Εργαλεία
 

@@ -96,7 +96,7 @@ gh pr create --repo firstcontributions/first-contributions
 
 ಇಲ್ಲಿಯೇ ಇನ್ನೂ ಹೆಚ್ಚಿನ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳಿಗೆ ಕೊಡುಗೆಯನ್ನೂ ಪ್ರಾರಂಭಿಸಲು ನಿಮಗೆ ಸಹಾಯವಾಗುತ್ತದೆ. ಸುಲಭವಾದ ಸಮಸ್ಯೆಗಳೊಂದಿಗೆ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನಾವು ಸಂಗ್ರಹಿಸಿದ್ದೇವೆ. [ವೆಬ್ ಆಪ್‌ನಲ್ಲಿ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು](https://firstcontributions.github.io/#project-list) ಪರಿಶೀಲಿಸಿ.
 
-### [ಮೂಲಿಕ ವಸ್ತು](additional-material/git_workflow_scenarios/additional-material.md)
+### [ಮೂಲಿಕ ವಸ್ತು](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## ಇತರ ಸಾಧನಗಳನ್ನು ಬಳಸುವ ಟ್ಯುಟೋರಿಯಲ್‌ಗಳು
 

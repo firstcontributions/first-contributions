@@ -15,7 +15,7 @@
 
 אם GitHub Desktop אינו מותקן אצלכם במחשב, [התקינו אותו](https://desktop.github.com/).
 
-אם אתם משתמשים בגרסה של GitHub Desktop מלפני 1.0, [עיינו במדריך הזה](github-desktop-old-version-tutorial.md).
+אם אתם משתמשים בגרסה של GitHub Desktop מלפני 1.0, [עיינו במדריך הזה](../../github-desktop-old-version-tutorial.md).
 
 <img align="left" width="300" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/fork.png" alt="fork this repository" />
 
@@ -126,7 +126,7 @@ _fork -> clone -> edit -> PR_
 
 חגגו את התרומה שלכם ושתפו אותה עם חברים ועוקבים דרך [אפליקציית ה-Web](https://firstcontributions.github.io#social-share).
 
-### [חומר נוסף](../additional-material/git_workflow_scenarios/additional-material.md)
+### [חומר נוסף](../../../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## מדריכים לשימוש בכלים נוספים
 
