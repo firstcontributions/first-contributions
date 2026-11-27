@@ -3712,6 +3712,7 @@ Jim Bollinger
 - Shrikar(https://github.com/shrikar411)
 - [Attique Rehman](https://github.com/malikar1)
 - [Kylen Nguyen](https://github.com/kylenngu135)
+- [Kunal Katiyar](https;//github.com/kunal-codez)
 - [Yashasvi Solanki](https://github.com/Yashasvi-Solanki)
 - [Zara Syed](https://github.com/zaranet147)
 - [tanish singla](https://github.com/tanish4561/first-contributions)
