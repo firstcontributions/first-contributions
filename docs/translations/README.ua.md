@@ -119,7 +119,7 @@ git push -г origin <your-branch-name>
 
 Тепер почнімо робити внески в інші проєкти. Ми склали список проєктів із простими проблемами, з яких ви можете почати. Перегляньте [список проєктів у веб-додатку](https://firstcontributions.github.io/#project-list).
 
-### [Додаткові матеріали](additional-material/git_workflow_scenarios/additional-material.md)
+### [Додаткові матеріали](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## Інструкції для інших інструментів
 

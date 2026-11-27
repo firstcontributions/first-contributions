@@ -116,7 +116,7 @@ git push origin <add-your-branch-name>
 
 کنون، شما می‌توانید همکاری خود را روی دیگر پروژه‌ها آغاز نمایید. ما یک فهرست از پروژه‌ها با چالش های آسان پدید آوردیم که گزینه خوبی برای آغاز می‌باشد. فهرست پروژه‌ها را [از این اینجا](https://firstcontributions.github.io/#project-list) دنبال کنید.
 
-### [آگاهی بیشتر](additional-material/git_workflow_scenarios/additional-material.md)
+### [آگاهی بیشتر](../additional-material/git_workflow_scenarios/additional-material.md)
 
 ## آموزش انجام همکاری در دیگر ابزارها
 
