@@ -2,10 +2,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# <div dir="rtl"> پہلی شراکت يا کانٹریبیوشن </div>
+# <div dir="rtl"> پہلی کانٹریبیوشن </div>
 
 <div dir="rtl">
-اس پروجیکٹ کا مقصد ابتدائی افراد کے اپنا پہلى شركت يا کانٹریبیوشن کرنے کے طریقے کو آسان بنانا اور رہنمائی کرنا ہے۔ اگر آپ اپنا پہلا حصہ ڈالنا چاہتے ہیں تو نیچے دیے گئے مراحل پر عمل کریں۔
+اس پروجیکٹ کا مقصد نئے افراد کو اپنی پہلی شراکت کرنے کا آسان طریقہ بتانا اور رہنمائی فراہم کرنا ہے۔ اگر آپ پہلی بار حصہ ڈالنا چاہتے ہیں تو نیچے دیے گئے مراحل پر عمل کریں۔
 </div>
 <br />
 <div dir="rtl">
@@ -104,7 +104,7 @@ git commit -m "Add <your-name> to Contributors list"
 
 <div dir="rtl"> <code>&lt;your-name&gt;</code> کو اپنے نام کے ساتھ تبدیل کردیں. </div>
 
-## <div dir="rtl"> ان تبدیلیوں کو GitHub پردهکیل دیں۔ </div>
+## <div dir="rtl"> تبدیلیاں GitHub پر بھیجیں </div>
 
 <div dir="rtl"> <code>git push</code> کمانڈ کے ذریعے اپنی تبدیلیوں کو پش کریں: </div>
 
