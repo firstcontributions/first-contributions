@@ -46,6 +46,7 @@ Hi this is Leuni here! my first ever contribution. Nervous AND excited! Work Har
 - [Tudor Lapadat](https://github.com/Ttudy)
 - [Timeo Pasquier](https://github.com/Tim3volink)
 - [Kaan Kavak]
+- [James](https://github.com/JamesZ1177) - I am excited to make the first open source contribution! 
 - [Shahar Asher](https://github.com/ShaharAshe)
 - [Aayushma Bhandari](https://github.com/aayushmab717-del)
 - [Sandeep Kalathoki](https://github.com/Seshmania) 
