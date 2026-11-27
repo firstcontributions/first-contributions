@@ -1,6 +1,7 @@
 - [Samiullah](https://github.com/Md-Samiullah01) - Hi, I'm Sami.
 - [Kreyanxh](https://github.com/Kreyanxh) - Hi, I am Kreyansh and this is my first contribution to open source.
 - [Parinita](https://github.com/parinita1005)
+[Ali hamza](https://github.com/batman-design-786)
 [BHAVISHYA RAJ](https://www.linkedin.com/in/bhavishyaraj) -Let's hv a chat!!
 - [Manas Arora] (https://github.com/manasarora02) - I am Manas and this is the start of my open source journey!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
