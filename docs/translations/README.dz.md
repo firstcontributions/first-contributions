@@ -4,7 +4,7 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# Awel mouchraka 🇩🇿
+# Awel mouchraka 🇩🇿 - [اول مشاركة 🇩🇿](#arabic-version)
 
 Dayemen kayen mochkile ki nebdaw hadja men el bidaya. El khawof ta3 edire khatae daymen machi melih, khousousan ki techarek fi el code. Bessah 3alem el tatbi9ate el hourine mawodjoud bache etcharek wo tekhdem fi madjemou3a. Tani, Rana habine nebesstou el ta3lime ta3 el moucharraka el djadidda fel tatbi9ate el hourra bi ta3lime kifache techarek lil merra el oulla.
 
@@ -141,3 +141,154 @@ Wache cheft henaya machi darouri, bessah assem el far3e yewori beli el hadef rah
 | <a href="../gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="../gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="../gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="../gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="../gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
 | --- | --- | --- | --- | --- | --- |
 | [GitHub Desktop](../gui-tool-tutorials/github-desktop-tutorial.md) | [Visual Studio 2017](../gui-tool-tutorials/github-windows-vs2017-tutorial.md) | [GitKraken](../gui-tool-tutorials/gitkraken-tutorial.md) | [Visual Studio Code](../gui-tool-tutorials/github-windows-vs-code-tutorial.md) | [Atlassian Sourcetree](../gui-tool-tutorials/sourcetree-macos-tutorial.md) | [IntelliJ IDEA](../gui-tool-tutorials/github-windows-intellij-tutorial.md) |
+
+---
+<a id="arabic-version"></a>
+
+# المشاركة لولة 🇩🇿
+
+هذا البروجي يهدف باش يسهلك ويقيديك للطريق الي المبتدئين يديرو اول مساهمة، الا راك حاب تدير اول مساهمة ليك، تبع الخطوات التحت
+
+_الا ما كنتش مرتاح بالتيرمنال، [هاك قيد تخدم بأدوات عندها واجهة مستخدم](#tutorials-using-other-tools)_
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
+
+#### الا ما عندكش "git" في الماشين ديالك, [انصطاليه](https://docs.github.com/en/get-started/quickstart/set-up-git).
+
+## فوركي هذا القاراج - Fork this repository
+
+فوركي القاراج كي تكليكي على البوطون تاع fork الفوق في لاباج.
+رايح يخدملك كوبي على القاراج في الكونت ديالك
+
+## انسخ هذا القاراج - Clone this repository
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone the repository" />
+
+دوكا انسخ القاراج الي فوركيتو للماشين ديالك. روح لكونت Github ديالك، افتح القاراج الي فوركيتو، كليكي على بوطون تاع "Code"، منبعدا على الخانة تاع"SSH" منبعدا كليكي على الأيقونة تاع _copy URL to clipboard_ 
+
+افتح تيرمينال ودير هذا الكوموند تاع "git":
+
+```bash
+git clone "url you just copied"
+```
+وين كاين "url you just copied" دير الليان الي كوبيتو، شوف ليزيطاب الي فاتو باش تجيبو.
+
+<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
+
+بار ايكزومبل:
+
+```bash
+git clone git@github.com:this-is-you/first-contributions.git
+```
+وين كاين `this-is-you` يكون اسم المستخدم تاعك في "Github". هنا راك تكوبي في المحتوى  تاع قاراج first-contributions في Github في البيسي ديالك.
+
+## اخدم فرع - Create a branch
+
+روح للقاراج الي فيه البروجي في البيسي ديالك (الا ما راكش فيه ديجا):
+
+```bash
+cd first-contributions
+```
+دوكا اخدم فرع ب كوموند`git switch`:
+
+```bash
+git switch -c your-new-branch-name
+```
+بار ايكزومبل: 
+
+```bash
+git switch -c add-alonzo-church
+```
+<details>
+<summary> <strong>كليكي هنا لا ما مشالكش `git switch`</strong> </summary>
+
+الا الايرور ديال `Git: switch is not a git command. See git –help` خرج ليك، غالبا بيسك راك تخدم بفيرسيون قديمة تاع "git".
+
+في الكا هذي، اخدم ب `git chekout`:
+
+```bash
+git checkout -b your-new-branch-name
+```
+
+</details>
+
+## دير التغييرات الي لازمة وابعثها - Make necessary changes and commit those changes
+
+دوكا افتح فيشي `Contributors.md` في ايديتور دو تاكست، زيد اسمك. ما تزيدوش في البدية ولا في اللخر. حطو في الوسط وأحفظ الفيشي.
+
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+
+الا رحت للدوصي وين كاين البروجي ودرت لاكوموند `git status`، رايح يانديكيلك كاين تغييرات.
+
+زيد التغيرات للفرع الي غي كيما خدمتو بلاكوموند `git add`:
+
+```bash
+git add Contributors.md
+```
+دوكا ابعث التغييرات بلاكوموند `git commit`:
+
+```bash
+git commit -m "Add your-name to Contributors list"
+```
+رومبلاصي `your-name` بالاسم ديالك.
+
+## أبعث التغييرات - Push changes to Github
+
+أبعث التغييرات بلاكوموند `git push`:
+
+```bash
+git push -u origin your-branch-name
+```
+ما تنساش ترومبلاصي `your-branch-name` بالاسم تاع الفرع الي كرييتو قبيل.
+
+<details>
+<summary> <strong>إذا جاك كاش بروبلام وأنت تبعث، كليكي هنا</strong> </summary>
+
+- ### ايرور مصادقة - Authentication Error
+     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+  fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'</pre>
+  روح [للقيد تاع Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) على جينيراصيون وكونفيقيراصيون تاع كلي "SSH".
+
+  دير `git remote -v` باش تفيريفي لادراس.
+
+  الا جاتك عفسة هكا:
+  <pre>origin	https://github.com/your-username/your_repo.git (fetch)
+  origin	https://github.com/your-username/your_repo.git (push)</pre>
+  
+  بدلها لهذا الكوموند:
+  ```bash
+  git remote set-url origin git@github.com:your-username/your_repo.git
+  ```
+  ولا رايح تبقا تجيك باش تدير اسم مستخدم وموتباس ويجيك نفس الايرور تاع المصادقة.
+</details>
+
+## سلم التغييرات للمراجعة - Submit your changes for review
+
+الا رحت للقاراج تاعك في Github، رايح تشوف `Compare & pull request`، كليكي على ذاك البوطون.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="compare and create pull request" />
+
+دوكا سلم الدوموند تاعك.
+
+<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+
+رايح ندمج قع التغييرات للفرع الرئيسي تاع هذا البروجي. ويجيك نوتيفيكاصيون في الايميل.
+
+## وين تروح من هنا؟ - Where to go from here؟
+
+صحا ليك! راك غي كيما كملت بروسيدير _fork -> clone -> edit -> pull request_ الي رايح تشوفو ديما كمشارك!
+
+ديفيلي المشاركة تاعك وشاركها مع صحابك ومتابعين ديالك هنا [ابليكاصيون واب](https://firstcontributions.github.io/#social-share).
+
+الا حبيت تتدرب أكثر، شوف [مشاركة بالكود](https://github.com/roshanjossey/code-contributions).
+
+دوكا ياله نبداو بالمشاركة في بروجيات وحدوخرين، جمعنالك ليستا تاع بروجيات بمشاكل ساهلة باش تبدا فيها. شوف [ليستا تاع البروجيات في لابليكاصيون واب](https://firstcontributions.github.io/#project-list).
+
+### [مراجع زيادة](docs/additional-material/git_workflow_scenarios/additional-material.md)
+
+## قيد تخدم بأدوات أخرى - Tutorials Using Other Tools
+
+| <a href="docs/gui-tool-tutorials/github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a> | <a href="docs/gui-tool-tutorials/gitkraken-tutorial.md"><img alt="GitKraken" src="https://firstcontributions.github.io/assets/gui-tool-tutorials/gitkraken-tutorial/gk-icon.png" width="100"></a> | <a href="docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Visual_Studio_Code_1.35_icon.png" width=100></a> | <a href="docs/gui-tool-tutorials/sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a> | <a href="docs/gui-tool-tutorials/github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/960px-IntelliJ_IDEA_Icon.svg.png" width=100></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [GitHub Desktop](docs/gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](docs/gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](docs/gui-tool-tutorials/gitkraken-tutorial.md)                                                                                                                                        | [Visual Studio Code](docs/gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](docs/gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](docs/gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                                                          |
