@@ -38,4 +38,4 @@ or you can also decide to customize the message to your liking.
 *   Return to the command line.
 *   Run ```git push origin <branch-name>``` to push the reverted changes to Github.
 
-And that is it, the change would be undone. In this case,  my repository would be reverted to how it looked like in ```c1b9fc1```
+And that is it, the changes made in ```389004d``` would be undone. Note that ```git revert``` only undoes the changes of that one commit — it does not bring the whole repository back to how it looked like at ```c1b9fc1```, because the commits before ```389004d``` are kept as they were. If you really want the repository to look exactly like it did at ```c1b9fc1```, you would reset instead — see [Reset a commit](resetting-a-commit.md).
