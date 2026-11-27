@@ -3747,6 +3747,7 @@ Jim Bollinger
 - [Anya] (https://github.com/anyatomik)
 - [Anushka](https://github.com/Anushkap-lab)
 - [JasWanth]---
+- [Muhammad Maaz](https://github.com/MuhammadAI-Expert)
 - [Raheem] (https://github.com/raheem-ui)
 - [Kamalesh] (https://github.com/kamaleshpanda)
 - [Fuad Hassan Faruk] (https://github.com/fuadfaruk)
