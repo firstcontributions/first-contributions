@@ -82,7 +82,7 @@
 
 ## 将更改推送到github
 
-点击文件->选项，登录Github.com。输入您的Github用户名和密码.
+点击“文件”→“选项”→“账户”，选择“登录 GitHub.com”，然后点击“通过浏览器继续”。在浏览器中完成登录授权后，返回 GitHub Desktop。
 
 <img src="https://firstcontributions.github.io/assets/gui-tool-tutorials/github-desktop-tutorial/dt1-sign-in.png" alt="log-in to Github" />
 
