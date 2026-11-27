@@ -96,7 +96,36 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork the repository" />
 
-#### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
+## Prerequisites
+
+Before making your first contribution, make sure you have:
+
+- A [GitHub account](https://github.com/signup).
+- [Git installed](https://git-scm.com/downloads) on your computer.
+- A code editor, such as [Visual Studio Code](https://code.visualstudio.com/).
+
+### Verify Git installation
+
+Open your terminal and run:
+
+```bash
+git --version
+```
+
+If Git is installed correctly, you should see its version number.
+
+### Configure Git
+
+Set your Git username and email address:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+```
+
+Use the name and email you want associated with your Git commits. You can use your GitHub-provided noreply email if you prefer to keep your personal email private.
+
+Once you've completed these steps, you're ready to follow the contribution instructions below!
 
 ## Fork this repository
 
