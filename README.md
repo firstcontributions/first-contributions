@@ -212,6 +212,24 @@ replacing `your-branch-name` with the name of the branch you created earlier.
   git remote set-url origin git@github.com:your-username/your_repo.git
   ```
   Otherwise you'll still get prompted for username and password and get authentication error.
+
+- ### Merge Conflict
+  If Git reports a conflict after a pull or merge, run `git status` to see which files need attention. Open each listed file and look for conflict markers:
+
+  ```text
+  <<<<<<<
+  your changes
+  =======
+  changes from the other branch
+  >>>>>>>
+  ```
+
+  Edit the file to keep the changes you want, then remove the conflict marker lines. After saving the file, mark the conflict as resolved and complete the merge:
+
+  ```bash
+  git add path/to/file
+  git commit
+  ```
 </details>
 
 ## Submit your changes for review
