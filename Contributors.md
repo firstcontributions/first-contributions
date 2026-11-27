@@ -9056,4 +9056,4 @@ Ajay
 - [Nikki Ganji](https://github.com/nikkiganji) - My first open-source contribution!
 - [Rama Sudhamshu Kumar] (https://github.com/asterisk-69) MY FIRST OPEN SOURCE CONTRIII >_<
 - [doggy don](https://github.com/account) my first and last contribution on this ^_~  😂
-- [dfghjkl don](https://github.com/account) my first and last contribution on this ^_~  😂
+- [Tejas Majgawali](https://github.com/TejasMajgawali) my first and last contribution on this ^_~  😂
