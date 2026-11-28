@@ -9078,3 +9078,5 @@ Ajay
 - [Shrikrishna Dhebe](https://github.com/Shrikrishna-dhebe-12)
 - [Maya Tomarchio] (https://github.com/Maya2234/) 
 - [Yuma Shudo](https://github.com/yuma-shudo)
+- [KarthikCR] (https://github.com/karthikaiz) -  hi, this is my first open source contribution
+ 
