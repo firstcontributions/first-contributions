@@ -10,7 +10,7 @@
 - [Manas Arora] (https://github.com/manasarora02) - I am Manas and this is the start of my open source journey!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
 - [Semih Han](https://github.com/semiihhan)
-- 
+- [Root Hunter](https://github.com)
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
 - [MOKRANE Amel](https://github.com/Amel2004M) -I like it here
 - [Gauri Ojha](https://github.com/gauri212) - Hi, I am Gauri and this is my first contribution
