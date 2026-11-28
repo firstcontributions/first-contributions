@@ -11,7 +11,7 @@
 - [Arjun Verma](https://github.com/backend-glitch) - I am the 8,582nd contributor !!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
 - [Semih Han](https://github.com/semiihhan)
-- 
+- [Root Hunter](https://github.com)
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
 - [MOKRANE Amel](https://github.com/Amel2004M) -I like it here
 - [Gauri Ojha](https://github.com/gauri212) - Hi, I am Gauri and this is my first contribution
