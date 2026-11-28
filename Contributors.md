@@ -518,6 +518,7 @@ https://github.com/mzubairmashal/first-contributions/blob/main/Contributors.md
 - [Anna Chatzigeorgiou](https://github.com/annachatzz) - That was hard
 - [Pravej](https://github.com/pravej-786) - This is my first open source contribution!
 - David M - I never dreamed one day I'd be an open-source contributor, but here I am killing it!
+- [Dragon1wang](https://github.com/Dragon1wang) - Hi, I'm Dragon1wang and this is my first contribution to open source.
 - Amit Rana - my first contribution
 - [Aditya Dhamanaskar](https://github.com/adityadhamanaskar4-sys) - This is my first open source contribution!
 - [Rishit Mishra](https://github.com/rishit314) - This is my first contribution!
