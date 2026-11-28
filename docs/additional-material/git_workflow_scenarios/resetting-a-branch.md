@@ -7,7 +7,8 @@ However, the question is, why don't we just delete the base branch and checkout 
 
 Its very easy to execute a git reset for branch.
 ```
-git reset <base_branch> <origin_branch>
+git checkout <base_branch>
+git reset --hard <origin_branch>
 ```
 
 An example could be:
