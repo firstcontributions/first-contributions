@@ -10,6 +10,7 @@
 - [Manas Arora] (https://github.com/manasarora02) - I am Manas and this is the start of my open source journey!
 - [Ayush](https://github.com/ItsHardikSoni) - Hey folks, I am Ayush and this is my first contribution!
 - [Semih Han](https://github.com/semiihhan)
+- 
 - [Sachin Deuba](https://github.com/sachindeuba480-lab) - hey folks, i am sachin deuba and this is my first contribu
 - [MOKRANE Amel](https://github.com/Amel2004M) -I like it here
 - [Gauri Ojha](https://github.com/gauri212) - Hi, I am Gauri and this is my first contribution
@@ -1630,6 +1631,7 @@ GSL32
 - [Amadou Doumbouya](https://github.com/amadou11doumbouya10-lgtm) "My first open source contribution from Guinea!"
 - [Venus](https://github.com/venus-101)
 - [Iahzeel](https://github.com/feiahzeel)
+- [Ftmzahra-Hassani](https://github.com/Ftmzahra-Hassani)
 - [Gowtham S](https://github.com/gowthamsrinivas2311-boop)
 - [Elena Georgiou](https://github.com/elenageo97)
 - [Tarannum](https://github.com/Tarannum9623)
